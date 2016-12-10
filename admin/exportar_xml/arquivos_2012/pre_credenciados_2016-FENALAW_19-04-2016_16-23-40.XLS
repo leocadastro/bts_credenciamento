@@ -1,0 +1,699 @@
+<table border=1>
+<tr>
+<td rowspan='3'>N</td>
+<td rowspan='3'>ID_Cadastro</td>
+<td rowspan='3'>ID_Visitante</td>
+<td rowspan='3'>ID_Empresa</td>
+<td rowspan='3'>ID_Formulario</td>
+<td rowspan='3'>Data_Cadastro</td>
+<td rowspan='3'>Empresa_CNPJ</td>
+<td rowspan='3'>Empresa_Razao_Social</td>
+<td rowspan='3'>Empresa_Nome_Fantasia</td>
+<td rowspan='3'>Empresa_Qtde_Funcionarios</td>
+<td rowspan='3'>Empresa_Principal_Produto</td>
+<td rowspan='3'>Ramos e Atividades</td>
+<td rowspan='3'>Ramos Outros</td>
+<td rowspan='3'>Atividades Outros</td>
+<td rowspan='3'>InteresseFeira</td>
+<td rowspan='3'>Empresa_Site</td>
+<td rowspan='3'>Empresa_Presidente</td>
+<td rowspan='3'>Empresa_Reitor</td>
+<td rowspan='3'>Empresa_Tipo_Telefone</td>
+<td rowspan='3'>Empresa_DDI</td>
+<td rowspan='3'>Empresa_DDD</td>
+<td rowspan='3'>Empresa_Numero</td>
+<td rowspan='3'>Empresa_Ramal</td>
+<td rowspan='3'>Empresa_SMS</td>
+<td rowspan='3'>CPF</td>
+<td rowspan='3'>Passaporte</td>
+<td rowspan='3'>Cod. Convite</td>
+<td rowspan='3'>Nome_Completo</td>
+<td rowspan='3'>Nome_Credencial</td>
+<td rowspan='3'>Data_Nasc</td>
+<td rowspan='3'>Sexo</td>
+<td rowspan='3'>Email</td>
+<td rowspan='3'>Newsletter</td>
+<td rowspan='3'>Visitante_Tipo_Telefone 1</td>
+<td rowspan='3'>Visitante_DDI 1</td>
+<td rowspan='3'>Visitante_DDD 1</td>
+<td rowspan='3'>Visitante_Numero 1</td>
+<td rowspan='3'>Visitante_Ramal 1</td>
+<td rowspan='3'>Visitante_SMS 1</td>
+<td rowspan='3'>Visitante_Tipo_Telefone 2</td>
+<td rowspan='3'>Visitante_DDI 2</td>
+<td rowspan='3'>Visitante_DDD 2</td>
+<td rowspan='3'>Visitante_Numero 2</td>
+<td rowspan='3'>Visitante_Ramal 2</td>
+<td rowspan='3'>Visitante_SMS 2</td>
+<td rowspan='3'>Cargo</td>
+<td rowspan='3'>Cargo_Outros</td>
+<td rowspan='3'>SubCargo</td>
+<td rowspan='3'>SubCargo_Outros</td>
+<td rowspan='3'>Depto</td>
+<td rowspan='3'>Depto_Outros</td>
+<td rowspan='3'>Endereco_CEP</td>
+<td rowspan='3'>Endereco_Endereco</td>
+<td rowspan='3'>Endereco_Numero</td>
+<td rowspan='3'>Endereco_Complemento</td>
+<td rowspan='3'>Endereco_Bairro</td>
+<td rowspan='3'>Endereco_Cidade</td>
+<td rowspan='3'>Endereco_UF</td>
+<td rowspan='3'>Endereco_Pais</td>
+<td colspan='8'>Perguntas e Respostas</td>
+<tr>
+<td colspan='4' nowrap>Empresa</td>
+<td colspan='4' nowrap>Pessoa Física</td>
+</tr>
+<tr>
+<td nowrap>Como ficou sabendo da feira?</td>
+<td nowrap>Quais negócios pretende realizar na feira? </td>
+<td nowrap>Qual sua relação com a decisão de compra?</td>
+<td nowrap>Sua Empresa pretende participar da próxima edição como:</td>
+<td nowrap>Como você ficou sabendo da feira?</td>
+<td nowrap>Quais negócios pretende realizar na feira?</td>
+<td nowrap>Qual sua relação com a decisão de compra?</td>
+<td nowrap>Você tem interesse em participar dessa feira na próxima edição como:</td>
+</tr>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505425</td>
+<td nowrap>358338</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>05/04/2016 12:20:11</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>295.629.978-63</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>JOAO RICARDO</td>
+<td nowrap>CARDEAL</td>
+<td nowrap>02/11/1981</td>
+<td nowrap>MASCULINO</td>
+<td nowrap>JOAO.CARDEAL@INFORMA.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>35987851</td>
+<td nowrap>UNDEF</td>
+<td nowrap>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>ACIONISTA</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>DESIGN</td>
+<td nowrap></td>
+<td nowrap>01415-000</td>
+<td nowrap>RUA BELA CINTRA</td>
+<td nowrap>'967</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505495</td>
+<td nowrap>358672</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>07/04/2016 14:47:27</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>295.629.978-63</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>JOAO RICARDO</td>
+<td nowrap>CARDEAL</td>
+<td nowrap>02/11/1981</td>
+<td nowrap>MASCULINO</td>
+<td nowrap>JOAO.CARDEAL@INFORMA.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>35987851</td>
+<td nowrap>UNDEF</td>
+<td nowrap>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>ACIONISTA</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>DESIGN</td>
+<td nowrap></td>
+<td nowrap>01415-000</td>
+<td nowrap>RUA BELA CINTRA</td>
+<td nowrap>'967</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505546</td>
+<td nowrap>358714</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>11/04/2016 10:15:15</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>214.598.478-06</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>LUIZ ALEXANDRE</td>
+<td nowrap>LA ROSA</td>
+<td nowrap>12/09/1979</td>
+<td nowrap>MASCULINO</td>
+<td nowrap>LUIZ.LAROSA@INFORMA.COM</td>
+<td nowrap>FALSE</td>
+<td nowrap>CELULAR</td>
+<td nowrap>UNDEF</td>
+<td nowrap>UNDEF</td>
+<td nowrap>964526828</td>
+<td nowrap>UNDEF</td>
+<td nowrap>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>ADMINISTRADOR LEGAL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</td>
+<td nowrap></td>
+<td nowrap>01415-905</td>
+<td nowrap>RUA CINTRA</td>
+<td nowrap>'967</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>RÁDIO</td>
+<td nowrap>NETWORKING</td>
+<td nowrap>NÃO TEM ENVOLVIMENTO</td>
+<td nowrap>VISITANTE</td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505854</td>
+<td nowrap>359059</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>15/04/2016 15:47:23</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>522.729.819-09</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>LUCAS</td>
+<td nowrap>TESTE</td>
+<td nowrap>02/11/1981</td>
+<td nowrap>MASCULINO</td>
+<td nowrap>CARDEALL23@YAHOO.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>35987851</td>
+<td nowrap></td>
+<td nowrap>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>ADMINISTRADOR LEGAL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>DIRETORIA</td>
+<td nowrap></td>
+<td nowrap>01415-000</td>
+<td nowrap>RUA BELA CINTRA</td>
+<td nowrap>'967</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>ANÚNCIO E MATÉRIAS EM REVISTAS</td>
+<td nowrap>APRIMORAMENTO PROFISSIONAL</td>
+<td nowrap>APROVA</td>
+<td nowrap>EXPOSITOR</td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505856</td>
+<td nowrap>358335</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>15/04/2016 16:04:43</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>287.587.208-71</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>TESTE</td>
+<td nowrap>TESTE</td>
+<td nowrap>22/03/1985</td>
+<td nowrap>MASCULINO</td>
+<td nowrap>ANDRE.ALVES@INFORMA.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>CELULAR</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>994547451</td>
+<td nowrap>UNDEF</td>
+<td nowrap>FALSE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>OUTROS</td>
+<td nowrap>TESTE</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>PROMOÇÃO</td>
+<td nowrap></td>
+<td nowrap>04455-060</td>
+<td nowrap>RUA CENERINO BRANCO DE ARAUJO</td>
+<td nowrap>'112</td>
+<td nowrap></td>
+<td nowrap>VILA CAMPO GRANDE</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>RÁDIO</td>
+<td nowrap>NETWORKING</td>
+<td nowrap>NÃO TEM ENVOLVIMENTO</td>
+<td nowrap>VISITANTE</td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505857</td>
+<td nowrap>359061</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>15/04/2016 16:06:21</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>129.792.518-10</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>TESTE</td>
+<td nowrap>TESTE</td>
+<td nowrap>01/01/1971</td>
+<td nowrap>FEMININO</td>
+<td nowrap>TESTE@TESTE.COM.BR</td>
+<td nowrap>TRUE</td>
+<td nowrap>CELULAR</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>994581125</td>
+<td nowrap></td>
+<td nowrap>FALSE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>GERENTE</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>DESIGN</td>
+<td nowrap></td>
+<td nowrap>01415-000</td>
+<td nowrap>RUA BELA CINTRA</td>
+<td nowrap>'132</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>CONVITE IMPRESSO ENVIADO PELA ORGANIZAÇÃO DO EVENTO </td>
+<td nowrap>APRIMORAMENTO PROFISSIONAL</td>
+<td nowrap>INFLUENCIA</td>
+<td nowrap>VISITANTE</td>
+</tr>
+<tr>
+<td nowrap>2</td>
+<td nowrap>505937</td>
+<td nowrap>359141</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>18/04/2016 10:32:25</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>274.080.138-65</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>SHEIILA SANTANA</td>
+<td nowrap>SHEILA SANTANA</td>
+<td nowrap>03/10/1979</td>
+<td nowrap>FEMININO</td>
+<td nowrap>SHEILA.SANTANA@INFORMA.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>46891935</td>
+<td nowrap>1</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>81524655</td>
+<td nowrap>1</td>
+<td nowrap>TRUE</td>
+<td nowrap>ADVOGADO</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>COMUNICAÇÃO</td>
+<td nowrap></td>
+<td nowrap>04458-000</td>
+<td nowrap>RUA ZIKE TUMA</td>
+<td nowrap>'1221</td>
+<td nowrap>APTO64</td>
+<td nowrap>JARDIM UBIRAJARA</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>E-MAIL MARKETING DA ORGANIZAÇÃO DO EVENTO</td>
+<td nowrap>APRIMORAMENTO PROFISSIONAL; BUSCAR NOVOS FORNECEDORES / PARCEIROS; NETWORKING</td>
+<td nowrap>APROVA</td>
+<td nowrap>EXPOSITOR</td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>505995</td>
+<td nowrap>359199</td>
+<td nowrap></td>
+<td nowrap>4</td>
+<td nowrap>19/04/2016 11:43:45</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap> - </td>
+<td nowrap> - </td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>404.160.828-74</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>ALINE GAUCHA</td>
+<td nowrap>ALINE GAUCHA</td>
+<td nowrap>02/11/1981</td>
+<td nowrap>FEMININO</td>
+<td nowrap>JOAO.CARDEAL@INFORMA.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>35987851</td>
+<td nowrap></td>
+<td nowrap>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>OUTROS</td>
+<td nowrap>TESTE</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>DISTRIBUIÇÃO</td>
+<td nowrap></td>
+<td nowrap>01415-000</td>
+<td nowrap>RUA BELA CINTRA</td>
+<td nowrap>'967</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>ANÚNCIO E MATÉRIAS EM REVISTAS</td>
+<td nowrap>APRIMORAMENTO PROFISSIONAL</td>
+<td nowrap>APROVA</td>
+<td nowrap>EXPOSITOR</td>
+</tr>
+<tr>
+<td nowrap>1</td>
+<td nowrap>506004</td>
+<td nowrap>359208</td>
+<td nowrap>123330</td>
+<td nowrap>1</td>
+<td nowrap>19/04/2016 13:56:52</td>
+<td nowrap>71.825.851/0001-11</td>
+<td nowrap>DEASDS</td>
+<td nowrap>SDDSD</td>
+<td nowrap>01 A 10</td>
+<td nowrap>DSDSD</td>
+<td nowrap>INSTITUIÇAO DE ENSINO;</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>CELULAR</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>35987851</td>
+<td nowrap></td>
+<td nowrap>TRUE</td>
+<td nowrap>238.636.203-56</td>
+<td nowrap>'</td>
+<td nowrap>'NULL</td>
+<td nowrap>TESTE</td>
+<td nowrap>TESTE</td>
+<td nowrap>02/11/1981</td>
+<td nowrap>MASCULINO</td>
+<td nowrap>JOAO.CARDEAL@INFORMA.COM</td>
+<td nowrap>TRUE</td>
+<td nowrap>COMERCIAL</td>
+<td nowrap>55</td>
+<td nowrap>11</td>
+<td nowrap>35987851</td>
+<td nowrap></td>
+<td nowrap>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td nowrap>ADVOGADO</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap>COMERCIAL</td>
+<td nowrap></td>
+<td nowrap>01415-000</td>
+<td nowrap>RUA BELA CINTRA</td>
+<td nowrap>'967</td>
+<td nowrap></td>
+<td nowrap>CONSOLACAO</td>
+<td nowrap>SAO PAULO</td>
+<td nowrap>SP</td>
+<td nowrap>BRASIL</td>
+<td nowrap>ANÚNCIO EM MÍDIA DIGITAL</td>
+<td nowrap>APRIMORAMENTO PROFISSIONAL</td>
+<td nowrap>APROVA</td>
+<td nowrap>VISITANTE</td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+</tr>
+</table>

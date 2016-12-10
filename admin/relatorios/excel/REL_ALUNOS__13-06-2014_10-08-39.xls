@@ -1,0 +1,1967 @@
+<table cellpadding='2' cellspacing='1' border='1' style='font-family:Verdana, Geneva, sans-serif; font-size:12px;'>
+<tr>
+<td>Evento</td>
+<td>Tipo</td>
+<td>Ano</td>
+<td>Nome</td>
+<td>Curso</td>
+<td>Email</td>
+<td>Ativo</td>
+<td>ID_Empresa</td>
+<td>Razão Social</td>
+<td>Nome Fantasia</td>
+<td>Reitor</td>
+<td>Nome Completo</td>
+<td>Cargo</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ADRIANA AKEMI TAKAHARA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ADRIANA_TAKAHARA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>AMANDA APARECIDA BARBOSA SANTOS</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>AMANDAMANDY.SANTOS@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>AMANDA OLIVEIRA MARTINS</td>
+<td>TECNOLOGO EM ALIMENTOS</td>
+<td>AMANDINHA.O.MARTINS@GMAIL.COM</td>
+<td>False</td>
+<td>17668</td>
+<td>PROTECNICA PAULISTA S/C LTDA</td>
+<td>FACULDADE DE TECNOLOGIA OSWALDO CRUZ</td>
+<td>WLADIMIR CATANZARO</td>
+<td>AMANDA OLIVEIRA MARTINS</td>
+<td>Analista</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>AMANDA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ANA PAULA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ANA PAULA TAVARES</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ANDRE GUSTAVO GONCALVES DE OLIVEIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ANDREGGO15@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ANGELO SPOLIDORIO SABINO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ANGELOSPOLIDORIO@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ANGIE MENDES SPECIAN</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ANGIE_SPECIAN@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BEATRIZ AKEMI KANAOKA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>BKANAOKA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BEATRIZ ROCHA LISBOA</td>
+<td>NUTRICAO</td>
+<td>BIALISBOA26@HOTMAIL.COM</td>
+<td>False</td>
+<td>60699</td>
+<td>ASSOCIACAO UNIFICADA PAULISTA DE ENSINO RENOVADO OBJETIVO</td>
+<td>UNIVERSIDADE PAULISTA - UNIP</td>
+<td>JOAO CARLOS DI GENIO</td>
+<td>BEATRIZ ROCHA LISBOA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BIANCA MARQUES</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BRUNA BORGES LEAL</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>BRUNABORGESLEAL@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BRUNA DA SILVA PAZ</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>BRUNASPAZ@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BRUNA KREPEL CAPITULINO</td>
+<td>TECNOLIOGIA EM ALIMENTOS</td>
+<td>BRUNA.KREPEL@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>BRUNA XAVIER GATTI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>BRUNA.XAVIERGATTI@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CAMILA CASIMIRO DE QUEIROGA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MILA.CDQ@BOL.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CARLOS EDUARDO</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CAROLINA F.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CAROLINA TIEME TAPIAS MORIMOTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>CAROLINATIEME@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CAROLINE SANTOS</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CAROLINE STABILE SIZENANDO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>CAROLSSZ@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CATIUCIA R.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>CELIO CORDEIRO DE CARVALHO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>PRO5380@CEFSA.EDU.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>CRISLAINE CRUZ</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>DANIELLE GINGEIRA VIDAL</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>DANIGINGEIRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>DEBORA CLAUDINO PERES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>DEBLINDINHA2008@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>DEYGLIS JESUS TRINDADE</td>
+<td>FARMACIA</td>
+<td>DEYGLIS@HOTMAIL.COM.BR</td>
+<td>False</td>
+<td>106317</td>
+<td>CIRCULO DE TRABALHADORES CRISTAOS DO EMBARE</td>
+<td>UNICASTELO</td>
+<td>JOSE CARLOS PETTOROSSI IMPARATO</td>
+<td>EDMILSON SAMORA CHAGAS</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>EDMILSON SAMORA CHAGAS</td>
+<td>FARMACIA</td>
+<td>EDMILSONSAMORA@HOTMAIL.COM</td>
+<td>False</td>
+<td>106317</td>
+<td>CIRCULO DE TRABALHADORES CRISTAOS DO EMBARE</td>
+<td>UNICASTELO</td>
+<td>JOSE CARLOS PETTOROSSI IMPARATO</td>
+<td>EDMILSON SAMORA CHAGAS</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>EDVANDA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ELIANA BRITO DE CAMPOS MOLINA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ELIANA.BCAMPOS@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ELISANGELA A.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ELIZA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ELLEN RODRIGUES DE SOUSA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ELLENRODRIGUES67@HOTMAIAL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ESTHER GIGIOLA LAFAEFF CORTEZ</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ESTHER_LAFAEFF@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>FABIOLA SOUZA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>FAIBIO S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>FERNANDA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>FRANCISCA JOYCE ELMIRO TIMBO ANDRADE</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JOYCETIMBO10@GMAIL.COM</td>
+<td>False</td>
+<td>108857</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA</td>
+<td>IFCE</td>
+<td>VIRGILIO ARARIPE</td>
+<td>GEORGIA MACIEL DIAS DE MORAES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>FRANCISCA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GABRIELA NASCIMENTO</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GABRIELA RODRIGUES DE SOUZA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>GABRIELA.RS@LIVE.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>GEINA FARIA DOS SANTOS</td>
+<td>NUTRICAO</td>
+<td>GNUTRI_AM@HOTMAIL.COM</td>
+<td>False</td>
+<td>9438</td>
+<td>UNIVERSIDADE FEDERAL DO AMAZONAS</td>
+<td>UFAM</td>
+<td>MARCIA PERALES MENDES SILVA</td>
+<td>GEINA FARIA DOS SANTOS</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>GEORGIA MACIEL DIAS DE MORAES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>GEORGIAMACIELDM@GMAIL.COM</td>
+<td>False</td>
+<td>108857</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA</td>
+<td>IFCE</td>
+<td>VIRGILIO ARARIPE</td>
+<td>GEORGIA MACIEL DIAS DE MORAES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GIOVANA TIEMI ITAKAKI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>GTITAKAKI@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GIOVANE ZACARIOTTO SUSSAI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>GIOVANEOFFICE@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GLAYCE DOS SANTOS BARBOSA</td>
+<td>TECNOLIGIA EM ALIMENTOS</td>
+<td>GLAYCEE_DSB@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GRAZIELA ROSA SOARES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ANAJULIAGRAZIELAROSA@BOL.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>GUSTAVO LAUREANO PINTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>GUGALAUREANO@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>HELLEN C.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>HENRIQUE DA SILVA OLIVEIRA</td>
+<td>FARMACIA</td>
+<td>HENRIQUELIVEELEMENT@HOTMAIL.COM</td>
+<td>False</td>
+<td>106317</td>
+<td>CIRCULO DE TRABALHADORES CRISTAOS DO EMBARE</td>
+<td>UNICASTELO</td>
+<td>JOSE CARLOS PETTOROSSI IMPARATO</td>
+<td>EDMILSON SAMORA CHAGAS</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>IGOR PEREIRA DE CARVALHO</td>
+<td>FARMACIA</td>
+<td>IGOR_P_CARVALHO@HOTMAIL.COM</td>
+<td>False</td>
+<td>17668</td>
+<td>PROTECNICA PAULISTA S/C LTDA</td>
+<td>FACULDADE DE TECNOLOGIA OSWALDO CRUZ</td>
+<td>WLADIMIR CATANZARO</td>
+<td>AMANDA OLIVEIRA MARTINS</td>
+<td>Analista</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>IZABELLA CAROZZO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>IZA.CAROZZO@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JACKSON S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>JAQUELINE CARDOSO</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JEFFERSON HENRIQUE</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JOSIANE PEREIRA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JOSILENE DE JESUS</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JOSILENE S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JOYCE S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA FRANCIELI PEREIRA DO NACIMENTO GOMES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JFRANCIELI@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA MASSUTI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JULIANAMASSUTI@IG.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA MIYAGUI PIOTTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>PIOTTO_JU@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA NASCIMENTO</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA RANZANI</td>
+<td>TECNOLIGIA EM ALIMENTOS</td>
+<td>JULIANA.RANZANI@UOL.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIANA SANTOS</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>JULIENE APARECIDA FERREIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JULIENEAPF@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>KAREN REBOUCAS NASCIMENTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>KAREN.ALDREY@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>KARLA SIQUEIRA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>KELLY TEIXEIRA CASIMIRO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>KELLY.10_TEIXEIRA@OUTLOOK.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LARISSA CARVALHO MIRANDA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>LARISSACMIRANDA15@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LARISSA RODRIGUES</td>
+<td>TECNOLIGIA EM ALIMENTOS</td>
+<td>LARISSA_RODRIGUES10@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LEISON BRUNO</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LILIAN</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LILIAN DE JESUS</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LILIAN DOS SANTOS</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>LILIAN.ENGQUIM@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LUCIANA  A.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LUIS FELIPE DA SILVA FORTUNATO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>LFSFORTUNATO@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>LUIZA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MAIARA SPIGOLON PIRES</td>
+<td>GASTRONOMIA</td>
+<td>TOKIDOKIM@HOTMAIL.COM</td>
+<td>False</td>
+<td>563</td>
+<td>CRUZEIRO DO SUL EDUCACIONAL SA</td>
+<td>UNIVERSIDADE CRUZEIRO DO SUL</td>
+<td>ROSANA FERNANDEZ MEDINA DE TOLEDO</td>
+<td>THAIS SILVA PEIXOTO</td>
+<td>Vendas</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MAITE DOMINGUES PEREIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MAITEDOMINGUESPEREIRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MPULZATTO@CEFSA.EDU.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>MARCO ANTONIO CONTI CARLOTTI FILHO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>PRO5429@CEFSA.EDU.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MARIA APARECIDA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MARIA CAROLINA PRADO DE FREITAS HERCULANO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>CAROLINAKUMASAKA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MARILIA RAQUEL</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MARINA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MATHEUS CAMILO DE MORAES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MATSPANDA@LIVE.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>MICHELLE GOMES</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>MILEIDE S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>NATALIA A.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>NAYRA FOGATTI DAMIANI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>NAY.FOGATTI@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>NENA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>NICOLE SILVA DO NASCIMENTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>NICOLE-NIIH@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>PATRICIA FERREIRA DE SOUZA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>PATRICIA3FS@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>PATRICIA PETTINATO</td>
+<td>ENGENHARIA DE ALIMETOSS</td>
+<td>PATIPETTINATO@GMAIL.COM</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>PAULA CIRTO MAFRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>PAULINHA449@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>PRISCILA B.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAFAEL FERRARINI ZAPALA</td>
+<td>TECNOLIGIA EM ALIMENTOS</td>
+<td>RAFA-ZAPALA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAFAEL FERRARINI ZAPALA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RAFA-ZAPALA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAFAELA AFONSO DOS SANTOS</td>
+<td>TECNOLIGIA EM ALIMENTOS</td>
+<td>RAFAH.2011@GMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAFAELA SENA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAINE CASTIONI DE SOUZA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RAACASTIONI@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Professor</td>
+<td>2014</td>
+<td>RAISSA B.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAPHAEL XAVIER CARNEIRO</td>
+<td>FARMACIA</td>
+<td>RAPHAEL_XAVIER_GMX@HOTMAIL.COM</td>
+<td>False</td>
+<td>106317</td>
+<td>CIRCULO DE TRABALHADORES CRISTAOS DO EMBARE</td>
+<td>UNICASTELO</td>
+<td>JOSE CARLOS PETTOROSSI IMPARATO</td>
+<td>EDMILSON SAMORA CHAGAS</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAPHAELA PEREIRA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAPHAELLA PEREIRA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RAYSSA REGUERA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RAY_REGUERA@HOTAMIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>REGINA ALVES DE OLIVEIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>REGINA-HELLEN-26@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RENATA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>RODRIGO KENJI TABA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RODRIGOKENJITABA@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>ROSANGELA VERISSIMO PEREIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RO.VERISSIMO@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>SABRINA S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>STEFANIE SANTOS COLE</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>STEFANIE.COLE@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>STEPHANI BARBOSA</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>SULLYANNY DE LIMA SOUSA</td>
+<td>TECNOLIGIA EM ALIMENTOS</td>
+<td>SU_LLY_@HOTMAIL.COMMANOSALVANI@IG.COM.B</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>TAYANE SANTOS</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>THAIS DE GODOY RABELO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>THAISDEGODOY@OUTLOOK.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>THAIS KIMBERLY</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>THAIS SILVA PEIXOTO</td>
+<td>GASTRONOMIA</td>
+<td>THA_THAISMORENA@HOTMAIL.COM</td>
+<td>False</td>
+<td>563</td>
+<td>CRUZEIRO DO SUL EDUCACIONAL SA</td>
+<td>UNIVERSIDADE CRUZEIRO DO SUL</td>
+<td>ROSANA FERNANDEZ MEDINA DE TOLEDO</td>
+<td>THAIS SILVA PEIXOTO</td>
+<td>Vendas</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>THAIS VIEIRA BONUGLI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>THAISBONUGLI@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>THAMIRIS CASEMIRO LINS</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>THAMIRESLINNS@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>THAYNA LOURENCONI</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>THAYNA.LOU@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>VANESSA AKEMI FARINA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>VANESSA.FARINA17@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>VANESSA PROCOPIO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>VANESSA.PROCOPIO@HOTMAIL.COM</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>VIVIANE S.</td>
+<td>NUTRICAO</td>
+<td>MARCELA.CARDOSO456@GMAIL.COM</td>
+<td>False</td>
+<td>111273</td>
+<td>INSTITUTO EDUCACIONAL MARQUES DE OLINDA</td>
+<td>CMDO</td>
+<td>AMARO NETO</td>
+<td>MARCELA CARDOSO DA SILVA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>WENDY LIVRAMENTO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>WENDY.LIVRAMENTO@YAHOO.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Sorvetes</td>
+<td>Aluno</td>
+<td>2014</td>
+<td>YASMIN REIS DO AMARAL</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MIN.AMARAL@IG.COM.BR</td>
+<td>False</td>
+<td>33391</td>
+<td>FUNDACAO SALVADOR ARENA</td>
+<td>FTT - FACULDADE DE TECNOLOGIA TERMOMECANICA</td>
+<td>VALCIR SHIGUERU OMORI</td>
+<td>MARCIA EDILAMAR PULZATTO</td>
+<td>Coordenador(a)</td>
+</tr>
+</table>

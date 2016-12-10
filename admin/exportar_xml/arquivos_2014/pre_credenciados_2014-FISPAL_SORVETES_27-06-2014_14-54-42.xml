@@ -1,0 +1,560 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<id_cadastro>471300</id_cadastro>
+<id_visitante>198217</id_visitante>
+<id_empresa>8572</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>27/06/2014 14:30:46</data_cadastro>
+<cnpj>11307193000144</cnpj>
+<razao_social>PAVE &amp; COME SORVETES</razao_social>
+<nome_fantasia>PAVE &amp; COME SORVETES</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE SORVETE' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.PAVECOME.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>55140077</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>22355804400</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MARIA LUCIA SOUSA DE HARO DIAS</nome>
+<credencial>LUCIA HARO</credencial>
+<data_nasc>30031958</data_nasc>
+<sexo>FEMININO</sexo>
+<email>DIEGOHARO@GLOBO.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>55140077</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>967214442</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ESTRATÉGIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>04930055</cep>
+<endereco>RUA CATALDO PARRILHA</endereco>
+<nro>244</nro>
+<complemento></complemento>
+<bairro>JARDIM SANTA MARGARIDA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing do expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471335</id_cadastro>
+<id_visitante>333679</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>27/06/2014 14:41:49</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>31458283801</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>RODRIGO ALVES</nome>
+<credencial>RODRIGO ALVES</credencial>
+<data_nasc>14021983</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>RODRIGOALVES.MCD@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>982867897</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>50161323</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>TECNICO DE MANUTENCAO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04313002</cep>
+<endereco>AVENIDA LEONARDO DA VINCI</endereco>
+<nro>2437</nro>
+<complemento></complemento>
+<bairro>VILA GUARANI</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing do expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471341</id_cadastro>
+<id_visitante>333529</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>27/06/2014 14:43:51</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>07458757850</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ANA MARIA PEZZUTTO DE SOUZA</nome>
+<credencial>ANA MARIA PEZZUTTO</credencial>
+<data_nasc>12121959</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ANAMARIAPEZZUTTO@YAHOO.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>30229226</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMUNICAÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>05468000</cep>
+<endereco>RUA BERGAMOTA</endereco>
+<nro>498</nro>
+<complemento>-</complemento>
+<bairro>ALTO DA LAPA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing do expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471336</id_cadastro>
+<id_visitante>210277</id_visitante>
+<id_empresa>119163</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>27/06/2014 14:43:00</data_cadastro>
+<cnpj>13411800000147</cnpj>
+<razao_social>SOFFIONE COMERCIO VAREJISTA DE ALIMENTOS LTDA ME</razao_social>
+<nome_fantasia>SOFFIONE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>SORVETE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='SORVETERIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>55418913</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>35594468803</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MAURICIO TOKUNO</nome>
+<credencial>MAURICIO</credencial>
+<data_nasc>22091986</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MTOKUNO@GMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38640472</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>993198814</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04671090</cep>
+<endereco>RUA MOLIERE</endereco>
+<nro>283</nro>
+<complemento></complemento>
+<bairro>VILA SOFIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471365</id_cadastro>
+<id_visitante>333696</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>27/06/2014 14:52:01</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>10517042789</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FLAVIA MARIA BASTOS RUIZ</nome>
+<credencial>FLAVIA RUIZ</credencial>
+<data_nasc>05051984</data_nasc>
+<sexo>FEMININO</sexo>
+<email>FLAVINHARUIZ@GMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>983600872</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cep>04564003</cep>
+<endereco>RUA PENSILVANIA</endereco>
+<nro>914</nro>
+<complemento>112</complemento>
+<bairro>CIDADE MONCOES</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471318</id_cadastro>
+<id_visitante>333667</id_visitante>
+<id_empresa>119163</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>27/06/2014 14:36:31</data_cadastro>
+<cnpj>13411800000147</cnpj>
+<razao_social>SOFFIONE COMERCIO VAREJISTA DE ALIMENTOS LTDA ME</razao_social>
+<nome_fantasia>SOFFIONE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>SORVETE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='SORVETERIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>55418913</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>41816966851</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ADRIANA CABRAL GOMES</nome>
+<credencial>ADRIANA</credencial>
+<data_nasc>25111991</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ADRIANA.CABRAL.GOMES@GMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>55623594</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>981374246</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04671090</cep>
+<endereco>RUA MOLIERE</endereco>
+<nro>283</nro>
+<complemento></complemento>
+<bairro>VILA SOFIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Colegas de trabalho'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471253</id_cadastro>
+<id_visitante>333629</id_visitante>
+<id_empresa>58473</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>27/06/2014 14:17:58</data_cadastro>
+<cnpj>09561772000177</cnpj>
+<razao_social>INDUSTRIA &amp; COMERCIO DE PRODUTOS ALIMENTICIOS VALLEO LTDA - ME</razao_social>
+<nome_fantasia>SORVETES VALLEO</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='SORVETERIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.SORVETESVALLEO.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>22177272</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>29558371807</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CRISTIANE BUENO</nome>
+<credencial>CRISTIANE BUENO</credencial>
+<data_nasc>12041981</data_nasc>
+<sexo>FEMININO</sexo>
+<email>FERNANDOVALLEO@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>22177300</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>22177272</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>03563000</cep>
+<endereco>AVENIDA DOUTOR PEREIRA VERGUEIRO</endereco>
+<nro>136</nro>
+<complemento></complemento>
+<bairro>VILA NHOCUNE</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas; Aplicativo Smartphone'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Sign'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>471281</id_cadastro>
+<id_visitante>312844</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>27/06/2014 14:25:37</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>39206650823</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>NATALIA MENDES DA SILVA</nome>
+<credencial>NATALIA MENDES</credencial>
+<data_nasc>21031992</data_nasc>
+<sexo>FEMININO</sexo>
+<email>NATALIIA.MENDES@LIVE.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>949742961</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>02356170</cep>
+<endereco>RUA MANUEL ARAUJO ARAGAO</endereco>
+<nro>131</nro>
+<complemento></complemento>
+<bairro>JARDIM SANTO ALBERTO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas; Aplicativo Smartphone'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Sign'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+</credenciamento>

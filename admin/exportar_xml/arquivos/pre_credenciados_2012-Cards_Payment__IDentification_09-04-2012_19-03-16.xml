@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<cod_identificacao>13810</cod_identificacao>
+<cnpj>12805171000177</cnpj>
+<empresa>DUX PARTICIPACOES SA</empresa>
+<nome_fantasia>GRUPO DUX</nome_fantasia>
+<nome>ITAMAR GONCALVES DO E. SANTO JUNIOR</nome>
+<credencial>ITAMAR JUNIOR</credencial>
+<cpf>08867293869</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>30185800</fone>
+<email>ITAMAR.JUNIOR@GRUPODUX.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA BRIGADEIRO FARIA LIMA</endereco>
+<nro>2012</nro>
+<complemento>9º ANDAR - CONJ 94</complemento>
+<cep>01451000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+</credenciamento>

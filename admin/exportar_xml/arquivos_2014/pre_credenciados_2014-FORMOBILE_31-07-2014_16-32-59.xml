@@ -1,0 +1,3512 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<id_cadastro>493617</id_cadastro>
+<id_visitante>43122</id_visitante>
+<id_empresa>23294</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:08:58</data_cadastro>
+<cnpj>64818891000170</cnpj>
+<razao_social>MUNIZ MADEIRAS E COMPENSADOS LTDA</razao_social>
+<nome_fantasia>MMC. MADEIRAS COMPENSADOS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>COMPENSADOS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>000</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>63229267</fone_1>
+<ramal_1>131</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>40854175920</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>JOSE MUNIZ SOARES</nome>
+<credencial>JOSE MUNIZ SOARES</credencial>
+<data_nasc>22041962</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MMC.MADEIRAS@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>16</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>91336324</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>16</ddi_3>
+<ddd_3>16</ddd_3>
+<fone_3>991336324</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>ADMINISTRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>14060060</cep>
+<endereco>RUA- CEL. AMERICO BATISTA</endereco>
+<nro>942</nro>
+<complemento></complemento>
+<bairro>IPIRANGA</bairro>
+<cidade>RIBEIRAO PRETO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes; Convite Impresso Enviado Pela Organização do Evento; Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Matéria Prima;  	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fenalaw; ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Silk-Screen; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Silk-Screen; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493618</id_cadastro>
+<id_visitante>348472</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:09:01</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>32105347134</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CATARINO DOS SANTOS AMORIM</nome>
+<credencial>CATARINO</credencial>
+<data_nasc>11091962</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CATARINO@POP.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>988013619</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>PROFISSIONAL LIBERAL</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>79097090</cep>
+<endereco>RUA MARAMBAIA</endereco>
+<nro>1056</nro>
+<complemento></complemento>
+<bairro>COOPHAVILA II</bairro>
+<cidade>CAMPO GRANDE</cidade>
+<uf>MS</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Ferramentas; Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493619</id_cadastro>
+<id_visitante>348473</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:09:18</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>33685076809</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>PAULO HENRIQUE DA SILVA</nome>
+<credencial>PAULO HENRIQUE SILVA</credencial>
+<data_nasc>16061986</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>THAIS@SECRETSDEFAMILLE.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>968639792</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>PINTOR</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>13313120</cep>
+<endereco>RUA MONSENHOR LUIZ OTAVIO B. DE ALMEIDA</endereco>
+<nro>59</nro>
+<complemento></complemento>
+<bairro>JARDIM PADRE BENTO</bairro>
+<cidade>ITU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Ferragens; Ferramentas; Máquinas e Equipamentos;   Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493620</id_cadastro>
+<id_visitante>348474</id_visitante>
+<id_empresa>52963</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:09:41</data_cadastro>
+<cnpj>10397003000164</cnpj>
+<razao_social>CASA E ART MOVEIS E DECORACOES LTDA</razao_social>
+<nome_fantasia>CASA E ART</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>MOVEIS PLANEJADOS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE PLANEJADOS (DORMITORIOS E COZINHAS)' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>CASAEART.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>46362058</fone_1>
+<ramal_1>1</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>30476742803</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>LEANDRO AMANCIO BORGES SILVA</nome>
+<credencial>LEANDRO SILVA</credencial>
+<data_nasc>02101983</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LEANDRO.DEPOSITO@CASAEART.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>011</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>992761072</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>011</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>46362058</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>LOGÍSTICA</departamento>
+<departamento_outros></departamento_outros>
+<cep>08559330</cep>
+<endereco>RUA JOSE ALEXANDRE ALMEIDA LUIZ</endereco>
+<nro>50</nro>
+<complemento></complemento>
+<bairro>VILA JAU</bairro>
+<cidade>POA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Qualificação Profissional'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos;  	Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493621</id_cadastro>
+<id_visitante>348475</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:09:51</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>18132045866</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>JOSE DOMINGUES DE SANTANA MORAES</nome>
+<credencial>DUDU</credencial>
+<data_nasc>16111970</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MAKCNC@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>24736686</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CRIAÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>12903030</cep>
+<endereco>RUA DOUTOR JOSE HERMENEGILDO PEREIRA GUIMARAES</endereco>
+<nro>165</nro>
+<complemento></complemento>
+<bairro>VILA MOTA</bairro>
+<cidade>BRAGANCA PAULISTA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493622</id_cadastro>
+<id_visitante>348476</id_visitante>
+<id_empresa>58910</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:10:37</data_cadastro>
+<cnpj>57560328000180</cnpj>
+<razao_social>ARTHEM MADEIRAS COMERCIO SERVICOS LTDA</razao_social>
+<nome_fantasia>ARTHEM MARCENARIA</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto>MOVEIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.ARTHEM.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>41635858</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>27686240800</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CLEUBER ROGERIO GUIMARAES PAJAU</nome>
+<credencial>CLEUBER</credencial>
+<data_nasc>08051979</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CLEUBERROGERIO@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>36519800</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>43822001</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DESIGNER</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>06407000</cep>
+<endereco>ESTRADA DOUTOR CICERO BORGES DE MORAIS</endereco>
+<nro>2630</nro>
+<complemento></complemento>
+<bairro>JARDIM REGINA ALICE</bairro>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493623</id_cadastro>
+<id_visitante>348477</id_visitante>
+<id_empresa>47813</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:10:38</data_cadastro>
+<cnpj>03206787000130</cnpj>
+<razao_social>WM MOVEIS LTDA EPP</razao_social>
+<nome_fantasia>WM MOVEIS</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto>MOVEIS SOB MEDIDA; ARMARIO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WMMOVEISWM@YAHOO.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>35</ddd_1>
+<fone_1>33462457</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>33640925831</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CASSIO JOSE TEODORO BARBOSA</nome>
+<credencial>CASSIO</credencial>
+<data_nasc>17031980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>WMMOVEISWM@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>031</ddi_2>
+<ddd_2>35</ddd_2>
+<fone_2>84269311</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>031</ddi_3>
+<ddd_3>35</ddd_3>
+<fone_3>33462457</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>MOTORISTA</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>37445000</cep>
+<endereco>WALDEMAR ARANTES</endereco>
+<nro>86</nro>
+<complemento></complemento>
+<bairro>IPIRANGA</bairro>
+<cidade>CRUZILIA</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Convites em Lojas / Revendas / Distribuidor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493624</id_cadastro>
+<id_visitante>348478</id_visitante>
+<id_empresa>119746</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:12:12</data_cadastro>
+<cnpj>07757565000167</cnpj>
+<razao_social>PREMIERE COZINHAS</razao_social>
+<nome_fantasia>PREMIERE COZINHAS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>COZINHAS; COZINHA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>964230629</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>40184801800</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>WILLIAN SENNA BUENO MACIEL</nome>
+<credencial>WILLIAN SENNA BUENO MACIEL</credencial>
+<data_nasc>22031995</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>WILLIAN_PARAIBA@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>964230629</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>964230629</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>03257150</cep>
+<endereco>RUA PROFESSOR VALTER WEY</endereco>
+<nro>196</nro>
+<complemento></complemento>
+<bairro>VILA INDUSTRIAL</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493625</id_cadastro>
+<id_visitante>348479</id_visitante>
+<id_empresa>119942</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:12:20</data_cadastro>
+<cnpj>60679818000104</cnpj>
+<razao_social>CRONI METALURGICA</razao_social>
+<nome_fantasia>CRONI METALURGICA</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto>MOVEIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='FABRICA DE MOVEIS EM SERIE' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.CRONI.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>36852844</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>25682194837</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ADALBERTO CORREA JR.</nome>
+<credencial>ADALBERTO</credencial>
+<data_nasc>07121974</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ADALBERTOCORREAJR@IG.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>999927187</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>06210008</cep>
+<endereco>AV. OSWALDO COLLINO,</endereco>
+<nro>1248</nro>
+<complemento>1258 E 1278</complemento>
+<bairro>PRES. ALTINO</bairro>
+<cidade>OSASCO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; ForMóbile; TecnoCarne'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493626</id_cadastro>
+<id_visitante>348480</id_visitante>
+<id_empresa>52782</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:12:23</data_cadastro>
+<cnpj>10795157000104</cnpj>
+<razao_social>BOTU SERRAS LTDA ME</razao_social>
+<nome_fantasia>BOTU SERRAS -LTDA</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>FERRAMENTAS DE CORTE MADEIRAS / AFIACOES; MAQUINAS; FERRAGENS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='AFIACOES FERRAMENTAS DE CORTE MADEIRA' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>14</ddd_1>
+<fone_1>38151448</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>42998698859</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>LUAN HENRIQUE DE ANDRADE LIMA</nome>
+<credencial>LUAN  HENRIQUE LIMA</credencial>
+<data_nasc>25121993</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>BOTUSERRAS@IG.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>014</ddi_2>
+<ddd_2>014</ddd_2>
+<fone_2>996443380</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>014</ddi_3>
+<ddd_3>014</ddd_3>
+<fone_3>38151448</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>OPERADOR DE MAQUINAS</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>18608839</cep>
+<endereco>AV. JOAO BAPTISTA CARNIETTO</endereco>
+<nro>944</nro>
+<complemento></complemento>
+<bairro>JARDIM REAL PARK</bairro>
+<cidade>BOTUCATU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493627</id_cadastro>
+<id_visitante>266022</id_visitante>
+<id_empresa>102295</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:12:40</data_cadastro>
+<cnpj>45039237000114</cnpj>
+<razao_social>TV SBT CANAL 4 DE SAO PAULO S/A</razao_social>
+<nome_fantasia>SBT</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETO / DESIGNER' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='COMUNICACAO' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TELEVISAO' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.SBT.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>36873446</fone_1>
+<ramal_1>3456</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>31042053880</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>LUIS CEZAR DE OLIVEIRA GARCIA</nome>
+<credencial>LUIS CEZAR</credencial>
+<data_nasc>05021983</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LUISGARCIA@SBT.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>77353394</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>11</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>36873456</fone_3>
+<ramal_3>3456</ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DESIGNER</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>06276905</cep>
+<endereco>AVENIDA COMUNICACOES, 04</endereco>
+<nro>04</nro>
+<complemento>SALA - AT 27</complemento>
+<bairro>INDUSTRIAL ANHANGUERA</bairro>
+<cidade>OSASCO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493628</id_cadastro>
+<id_visitante>348481</id_visitante>
+<id_empresa>122020</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:13:26</data_cadastro>
+<cnpj>14211653000124</cnpj>
+<razao_social>CRIFFER MOVEIS LTDA</razao_social>
+<nome_fantasia>CRIFFER</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>COZINHAS; DORMOTORIO; ESCRITORIO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE PLANEJADOS (DORMITORIOS E COZINHAS)' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>44</ddd_1>
+<fone_1>99564910</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>00750248963</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CRISTIANO FERREIRA DOS PASSOS</nome>
+<credencial>CRISTIANO- CRIFFER</credencial>
+<data_nasc>14011978</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CRIFFERMOVEIS@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>44</ddd_2>
+<fone_2>99564910</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DIRETORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>87501040</cep>
+<endereco>RUA JOSE TEIXEIRA DAVILA</endereco>
+<nro>3608</nro>
+<complemento></complemento>
+<bairro>ZONA I</bairro>
+<cidade>UMUARAMA</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Componentes;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos;  	Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493629</id_cadastro>
+<id_visitante>348482</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:13:52</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>38593057861</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>DANIEL DE SOUZA JUNIOR</nome>
+<credencial>DANIEL</credencial>
+<data_nasc>24021994</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DAVI-TECIDOS@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>41017826</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>972436481</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>09830170</cep>
+<endereco>AVENIDA IVAI</endereco>
+<nro>114</nro>
+<complemento></complemento>
+<bairro>PARQUE RIACHO GRANDE</bairro>
+<cidade>SAO BERNARDO DO CAMPO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='  Produtos para Colchões e Estofados'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493630</id_cadastro>
+<id_visitante>348483</id_visitante>
+<id_empresa>65369</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:14:42</data_cadastro>
+<cnpj>14675270000530</cnpj>
+<razao_social>ECTX S/A</razao_social>
+<nome_fantasia>EUCATEX</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>PAINEIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='EMPRESA' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='OUTROS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='PAINEIS E PISOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='FABRICANTE DE PAINEIS MDP E MDF' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.EUCATEX.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>14</ddd_1>
+<fone_1>38115020</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>13163378803</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>GILSON SILESIO GONCALVES</nome>
+<credencial>GILSON S. GONCALVES</credencial>
+<data_nasc>15091970</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>PROJETOBTU@EUCATEX.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>14</ddd_2>
+<fone_2>38115165</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>SUPERVISOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>UTILIDADES</departamento_outros>
+<cep>18600970</cep>
+<endereco>ESTRADA MUNICIPAL BOTUCATU/ITATINGA</endereco>
+<nro>S/N</nro>
+<complemento>FAZENDA SAO FRANCISCO DE ASSIS</complemento>
+<bairro>FAZENDA SAO FRANCISCO DE ASSIS</bairro>
+<cidade>BOTUCATU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas; Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Componentes;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos;  	Matéria Prima;  	Produtos para Colchões e Estofados;  	Serviços;  	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Autocom; ForMóbile; SIAL Brazil'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493631</id_cadastro>
+<id_visitante>348484</id_visitante>
+<id_empresa>122650</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:14:57</data_cadastro>
+<cnpj>67593723000112</cnpj>
+<razao_social>PAES LEME COMERCIAL LTDA</razao_social>
+<nome_fantasia>PAES LEME</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>FERRAGENS PARA AREA DE MARCENARIA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>30318507</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>25986315871</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>VANDERLEI NERES DA ROCHA</nome>
+<credencial>VANDERLEI</credencial>
+<data_nasc>19031975</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CANECO51@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>30318507</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>968711519</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>05425011</cep>
+<endereco>RUA AMARO CAVALHEIRO</endereco>
+<nro>562</nro>
+<complemento></complemento>
+<bairro>PINHEIROS</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Ferragens;  	Ferramentas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493632</id_cadastro>
+<id_visitante>158037</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:15:58</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>80612954820</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FRANCISCO DE ASSIS MAIA</nome>
+<credencial>FRANCISCO MAIA</credencial>
+<data_nasc>20011955</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MAIA@TINTASBRAZILIAN.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>968304356</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>24131327</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROFISSIONAL LIBERAL</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>07434430</cep>
+<endereco>RUA PAINEIRAS (ARUJAZINHO IV)</endereco>
+<nro>131</nro>
+<complemento></complemento>
+<bairro>CAPUTERA</bairro>
+<cidade>ARUJA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em Mídia Digital (Banner em Sites, Agenda de Eventos, e Outras Publicidade da Internet)'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Networking'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493633</id_cadastro>
+<id_visitante>348485</id_visitante>
+<id_empresa>21916</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:18:01</data_cadastro>
+<cnpj>03988811000483</cnpj>
+<razao_social>LUIS RICARDO ALTOE E CIA LTDA</razao_social>
+<nome_fantasia>PLACACENTRO RIMAD RP</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>MDF; FERRAGENS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.RIMAD.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>51</ddi_1>
+<ddd_1>016</ddd_1>
+<fone_1>39698777</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08622097811</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>NORIVAL GOMES DA ROCHA</nome>
+<credencial>NORIVAL GOMES DA ROCHA</credencial>
+<data_nasc>15101967</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>VENDASRP02@RIMAD.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>982256969</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>16</ddd_3>
+<fone_3>993293776</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>14075260</cep>
+<endereco>AVENIDA MOGIANA</endereco>
+<nro>570</nro>
+<complemento></complemento>
+<bairro>VILA MARIANA</bairro>
+<cidade>RIBEIRAO PRETO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em Mídia Digital (Banner em Sites, Agenda de Eventos, e Outras Publicidade da Internet)'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493634</id_cadastro>
+<id_visitante>348486</id_visitante>
+<id_empresa>47813</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:18:15</data_cadastro>
+<cnpj>03206787000130</cnpj>
+<razao_social>WM MOVEIS LTDA EPP</razao_social>
+<nome_fantasia>WM MOVEIS</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto>MOVEIS SOB MEDIDA; ARMARIO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WMMOVEISWM@YAHOO.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>35</ddd_1>
+<fone_1>33462457</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>09850844647</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>GUILHERME ARANTES RIBEIRO</nome>
+<credencial>GUILHERME</credencial>
+<data_nasc>26121991</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>GUII11@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>031</ddi_2>
+<ddd_2>35</ddd_2>
+<fone_2>33462457</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>031</ddi_3>
+<ddd_3>35</ddd_3>
+<fone_3>99178782</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>ALMOXARIFADO</departamento_outros>
+<cep>37445000</cep>
+<endereco>WALDEMAR ARANTES</endereco>
+<nro>86</nro>
+<complemento></complemento>
+<bairro>IPIRANGA</bairro>
+<cidade>CRUZILIA</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho; Convite Impresso Enviado Pelo Expositor; Convites em Lojas / Revendas / Distribuidor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos;  	Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493635</id_cadastro>
+<id_visitante>328031</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:18:15</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>05593116644</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ANDREIA HELENA DE ALMEIDA</nome>
+<credencial>ANDREIA ALMEIDA</credencial>
+<data_nasc>23041982</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ANDREIA.LIMA1707@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>981002343</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>ASSISTENTE</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DESIGN</departamento>
+<departamento_outros></departamento_outros>
+<cep>03560000</cep>
+<endereco>RUA DOUTOR NELSON MADUREIRA</endereco>
+<nro>316</nro>
+<complemento></complemento>
+<bairro>VILA MATILDE</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site de Busca (Google, Bing, etc)'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Acessórios; Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493636</id_cadastro>
+<id_visitante>348487</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:18:35</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>23427611809</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MOISES BORGES DOS SNATOS</nome>
+<credencial>MOISES B DOS SANTOS</credencial>
+<data_nasc>20081980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>COBRANCA@TECNOFRIS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>27218535</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>08340120</cep>
+<endereco>RUA CASTOR</endereco>
+<nro>51</nro>
+<complemento></complemento>
+<bairro>SAO MATEUS</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493637</id_cadastro>
+<id_visitante>348488</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:19:34</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>28394884857</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MARCELO DO ESPIRITO SANTO</nome>
+<credencial>MARCELO DO ESPIRITO SANTO</credencial>
+<data_nasc>30091978</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>THAIS@SECRETSDEFRAMILLE.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>974624011</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>PINTOR</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>13304220</cep>
+<endereco>RUA PROFESSOR ANTONIO DIRCEU MARMO</endereco>
+<nro>69</nro>
+<complemento></complemento>
+<bairro>SAO LUIZ</bairro>
+<cidade>ITU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Acessórios; Ferragens; Ferramentas; Máquinas e Equipamentos; Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493638</id_cadastro>
+<id_visitante>348489</id_visitante>
+<id_empresa>121719</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:19:39</data_cadastro>
+<cnpj>19552575000145</cnpj>
+<razao_social>ECOMETHAL IND. E COMERCIO EIRELI</razao_social>
+<nome_fantasia>ECOMETHAL</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MADEIRA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.ECOMETHAL.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>45436058</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>33556293838</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MARCOS PAULO SANTANA</nome>
+<credencial>MARCOS</credencial>
+<data_nasc>31121984</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ADMINISTRATIVO@ECOMETHAL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>45436058</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>MARCENEIRO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>09400430</cep>
+<endereco>RUA CONDE DE SARZEDAS</endereco>
+<nro>245</nro>
+<complemento>73</complemento>
+<bairro>CENTRO</bairro>
+<cidade>RIBEIRAO PIRES</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='TV'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493639</id_cadastro>
+<id_visitante>348490</id_visitante>
+<id_empresa>119739</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:20:10</data_cadastro>
+<cnpj>47988373000186</cnpj>
+<razao_social>VAROTTI COMERCIO DE COMPENSADOS E FERRAGENS LTDA</razao_social>
+<nome_fantasia>VAROTTI</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>MDF; MDF E FERRAGENS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.VAROTTI.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>38516875</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>44281382372</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FRANCISCO LUIZ MACEDO SOARES</nome>
+<credencial>CHICO</credencial>
+<data_nasc>10061968</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>VAROTTI@TERRA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38516875</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ARMAZEM</departamento>
+<departamento_outros></departamento_outros>
+<cep>02717000</cep>
+<endereco>AVENIDA INAJAR DE SOUZA</endereco>
+<nro>3831</nro>
+<complemento></complemento>
+<bairro>CACHOEIRINHA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes; Aplicativo Smartphone'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493640</id_cadastro>
+<id_visitante>348491</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:20:27</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>28421083880</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ALEXANDRE GURGEL</nome>
+<credencial>ALEXANDRE GURGEL</credencial>
+<data_nasc>05011980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ALEXANDRE.GURGEL@SCHNEIDER-ELECTRIC.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>991538463</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cep>13211771</cep>
+<endereco>AV. ANTONIO PINCINATO</endereco>
+<nro>3398</nro>
+<complemento></complemento>
+<bairro>RETIRO</bairro>
+<cidade>JUNDIAI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Networking'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='HOSPITALMED; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493641</id_cadastro>
+<id_visitante>348492</id_visitante>
+<id_empresa>22632</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:22:24</data_cadastro>
+<cnpj>43735224000154</cnpj>
+<razao_social>ARTEIRA COUNTRY CLASSICS COM E IND MOVEIS LTDA</razao_social>
+<nome_fantasia>ARTEIRA COUNTRY CLASSICS</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>FABRICACAO DE MOVEIS; CUSTOMIZACAO; DESENVOLVIMENTO E PANEJAMENTO; PROJETOS CORPORATIVOS; PROJETOS RESIDENCIAIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>ARTEIRA@ARTEIRA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>38681686</fone_1>
+<ramal_1>26</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>38957145850</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FERNANDO ALVES GUEDES</nome>
+<credencial>FERNANDO GUEDES</credencial>
+<data_nasc>26111991</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>OBRAS1@ARTEIRA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>36734482</fone_2>
+<ramal_2>26</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>78443887</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>05020000</cep>
+<endereco>RUA CARAIBAS</endereco>
+<nro>675</nro>
+<complemento></complemento>
+<bairro>VILA POMPEIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes; Anúncio e Matérias em Revistas; Colegas de Trabalho; Convites em Lojas / Revendas / Distribuidor; Site da Feira'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Componentes;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos;  	Matéria Prima;  	Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Autocom; ForMóbile; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493642</id_cadastro>
+<id_visitante>348493</id_visitante>
+<id_empresa>122651</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:22:29</data_cadastro>
+<cnpj>20356516000180</cnpj>
+<razao_social>PREMIUN MOVELARIA</razao_social>
+<nome_fantasia>PREMIUN</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MAQUINAS; FERRAGENS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>12</ddd_1>
+<fone_1>39585628</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>14457562858</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MARCELO DE FARIA</nome>
+<credencial>MARCELO DE FARIA</credencial>
+<data_nasc>13051970</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MARCDFAR@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>012</ddd_2>
+<fone_2>997680962</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>012</ddd_3>
+<fone_3>988129778</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>12305170</cep>
+<endereco>RUA IRAJAROGA</endereco>
+<nro>174</nro>
+<complemento></complemento>
+<bairro>JARDIM CALIFORNIA</bairro>
+<cidade>JACAREI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Ferragens;  	Ferramentas;  	Máquinas e Equipamentos;  	Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493643</id_cadastro>
+<id_visitante>348494</id_visitante>
+<id_empresa>122652</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:22:41</data_cadastro>
+<cnpj>47410238000825</cnpj>
+<razao_social>EUROMOBILE INTERIORES SA</razao_social>
+<nome_fantasia>ARTEFACTO</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>SOFA; POLTRONA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE ESTOFADOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.ARTEFACTO.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>38977022</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>28215254861</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FERNANDA VELLO</nome>
+<credencial>FERNANDA VELLO</credencial>
+<data_nasc>10051979</data_nasc>
+<sexo>FEMININO</sexo>
+<email>FERNANDAVELLO@PORTALARTEFACTO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38977022</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>05404020</cep>
+<endereco>RUA PAULO GONTIJO DE CARVALHO</endereco>
+<nro>488</nro>
+<complemento></complemento>
+<bairro>CERQUEIRA CESAR</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493644</id_cadastro>
+<id_visitante>348495</id_visitante>
+<id_empresa>122650</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:22:59</data_cadastro>
+<cnpj>67593723000112</cnpj>
+<razao_social>PAES LEME COMERCIAL LTDA</razao_social>
+<nome_fantasia>PAES LEME</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>FERRAGENS PARA AREA DE MARCENARIA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>30318507</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08997107860</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>KLEBER DOMINGUES DA SILVA</nome>
+<credencial>KLEBER</credencial>
+<data_nasc>01021967</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>PAESLEMECOMERCIAL@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>30318507</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>969624741</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros>COMPRAS</departamento_outros>
+<cep>05425011</cep>
+<endereco>RUA AMARO CAVALHEIRO</endereco>
+<nro>562</nro>
+<complemento></complemento>
+<bairro>PINHEIROS</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Anúncio e Matérias em Revistas; Site do Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Ferragens;  	Ferramentas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493645</id_cadastro>
+<id_visitante>348496</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:25:00</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>16517051864</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>HEBERT LEITE DA SILVA</nome>
+<credencial>HEBERT LEITE</credencial>
+<data_nasc>25111974</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>HLSMOVEISPLANEJADOS@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>20634709</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>957073885</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>PROFISSIONAL LIBERAL</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04236130</cep>
+<endereco>RUA ITAMARATY</endereco>
+<nro>67</nro>
+<complemento>CASA</complemento>
+<bairro>IPIRANGA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convites em Lojas / Revendas / Distribuidor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Acessórios; Ferragens; Ferramentas; Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493646</id_cadastro>
+<id_visitante>348497</id_visitante>
+<id_empresa>122645</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:25:02</data_cadastro>
+<cnpj>56919483000187</cnpj>
+<razao_social>ROSSI &amp; PELARIN INDUSTRIA E COMERCIO DE MOVEIS LTDA-ME</razao_social>
+<nome_fantasia>MARCENARIA ROSSI</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>DORMITORIOS ,COZINHAS,MOVEIS EM GERAL</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE PLANEJADOS (DORMITORIOS E COZINHAS)' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.MARCENARIAROSSI.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>32422800</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>16603361809</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>EDIVALDO J ROSSI</nome>
+<credencial>EDIVALDO</credencial>
+<data_nasc>10041972</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MARCENARIAROSSI@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>32422800</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>16</ddd_3>
+<fone_3>999936631</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>15910000</cep>
+<endereco>RUA ANTONIO INFORCATI</endereco>
+<nro>51</nro>
+<complemento></complemento>
+<bairro>AREA INDUSTRIAL</bairro>
+<cidade>MONTE ALTO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas; Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493647</id_cadastro>
+<id_visitante>158020</id_visitante>
+<id_empresa>122653</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:25:03</data_cadastro>
+<cnpj>06309310000179</cnpj>
+<razao_social>SOLIS TECNOLOGIA E CONSULTORIA EMPRESARIAL LTDA</razao_social>
+<nome_fantasia>SOLIS TECNOLOGIA E CONSULTORIA</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MOVEIS PARA ESCRITORIOS E ESCOLAS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>43040786</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>34484094134</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>JANDIR JOSE MILAN</nome>
+<credencial>JANDIR JOSE MILAN</credencial>
+<data_nasc>25101985</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>PRESIDENCIA@FIEMT.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>65</ddd_2>
+<fone_2>36111500</fone_2>
+<ramal_2>1503</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>65</ddd_3>
+<fone_3>92018585</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>01227200</cep>
+<endereco>AVENIDA ANGELICA</endereco>
+<nro>2635</nro>
+<complemento></complemento>
+<bairro>SANTA CECILIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493648</id_cadastro>
+<id_visitante>348498</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:25:27</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>40826865844</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>JHONATHAN GUEDES BATISTA DE SOUZA</nome>
+<credencial>JHONATHAN GUEDES</credencial>
+<data_nasc>10071994</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>COBRANCA@TECNOFRIS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>27218535</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>08340120</cep>
+<endereco>RUA CASTOR</endereco>
+<nro>51</nro>
+<complemento></complemento>
+<bairro>SAO MATEUS</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493649</id_cadastro>
+<id_visitante>114808</id_visitante>
+<id_empresa>53601</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:28:16</data_cadastro>
+<cnpj>10434791000111</cnpj>
+<razao_social>JC2 INDUSTRIA E COMERCIO DE MOVEIS LTDA ME</razao_social>
+<nome_fantasia>MOBILUX MOVEIS</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>CADEIRAS GIRATORIAS; MESAS; ARMARIOS; CADEIRAS FIXAS; CADEIRAS UNIVERSITARIAS; ARQUIVO; CADEIRA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS EM SERIE' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.MOBILUXMOVEIS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>19</ddd_1>
+<fone_1>34616664</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>31414242840</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CARLOS FUGOLIM</nome>
+<credencial>CARLOS</credencial>
+<data_nasc>08091983</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>JC2MOVEIS@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>998678952</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>19</ddd_3>
+<fone_3>36047774</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>GERENTE DE PRODUCAO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13477570</cep>
+<endereco>RUA EUGENIO BERTINI</endereco>
+<nro>196</nro>
+<complemento></complemento>
+<bairro>SAO LUIZ</bairro>
+<cidade>AMERICANA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convites em Lojas / Revendas / Distribuidor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Componentes;  	Ferragens;  	Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493650</id_cadastro>
+<id_visitante>348499</id_visitante>
+<id_empresa>122654</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:28:35</data_cadastro>
+<cnpj>13928856000173</cnpj>
+<razao_social>BRAGA E MENDES LTDA ME</razao_social>
+<nome_fantasia>GRUPO SPECIFIC</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>EMBALAGENS DE PAPELAO; FACAS DE CORTE E VINCO; CONSULTORIA EMPRESARIAL</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='REPRESENTANTE COMERCIAL' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.GRUPOSPECIFIC.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>12</ddd_1>
+<fone_1>982152828</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>06249588841</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>EDINILSON DUARTE MENDES</nome>
+<credencial>EDINILSON</credencial>
+<data_nasc>26121966</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DIRETORIA@SPECIFICCONSULTING.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>12</ddd_2>
+<fone_2>982152828</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>12246291</cep>
+<endereco>RUA DAS PESCADAS</endereco>
+<nro>75</nro>
+<complemento>104</complemento>
+<bairro>PARQUE RESIDENCIAL AQUARIUS</bairro>
+<cidade>SAO JOSE DOS CAMPOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Ferramentas;  	Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Autocom; Fispal Food Service; ForMóbile; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493651</id_cadastro>
+<id_visitante>348500</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:28:45</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>21664155805</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MAURICIO MENDES VIEIRA</nome>
+<credencial>MAURICIO VIEIRA</credencial>
+<data_nasc>22081968</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MAURICIOMENDESVIEIRA@TERRA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>981971341</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>DESIGNER</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13305430</cep>
+<endereco>RUA MONTEIRO LOBATO</endereco>
+<nro>244</nro>
+<complemento></complemento>
+<bairro>CAMPOS DE SANTO ANTONIO</bairro>
+<cidade>ITU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Acessórios; Ferragens'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493652</id_cadastro>
+<id_visitante>316030</id_visitante>
+<id_empresa>115286</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:29:16</data_cadastro>
+<cnpj>61678884000122</cnpj>
+<razao_social>QUARTZOBRAS IND. COM. LTDA</razao_social>
+<nome_fantasia>QUARTZOBRAS</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='MATERIAIS DE CONSTRUCAO CIVIL' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.QUARTZOBRAS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>36016320</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>22007878801</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>SERGIO KENJI MIZOGUCHI</nome>
+<credencial>SERGIO K</credencial>
+<data_nasc>13051981</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>SERGIOKENJI.M@GMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>996260728</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>GERENTE</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ESTRATÉGIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>04110020</cep>
+<endereco>RUA DONA INACIA UCHOA</endereco>
+<nro>59</nro>
+<complemento></complemento>
+<bairro>VILA MARIANA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='E-mail Marketing do Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493653</id_cadastro>
+<id_visitante>262070</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:29:44</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>05319084889</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CHRISTOFORO KABBACH FILHO</nome>
+<credencial>CHRISTOFORO</credencial>
+<data_nasc>08121962</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>KABBACH@IG.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>13</ddd_2>
+<fone_2>97009222</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>13</ddd_3>
+<fone_3>32891897</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>ADMINISTRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>11060002</cep>
+<endereco>AV. ANA COSTA</endereco>
+<nro>530</nro>
+<complemento></complemento>
+<bairro>GONZAGA</bairro>
+<cidade>SANTOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site de Busca (Google, Bing, etc)'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Componentes; Ferragens; Ferramentas; Máquinas e Equipamentos;   Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Autocom; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Revista Sign; Revista Silk-Screen'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Revista Sign; Revista Silk-Screen'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493654</id_cadastro>
+<id_visitante>104778</id_visitante>
+<id_empresa>49237</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:30:14</data_cadastro>
+<cnpj>59871780000198</cnpj>
+<razao_social>RADIANTE COMERCIO DE MADEIRAS LTDA</razao_social>
+<nome_fantasia>RADIANTE MADEIRAS</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>CHAPAS DE MADEIRA; COMPENSADOS; MAQUINAS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='MADEIRA' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.RADIANTEMADEIRAS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>11</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>20303614</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>53202430815</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>SERGIO TADEU MELEIRO</nome>
+<credencial>SERGIO MELEIRO</credencial>
+<data_nasc>28051952</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DEBORA@MADEREIRACRISTAL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>11</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>20303610</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>08060380</cep>
+<endereco>RUA AMERICO SUGAI</endereco>
+<nro>514</nro>
+<complemento></complemento>
+<bairro>VILA JACUI</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493656</id_cadastro>
+<id_visitante>348502</id_visitante>
+<id_empresa>121719</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:30:25</data_cadastro>
+<cnpj>19552575000145</cnpj>
+<razao_social>ECOMETHAL IND. E COMERCIO EIRELI</razao_social>
+<nome_fantasia>ECOMETHAL</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MADEIRA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.ECOMETHAL.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>45436058</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>27770861845</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MICHELLE SANTANA BISCARI FERNANDES</nome>
+<credencial>MICHELLI</credencial>
+<data_nasc>20011979</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ADMINISTRATIVO@ECOMETHAL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>45436058</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ADMINISTRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>09400430</cep>
+<endereco>RUA CONDE DE SARZEDAS</endereco>
+<nro>245</nro>
+<complemento>73</complemento>
+<bairro>CENTRO</bairro>
+<cidade>RIBEIRAO PIRES</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='TV'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493657</id_cadastro>
+<id_visitante>348503</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:30:31</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>11993364676</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>DIEGO CARLOS DA SILVA</nome>
+<credencial>DIEGO CARLOS DA SILVA</credencial>
+<data_nasc>19111994</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MOVEISFRANKLIM@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>34</ddd_2>
+<fone_2>88119191</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>34</ddd_3>
+<fone_3>33514468</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROFISSIONAL LIBERAL</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>38190000</cep>
+<endereco>PADRE VITOR COELHO</endereco>
+<nro>984</nro>
+<complemento></complemento>
+<bairro>JOAO XXIII</bairro>
+<cidade>SACRAMENTO</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493658</id_cadastro>
+<id_visitante>348504</id_visitante>
+<id_empresa>65369</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:30:35</data_cadastro>
+<cnpj>14675270000530</cnpj>
+<razao_social>ECTX S/A</razao_social>
+<nome_fantasia>EUCATEX</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>PAINEIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='EMPRESA' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='OUTROS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='PAINEIS E PISOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='FABRICANTE DE PAINEIS MDP E MDF' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.EUCATEX.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>14</ddd_1>
+<fone_1>38115020</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>22759505839</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MARCO INNOCENTE CIGNONI</nome>
+<credencial>MARCO CIGNOI</credencial>
+<data_nasc>13081968</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DMEBOTUCATU@EUCATEX.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>14</ddd_2>
+<fone_2>38115000</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>14</ddd_3>
+<fone_3>38115111</fone_3>
+<ramal_3>5111</ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>SUPERVISOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>18600970</cep>
+<endereco>ESTRADA MUNICIPAL BOTUCATU/ITATINGA</endereco>
+<nro>S/N</nro>
+<complemento>FAZENDA SAO FRANCISCO DE ASSIS</complemento>
+<bairro>FAZENDA SAO FRANCISCO DE ASSIS</bairro>
+<cidade>BOTUCATU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493659</id_cadastro>
+<id_visitante>148490</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:30:40</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>04879721638</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>SABRINA OLIVEIRA COUTO DE LACERDA</nome>
+<credencial>SABRINA</credencial>
+<data_nasc>18021982</data_nasc>
+<sexo>FEMININO</sexo>
+<email>SABRINAOCL@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>000</ddi_2>
+<ddd_2>37</ddd_2>
+<fone_2>99649312</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>000</ddi_3>
+<ddd_3>37</ddd_3>
+<fone_3>32149677</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROFISSIONAL LIBERAL</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DESIGN</departamento>
+<departamento_outros></departamento_outros>
+<cep>35502027</cep>
+<endereco>RUA GOIAS</endereco>
+<nro>2895</nro>
+<complemento></complemento>
+<bairro>IPIRANGA</bairro>
+<cidade>DIVINOPOLIS</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes; Anúncio em Mídia Digital (Banner em Sites, Agenda de Eventos, e Outras Publicidade da Internet); Colegas de Trabalho; Convites em Lojas / Revendas / Distribuidor; Mídias Sociais (Facebook, Linkedin, Twiter,  etc)'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Acessórios; Componentes; Ferragens; Ferramentas; Máquinas e Equipamentos;   Matéria Prima; Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493660</id_cadastro>
+<id_visitante>348505</id_visitante>
+<id_empresa>122651</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:30:44</data_cadastro>
+<cnpj>20356516000180</cnpj>
+<razao_social>PREMIUN MOVELARIA</razao_social>
+<nome_fantasia>PREMIUN</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MAQUINAS; FERRAGENS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='MARCENARIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>12</ddd_1>
+<fone_1>39585628</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>26087479813</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CARLOS ALBERTO FERNANDES</nome>
+<credencial>CARLOS</credencial>
+<data_nasc>09081978</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MARCDFAR@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>012</ddd_2>
+<fone_2>988129778</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>012</ddd_3>
+<fone_3>997680962</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DESIGNER</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>12305170</cep>
+<endereco>RUA IRAJAROGA</endereco>
+<nro>174</nro>
+<complemento></complemento>
+<bairro>JARDIM CALIFORNIA</bairro>
+<cidade>JACAREI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Ferragens'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493661</id_cadastro>
+<id_visitante>159860</id_visitante>
+<id_empresa>70789</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:30:46</data_cadastro>
+<cnpj>08525794000119</cnpj>
+<razao_social>W.S.P INDUSTRIA METALURGICA LTDA EPP</razao_social>
+<nome_fantasia>KANTOFER</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>CANTONEIRAS; SUPORTES P/ PRATELEIRAS; SUPORTES DE LCD, LED E PLASMA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='CANTONEIRAS P/ MOVEIS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>27170519</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>01060979896</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ANTONIO DE SOUZA TEIXEIRA</nome>
+<credencial>ANTONIO</credencial>
+<data_nasc>21041960</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>COMPRAS@KANTOFER.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>971424170</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>27170519</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>03386040</cep>
+<endereco>RUA PEDRO AGUIAR</endereco>
+<nro>36</nro>
+<complemento></complemento>
+<bairro>JD. COLORADO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Ferragens;  	Serviços'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493662</id_cadastro>
+<id_visitante>348506</id_visitante>
+<id_empresa>122655</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:31:00</data_cadastro>
+<cnpj>07594365000130</cnpj>
+<razao_social>IMPACTA IND. E COM LTDA</razao_social>
+<nome_fantasia>IMPACTA IND. DE PLASTICOS</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>EMBALAGENS PARA PERFIL</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='INDUSTRIA DE EMBALAGENS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>21684600</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>28648062829</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FABIANO APARECIDO DE ASSIS CASARINI</nome>
+<credencial>FABIANO CASARINI</credencial>
+<data_nasc>02021980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FABIANOCASARINI@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>21684600</fone_2>
+<ramal_2>612</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>969743383</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>SUPERVISOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>QUALIDADE</departamento>
+<departamento_outros></departamento_outros>
+<cep>02715000</cep>
+<endereco>AVENIDA NOSSA SENHORA DO O</endereco>
+<nro>535</nro>
+<complemento></complemento>
+<bairro>LIMAO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493663</id_cadastro>
+<id_visitante>348507</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:31:01</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>09625236821</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ANTONIO CARLOS CARDOSO</nome>
+<credencial>ANTONIO CARLOS CARDOSO</credencial>
+<data_nasc>11061968</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>AC_CARDOSO@VIVOINTERNETDISCADA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>14</ddd_2>
+<fone_2>38155439</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>14</ddd_3>
+<fone_3>998181947</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>TECNICO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>18610060</cep>
+<endereco>RUA ABILIO DORINI</endereco>
+<nro>727</nro>
+<complemento>CASA</complemento>
+<bairro>JARDIM FLAMBOYANT</bairro>
+<cidade>BOTUCATU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convites em Lojas / Revendas / Distribuidor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Qualificação Profissional'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ABF Franchising Expo Nordeste'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493664</id_cadastro>
+<id_visitante>348508</id_visitante>
+<id_empresa>122645</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:31:18</data_cadastro>
+<cnpj>56919483000187</cnpj>
+<razao_social>ROSSI &amp; PELARIN INDUSTRIA E COMERCIO DE MOVEIS LTDA-ME</razao_social>
+<nome_fantasia>MARCENARIA ROSSI</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>DORMITORIOS ,COZINHAS,MOVEIS EM GERAL</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE PLANEJADOS (DORMITORIOS E COZINHAS)' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.MARCENARIAROSSI.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>32422800</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>21856382893</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CHERLSTON GALHARDI</nome>
+<credencial>CHERLSTON</credencial>
+<data_nasc>13051980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MARCENARIAROSSI@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>997120574</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>16</ddd_3>
+<fone_3>32422800</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>15910000</cep>
+<endereco>RUA ANTONIO INFORCATI</endereco>
+<nro>51</nro>
+<complemento></complemento>
+<bairro>AREA INDUSTRIAL</bairro>
+<cidade>MONTE ALTO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas; Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493665</id_cadastro>
+<id_visitante>348509</id_visitante>
+<id_empresa>122656</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:31:22</data_cadastro>
+<cnpj>10349826000114</cnpj>
+<razao_social>POSITANOATELIER DO DESIGN</razao_social>
+<nome_fantasia>POSITANO DESIGN</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>FERRAGENS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='REVENDA ' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>LOJAPOSITANO.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>36751730</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>34746453829</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>HUGO WATANABE GODOY MARQUES</nome>
+<credencial>HUGO WATANABE</credencial>
+<data_nasc>01011985</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>HUGO@POSITANODESIGN.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>979906692</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>VENDAS</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>01441000</cep>
+<endereco>ALAMEDA GABRIEL MONTEIRO DA SILVA</endereco>
+<nro>137</nro>
+<complemento></complemento>
+<bairro>JARDIM AMERICA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='E-mail Marketing do Expositor'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Ferragens'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493666</id_cadastro>
+<id_visitante>348510</id_visitante>
+<id_empresa>65369</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>31/07/2014 16:31:50</data_cadastro>
+<cnpj>14675270000530</cnpj>
+<razao_social>ECTX S/A</razao_social>
+<nome_fantasia>EUCATEX</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>PAINEIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE MOVEIS CORPORATIVOS / INSTITUCIONAIS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='EMPRESA' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='OUTROS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='PAINEIS E PISOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='FABRICANTE DE PAINEIS MDP E MDF' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.EUCATEX.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>14</ddd_1>
+<fone_1>38115020</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>79573525887</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CARLOS PAZINI</nome>
+<credencial>CARLOS PAZINI</credencial>
+<data_nasc>12051955</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>PROJETBT@EUCATEX.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>14</ddd_2>
+<fone_2>38115020</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>999376285</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>ESP. MAN. ELETRICA</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>PROJETOS</departamento_outros>
+<cep>18600970</cep>
+<endereco>ESTRADA MUNICIPAL BOTUCATU/ITATINGA</endereco>
+<nro>S/N</nro>
+<complemento>FAZENDA SAO FRANCISCO DE ASSIS</complemento>
+<bairro>FAZENDA SAO FRANCISCO DE ASSIS</bairro>
+<cidade>BOTUCATU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta=' 	Acessórios;  	Máquinas e Equipamentos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>493668</id_cadastro>
+<id_visitante>348512</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>31/07/2014 16:32:44</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>32114134806</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>DANILO OVIDIO DE BARROS</nome>
+<credencial>DANILO OVIDIO</credencial>
+<data_nasc>11051985</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DANILOGASOMETRO@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>953441342</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DIRETORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>09111650</cep>
+<endereco>RUA RIO DE JANEIRO</endereco>
+<nro>16</nro>
+<complemento></complemento>
+<bairro>CIDADE SAO JORGE</bairro>
+<cidade>SANTO ANDRE</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Você tem interesse em participar dessa feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='O que você procura na ForMóbile 2014?' resposta='Acessórios; Ferragens; Ferramentas; Máquinas e Equipamentos;   Matéria Prima'/>
+<pergunta questao='Quais das Feiras da BTS Informa você tem interesse?' resposta='ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa você tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+</credenciamento>

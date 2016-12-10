@@ -1,0 +1,1675 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<id_cadastro>461178</id_cadastro>
+<id_visitante>30010</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>24/06/2014 12:31:39</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>19473508204</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>AMAURY CIBANTOS PIAI</nome>
+<credencial>AMAURY PIAI</credencial>
+<data_nasc>08041964</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>AMAURYPIAI@BOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>014</ddd_2>
+<fone_2>34131886</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>014</ddd_3>
+<fone_3>982117777</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>17507320</cep>
+<endereco>RUA VICTOR ANDRE ARGOLO FERRAO</endereco>
+<nro>20</nro>
+<complemento></complemento>
+<bairro>SAO FRANCISCO</bairro>
+<cidade>MARILIA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461198</id_cadastro>
+<id_visitante>291962</id_visitante>
+<id_empresa>109973</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 12:36:44</data_cadastro>
+<cnpj>05055085000129</cnpj>
+<razao_social>DGRAUS S/C LTDA</razao_social>
+<nome_fantasia>DGRAUS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COMUNICACAO' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>DGRAUS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>14</ddd_1>
+<fone_1>32122626</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>19146247858</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CASSIANO TOSTA</nome>
+<credencial>CASSIANO TOSTA</credencial>
+<data_nasc>21011977</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CASSIANO@DGRAUS.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>948014826</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>17010040</cep>
+<endereco>RUA MARCONDES SALGADO</endereco>
+<nro>5-67</nro>
+<complemento>12</complemento>
+<bairro>CENTRO</bairro>
+<cidade>BAURU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site da feira'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461219</id_cadastro>
+<id_visitante>327800</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>24/06/2014 12:41:55</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>14189279889</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CARLA F NOZNICA</nome>
+<credencial>CARLA F NOZNICA</credencial>
+<data_nasc>24041971</data_nasc>
+<sexo>FEMININO</sexo>
+<email>CFNOZNICA@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38328334</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ESTRATÉGIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>05077120</cep>
+<endereco>RUA MARCILIO DIAS</endereco>
+<nro>123</nro>
+<complemento></complemento>
+<bairro>ALTO DA LAPA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site da feira'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461222</id_cadastro>
+<id_visitante>314870</id_visitante>
+<id_empresa>114877</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 12:42:01</data_cadastro>
+<cnpj>17498124000141</cnpj>
+<razao_social>ABEL NAVARRO PULICE</razao_social>
+<nome_fantasia>WBRINDES</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='BRINDES' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.WBRINDES.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>46365912</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>33470242810</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ANNA PAULA NAVARRO PULICE</nome>
+<credencial>ANNA PAULA</credencial>
+<data_nasc>07071996</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ANNINHAPAULA09@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>96984280</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>46365912</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros>COMERCIAL</departamento_outros>
+<cep>08562100</cep>
+<endereco>RUA BATUIRA</endereco>
+<nro>236</nro>
+<complemento>CASA</complemento>
+<bairro>VILA SOPRETER</bairro>
+<cidade>POA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site da feira'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461248</id_cadastro>
+<id_visitante>327814</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>24/06/2014 12:46:36</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>67912206868</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>PAULO NOZNICA</nome>
+<credencial>PAULO NOZNICA</credencial>
+<data_nasc>02091954</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>PNOZNICA@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38328334</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ESTRATÉGIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>05077120</cep>
+<endereco>RUA MARCILIO DIAS</endereco>
+<nro>123</nro>
+<complemento></complemento>
+<bairro>LAPA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site da feira'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461328</id_cadastro>
+<id_visitante>44091</id_visitante>
+<id_empresa>57664</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:04:52</data_cadastro>
+<cnpj>02069496000185</cnpj>
+<razao_social>INDOBRAS UNITED LTDA</razao_social>
+<nome_fantasia>INDOBRAS UNITED LTDA</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='EXPORTADOR' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='OUTROS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.INDOBRAS.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>32852055</fone_1>
+<ramal_1>000</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>02256355268</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ARJAN HEMNANI</nome>
+<credencial>ARJAN HEMNANI</credencial>
+<data_nasc>25111939</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ARJAN@PRIMLAKS-BR.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>32852055</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>32852967</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>IMPORTAÇÃO / EXPORTAÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>01046010</cep>
+<endereco>AVENIDA IPIRANGA</endereco>
+<nro>318</nro>
+<complemento>BLOCO B CJ 302</complemento>
+<bairro>CENTRO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461339</id_cadastro>
+<id_visitante>327855</id_visitante>
+<id_empresa>21270</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:06:58</data_cadastro>
+<cnpj>55834774000100</cnpj>
+<razao_social>KAPER COMERCIO DE PAPEIS LTDA</razao_social>
+<nome_fantasia>KAPER COMERCIO DE PAPEIS LTDA</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>CAFE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ATACADISTA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.KAPER.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>39885080</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08100049840</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ARIOVALDO HIROMITSU SUZUKI</nome>
+<credencial>ARIOVALDO H. SUZUKI</credencial>
+<data_nasc>17081966</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ARI@KAPER.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>39885080</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>07178580</cep>
+<endereco>RODOVIA PRESIDENTE DUTRA</endereco>
+<nro>KM 207</nro>
+<complemento></complemento>
+<bairro>JARDIM ALAMO</bairro>
+<cidade>GUARULHOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; HOSPITALMED; TecnoCarne'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461355</id_cadastro>
+<id_visitante>254630</id_visitante>
+<id_empresa>57664</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:11:29</data_cadastro>
+<cnpj>02069496000185</cnpj>
+<razao_social>INDOBRAS UNITED LTDA</razao_social>
+<nome_fantasia>INDOBRAS UNITED LTDA</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='EXPORTADOR' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='OUTROS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.INDOBRAS.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>32852055</fone_1>
+<ramal_1>000</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>24557424821</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ASHA HEMNANI</nome>
+<credencial>ASHA HEMNANI</credencial>
+<data_nasc>20041947</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ARJAN@PRIMLAKS-BR.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>32852967</fone_2>
+<ramal_2>00</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>32852055</fone_3>
+<ramal_3>00</ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>01046010</cep>
+<endereco>AVENIDA IPIRANGA</endereco>
+<nro>318</nro>
+<complemento>BLOCO B CJ 302</complemento>
+<bairro>CENTRO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461359</id_cadastro>
+<id_visitante>327866</id_visitante>
+<id_empresa>117903</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:12:57</data_cadastro>
+<cnpj>13019015000143</cnpj>
+<razao_social>RICARDO SANTOS PEREIRA PRODUTOS</razao_social>
+<nome_fantasia>HUFER</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>SORVETES; TEMPEROS; ALIEMNTICIO; BALAS; CHOCOLATES</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='DISTRIBUIDOR DE ALIMENTOS E BEBIDAS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>69</ddd_1>
+<fone_1>99027302</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>00913911801</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>HUMBERTO FERREIRA</nome>
+<credencial>HUMBERTO FERREIRA</credencial>
+<data_nasc>17081967</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>HUMBERTOFERREIRASP@IG.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>69</ddd_2>
+<fone_2>99027302</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>06413090</cep>
+<endereco>RUA ALFAZEMA</endereco>
+<nro>5769</nro>
+<complemento></complemento>
+<bairro>COHAB</bairro>
+<cidade>PORTO VELHO</cidade>
+<uf>RO</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio em mídia digital (banner em sites, agenda de eventos, e outras publicidade da internet)'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461367</id_cadastro>
+<id_visitante>303832</id_visitante>
+<id_empresa>112715</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:14:30</data_cadastro>
+<cnpj>45798998000150</cnpj>
+<razao_social>MACARRONADA ITALIANA LTDA</razao_social>
+<nome_fantasia>MACARRONADA ITALIANA</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='RESTAURANTE' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>REDEMACARRONADAITALIANA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>021</ddi_1>
+<ddd_1>19</ddd_1>
+<fone_1>32322377</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>24748924861</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>EDUARDO LINK</nome>
+<credencial>LINK</credencial>
+<data_nasc>13061974</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>EDU-LINK@UOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>21</ddi_2>
+<ddd_2>019</ddd_2>
+<fone_2>92371764</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>21</ddi_3>
+<ddd_3>019</ddd_3>
+<fone_3>32322377</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>13041311</cep>
+<endereco>AV.MARECHAL CARMONA</endereco>
+<nro>712</nro>
+<complemento>ESQUINA</complemento>
+<bairro>VILA JOAO JORGE</bairro>
+<cidade>CAMPINAS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Cursos Rápidos; Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas; Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; Fispal Café; Fispal Food Service; Fispal Sorvetes; TecnoCarne; Vitafoods South America; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461368</id_cadastro>
+<id_visitante>327872</id_visitante>
+<id_empresa>21270</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:14:34</data_cadastro>
+<cnpj>55834774000100</cnpj>
+<razao_social>KAPER COMERCIO DE PAPEIS LTDA</razao_social>
+<nome_fantasia>KAPER COMERCIO DE PAPEIS LTDA</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>CAFE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ATACADISTA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.KAPER.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>39885080</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>34904450906</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>EURICO I. SARUHASHI</nome>
+<credencial>EURICO I. SARUHASHI</credencial>
+<data_nasc>28121958</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>EURICO@KAPER.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>39885080</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>07178580</cep>
+<endereco>RODOVIA PRESIDENTE DUTRA</endereco>
+<nro>KM 207</nro>
+<complemento></complemento>
+<bairro>JARDIM ALAMO</bairro>
+<cidade>GUARULHOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461379</id_cadastro>
+<id_visitante>103283</id_visitante>
+<id_empresa>57664</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:17:38</data_cadastro>
+<cnpj>02069496000185</cnpj>
+<razao_social>INDOBRAS UNITED LTDA</razao_social>
+<nome_fantasia>INDOBRAS UNITED LTDA</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='EXPORTADOR' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='OUTROS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.INDOBRAS.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>32852055</fone_1>
+<ramal_1>000</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>23219385877</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MALAIKA HEMNANI</nome>
+<credencial>MALAIKA HEMNANI</credencial>
+<data_nasc>25041980</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ANAND@INDOBRAS.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>83459927</fone_2>
+<ramal_2>00</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>32852055</fone_3>
+<ramal_3>00</ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>IMPORTAÇÃO / EXPORTAÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>01046010</cep>
+<endereco>AVENIDA IPIRANGA</endereco>
+<nro>318</nro>
+<complemento>BLOCO B CJ 302</complemento>
+<bairro>CENTRO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461386</id_cadastro>
+<id_visitante>224241</id_visitante>
+<id_empresa>93881</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:19:11</data_cadastro>
+<cnpj>12009886000113</cnpj>
+<razao_social>AMON CONSULTORIA  RECURSOS HUMANOS LTDA</razao_social>
+<nome_fantasia>AMON CONSULTORIA</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='RECURSOS HUMANOS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.AMONCONSULTORIA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>976164160</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>17073974818</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ROSANA SANTA BARBARA</nome>
+<credencial>ROSANA</credencial>
+<data_nasc>29121971</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ROSANA@AMONCONSULTORIA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>27711008</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>976108750</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>02376020</cep>
+<endereco>RUA FRANCISCO INGLES</endereco>
+<nro>152</nro>
+<complemento></complemento>
+<bairro>VILA ALBERTINA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Networking; Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes; Entidades de Classe / Associações; Anúncio e matérias em revistas; Colegas de trabalho'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; Fispal Sorvetes; Fispal Café; Fispal Food Service Nordeste; HOSPITALMED; Autocom'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Outros; Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461395</id_cadastro>
+<id_visitante>125870</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>24/06/2014 13:21:33</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>38424265858</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FABIO HANJIN PAK</nome>
+<credencial>FABIO PAK</credencial>
+<data_nasc>05071988</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FABIOPAK88@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>999909952</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros>ESTUDANTE</departamento_outros>
+<cep>02359000</cep>
+<endereco>RUA ARTUR SIEVERS</endereco>
+<nro>154</nro>
+<complemento></complemento>
+<bairro>JARDIM IBIRATIBA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Networking; Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes; Entidades de Classe / Associações; Anúncio e matérias em revistas; Colegas de trabalho'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; Fispal Sorvetes; Fispal Café; Fispal Food Service Nordeste; HOSPITALMED; Autocom'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Outros; Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461426</id_cadastro>
+<id_visitante>107269</id_visitante>
+<id_empresa>50353</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:28:20</data_cadastro>
+<cnpj>12678844000175</cnpj>
+<razao_social>ANA MARIA SACCO VILLANOVA BOMB ME</razao_social>
+<nome_fantasia>BELLO CAFE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='CAFETERIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>29666641</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>36134909866</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ANA MARIA S. VILLANOVA</nome>
+<credencial>ANINHA VILLANOVA</credencial>
+<data_nasc>13081986</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ANA.MVILLANOVA@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>29666641</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>994474372</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>03116000</cep>
+<endereco>RUA DO ORATORIO</endereco>
+<nro>1584</nro>
+<complemento>CAFETERIA</complemento>
+<bairro>MOOCA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Qualificação Profissional'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site da feira'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461435</id_cadastro>
+<id_visitante>107295</id_visitante>
+<id_empresa>50353</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:31:17</data_cadastro>
+<cnpj>12678844000175</cnpj>
+<razao_social>ANA MARIA SACCO VILLANOVA BOMB ME</razao_social>
+<nome_fantasia>BELLO CAFE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='CAFETERIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>29666641</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>28166943808</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>LEANDRO DE JESUS SILVA</nome>
+<credencial>LEANDRO SILVA</credencial>
+<data_nasc>01111980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>BELLOCAFEMOOCA@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>29666641</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>978101037</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>03116000</cep>
+<endereco>RUA DO ORATORIO</endereco>
+<nro>1584</nro>
+<complemento>CAFETERIA</complemento>
+<bairro>MOOCA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Networking; Qualificação Profissional; Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site da feira'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Não utiliza'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461445</id_cadastro>
+<id_visitante>327915</id_visitante>
+<id_empresa>56004</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:33:51</data_cadastro>
+<cnpj>60409075011510</cnpj>
+<razao_social>NESTLE BRASIL</razao_social>
+<nome_fantasia>NESPRESSO</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>CAFE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='BARISTA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.NESPRESSO.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>30616508</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>32657909833</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ADELAIDE FERNANDA GARCIA DE SOUZA CAVALCANTI NOYAMA</nome>
+<credencial>ADELAIDE CAVALCANTI</credencial>
+<data_nasc>05021983</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ADELAIDE.CAVALCANTI@NESPRESSO.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>30616508</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>30616521</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>01411000</cep>
+<endereco>RUA PADRE JOAO MANUEL</endereco>
+<nro>1164</nro>
+<complemento></complemento>
+<bairro>CERQUEIRA CESAR</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ExpoVinis; Fispal Café; Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461455</id_cadastro>
+<id_visitante>327241</id_visitante>
+<id_empresa>32706</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:36:40</data_cadastro>
+<cnpj>03667884001950</cnpj>
+<razao_social>SESC</razao_social>
+<nome_fantasia>SESC</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>REFEICAO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='CULTURA E LAZER' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='RESTAURANTE' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.SESCSP.ORG.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>20769732</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>61336963549</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>FABIO SOUZA NASCIMENTO</nome>
+<credencial>FABIO</credencial>
+<data_nasc>14091972</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FABIOSOUZA@BELENZINHO.SESCSP.ORG.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38717754</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>SUPERVISOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>03303000</cep>
+<endereco>RUA PADRE ADELINO</endereco>
+<nro>1000</nro>
+<complemento></complemento>
+<bairro>QUARTA PARADA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site do expositor; Anúncio em mídia digital (banner em sites, agenda de eventos, e outras publicidade da internet)'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Vitafoods South America; Fispal Café; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook; Twitter'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461465</id_cadastro>
+<id_visitante>327922</id_visitante>
+<id_empresa>117915</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:39:04</data_cadastro>
+<cnpj>49596703000113</cnpj>
+<razao_social>HOTEL VILLAGIO D ITALIA LTDA</razao_social>
+<nome_fantasia>HOTEL VILLAGIO</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='HOTEL' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>W</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>021</ddi_1>
+<ddd_1>19</ddd_1>
+<fone_1>38765830</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>29472656889</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>NILVA DE JESUS PINHEIRO</nome>
+<credencial>NILVA</credencial>
+<data_nasc>15121980</data_nasc>
+<sexo>FEMININO</sexo>
+<email>NILVAPINHEIRO@IG.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>021</ddi_2>
+<ddd_2>019</ddd_2>
+<fone_2>38765830</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>021</ddi_3>
+<ddd_3>019</ddd_3>
+<fone_3>993040610</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>13280000</cep>
+<endereco>RUA VASCO DA GAMA</endereco>
+<nro>110</nro>
+<complemento>HOTEL</complemento>
+<bairro>CHACARA DO TREVO</bairro>
+<cidade>VINHEDO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas; Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Outros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461485</id_cadastro>
+<id_visitante>327939</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>24/06/2014 13:43:44</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>53875591615</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>JANE MARY ALBINATI MALAGUTI</nome>
+<credencial>JANE MARY</credencial>
+<data_nasc>19041963</data_nasc>
+<sexo>FEMININO</sexo>
+<email>JMALAGUTI@UOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>972493511</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>55795771</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros></departamento_outros>
+<cep>04018010</cep>
+<endereco>RUA DOUTOR ALVARO ALVIM</endereco>
+<nro>130</nro>
+<complemento>CASA 8</complemento>
+<bairro>VILA MARIANA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Outros'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas; Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Outros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461492</id_cadastro>
+<id_visitante>327944</id_visitante>
+<id_empresa>117922</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:45:20</data_cadastro>
+<cnpj>17833590000136</cnpj>
+<razao_social>C.H.C DE SOUZA - ME</razao_social>
+<nome_fantasia>CAFE PORTEIRA DE MINAS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>CAFE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='TORREFACAO DE CAFE' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>CAFEPORTEIRADEMINAS@GMAIL.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>35</ddd_1>
+<fone_1>34412353</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>10255939604</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CARLOS HENRIQUE CRESTANI DE SOUZA</nome>
+<credencial>CARLOS HENRIQUE</credencial>
+<data_nasc>02101990</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CAFEPORTEIRADEMINAS@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>35</ddd_2>
+<fone_2>34412353</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>35</ddd_3>
+<fone_3>88753716</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>37570000</cep>
+<endereco>AV JOAQUIM FRANCISCO DE ASSIS</endereco>
+<nro>434</nro>
+<complemento></complemento>
+<bairro>CENTRO</bairro>
+<cidade>OURO FINO</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site do expositor; Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461495</id_cadastro>
+<id_visitante>243568</id_visitante>
+<id_empresa>98579</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:45:58</data_cadastro>
+<cnpj>01159822000182</cnpj>
+<razao_social>ONYXCOM BRASIL</razao_social>
+<nome_fantasia>ONYXCAFE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='VAREJO' ramo_outros='VENDING MACHINES' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>ONYXCOMBRASIL.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>27542145</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>05638276882</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>CARLOS ALBERTO MOREIRA</nome>
+<credencial>CARLOS ALBERTO (CAPITAO)</credencial>
+<data_nasc>27071966</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ONYXCAFE@UOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>27542145</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>992625647</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>09030060</cep>
+<endereco>RUA PADRE CAPRA</endereco>
+<nro>233</nro>
+<complemento>SALA 33</complemento>
+<bairro>VILA ASSUNCAO</bairro>
+<cidade>SANTO ANDRE</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes; HOSPITALMED'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook; LinkedIn; Outros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461515</id_cadastro>
+<id_visitante>327955</id_visitante>
+<id_empresa>117928</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>24/06/2014 13:49:23</data_cadastro>
+<cnpj>15685871000163</cnpj>
+<razao_social>INALDO ALVES BANDEIRA JUNIOR ME</razao_social>
+<nome_fantasia>RECIFE DRINKS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MAQUINA DE CAFE; PRODUTOS PARA CAFETERIA; CAFE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='CAFETERIA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.RECIFEDRINKS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>081</ddd_1>
+<fone_1>30610993</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>03571640403</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>INALDO JUNIOR</nome>
+<credencial>JUNIOR</credencial>
+<data_nasc>24041980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>JUNIOR@RECIFEDRINKS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>81</ddd_2>
+<fone_2>30610993</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>81</ddd_3>
+<fone_3>99279560</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>EVENTOS</departamento>
+<departamento_outros></departamento_outros>
+<cep>52031030</cep>
+<endereco>RUA CATULO DA PAIXAO CEARENSE</endereco>
+<nro>370</nro>
+<complemento></complemento>
+<bairro>CAMPO GRANDE</bairro>
+<cidade>RECIFE</cidade>
+<uf>PE</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite impresso enviado pela organização do evento '/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>461523</id_cadastro>
+<id_visitante>327952</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>24/06/2014 13:51:07</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>14222403806</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>WELLYNGTON ZANINI DA SILVEIRA SOUZA</nome>
+<credencial>ZANINI</credencial>
+<data_nasc>08011969</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>WELZANINI@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>982254802</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>22775700</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>12910280</cep>
+<endereco>RUA VOLUNTARIO BENJAMIM CAPUSSO</endereco>
+<nro>326</nro>
+<complemento>CASA 2</complemento>
+<bairro>JARDIM RECREIO</bairro>
+<cidade>BRAGANCA PAULISTA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua Empresa pretende participar da próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional'/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite impresso enviado pela organização do evento '/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Sua empresa utiliza algum tipo de rede social?' resposta='Facebook'/>
+</pesquisa>
+</cadastro>
+</credenciamento>

@@ -1,0 +1,192 @@
+/* CSS Document */
+a{
+	text-decoration: none;
+	}
+
+body {
+	background-color: #E9E9EA;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.bt_menu_bg {
+	width:271px; 
+	height:54px; 
+	background-image:url(/admin/images/bts/fundo_bts_menu.gif); 
+	cursor:pointer;
+}
+.bt_menu_div {
+	width:70px; 
+	height:54px; 
+	line-height:54px; 
+	float:left;
+	padding-top:3px;
+	padding-left:7px;
+}
+.bt_menu_titulo {
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px; 
+	font-weight:bold; 
+	float:left; 
+	line-height:54px;
+}
+.bt_menu_titulo_home {
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px; 
+	font-weight:bold; 
+}
+.icone_paginacao {
+	background-image:url(/admin/images/ico_pg.gif); 
+	background-position:center; 
+	width:24px; 
+	height:24px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:10px; 
+	font-weight:bold; 
+	line-height:24px; 
+	cursor:pointer;
+}
+.icone_pagina_atual {
+	background-image:url(/admin/images/ico_pg_atual.gif); 
+	background-position:center; 
+	width:24px; 
+	height:24px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:10px; 
+	font-weight:bold; 
+	line-height:24px; 
+	/* cursor:pointer; */
+}
+.fs09px { font-size:9px; }
+.fs10px { font-size:10px; }
+.fs11px { font-size:11px; }
+.fs12px { font-size:12px; }
+.fs14px { font-size:14px; }
+.fs16px { font-size:16px; }
+.fs18px { font-size:18px; }
+.fs22px { font-size:22px; }
+.c_preto { color:#000; }
+.c_branco { color:#FFF; }
+.c_cinza1 { color:#CCC; }
+.c_cinza2 { color:#999; }
+.c_cinza3 { color:#666; }
+.c_cinza4 { color:#333; }
+.c_azul1 { color:#00F; }
+.c_vermelho { color:#F00; }
+.c_verde { color:#090; }
+.c_amarelo { color:#FF0; }
+.c_laranja1 { color:#FF9122; }
+.bold { font-weight:bold; }
+.pad3px { padding:3px; }
+.txt_selecionado { background-color:#0C0; }
+
+.t_verdana { font-family:Verdana, Geneva, sans-serif; }
+.t_arial { font-family:Arial, Helvetica, sans-serif; }
+
+
+.aba_esq {
+	margin-left:2px;
+	
+	float:left;
+	width:3px;
+	height:27px;
+	line-height:27px;
+	background-image:url(/admin/images/abas/aba_esq.gif);
+}
+.aba_dir {
+	
+	float:left;
+	width:3px;
+	height:27px;
+	line-height:27px;
+	background-image:url(/admin/images/abas/aba_dir.gif);
+}
+.aba_selecionada {
+	
+	float:left;
+	width:24px;
+	height:27px;
+	line-height:27px;
+	background-image:url(/admin/images/abas/aba_selecionada.gif);
+}
+.aba {
+	
+	float:left;
+	padding-left:4px;
+	padding-right:4px;
+	height:27px;
+	line-height:27px;
+	background-image:url(/admin/images/abas/aba.gif);
+}
+.aba_baixo { background-position:bottom; }
+.aba_cima { background-position:top; }
+.aba_linha {
+	float:left;
+	width:100%;
+	height:5px;
+	background-image:url(/admin/images/abas/linha.gif);
+}
+.bt_aba {
+	cursor:pointer;
+}
+.form_alerta {
+	border:dashed #FF0000 1px;
+	background-color:#FFFFCC;
+}
+.form_destaque {
+	border: 1px solid #666666;
+	background-color:#FFFFFF;
+}
+.transparente {
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+.cursor {
+	cursor: pointer;
+}
+.h_20 { height: 20px; }
+.none { text-decoration:none; }
+.linha_16px {
+	border-bottom:#999 solid 1px; 
+	height:22px;
+}
+.borda_dir {
+	border-right:#999 solid 1px;	
+}
+#relacionamento_link{
+	float: left; 
+	padding: 10px 0 0 10px; 
+	font-size: 14px; 
+	color: #000; 
+	font-weight: 100
+}
+
+.arredondamento
+{
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px; 
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;	
+}
+.bordaRedonda{
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px; 
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}

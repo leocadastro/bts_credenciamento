@@ -1,0 +1,4328 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<id_cadastro>442653</id_cadastro>
+<id_visitante>66714</id_visitante>
+<id_empresa>63804</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:01:03</data_cadastro>
+<cnpj>14547748000113</cnpj>
+<razao_social>GLOBAL CORREIAS</razao_social>
+<nome_fantasia>GLOBAL CORREIAS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE MAQUINAS E EQUIPAMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.GLOBALCORREIAS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>019</ddd_1>
+<fone_1>38773170</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>11499007841</cpf>
+<passaporte></passaporte>
+<nome>SILVEIRA</nome>
+<credencial>SILVEIRA</credencial>
+<data_nasc>07111970</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>VENDAS@GLOBALCORREIAS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>38773170</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>19</ddd_3>
+<fone_3>999265305</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13160000</cep>
+<endereco>AVENIDA SANTO AMARO</endereco>
+<nro>1431</nro>
+<complemento></complemento>
+<bairro>JARDIM PAINEIRAS</bairro>
+<cidade>ARTUR NOGUEIR</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='E-mail Marketing do Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Correias Máquinas; Esteira Transportadora'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Tecnologia Nordeste; ForMóbile'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442654</id_cadastro>
+<id_visitante>212014</id_visitante>
+<id_empresa>91416</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:01:07</data_cadastro>
+<cnpj>08070362000160</cnpj>
+<razao_social>NS ALIMENTOS LTDA</razao_social>
+<nome_fantasia>NS ALIMENTOS</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA FRIGORIFICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.NSALIMENTOS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>36991075</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>07690758860</cpf>
+<passaporte></passaporte>
+<nome>SERGIO CARLOS CALLIL ABDALA</nome>
+<credencial>SERGIO ABDALA</credencial>
+<data_nasc>03011966</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CONTATO@NSALIMENTOS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>999946383</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>05160100</cep>
+<endereco>RUA MANOEL JOAQUIM DE GOIS</endereco>
+<nro>236</nro>
+<complemento></complemento>
+<bairro>VILA JARAGUA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Anúncio e Matérias em Revistas; Anúncio em mídia digital; Colegas de Trabalho; Rádio; Site do Expositor; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica; Embalagem Stand Pouch; Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação; Balanças; Cortina de Ar; Impressoras; Ingredientes; Máquinas de Embalagem; Máquinas para Massas Alimentícias; Misturadores e Transportadores; Pisos Industriais; Tratamentos de Águas e Efluentes; Túnel de Encolhimento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Empilhadeiras; Manipuladores à Vácuo; Portas Automáticas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; TecnoCarne'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442662</id_cadastro>
+<id_visitante>316942</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:04:25</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>29838929808</cpf>
+<passaporte></passaporte>
+<nome>REBECA EVAHIDES YATSUZUKA</nome>
+<credencial>REBECA YATSUZUKA</credencial>
+<data_nasc>22101981</data_nasc>
+<sexo>FEMININO</sexo>
+<email>REBECAY@GMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>995156026</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04323090</cep>
+<endereco>RUA PORCELANA</endereco>
+<nro>98</nro>
+<complemento></complemento>
+<bairro>VILA DO ENCONTRO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Anúncio e Matérias em Revistas; Anúncio em mídia digital; Colegas de Trabalho; Rádio; Site do Expositor; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica; Embalagem Stand Pouch; Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação; Balanças; Cortina de Ar; Impressoras; Ingredientes; Máquinas de Embalagem; Máquinas para Massas Alimentícias; Misturadores e Transportadores; Pisos Industriais; Tratamentos de Águas e Efluentes; Túnel de Encolhimento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Empilhadeiras; Manipuladores à Vácuo; Portas Automáticas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; TecnoCarne'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442667</id_cadastro>
+<id_visitante>13858</id_visitante>
+<id_empresa>86820</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:05:05</data_cadastro>
+<cnpj>62708862000120</cnpj>
+<razao_social>GAIL GUARULHOS IND E COM LTDA</razao_social>
+<nome_fantasia>GAIL</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>PISO CERAMICO INDUSTRIAL</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='REVESTIMENTOS CERAMICOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='PISOS INDUSTRIAIS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='INDUSTRIA E COMERCIO DE REVESTIMENTOS CERAMICOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='INDUSTRIA REVESTIMENTOS TECNOLOGICOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.GAIL.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>24232654</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08965998840</cpf>
+<passaporte></passaporte>
+<nome>FABIO LUIZ RODRIGUES PENNA</nome>
+<credencial>FABIO PENNA</credencial>
+<data_nasc>09081970</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FABIO@REPRESENTACOESPENNA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>995227382</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>07044000</cep>
+<endereco>RUA CAVADAS</endereco>
+<nro>988</nro>
+<complemento></complemento>
+<bairro>VILA ENDRES</bairro>
+<cidade>GUARULHOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442673</id_cadastro>
+<id_visitante>206807</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:07:00</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>36662740802</cpf>
+<passaporte></passaporte>
+<nome>FELIPPE VACLAVIK MANDRUZATO</nome>
+<credencial>FELIPPE MANDRUZATO</credencial>
+<data_nasc>16021987</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FMANDRUZATO@BOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>983668965</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>03659020</cep>
+<endereco>RUA ZELIA MOREIRA DAMANTE</endereco>
+<nro>387</nro>
+<complemento></complemento>
+<bairro>VILA GRANADA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442676</id_cadastro>
+<id_visitante>316951</id_visitante>
+<id_empresa>84393</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:07:12</data_cadastro>
+<cnpj>43708379000100</cnpj>
+<razao_social>FAST SHOP S.A.</razao_social>
+<nome_fantasia>FAST SHOP</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='REVENDA' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='REVENDA DE ELETRO ELETRONICOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.FASTSHOP.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>32323008</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>19610672850</cpf>
+<passaporte></passaporte>
+<nome>RENATO AUGUSTO WELSH PEREIRA DA SILVA</nome>
+<credencial>RENATO</credencial>
+<data_nasc>12041975</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>RENATOAWP@FASTSHOP.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>32323008</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>02029001</cep>
+<endereco>AVENIDA ZAKI NARCHI</endereco>
+<nro>1664</nro>
+<complemento>1º ANDAR</complemento>
+<bairro>CARANDIRU</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag; Embalagem Cartonada Asséptica; Embalagem Pet; Filmes; Sacos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Balanças; Filtros; Impressoras'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Empilhadeiras; Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442682</id_cadastro>
+<id_visitante>88087</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:09:48</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>18230549869</cpf>
+<passaporte></passaporte>
+<nome>LUIS BENEDITO FERMANDES BARROS</nome>
+<credencial>LUIS</credencial>
+<data_nasc>20041972</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LUISBENEDITOBARROS@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>92388874</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>19</ddd_3>
+<fone_3>34022881</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CORPORATIVO</departamento>
+<departamento_outros></departamento_outros>
+<cep>13403023</cep>
+<endereco>RUA PEDRO MORATO KRAHEMBUHL</endereco>
+<nro>230</nro>
+<complemento></complemento>
+<bairro>JARAGUA</bairro>
+<cidade>PIRACICABA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag; Embalagem Cartonada Asséptica; Embalagem Pet; Filmes; Sacos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Balanças; Filtros; Impressoras'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Empilhadeiras; Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442683</id_cadastro>
+<id_visitante>264161</id_visitante>
+<id_empresa>103591</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:10:41</data_cadastro>
+<cnpj>05413215000158</cnpj>
+<razao_social>SAEX COPIADORAS</razao_social>
+<nome_fantasia>PRINT PAPER</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COMERCIO' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>11</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>37295670</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>17601658830</cpf>
+<passaporte></passaporte>
+<nome>MARCIO RICARDO FERRARI</nome>
+<credencial>MARCIO FERRARI</credencial>
+<data_nasc>12071973</data_nasc>
+<sexo>FEMININO</sexo>
+<email>SAEX@SAEXCOPIADORAS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>37295672</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>02267020</cep>
+<endereco>RUA DOS FERROVIARIOS</endereco>
+<nro>35</nro>
+<complemento></complemento>
+<bairro>VILA GUSTAVO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova; Aprova; Aprova; Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site do Expositor; Site do Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor; Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor; Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor; Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes; Serigrafia SIGN FutureTEXTIL; Fispal Café; Fispal Food Service; Fispal Sorvetes; Serigrafia SIGN FutureTEXTIL; Fispal Café; Fispal Food Service; Fispal Sorvetes; Fispal Tecnologia Nordeste; Serigrafia SIGN FutureTEXTIL; Fispal Café; Fispal Food Service; Fispal Sorvetes; Fispal Tecnologia Nordeste; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse; Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse; Não tenho interesse; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442685</id_cadastro>
+<id_visitante>38594</id_visitante>
+<id_empresa>21258</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:12:01</data_cadastro>
+<cnpj>59154690000186</cnpj>
+<razao_social>MANDARA ALIMENTOS NATURAIS LTDA</razao_social>
+<nome_fantasia>MANDARA ALIMENTOS NATURAIS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.MANDARADOCES.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>46678110</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08477795487</cpf>
+<passaporte></passaporte>
+<nome>MARCELO HOFMANN MACHADO</nome>
+<credencial>MARCELO HOFMANN</credencial>
+<data_nasc>30061950</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MACHADOMARCELO@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>992108595</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>46678110</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DIRETORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>06851260</cep>
+<endereco>RUA PALMARES</endereco>
+<nro>27</nro>
+<complemento></complemento>
+<bairro>JARDIM NISSALVES</bairro>
+<cidade>ITAPECERICA DA SERRA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em mídia digital; E-mail Marketing da Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica; Embalagem Stand Pouch; Filmes'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Armadilhas Luminosas; Balanças; Celofanadoras; Comunicação Visual; Máquinas de Empacotamento; Máquinas para Indústria de Alimentos; Máquinas para Massas Alimentícias; Seladoras'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Vitafoods South America'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442688</id_cadastro>
+<id_visitante>264161</id_visitante>
+<id_empresa>103591</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:12:54</data_cadastro>
+<cnpj>05413215000158</cnpj>
+<razao_social>SAEX COPIADORAS</razao_social>
+<nome_fantasia>PRINT PAPER</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COMERCIO' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>11</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>37295670</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>17601658830</cpf>
+<passaporte></passaporte>
+<nome>MARCIO RICARDO FERRARI</nome>
+<credencial>MARCIO FERRARI</credencial>
+<data_nasc>12071973</data_nasc>
+<sexo>FEMININO</sexo>
+<email>SAEX@SAEXCOPIADORAS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>37295672</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>02267020</cep>
+<endereco>RUA DOS FERROVIARIOS</endereco>
+<nro>35</nro>
+<complemento></complemento>
+<bairro>VILA GUSTAVO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova; Aprova; Aprova; Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site do Expositor; Site do Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor; Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor; Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor; Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes; Serigrafia SIGN FutureTEXTIL; Fispal Café; Fispal Food Service; Fispal Sorvetes; Serigrafia SIGN FutureTEXTIL; Fispal Café; Fispal Food Service; Fispal Sorvetes; Fispal Tecnologia Nordeste; Serigrafia SIGN FutureTEXTIL; Fispal Café; Fispal Food Service; Fispal Sorvetes; Fispal Tecnologia Nordeste; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse; Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse; Não tenho interesse; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442689</id_cadastro>
+<id_visitante>316958</id_visitante>
+<id_empresa>84023</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:13:13</data_cadastro>
+<cnpj>14359842000149</cnpj>
+<razao_social>RÖCHLING PLASTICOS DE ENGENHARIA DO BRASIL LTDA</razao_social>
+<nome_fantasia>ROCHLING</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>PLASTICOS DE ALTA PERFORMANCE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='PLASTICOS DE ALTA PERFORMANCE' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.ROECHLING.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>985870387</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>14631217847</cpf>
+<passaporte></passaporte>
+<nome>JULIANA BLUMER GABRIEL</nome>
+<credencial>JULIANA BLUMER</credencial>
+<data_nasc>30111972</data_nasc>
+<sexo>FEMININO</sexo>
+<email>JULIANABLUMER@HOTMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>985870387</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>985870387</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13295000</cep>
+<endereco>AVENIDA EMILIO CHECHINATO</endereco>
+<nro>4195</nro>
+<complemento>A</complemento>
+<bairro>BAIRRO DA CHAVE</bairro>
+<cidade>ITUPEVA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Networking'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='E-mail Marketing da Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Autoclave; Componentes para Máquinas; Comunicação Visual; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correia Transportadora; Correntes Transportadoras; Esteira Transportadora; Máquina Envolvedora de Filmes; Portas Automáticas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service; HOSPITALMED'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442692</id_cadastro>
+<id_visitante>316961</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:14:44</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>91742161472</cpf>
+<passaporte></passaporte>
+<nome>KARLA LEAL</nome>
+<credencial>KARLA</credencial>
+<data_nasc>08011976</data_nasc>
+<sexo>FEMININO</sexo>
+<email>KARLA.LEAL@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>37725258</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>05717210</cep>
+<endereco>RUA ALMANSA</endereco>
+<nro>161</nro>
+<complemento></complemento>
+<bairro>VILA ANDRADE</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Networking'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='E-mail Marketing da Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Autoclave; Componentes para Máquinas; Comunicação Visual; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correia Transportadora; Correntes Transportadoras; Esteira Transportadora; Máquina Envolvedora de Filmes; Portas Automáticas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service; HOSPITALMED'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442694</id_cadastro>
+<id_visitante>316963</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:15:15</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>06450845813</cpf>
+<passaporte></passaporte>
+<nome>ROBERTO DE ARAUJO</nome>
+<credencial>ROBERTO</credencial>
+<data_nasc>07121963</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>JOSE.ROBERTO_JR@ANGLOAMERICAN.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>31</ddd_2>
+<fone_2>97229500</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>31</ddd_3>
+<fone_3>83590141</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ENGENHARIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>31170070</cep>
+<endereco>RUA DOUTOR JARBAS VIDAL GOMES</endereco>
+<nro>199</nro>
+<complemento></complemento>
+<bairro>CIDADE NOVA</bairro>
+<cidade>BELO HORIZONTE</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Networking'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='E-mail Marketing da Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Autoclave; Componentes para Máquinas; Comunicação Visual; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correia Transportadora; Correntes Transportadoras; Esteira Transportadora; Máquina Envolvedora de Filmes; Portas Automáticas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service; HOSPITALMED'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442698</id_cadastro>
+<id_visitante>67718</id_visitante>
+<id_empresa>51679</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:16:02</data_cadastro>
+<cnpj>55002133000199</cnpj>
+<razao_social>KELLOGG  BRASIL</razao_social>
+<nome_fantasia>KELLOGG</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.SUCRILHOS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>56969100</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>36023185835</cpf>
+<passaporte></passaporte>
+<nome>THIAGO WILTEMBURG POCHINI</nome>
+<credencial>THIAGO POCHINI</credencial>
+<data_nasc>02071989</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>THIAGO.POCHINI@HOTMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>982623215</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>56969100</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>MANUTENCAO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>04763001</cep>
+<endereco>RUA AUGUSTO FERREIRA DE MORAIS</endereco>
+<nro>602</nro>
+<complemento>PREDIO</complemento>
+<bairro>SOCORRO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho; E-mail Marketing da Organização do Evento; Site da Feira; Site do Expositor; Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Bombonas; Colarinho; Colas; Filmes; Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Automação; Bombas; Borracha; Caldeiras; Componentes para Máquinas; Compressores; Correias Máquinas; Encartuchadeiras e Blisters; Ensacadeiras; Lubrificantes; Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas de Envase; Máquinas para Indústria de Alimentos; Moinhos; Paletizadoras e Encaixotadoras; Porta Cabos; Redutores e Motoredutores; Seladoras; Sopradoras; Tanques; Termômetros; Tratamentos de Águas e Efluentes; Válvulas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correia Transportadora; Correias Máquinas; Correntes Transportadoras; Esteira Transportadora; Manipuladores à Vácuo; Máquina Envolvedora de Filmes; Porta Pallets; Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442703</id_cadastro>
+<id_visitante>316970</id_visitante>
+<id_empresa>35454</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:18:27</data_cadastro>
+<cnpj>12344129000104</cnpj>
+<razao_social>CRISTIANO BARBOSA PASSOS COM. FERRAMENTAS - ME</razao_social>
+<nome_fantasia>ZALMANN</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE MAQUINAS E EQUIPAMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.ZALMANN.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>44131143</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>39817871886</cpf>
+<passaporte></passaporte>
+<nome>NAYARA APARECIDA DE SOUZA</nome>
+<credencial>NAYARA</credencial>
+<data_nasc>14021992</data_nasc>
+<sexo>FEMININO</sexo>
+<email>NAYARA._.SOUZA@HOTMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>999476758</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>EVENTOS</departamento>
+<departamento_outros></departamento_outros>
+<cep>12951200</cep>
+<endereco>AVENIDA INDUSTRIAL</endereco>
+<nro>1500</nro>
+<complemento></complemento>
+<bairro>JARDIM DAS CEREJEIRAS</bairro>
+<cidade>ATIBAIA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação; Máquinas de Embalagem; Máquinas de Envase; Máquinas para as Indústrias Química, Fármaco e Cosmética; Marcação e Codificação'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Contentores; Manipuladores à Vácuo'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442706</id_cadastro>
+<id_visitante>66893</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:21:21</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>28965737800</cpf>
+<passaporte></passaporte>
+<nome>ADILSON DIAS GARCIA</nome>
+<credencial>ADILSON GARCIA</credencial>
+<data_nasc>04091976</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ADILSOM.DIAS@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>43</ddd_2>
+<fone_2>88448635</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>43</ddd_3>
+<fone_3>35361288</fone_3>
+<ramal_3>253</ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>SUPERVISOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>86410000</cep>
+<endereco>RUA BENJAMIN CONSTANT</endereco>
+<nro>840</nro>
+<complemento>PREDIO</complemento>
+<bairro>CENTRO</bairro>
+<cidade>RIBEIRAO CLARO</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação; Máquinas de Embalagem; Máquinas de Envase; Máquinas para as Indústrias Química, Fármaco e Cosmética; Marcação e Codificação'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Contentores; Manipuladores à Vácuo'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442707</id_cadastro>
+<id_visitante>316973</id_visitante>
+<id_empresa>84393</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:21:27</data_cadastro>
+<cnpj>43708379000100</cnpj>
+<razao_social>FAST SHOP S.A.</razao_social>
+<nome_fantasia>FAST SHOP</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='REVENDA' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='REVENDA DE ELETRO ELETRONICOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.FASTSHOP.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>32323008</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>34638650848</cpf>
+<passaporte></passaporte>
+<nome>JOSE RAMIRO DE SANTANA JUNIOR</nome>
+<credencial>RAMIRO</credencial>
+<data_nasc>01111985</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>JOSERSJ@FASTSHOP.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>957161692</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>02029001</cep>
+<endereco>AVENIDA ZAKI NARCHI</endereco>
+<nro>1664</nro>
+<complemento>1º ANDAR</complemento>
+<bairro>CARANDIRU</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag; Colarinho; Colas; Embalagem Cartonada Asséptica; Embalagem de Alumínio; Filmes; Plástico Rígido e Semirrígido; Rótulos e Etiquetas; Sacos; Selos; Tampas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Balanças; Borracha; Comunicação Visual; EPI; Impressoras; Lubrificantes; Misturadores e Transportadores; Sopradoras; Tubos de Aço Inoxidável; Válvulas; Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; Agrishow; Autocom; CARDS Payment &amp; Identification; ExpoVinis; Fenalaw; Fispal Café; Fispal Food Service; Fispal Food Service Nordeste; Fispal Sorvetes; Fispal Tecnologia Nordeste; ForMar; ForMóbile; HOSPITALMED; MercoAgro; Serigrafia SIGN FutureTEXTIL; SIAL Brazil; TecnoCarne; Vitafoods South America'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442714</id_cadastro>
+<id_visitante>316979</id_visitante>
+<id_empresa>115449</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:26:39</data_cadastro>
+<cnpj>02916065000107</cnpj>
+<razao_social>MAX SINAL GRAFICOS P/ INSTRUM. LTDA EPP</razao_social>
+<nome_fantasia>MAX-SINAL</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>PAPEIS TECNICOS; BOBINAS TERMICAS; GRAFICO TECNICO CIRCULAR, RETANGULAR E SANFONADO; CARTUCHOS E ELEMENTOS IMPRESSORES; SULFITE PARA IMPRESSAO DE DANFE (NFE), PERSONALIZADA; PENAS E CANETAS DESCARTAVEIS; CARTA GRAFICA MILIMETRADA; TINTA PARA REGISTRADORES</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COMERCIO E REPRESENTACAO DE PRODUTOS TECNICOS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.MAXSINAL.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>40918749</fone_1>
+<ramal_1>26</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>36045234863</cpf>
+<passaporte></passaporte>
+<nome>WILLIAN ALEXANDRE DA SILVA</nome>
+<credencial>WILLIAN ALEXANDRE</credencial>
+<data_nasc>19041990</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MAXSINAL@MAXSINAL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>FAX</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>40942717</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>011</ddd_3>
+<fone_3>963824998</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>09920730</cep>
+<endereco>RUA JOAO PAULO I</endereco>
+<nro>116</nro>
+<complemento></complemento>
+<bairro>CENTRO</bairro>
+<cidade>DIADEMA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em mídia digital'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem de Alumínio; Embalagem de Lata; Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Autoclave; Automação; Caldeiras; Equipamentos para Laboratório; Fornos Industriais; Refrigeração; Rotuladeiras; Sistemas Térmicos; Tanques; Tratamentos de Águas e Efluentes'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Manipuladores à Vácuo'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Tecnologia Nordeste; HOSPITALMED; MercoAgro; Serigrafia SIGN FutureTEXTIL'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Silk-Screen'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442715</id_cadastro>
+<id_visitante>44956</id_visitante>
+<id_empresa>43418</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:27:00</data_cadastro>
+<cnpj>02423920000148</cnpj>
+<razao_social>BIO SOJA FERTILIZANTES</razao_social>
+<nome_fantasia>GRUPO BIO SOJA</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.BIOSOJA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>012</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>38108000</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>21720841829</cpf>
+<passaporte></passaporte>
+<nome>LUCIANO DE BRITO VITORINO DE SOUSA</nome>
+<credencial>LUCIANO</credencial>
+<data_nasc>13071981</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LUCIANOSOUZA@BIOSOJA.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>81547718</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>16</ddd_3>
+<fone_3>38108000</fone_3>
+<ramal_3>8146</ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>14600000</cep>
+<endereco>AV. MARGINAL ESQUERDA</endereco>
+<nro>2000</nro>
+<complemento></complemento>
+<bairro>DISTRITO INDUSTRIAL</bairro>
+<cidade>SAO JOAQUIM DA BARRA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site do Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442721</id_cadastro>
+<id_visitante>88650</id_visitante>
+<id_empresa>43418</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:31:06</data_cadastro>
+<cnpj>02423920000148</cnpj>
+<razao_social>BIO SOJA FERTILIZANTES</razao_social>
+<nome_fantasia>GRUPO BIO SOJA</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.BIOSOJA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>012</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>38108000</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>21825108854</cpf>
+<passaporte></passaporte>
+<nome>FERNANDO DOS SANTOS TEIXEIRA</nome>
+<credencial>FERNANDO TEIXEIRA</credencial>
+<data_nasc>20121980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FERNANDOTEIXEIRA@BIOSOJA.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>012</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>92366152</fone_2>
+<ramal_2>8121</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>012</ddi_3>
+<ddd_3>16</ddd_3>
+<fone_3>381080000</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PRODUÇÃO / ACABAMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>14600000</cep>
+<endereco>AV. MARGINAL ESQUERDA</endereco>
+<nro>2000</nro>
+<complemento></complemento>
+<bairro>DISTRITO INDUSTRIAL</bairro>
+<cidade>SAO JOAQUIM DA BARRA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442725</id_cadastro>
+<id_visitante>316985</id_visitante>
+<id_empresa>84393</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:33:34</data_cadastro>
+<cnpj>43708379000100</cnpj>
+<razao_social>FAST SHOP S.A.</razao_social>
+<nome_fantasia>FAST SHOP</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='REVENDA' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='REVENDA DE ELETRO ELETRONICOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.FASTSHOP.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>32323008</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>33988895814</cpf>
+<passaporte></passaporte>
+<nome>LEILIANE MARIA DE LIMA</nome>
+<credencial>LIA LIMA</credencial>
+<data_nasc>18071986</data_nasc>
+<sexo>FEMININO</sexo>
+<email></email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>957161692</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>02029001</cep>
+<endereco>AVENIDA ZAKI NARCHI</endereco>
+<nro>1664</nro>
+<complemento>1º ANDAR</complemento>
+<bairro>CARANDIRU</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag; Colarinho; Filmes; Rótulos e Etiquetas; Sacos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Armadilhas Luminosas; Autoclave; Automação; Balanças; Bombas; Borracha; Celofanadoras; Componentes para Máquinas; Compressores; Comunicação Visual; Detector de Metais; Encartuchadeiras e Blisters; Sensores; Sopradoras'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Contentores; Correia Transportadora; Correias Máquinas; Correntes Transportadoras; Empilhadeiras; Esteira Transportadora; Manipuladores à Vácuo; Máquina Envolvedora de Filmes; Porta Pallets; Portas Automáticas; Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; Agrishow; Autocom; CARDS Payment &amp; Identification; ExpoVinis; Fenalaw; Fispal Café; Fispal Food Service; Fispal Food Service Nordeste; Fispal Sorvetes; Fispal Tecnologia Nordeste; ForMar; ForMóbile; HOSPITALMED; MercoAgro; Serigrafia SIGN FutureTEXTIL; SIAL Brazil; TecnoCarne; Vitafoods South America'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442728</id_cadastro>
+<id_visitante>316987</id_visitante>
+<id_empresa>12892</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:34:20</data_cadastro>
+<cnpj>77655009000165</cnpj>
+<razao_social>LATICINIOS CAROLINA LTDA</razao_social>
+<nome_fantasia>LATICINIOS CAROLINA LTDA</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA DE LATICINIOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.LATCAROLINA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>043</ddd_1>
+<fone_1>35361288</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>53290038904</cpf>
+<passaporte></passaporte>
+<nome>BATISTA LUIS BRAMBILLA</nome>
+<credencial>BATISTA</credencial>
+<data_nasc>13071963</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ADILSOM.DIAS@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>43</ddd_2>
+<fone_2>88408803</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>MECANICO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>86410000</cep>
+<endereco>RUA BENJAMIM CONSTANT</endereco>
+<nro>840</nro>
+<complemento>CENTRO</complemento>
+<bairro>CENTRO</bairro>
+<cidade>RIBEIRAO CLARO</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Filmes'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Lubrificantes; Máquinas de Embalagem; Máquinas de Empacotamento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442729</id_cadastro>
+<id_visitante>316988</id_visitante>
+<id_empresa>115450</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:34:50</data_cadastro>
+<cnpj>17717316000100</cnpj>
+<razao_social>RELUHAM BOLOS</razao_social>
+<nome_fantasia>RELUHAM</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>DOCES E BOLOS; DOCES; TORTAS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='LOJA 1' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>RELUHAM@HOTMAIL.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>011</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>29554636</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>04106026805</cpf>
+<passaporte></passaporte>
+<nome>HAMILTON LOPES VIEIRA</nome>
+<credencial>HAMILTON</credencial>
+<data_nasc>01041966</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>RELUHAM@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>11</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>982112503</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>11</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>29554636</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DIRETORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>02111000</cep>
+<endereco>RUA ITAUNAS</endereco>
+<nro>757</nro>
+<complemento></complemento>
+<bairro>VILA MARIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor; Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='EPI; Ingredientes; Máquinas de Embalagem; Máquinas para Massas Alimentícias'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Café; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442730</id_cadastro>
+<id_visitante>316989</id_visitante>
+<id_empresa>43418</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:35:05</data_cadastro>
+<cnpj>02423920000148</cnpj>
+<razao_social>BIO SOJA FERTILIZANTES</razao_social>
+<nome_fantasia>GRUPO BIO SOJA</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.BIOSOJA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>012</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>38108000</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08647685679</cpf>
+<passaporte></passaporte>
+<nome>PAULO REIS</nome>
+<credencial>PAULO</credencial>
+<data_nasc>07021986</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>PAULOREIS@BIOSOJA.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>012</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>38108000</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ENGENHARIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>14600000</cep>
+<endereco>AV. MARGINAL ESQUERDA</endereco>
+<nro>2000</nro>
+<complemento></complemento>
+<bairro>DISTRITO INDUSTRIAL</bairro>
+<cidade>SAO JOAQUIM DA BARRA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Bombonas; Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442736</id_cadastro>
+<id_visitante>316993</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:38:13</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>42627977830</cpf>
+<passaporte></passaporte>
+<nome>THIAGO IVERSEN</nome>
+<credencial>THIAGO IVERSEN</credencial>
+<data_nasc>02091993</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>THIAGO@APROCAMBRASIL.ORG.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>989274611</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>77815021</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>09811380</cep>
+<endereco>ALAMEDA DAS OLIVEIRAS</endereco>
+<nro>94</nro>
+<complemento>22</complemento>
+<bairro>VILA JERUSALEM</bairro>
+<cidade>SAO BERNARDO DO CAMPO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Bombonas; Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442739</id_cadastro>
+<id_visitante>234140</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:39:46</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>31600587860</cpf>
+<passaporte></passaporte>
+<nome>WELLINGTON R. AP. ALLGRETTI</nome>
+<credencial>WELLINGTON ALLEGRETTI</credencial>
+<data_nasc>14071984</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>WRAA.ALLEGRETTI@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>21</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>91255573</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>21</ddi_3>
+<ddd_3>19</ddd_3>
+<fone_3>91255573</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13064789</cep>
+<endereco>RUA DAS AROEIRAS</endereco>
+<nro>36</nro>
+<complemento></complemento>
+<bairro>VILA BOA VISTA</bairro>
+<cidade>CAMPINAS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Bombonas; Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442740</id_cadastro>
+<id_visitante>316995</id_visitante>
+<id_empresa>83703</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:39:57</data_cadastro>
+<cnpj>11243684000179</cnpj>
+<razao_social>SABOR EM BISCOITOS INDUSTRIA E COMERCIO LTDA.</razao_social>
+<nome_fantasia>SABOR EM BISCOITOS</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>PANIFICACAO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.SABOREMBISCOITOS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>41534283</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>08413029104</cpf>
+<passaporte></passaporte>
+<nome>LEONARDO BARBOSA SANTOS</nome>
+<credencial>LEONARDO</credencial>
+<data_nasc>17051955</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LEONARDO@SABOREMBISCOITOS.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>41534283</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>06541015</cep>
+<endereco>AVENIDA NETUNO</endereco>
+<nro>32</nro>
+<complemento></complemento>
+<bairro>ALPHAVILLE</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442745</id_cadastro>
+<id_visitante>256941</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:41:34</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>34848936802</cpf>
+<passaporte></passaporte>
+<nome>LUCAS LIMA SILVA</nome>
+<credencial>LUCAS LIMA</credencial>
+<data_nasc>13101987</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MANUTENCAO.LUCASLIMA@HOTMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>964772802</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>06653590</cep>
+<endereco>RUA AUGUSTA</endereco>
+<nro>136</nro>
+<complemento></complemento>
+<bairro>PARQUE BOA ESPERANCA</bairro>
+<cidade>ITAPEVI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442749</id_cadastro>
+<id_visitante>317001</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:42:40</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>14731686865</cpf>
+<passaporte></passaporte>
+<nome>REGIANE SPERA CURTI</nome>
+<credencial>REGIANE CURTI</credencial>
+<data_nasc>22061970</data_nasc>
+<sexo>FEMININO</sexo>
+<email>REGIANESCURTI@GLOBO.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>29556393</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>ESTUDANTE</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>MEDICINA VETERINARIA</departamento_outros>
+<cep>02124000</cep>
+<endereco>AVENIDA DAS CEREJEIRAS</endereco>
+<nro>1040</nro>
+<complemento>APTO 171</complemento>
+<bairro>JARDIM JAPAO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442765</id_cadastro>
+<id_visitante>317010</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:48:45</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>21750676885</cpf>
+<passaporte></passaporte>
+<nome>BIANCA DIONIZIO</nome>
+<credencial>BIANCA DIONIZIO</credencial>
+<data_nasc>28121981</data_nasc>
+<sexo>FEMININO</sexo>
+<email>BIANCA.DIONIZIO@TETRAPAK.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>38798677</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>19</ddd_3>
+<fone_3>995944909</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>13070752</cep>
+<endereco>AV. GOVERNADOR PEDRO DE TOLEDOR</endereco>
+<nro>442</nro>
+<complemento>APTO 84 - TORRE 4</complemento>
+<bairro>BONFIM</bairro>
+<cidade>CAMPINAS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442766</id_cadastro>
+<id_visitante>317011</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:48:46</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>33724769806</cpf>
+<passaporte></passaporte>
+<nome>DANIEL CALDATTO DALAN</nome>
+<credencial>DANIEL DALAN</credencial>
+<data_nasc>26091986</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>BRANCO_CORSHE@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>998347898</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>TECNICO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>06321250</cep>
+<endereco>RUA SERTANOPOLIS</endereco>
+<nro>13</nro>
+<complemento></complemento>
+<bairro>JARDIM JUSSARA</bairro>
+<cidade>CARAPICUIBA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Comprar Produtos e Serviços'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; TV'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442768</id_cadastro>
+<id_visitante>317013</id_visitante>
+<id_empresa>109580</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:50:14</data_cadastro>
+<cnpj>61142550000482</cnpj>
+<razao_social>IHARABRAS INDUSTRIAS QUIMICAS</razao_social>
+<nome_fantasia>IHARA</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>CERCOBIN</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='AGRONEGOCIOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.IHARA.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>15</ddd_1>
+<fone_1>32357900</fone_1>
+<ramal_1>887</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>26632355803</cpf>
+<passaporte></passaporte>
+<nome>FABIANO FERREIRA DA SILVA</nome>
+<credencial>FABIANO FERREIRA DA SILVA</credencial>
+<data_nasc>17101979</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FABIANO.SILVA@IHARA.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>15</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>998550836</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>18087170</cep>
+<endereco>AV. LIBERDADE</endereco>
+<nro>1701</nro>
+<complemento>NA</complemento>
+<bairro>CAJURU DO SUL</bairro>
+<cidade>SOROCABA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag; Bombonas; Filmes; Rótulos e Etiquetas; Sacos; Selos; Tampas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Balanças; Caldeiras; Centrífuga; Compressores; Impressoras; Lubrificantes; Máquinas de Empacotamento; Moinhos; Paletizadoras e Encaixotadoras; Prensas; Rotuladeiras; Seladoras; Sensores; Sistemas Térmicos; Tubos de Aço Inoxidável; Válvulas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correia Transportadora; Empilhadeiras; Esteira Transportadora; Máquina Envolvedora de Filmes; Porta Pallets; Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442769</id_cadastro>
+<id_visitante>42264</id_visitante>
+<id_empresa>22948</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:50:34</data_cadastro>
+<cnpj>96367289000150</cnpj>
+<razao_social>FRESK</razao_social>
+<nome_fantasia>FRESK</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>47411252</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>29717909830</cpf>
+<passaporte></passaporte>
+<nome>EMERSON BOIKO</nome>
+<credencial>EMERSON BOIKO</credencial>
+<data_nasc>13121980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>EBOIKO@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>47411252</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>08683000</cep>
+<endereco>RUA BENEDITO FARIA MARQUES FILHO</endereco>
+<nro>400</nro>
+<complemento></complemento>
+<bairro>PARQUE MARIA HELENA</bairro>
+<cidade>SUZANO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor; E-mail Marketing da Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação; Máquinas de Embalagem; Máquinas de Envase'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; Fispal Sorvetes; ABF Franchising Expo; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442772</id_cadastro>
+<id_visitante>317014</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:50:53</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>31945021829</cpf>
+<passaporte></passaporte>
+<nome>ALEXANDRE AUGUSTO FACHETI</nome>
+<credencial>ALEXANDRE FACHETI</credencial>
+<data_nasc>02011986</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ALEXANDREFACHETI@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>995958818</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>02244000</cep>
+<endereco>RUA HENRIQUE BRAGLIA</endereco>
+<nro>441</nro>
+<complemento></complemento>
+<bairro>VILA DOM PEDRO II</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pelo Expositor; E-mail Marketing da Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação; Máquinas de Embalagem; Máquinas de Envase'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Fispal Food Service; Fispal Sorvetes; ABF Franchising Expo; Fispal Food Service; Fispal Sorvetes'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442774</id_cadastro>
+<id_visitante>317015</id_visitante>
+<id_empresa>115455</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:51:34</data_cadastro>
+<cnpj>18180945000106</cnpj>
+<razao_social>JH DE A SCHORCK - CONSULTORIA E ASSESSORIA EMPRESARIAL</razao_social>
+<nome_fantasia>PRIMESE</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>CONSULTORIA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='PRESTADOR DE SERVICOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.PRIMESE.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>963440503</fone_1>
+<ramal_1></ramal_1>
+<sms_1>FALSE</sms_1>
+<cpf>29709023896</cpf>
+<passaporte></passaporte>
+<nome>ADALTO TSUGUIO TANIGUTI</nome>
+<credencial>ADALTO</credencial>
+<data_nasc>09021979</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ADALTOTANIGUTI@IG.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>949887469</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>12240380</cep>
+<endereco>RUA DAS MALVAS</endereco>
+<nro>116</nro>
+<complemento></complemento>
+<bairro>JARDIM DAS INDUSTRIAS</bairro>
+<cidade>SAO JOSE DOS CAMPOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em mídia digital'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Fornos Industriais; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos; Pisos Industriais; Prestador de Serviço; Secadores; Tratamentos de Águas e Efluentes; Ventilação e Iluminação Natural'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Correntes Transportadoras; Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; Agrishow; Fispal Café; Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442776</id_cadastro>
+<id_visitante>256948</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:53:22</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>34726358863</cpf>
+<passaporte></passaporte>
+<nome>FERNANDA DOS SANTOS ALMEIDA</nome>
+<credencial>FERNANDA SANTOS</credencial>
+<data_nasc>29121985</data_nasc>
+<sexo>FEMININO</sexo>
+<email>MANUTENCAO.LUCASLIMA@HOTMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>011</ddd_2>
+<fone_2>964765458</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>06653590</cep>
+<endereco>RUA AUGUSTA</endereco>
+<nro>136</nro>
+<complemento></complemento>
+<bairro>PARQUE BOA ESPERANCA</bairro>
+<cidade>ITAPEVI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em mídia digital'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Fornos Industriais; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos; Pisos Industriais; Prestador de Serviço; Secadores; Tratamentos de Águas e Efluentes; Ventilação e Iluminação Natural'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Correntes Transportadoras; Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; Agrishow; Fispal Café; Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442778</id_cadastro>
+<id_visitante>317016</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 18:53:58</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>31150384883</cpf>
+<passaporte></passaporte>
+<nome>IGOR CANDIDO FERREIRA</nome>
+<credencial>IGOR FERREIRA</credencial>
+<data_nasc>01031983</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CFIGOR@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>22180269</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>993160299</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>02066010</cep>
+<endereco>RUA CAPITAO LUIS RAMOS</endereco>
+<nro>189</nro>
+<complemento></complemento>
+<bairro>CARANDIRU</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio em mídia digital'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Fornos Industriais; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos; Pisos Industriais; Prestador de Serviço; Secadores; Tratamentos de Águas e Efluentes; Ventilação e Iluminação Natural'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Correntes Transportadoras; Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; Agrishow; Fispal Café; Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442783</id_cadastro>
+<id_visitante>317019</id_visitante>
+<id_empresa>115457</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:55:18</data_cadastro>
+<cnpj>10606068000172</cnpj>
+<razao_social>TAY HERBS COMERICO DE PRODUTOS NATURAS LTDA</razao_social>
+<nome_fantasia>SABOR E SAUDE PRODUTOS NATURAIS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COMERCIO DE PRODUTOS NATURAIS E ALIMENTACAO' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.SABORESAUDEALIMENTOS.COM</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>43</ddd_1>
+<fone_1>30281147</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>00550394990</cpf>
+<passaporte></passaporte>
+<nome>THAIS AMY POLIZELLI DE ALMEIDA</nome>
+<credencial>THAIS POLIZELLI</credencial>
+<data_nasc>26091977</data_nasc>
+<sexo>FEMININO</sexo>
+<email>SABORESAUDELOJA2@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>43</ddd_2>
+<fone_2>30281147</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>86050140</cep>
+<endereco>RUA LA PAZ</endereco>
+<nro>460</nro>
+<complemento>SALA A</complemento>
+<bairro>GUANABARA</bairro>
+<cidade>LONDRINA</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Cartonada Asséptica; Embalagem Flexível; Plástico Rígido e Semirrígido; Rótulos e Etiquetas; Tampas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Balanças; Caldeiras; Centrífuga; Componentes para Máquinas; Fornos Industriais; Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas para Indústria de Alimentos; Molde para Balas e Biscoitos; Refrigeração; Secadores; Seladoras; Termômetros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Manipuladores à Vácuo'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service; Fispal Tecnologia Nordeste'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442784</id_cadastro>
+<id_visitante>317020</id_visitante>
+<id_empresa>11698</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:55:44</data_cadastro>
+<cnpj>29991395000113</cnpj>
+<razao_social>LANDH`S IND. E COM. LTDA</razao_social>
+<nome_fantasia>LANDH`S</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto>LIXA DE UNHAS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.LANDHS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>21</ddd_1>
+<fone_1>25953663</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>06977397756</cpf>
+<passaporte></passaporte>
+<nome>FELIPE BELACIANO</nome>
+<credencial>FELIPE</credencial>
+<data_nasc>04021977</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FELIPE@LANDHS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>21</ddd_2>
+<fone_2>25953663</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>20760510</cep>
+<endereco>RUA VAZ DA COSTA</endereco>
+<nro>61</nro>
+<complemento>E 65</complemento>
+<bairro>INHAUMA</bairro>
+<cidade>RIO DE JANEIRO</cidade>
+<uf>RJ</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Celofanadoras; Fornos Industriais'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Silk-Screen'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Silk-Screen'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442785</id_cadastro>
+<id_visitante>317021</id_visitante>
+<id_empresa>115455</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:56:32</data_cadastro>
+<cnpj>18180945000106</cnpj>
+<razao_social>JH DE A SCHORCK - CONSULTORIA E ASSESSORIA EMPRESARIAL</razao_social>
+<nome_fantasia>PRIMESE</nome_fantasia>
+<qtde_funcionarios>11 A 50</qtde_funcionarios>
+<principal_produto>CONSULTORIA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='PRESTADOR DE SERVICOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.PRIMESE.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>963440503</fone_1>
+<ramal_1></ramal_1>
+<sms_1>FALSE</sms_1>
+<cpf>32160673862</cpf>
+<passaporte></passaporte>
+<nome>JESSIKA HALINE DE ANGELIS SCHORCK</nome>
+<credencial>HALINE</credencial>
+<data_nasc>15121983</data_nasc>
+<sexo>FEMININO</sexo>
+<email>JESSIKASCHORCK@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>963440503</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DIRETORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>12240380</cep>
+<endereco>RUA DAS MALVAS</endereco>
+<nro>116</nro>
+<complemento></complemento>
+<bairro>JARDIM DAS INDUSTRIAS</bairro>
+<cidade>SAO JOSE DOS CAMPOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Revista Leite e Derivados'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Leite e Derivados'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442789</id_cadastro>
+<id_visitante>317008</id_visitante>
+<id_empresa>115454</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:57:00</data_cadastro>
+<cnpj>10571400000100</cnpj>
+<razao_social>BRA FOMENTO MERCANTIL LTDA</razao_social>
+<nome_fantasia>BRA FOMENTO</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='FACTORING' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.BRAFOMENTO.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>24734111</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>26051204814</cpf>
+<passaporte></passaporte>
+<nome>WILSON BARBARA JUNIOR</nome>
+<credencial>WILSON BARBARA JUNIOR</credencial>
+<data_nasc>11041975</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>WILSON@BRAFOMENTO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>24734111</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>984540408</fone_3>
+<ramal_3></ramal_3>
+<sms_3>FALSE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>12914490</cep>
+<endereco>AV MARCELO STEFANI</endereco>
+<nro>15</nro>
+<complemento></complemento>
+<bairro>JARDIM DO LAGO</bairro>
+<cidade>BRAGANCA PAULISTA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia; Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442791</id_cadastro>
+<id_visitante>47674</id_visitante>
+<id_empresa>50206</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 18:58:39</data_cadastro>
+<cnpj>50221019000136</cnpj>
+<razao_social>BRASIL KIRIN INDUSTRIA DE BEBIDAS SA</razao_social>
+<nome_fantasia>BRASIL KIRIN</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>CERVEJA E REFRIGERANTE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA DE BEBIDAS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.BRASILKIRIN.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>40229500</fone_1>
+<ramal_1>9541</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>18226095859</cpf>
+<passaporte></passaporte>
+<nome>ALEXANDRE ROBERTO RODRIGUES</nome>
+<credencial>ALEXANDRE ROBERTO RODRIGUES</credencial>
+<data_nasc>21041976</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ALEXANDRE.RODRIGUES@BRASILKIRIN.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>40229541</fone_2>
+<ramal_2>9541</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13312900</cep>
+<endereco>RODOVIA MARECHAL RONDON, KM111</endereco>
+<nro>2222</nro>
+<complemento>A 2300</complemento>
+<bairro>ITAIM</bairro>
+<cidade>ITU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem de Lata; Filmes; Tampas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas de Envase; Máquinas para a Indústria de Bebidas; Redutores e Motoredutores; Secadores'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Esteira Transportadora; Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442798</id_cadastro>
+<id_visitante>317029</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:03:01</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>08879057731</cpf>
+<passaporte></passaporte>
+<nome>LUIZANGELO PAULO</nome>
+<credencial>LUIZANGELO PAULO</credencial>
+<data_nasc>24111981</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LUIZANGELOPAULO@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>044</ddi_2>
+<ddd_2>044</ddd_2>
+<fone_2>35432113</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>COMPRADOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>85440000</cep>
+<endereco>RUA DAS ARAUCARIASUBIRATA</endereco>
+<nro>75</nro>
+<complemento></complemento>
+<bairro>CENTRO</bairro>
+<cidade>UBIRATAONLINE</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem de Lata; Filmes; Tampas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas de Envase; Máquinas para a Indústria de Bebidas; Redutores e Motoredutores; Secadores'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correia Transportadora; Esteira Transportadora; Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442800</id_cadastro>
+<id_visitante>317031</id_visitante>
+<id_empresa>115459</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:04:25</data_cadastro>
+<cnpj>20029444000167</cnpj>
+<razao_social>SERGIO DOURADO DE BRITO</razao_social>
+<nome_fantasia>GOLD PROJETOS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MAQUINAS DE CORTAR PIZZA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE MAQUINAS E EQUIPAMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>000</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>957531091</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>27050137847</cpf>
+<passaporte></passaporte>
+<nome>SERGIO DOURADO DE BRITO</nome>
+<credencial>SERGIO DOURADO</credencial>
+<data_nasc>13091979</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>SERGIO@GOLDPROJETOS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>000</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>27318174</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>000</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>970961346</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>DIRETORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>08371170</cep>
+<endereco>RUA PERUNA</endereco>
+<nro>21</nro>
+<complemento>B</complemento>
+<bairro>JARDIM HELENA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Site de Busca (Google, Bing, etc)'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Máquinas para Indústria de Alimentos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442808</id_cadastro>
+<id_visitante>249582</id_visitante>
+<id_empresa>93106</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:09:01</data_cadastro>
+<cnpj>76490184003526</cnpj>
+<razao_social>LEAO COCA-COLA</razao_social>
+<nome_fantasia>LEAO COCA-COLA</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA DE BEBIDAS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.LEAOALIMENTOSEBEBIDAS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>38095000</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>25436954863</cpf>
+<passaporte></passaporte>
+<nome>LUIS FERREIRA MOTA FILHO</nome>
+<credencial>LUIS MOTA</credencial>
+<data_nasc>14081975</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>LFILHO@LEAOALIMENTOSEBEBIDAS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38095252</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>05424010</cep>
+<endereco>RUA PAES LEME</endereco>
+<nro>524</nro>
+<complemento>10 ANDAR</complemento>
+<bairro>PINHEIROS</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Armadilhas Luminosas; Automação; Caldeiras; Celofanadoras; Cortina de Ar; Detector de Metais; Inspetores para a Indústria de Bebidas; Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas de Envase; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos; Marcação e Codificação; Paletizadoras e Encaixotadoras; Pisos Industriais; Sala Limpa; Tratamentos de Águas e Efluentes; Ventilação e Iluminação Natural'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442810</id_cadastro>
+<id_visitante>258142</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:09:38</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>11710823631</cpf>
+<passaporte></passaporte>
+<nome>LUIZA SOARES WOLBERT</nome>
+<credencial>LUIZA WOLBERT</credencial>
+<data_nasc>01051992</data_nasc>
+<sexo>FEMININO</sexo>
+<email>LUIZAWOLBERT@GMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>31</ddd_2>
+<fone_2>96223109</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>30720410</cep>
+<endereco>RUA HUMAITA</endereco>
+<nro>829</nro>
+<complemento>303</complemento>
+<bairro>PADRE EUSTAQUI</bairro>
+<cidade>BELO HORIZONTE</cidade>
+<uf>MG</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Armadilhas Luminosas; Automação; Caldeiras; Celofanadoras; Cortina de Ar; Detector de Metais; Inspetores para a Indústria de Bebidas; Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas de Envase; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos; Marcação e Codificação; Paletizadoras e Encaixotadoras; Pisos Industriais; Sala Limpa; Tratamentos de Águas e Efluentes; Ventilação e Iluminação Natural'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442812</id_cadastro>
+<id_visitante>317036</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:10:22</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>01340311801</cpf>
+<passaporte></passaporte>
+<nome>FRANCISCO DIAS</nome>
+<credencial>GARRAFARIA DIAS</credencial>
+<data_nasc>06051959</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>GR.DIAS@UOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>15</ddi_2>
+<ddd_2>15</ddd_2>
+<fone_2>97712693</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>15</ddi_3>
+<ddd_3>15</ddd_3>
+<fone_3>32124449</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>18090230</cep>
+<endereco>RUA ANA M CARVALHO</endereco>
+<nro>436</nro>
+<complemento></complemento>
+<bairro>JD STA ROSALIA</bairro>
+<cidade>SOROCABA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Armadilhas Luminosas; Automação; Caldeiras; Celofanadoras; Cortina de Ar; Detector de Metais; Inspetores para a Indústria de Bebidas; Máquinas de Embalagem; Máquinas de Empacotamento; Máquinas de Envase; Máquinas para a Indústria de Bebidas; Máquinas para Indústria de Alimentos; Marcação e Codificação; Paletizadoras e Encaixotadoras; Pisos Industriais; Sala Limpa; Tratamentos de Águas e Efluentes; Ventilação e Iluminação Natural'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442814</id_cadastro>
+<id_visitante>317038</id_visitante>
+<id_empresa>115459</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:12:06</data_cadastro>
+<cnpj>20029444000167</cnpj>
+<razao_social>SERGIO DOURADO DE BRITO</razao_social>
+<nome_fantasia>GOLD PROJETOS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MAQUINAS DE CORTAR PIZZA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE MAQUINAS E EQUIPAMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>000</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>957531091</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>31439186839</cpf>
+<passaporte></passaporte>
+<nome>ELISANGELA CASTANHO DE BRITO</nome>
+<credencial>ELISANGELA CASTANHO</credencial>
+<data_nasc>05111982</data_nasc>
+<sexo>FEMININO</sexo>
+<email>LIKADOURADO@BOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>000</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>27318174</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>000</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>957531091</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONTABILIDADE / CONTROLADORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>08371170</cep>
+<endereco>RUA PERUNA</endereco>
+<nro>21</nro>
+<complemento>B</complemento>
+<bairro>JARDIM HELENA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Outros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442829</id_cadastro>
+<id_visitante>317048</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:21:36</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>28268160802</cpf>
+<passaporte></passaporte>
+<nome>FERNANDO SCOGNAMIGLIO</nome>
+<credencial>FERNANDO SCOGNAMIGLIO</credencial>
+<data_nasc>27081979</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FERNANDO.MAFEM@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>015</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>34418487</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>015</ddi_3>
+<ddd_3>19</ddd_3>
+<fone_3>974057541</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13484339</cep>
+<endereco>AVENIDA DOUTOR FABRICIO VAMPRE</endereco>
+<nro>474</nro>
+<complemento></complemento>
+<bairro>JARDIM PIRATININGA</bairro>
+<cidade>LIMEIRA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Outros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442830</id_cadastro>
+<id_visitante>317049</id_visitante>
+<id_empresa>109934</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:21:52</data_cadastro>
+<cnpj>29737368000119</cnpj>
+<razao_social>MARS BRASIL ALIMENTOS</razao_social>
+<nome_fantasia>MARS BRASIL ALIMENTOS</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>PEDIGREE; MM&amp;S, SNICKERS, TWIX, RARIS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>MARSBRASIL.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>19</ddd_1>
+<fone_1>38058600</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>87019175953</cpf>
+<passaporte></passaporte>
+<nome>ODAIR MORAES DA SILVA</nome>
+<credencial>ODAIR</credencial>
+<data_nasc>13071972</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FABIOCOLLA1203@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>555</ddi_2>
+<ddd_2>19</ddd_2>
+<fone_2>38041059</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>OPERADOR</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13800000</cep>
+<endereco>AV. CAETANO SCHINCARIOL,</endereco>
+<nro>900</nro>
+<complemento></complemento>
+<bairro>PQ IND. J.MARGANGONI</bairro>
+<cidade>MOGI MIRIM</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Pet'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Máquinas para Indústria de Alimentos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Esteira Transportadora'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442833</id_cadastro>
+<id_visitante>317050</id_visitante>
+<id_empresa>115461</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:22:39</data_cadastro>
+<cnpj>09264348000160</cnpj>
+<razao_social>REVISAO NEGOCIOS IMOBILIARIOS LTDA</razao_social>
+<nome_fantasia>REVISAO NEGOCIOS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>CONSULTORIA DE NEGOCIOS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='NEGOCIOS IMOBILIARIOS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.REVISAOIIMOVEIS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>29872302</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>91089387849</cpf>
+<passaporte></passaporte>
+<nome>LUIZ CARLOS TIBURCIO DA SILVA TIBURCIO DA SILVA</nome>
+<credencial>LUIZ CARLOS TIOBURCIO</credencial>
+<data_nasc>30081957</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>L-TIBURCIO@UOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>20872303</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>07012020</cep>
+<endereco>RUA DR. RAMOS DE AZEVEDO</endereco>
+<nro>159</nro>
+<complemento>11º</complemento>
+<bairro>CENTRO</bairro>
+<cidade>GUARULHOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Prestador de Serviço'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correntes Transportadoras'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; MercoAgro'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442837</id_cadastro>
+<id_visitante>317053</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:24:55</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>30894295861</cpf>
+<passaporte></passaporte>
+<nome>ALEANDRA DE SOUZA PAIVA</nome>
+<credencial>ALEANDRA</credencial>
+<data_nasc>08081983</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ALEANDRA.PAIVA@AMDISTRIBUICAO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>11</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>24014339</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>11</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>21928980</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>SUPERVISOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>07131000</cep>
+<endereco>RUA SARUTAIA</endereco>
+<nro>357</nro>
+<complemento></complemento>
+<bairro>JARDIM SAO PAULO</bairro>
+<cidade>GUARULHOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Prestador de Serviço'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correntes Transportadoras'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; MercoAgro'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442839</id_cadastro>
+<id_visitante>317055</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:25:34</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>30409027847</cpf>
+<passaporte></passaporte>
+<nome>MARCEL CAVALHEIRO</nome>
+<credencial>MARCEL CAVALHEIRO</credencial>
+<data_nasc>15031982</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ADMMARCEL@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>995643688</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>ADMINISTRACAO</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>07850230</cep>
+<endereco>RUA FLORIANO PEIXOTO</endereco>
+<nro>174</nro>
+<complemento></complemento>
+<bairro>CENTRO</bairro>
+<cidade>FRANCO DA ROCHA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Anúncio e Matérias em Jornais Impressos; Anúncio e Matérias em Revistas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Prestador de Serviço'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Correntes Transportadoras'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; MercoAgro'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442856</id_cadastro>
+<id_visitante>317071</id_visitante>
+<id_empresa>42475</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:32:56</data_cadastro>
+<cnpj>88304001000251</cnpj>
+<razao_social>HARALD IND. E COM. DE ALIMENTOS LTDA</razao_social>
+<nome_fantasia>HARALD</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.HARALD.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>41569000</fone_1>
+<ramal_1>9202</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>34756753825</cpf>
+<passaporte></passaporte>
+<nome>EXPEDITO PINTO</nome>
+<credencial>EXPEDITO</credencial>
+<data_nasc>25031988</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>EXPEDITO.PINTO@HARALD.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>41569000</fone_2>
+<ramal_2>9202</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ENGENHEIRO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>06528551</cep>
+<endereco>ESTRADA ANA PROCOPIO DE MORAES</endereco>
+<nro>745</nro>
+<complemento>000</complemento>
+<bairro>VARZEA DO SOUSA</bairro>
+<cidade>SANTANA DE PARNAIBA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Colarinho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442859</id_cadastro>
+<id_visitante>248982</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:35:10</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>40148829856</cpf>
+<passaporte></passaporte>
+<nome>DANILO ANDREI VOLPATO ROMAO</nome>
+<credencial>DANILO VOLPATO</credencial>
+<data_nasc>08101992</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DANILO.ROMAO@BRASILKIRIN.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>40229500</fone_2>
+<ramal_2>2281</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13324265</cep>
+<endereco>RUA DAS TABARANAS</endereco>
+<nro>169</nro>
+<complemento></complemento>
+<bairro>SALTO DE SAO JOSE</bairro>
+<cidade>SALTO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Colarinho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Automação'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442863</id_cadastro>
+<id_visitante>307834</id_visitante>
+<id_empresa>113534</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:36:54</data_cadastro>
+<cnpj>12726155000199</cnpj>
+<razao_social>QUANTUM INTERANTIONAL BUSINESS CORP</razao_social>
+<nome_fantasia>QUANTUM STEEL</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='ACOS ESPECIAIS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.QUANTUMSTEEL.COM.NR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>30545353</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>01442235896</cpf>
+<passaporte></passaporte>
+<nome>FERNANDO JOSE LOPES VALENTE</nome>
+<credencial>FERNANDO VALENTE</credencial>
+<data_nasc>09111963</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FERNANDO.VALENTE@QUANTUMSTEEL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>30545353</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>983968444</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>04552050</cep>
+<endereco>RUA HELENA</endereco>
+<nro>218</nro>
+<complemento>CJTO 504</complemento>
+<bairro>VILA OLIMPIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442865</id_cadastro>
+<id_visitante>317078</id_visitante>
+<id_empresa>110270</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:38:37</data_cadastro>
+<cnpj>08677036000116</cnpj>
+<razao_social>DAKOTAPARTS</razao_social>
+<nome_fantasia>CONNECTPARTS</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto>EMBALAGEM</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='ACESSORIOS E PECAS AUTOMOTIVAS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.CONNECTPARTS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>15</ddi_1>
+<ddd_1>14</ddd_1>
+<fone_1>33118100</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>22133214852</cpf>
+<passaporte></passaporte>
+<nome>TIAGO DE AZEVEDO</nome>
+<credencial>TIAGO AZEVEDO</credencial>
+<data_nasc>06051980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>TIAGO.AZEVEDO@CONNECTPARTS.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>00</ddi_2>
+<ddd_2>14</ddd_2>
+<fone_2>33118149</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>00</ddi_3>
+<ddd_3>14</ddd_3>
+<fone_3>998102928</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>17512120</cep>
+<endereco>RUA CARLOS TOSIN</endereco>
+<nro>1256</nro>
+<complemento></complemento>
+<bairro>DISTRITO INDUSTRIAL</bairro>
+<cidade>MARILIA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Big Bag; Embalagem Cartonada Asséptica; Embalagem Flexível; Filmes; Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Impressoras; Máquinas de Embalagem; Máquinas de Empacotamento'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Caixas / Contentores Plásticos; Esteira Transportadora; Máquina Envolvedora de Filmes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442870</id_cadastro>
+<id_visitante>248903</id_visitante>
+<id_empresa>50206</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:40:24</data_cadastro>
+<cnpj>50221019000136</cnpj>
+<razao_social>BRASIL KIRIN INDUSTRIA DE BEBIDAS SA</razao_social>
+<nome_fantasia>BRASIL KIRIN</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto>CERVEJA E REFRIGERANTE</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA DE ALIMENTOS' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INDUSTRIA DE BEBIDAS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.BRASILKIRIN.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>40229500</fone_1>
+<ramal_1>9541</ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>40248254880</cpf>
+<passaporte></passaporte>
+<nome>MATEUS BATISTA</nome>
+<credencial>MATEUS BATISTA</credencial>
+<data_nasc>08101991</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MATEUS.BATISTA@BRASILKIRIN.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>40229500</fone_2>
+<ramal_2>2281</ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>13312900</cep>
+<endereco>RODOVIA MARECHAL RONDON, KM111</endereco>
+<nro>2222</nro>
+<complemento>A 2300</complemento>
+<bairro>ITAIM</bairro>
+<cidade>ITU</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Não tem Envolvimento'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Outros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Outros'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Tecnologia Nordeste'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Revista Sign'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442875</id_cadastro>
+<id_visitante>65660</id_visitante>
+<id_empresa>33893</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:46:38</data_cadastro>
+<cnpj>13227874000128</cnpj>
+<razao_social>DONA PELE INDUSTRIA E COMERCIO DE COSMETICOS LTDA-ME</razao_social>
+<nome_fantasia>DONA PELE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>CERA DEPILATORIA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.DONAPELE.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>16</ddd_1>
+<fone_1>997082226</fone_1>
+<ramal_1></ramal_1>
+<sms_1>FALSE</sms_1>
+<cpf>49988395604</cpf>
+<passaporte></passaporte>
+<nome>ALCEU DOS SANTOS JUNIOR</nome>
+<credencial>ALCEU</credencial>
+<data_nasc>28021965</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ALCEUJUNIOR@UOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>16</ddd_2>
+<fone_2>99622607</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>14680000</cep>
+<endereco>RUA ARTUR COSTACURTA</endereco>
+<nro>550</nro>
+<complemento>BOX 03</complemento>
+<bairro>INDUSTRIAL</bairro>
+<cidade>JARDINOPOLIS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Influencia'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Colegas de Trabalho'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Embalagem Pet; Plástico Rígido e Semirrígido; Rótulos e Etiquetas'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Máquinas de Envase; Máquinas para as Indústrias Química, Fármaco e Cosmética'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Não tenho interesse neste setor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442884</id_cadastro>
+<id_visitante>69017</id_visitante>
+<id_empresa>9459</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>05/06/2014 19:52:43</data_cadastro>
+<cnpj>64687015000152</cnpj>
+<razao_social>IPANEMA IND. DE PROD. VETERINARIOS</razao_social>
+<nome_fantasia>IPANEMA</nome_fantasia>
+<qtde_funcionarios>101 A 500</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='INDUSTRIA QUIMICA, FAMARCEUTICA E COSMETICA' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>15</ddd_1>
+<fone_1>997859230</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>21485092841</cpf>
+<passaporte></passaporte>
+<nome>MARCELO DUARTE</nome>
+<credencial>MARCELO DUARTE</credencial>
+<data_nasc>17021979</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MDUARTE@IPAFARMA.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>015</ddd_2>
+<fone_2>33291052</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>15</ddd_3>
+<fone_3>32819450</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>INDUSTRIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>18190000</cep>
+<endereco>ROD RAPOSO TAVARES</endereco>
+<nro>KM113</nro>
+<complemento>EMPRESA</complemento>
+<bairro>BARREIRO</bairro>
+<cidade>ARACOIABA DA SERRA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Bombonas; Colas; Embalagem de Alumínio; Embalagem de Lata; Embalagem Flexível; Embalagem Pet; Filmes; Rótulos e Etiquetas; Selos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Balanças'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correias Máquinas; Esteira Transportadora; Manipuladores à Vácuo; Máquina Envolvedora de Filmes; Porta Pallets; Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>442891</id_cadastro>
+<id_visitante>317094</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>05/06/2014 19:55:03</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>27508442822</cpf>
+<passaporte></passaporte>
+<nome>REGINALDO APARECIDO CARVALHO</nome>
+<credencial>SR.REGINALDO CARVALHO</credencial>
+<data_nasc>06101978</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>REGINALDOFRUPIC@OUTLOOK.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>016</ddd_2>
+<fone_2>997222852</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MANUTENÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>14875054</cep>
+<endereco>AVENIDA LUIZ PAULO MARTINS</endereco>
+<nro>71</nro>
+<complemento>CASA</complemento>
+<bairro>JARDIM BOTHANICO</bairro>
+<cidade>JABOTICABAL</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Qual sua relação com a decisão de compra?' resposta='Aprova'/>
+<pergunta questao='Quais negócios pretende realizar na feira? ' resposta='Aprimoramento Profissional; Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de EMBALAGENS?' resposta='Bombonas; Colas; Embalagem de Alumínio; Embalagem de Lata; Embalagem Flexível; Embalagem Pet; Filmes; Rótulos e Etiquetas; Selos'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de PROCESSOS?' resposta='Aplicadores de Hot Melt; Balanças'/>
+<pergunta questao='Quais produtos você tem interesse dentro do setor de LOGÍSTICA?' resposta='Correias Máquinas; Esteira Transportadora; Manipuladores à Vácuo; Máquina Envolvedora de Filmes; Porta Pallets; Robôs'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Fispal Food Service'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+</credenciamento>

@@ -1,0 +1,3242 @@
+<table cellpadding='2' cellspacing='1' border='1' style='font-family:Verdana, Geneva, sans-serif; font-size:12px;'>
+<tr>
+<td>Evento</td>
+<td>Tipo</td>
+<td>Ano</td>
+<td>Nome</td>
+<td>Curso</td>
+<td>Email</td>
+<td>Ativo</td>
+<td>ID_Empresa</td>
+<td>Razão Social</td>
+<td>Nome Fantasia</td>
+<td>Reitor</td>
+<td>Nome Completo</td>
+<td>Cargo</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ADRIANA COSTA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PARADRICA2007@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>AGHATA EIKO RODRIGUES SAKAMOTO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>AILTON DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALEXANDRE GONCALVES DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ALINE CRISTINA ARRUDA GONCALVES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ACARRUDA@UFSJ.EDU.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALINE OLIVEIRA SOUZA</td>
+<td>ENGENHARIA AGRONOMICA</td>
+<td>ALINEOLIVEIRA12@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALINE PEREIRA SANTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ALINEALIMENTOS@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALLAN DE AZEVEDO NASCIMENTO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>AMANDA BATISTA DUTRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA CAROLINA LUIZ DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA CLAUDIA MORAIS SOUZA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANACLAUDIA_PRADOS@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA LIVIA LAVARINI COSTA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANALIVIALAVARI@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA LUIZA CANTO ELIAS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA MARCIA SATURNINO RODRIGUES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANA_SATURNINO@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA PAULA ARAUJO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANAPAULA_UFSJ@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA PAULA ASSIS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANAPAULA1991@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA PAULA BRESSANI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PAULINHABRESSANI@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANANDA CRIS LAMAS OLIVEIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ANDRE FELIPE COSTA PALANDI</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDRE GONCALVES DE MORAES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDRE PINTO RODRIGUES VIEIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDREA RESENDE DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDREIA SILVA BENERIZ MAURICIO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDRESSA CAVALCANTE DE LIMA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANGELICA SOARES MOREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANJEL1408@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BARBARA DANIELLE DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BIACBS@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BEATRIZ CUESTA POLLATO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BEATRIZ SOUZA DO NASCIMENTO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BIANCA PEREIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BIANCA PEREIRA DE SOUZA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA LOURDES DO NASCIMENTO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNO DE OLIVEIRA SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAIO NEY FELIZARDO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAMILA ARAUJO PINTO DA COSTA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAMILA BATISTA LISBOA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CAMILAB_LISBOA@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAMILA GONCALVES RODRIGUES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KKGONCALVES_UFSJ@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAMILA MAIRA PINTO CRISTELI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CMPC1708@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAROLINA CASAGRANDE DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAROLINE AYUMI UMETSU</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>CHRISTIANO VIEIRA PIRES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CHRISTIANO@UFSJ.EDU.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CINTIA GUIMARAES PENIDO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CINTIAGUINIDO@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CLARICE FERRAZ LIMA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CLAUDIA HELENA LOPES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DAIANE GUEDES DE OLIVEIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DANILO DA SILVA RICIERI</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DEBORA ROCHA CORREIA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DEIVID WILLIAN DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DIOGO DA COSTA GONCALVES</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DJOVANA ALVES GOMES</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EDNA AKEMI IKEDA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EDUARDO RESENDE DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ELAINE LOPES</td>
+<td>MATEMATICA</td>
+<td>LILLIKA@GMAIL.COM</td>
+<td>False</td>
+<td>46910</td>
+<td>GOVERNO DO ESTADO DE SAO PAULO</td>
+<td>GOVERNO DO ESTADO DE SAO PAULO</td>
+<td>GERALDO ALKIMIN</td>
+<td>LAURA HONORIO DE CARVALHO ESPINOZA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELISA AGOSTINHO MORAIS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ELISAAG_15@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELLEN GONCALVES FERNANDES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EMILY CRISTINE DA CONCEICAO PEREIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ERIKA LOPES DUARTE</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ERIKINHA-15-@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EURIDES APARECIDA SILVEIRA MENDES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>EURIDESMENDES2012@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EVELISE CRISTINA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FABRICIA GOMES MACHADO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FAGGOMES@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FABRICIO FERRAZ RODRIGUES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FELIPE CAMARGO SEGRETO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA COSTA ABREU</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FETUS.DOI@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA DE OLIVEIRA DOURADO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA HELENA RONDON BRONZATTO DO PRADO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA PINHEIRO DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FLAVIA FREIRE DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FLAVIA LUCINDO MARTINS SOUSA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FLAVIA SHIZUE SUZUKI</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FRANCIELLY CRUZ GONCALO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIEL DA MATA E PEREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GABRIELDAMATA13@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIEL HENRIQUE DE MEDEIROS MOTTA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIEL PSSELIN DE ALMEIDA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA BONIZOLLI DE ALMEIDA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA DO PRADO LAGE</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA PAOLLA MORAES PEIXOTO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA ROCHA FERNANDES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>AGABIN@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELLE RIGONATI GODOI PIZANO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GILIANE KEITY DE SOUZA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GILIANEKEITY@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GLAUCIA VICENTE ALVES DE MIRANDA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GRAZIELLE SOUZA RAMOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>HELEM PEREIRA DE CAMPOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>HELEM_PCAMPOS@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>HELEN DANTAS SCARPINO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>IAGO MIRANDA FREITAS PIRES</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>IARA CAMILA DE ALMEIDA BOLINA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>IARABOLINA@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISABELLA ASSIS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANAPAULA1991@GMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JANAINA MARA BELITARDO MARTINS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JANAINA MARGARETH REIS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JANAINE BARBOSA DE OLIVEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JANAINEBARBOSA-97@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JAQUELYNE CONCEICAO DE SOUSA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSICA DA SILVA ALEXANDRINO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSICA FERREIRA DAS NEVES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JESSICANEVES_UFSJ@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSICA PEREIRA ALVES</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSICA SOARES MIRANDA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JESSIQUINHASM@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSIKA BRENDA PINHEIRO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JESSIKA.UFSJ@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSIKA KARROLINE SANTIAGO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JESSIKAROOL@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JHON ANDERSON MARTINS SOUSA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JHONES LIMA LE</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOAO LUCAS DOS SANTOS PIRES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JLUCASPIRES@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOAO VICTOR DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JONATAS MAGALHAES COSTA</td>
+<td>ENGENHARIA AGRONOMICA</td>
+<td>MARINAMHEL@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE CARLOS DA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE ROBERTO CARLOTA JUNIOR</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE WELLINGTON GOLCALVES</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>JULIANA CRISTINA SAMPAIO RIGUEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JULIANACRISTINA@UFSJ.EDU.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA DE CARVALHO LEITE</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA FERNANDES DE OLIVEIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA LEITE RIBEIRO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JULIANARIBEIRO.UFSJ@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA SALERA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIO HIDEKI DE SOUSA HIGA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAMILLA AMARAL CATARINA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KAMILLA_KTARINA@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAREN COSTA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KAREN.COSTAA@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAREN CRISTINA DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KARINA CASTILHO SANTIAGO MORENO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KARINA SCHIAVI</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAROLINE MANASHA DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAWANE LAZARO FLAUSINO MAIA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KEISE REGINA DO PRADO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KIVEA KASSIA DE PAIVA E SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KIVEA_PAIVASILVA@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KIZZY KARINA FERBER BENTO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAIS DE SOUZA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LARISSA MELLO SGARBI</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAURA HELENA COUTINHO MACEDO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LAURINHACOUTINHO@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>LAURA HONORIO</td>
+<td>ARTE</td>
+<td>LAURAHONO@IG.COM.BR</td>
+<td>False</td>
+<td>46910</td>
+<td>GOVERNO DO ESTADO DE SAO PAULO</td>
+<td>GOVERNO DO ESTADO DE SAO PAULO</td>
+<td>GERALDO ALKIMIN</td>
+<td>LAURA HONORIO DE CARVALHO ESPINOZA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAURA PEREIRA DE VASCONCELOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAYS FERNANDA PEREIRA GOMES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA BELINO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LETICIABELINO@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA BORGES OLIVEIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA CARVALHO FIGUEIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA DE CASTRO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA SANTOS DE MORAIS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LINDA LAYLA DA SILVEIRA BASILIO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LAYLA_BASILIO@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUANA SABRINE SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LUANASJE07@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUCAS CAETANI CANDIDO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUCAS SALGADO DE OLIVEIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUCIANE MONTEIRO DE FREITAS MEDEIROS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>LUIZ FRANCISCO DA CONCEICAO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>LUIZ FRANCISCO DA CONCEICAO</td>
+<td>GASTRONOMIA</td>
+<td>CLAUDIARODRIGUES@UNIVAP.BR</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELA KOVACS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELO MORAIS MARIA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARCELO.MOR_AL@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELO NEPOMUCENO DE ALCANTARA PINTO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>MARCELO SOUTO GERMANO</td>
+<td>EVENTOS</td>
+<td>MARCELOGERMANO13@GMAIL.COM</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCIA APARECIDA FERRAZ</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>MARCIA APARECIDA OLIVEIRA IDALGO DA SILVA</td>
+<td>EVENTOS</td>
+<td>MARCIAON@IG.COM.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCIA ROSA DA ROCHA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA APARECIDA SOUZA SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA CAROLINA DE CARVALHO SILVA REIS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA CLARA COUTINHO MACEDO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CLARA.MACEDOSL@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA JOSE ARAUJO DE SOUZA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIANA CAMPOS GUIMARAES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARIANACAMPOS@OUTLOOK.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIANA NEVES OLIVEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARIANA_28.90@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARINA GONCALVES RODRIGUES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARINAMHEL@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARINA XAVIER DE BRITO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATHEUS GALVAO GARCIA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATHEUS HENRIQUE MARIZ DE AVELAR</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MATHEUS.HMAVELAR@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MAYARA PINHEIRO ALVEZ</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MERCIA BARROS DE ARAUJO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MICAEL TAINAN RIBEIRO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MICAELRIBEIROO@OUTLOOK.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MICHELE ALVES MARIANO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MICHELE CAROLINE BARBOSA DE MORAES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MICHELECAROLINE30@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MILLA REGINA ALVES PIMENTEL</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MILLA_UFSJ@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MIRIAM NATHIELI DA SILVA COSTA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONICA CRISTINA BRUGNARO DOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONIQUE PECANHA DOS SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MURILO CAPELO CALDEIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NARJARA CRISTINA RIBEIRO SOUZA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>NAJRIBEIRO@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA BARROS SAKAI</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA CRISTINA ALVES DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>NATALIATATTYNHA@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA DE MELLO SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATHALIA CRISTIANINI RODRIGUES AZEVEDO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATIELLE MARIA COSTA MENEZES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>NATTIMENEZES@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NAYARA SOLANGE DA COSTA MELLO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NEIDE SUELI BARCO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>NILMA ALMEIDA</td>
+<td>PEDAGOGIA</td>
+<td>NILMAPA@HOTMAIL.COM</td>
+<td>False</td>
+<td>46910</td>
+<td>GOVERNO DO ESTADO DE SAO PAULO</td>
+<td>GOVERNO DO ESTADO DE SAO PAULO</td>
+<td>GERALDO ALKIMIN</td>
+<td>LAURA HONORIO DE CARVALHO ESPINOZA</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NILZA DOS SANTOS ULIANI</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>OLAVO TUPINAMBA SORENSEN</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>OTAVIA GONCALVES CARVALHO DA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PAOLA CARVALHO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PAOLINHACARVALHO@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PATRICIA APARECIDA DOS SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PATRICIA MATOS DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PENELOPE SZYMANSKI DINIZ</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Professor</td>
+<td>2013</td>
+<td>PROFA. DRA. VIVIANE SOCCIO MONTEIRO HENRIQUE</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAFAEL MACHADO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAPHAEL CORREA DA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RENATA CASSIA GALDINO REIS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RHANA KAROLINE DA COSTA MELLO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RISOLANDA DO NASCIMENTO DE CASTRO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROBERTA ANDRADE FRANCA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ROBERTAANDRADEF@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RODRIGO DA SILVA GESTEIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROSELAINE DE CAMPOS SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SELMA CRISTINA BARBOSA VERAS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SILMARA BARBOSA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BARBOSINHASIL@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA CRISTIANE FARIA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA JUNIA DA SILVA CANDIDO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TALITASCANDIDO@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA SANTOS DE MELO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAINA SPANO DE SOUZA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS TAMY SIMAKAWA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS XAVIER PEREIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIZ APARECIDA MALTA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAIZMALTA@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAMIRIS CAROLINE DUTRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAMIRISCD@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAYANE SEVERO DA SILVA BRITO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TIELE JULIA TAPAI LEITE FARIA SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VALMIR CARNEIRO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VANESSA MINGOTE JULIO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>VANESSAMINGOTE@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERA LUCIA COSTA SANTOS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERA LUCIA DE ANDRADE REIS</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERA LUCIA GOMES DA SILVA COSTA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERONICA VITORIO SANTOS</td>
+<td>GSTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR CANDIDO DE MELO</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VICTOR HENRIQUE LOPES RUBIM</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>VICTORUFSJ@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VINICIUS AMORIM DE LIMA BROGIATO</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VINICIUS FERREIRA RIBEIRO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>VINICIUS_HERREIRA@YAHOO.COM.BR</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VINICIUS TADEU DA VEIGA CORREIA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>VINICIUSTADEU18@HOTMAIL.COM</td>
+<td>False</td>
+<td>12266</td>
+<td>UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI</td>
+<td>UFSJ</td>
+<td>VALERIA HELOISA KEMP</td>
+<td>BEATRIZ CAMARGO BARROS DE SILVEIRA MELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WALQUIRIA CANAVERDE FERREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>WALQUIRIACV@HOTMAIL.COM</td>
+<td>False</td>
+<td>83318</td>
+<td>FUNDACAO UNIVERSIDADE FEDERAL DE RONDONIA</td>
+<td>UNIR</td>
+<td>MARIA BERENICE ALHO DA COSTA TOURINHO</td>
+<td>WALQUIRIA CANAVERDE FERREIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WELLINGTON NETO DA SILVA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Café</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WILLIAM LUNA FERREIRA</td>
+<td>EVENTOS</td>
+<td>VANIA.ROCHA2@ETEC.SP.GOV.BR</td>
+<td>False</td>
+<td>13450</td>
+<td>ESCOLA TECNICA ESTADUAL PARQUE BELEM</td>
+<td>ETEC PARQUE BELEM</td>
+<td>MARISA SOUZA</td>
+<td>VANIA MOREIRA ROCHA DE OLIVEIRA</td>
+<td>Outros</td>
+</tr>
+</table>

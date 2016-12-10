@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<cod_identificacao>14098</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>FAUSTO STEPHAN</nome>
+<credencial>FAUSTO</credencial>
+<cpf>85901784804</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>FAUSTO@FASTSOLUTIONS.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA HEITOR PEIXOTO</endereco>
+<nro>681</nro>
+<complemento></complemento>
+<cep>01543001</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Fornecedor; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14099</cod_identificacao>
+<cnpj>02959392000146</cnpj>
+<empresa>PLANINVESTI ADMINISTRACAO DE SERV LTDA</empresa>
+<nome_fantasia>PLANVALE</nome_fantasia>
+<nome>LUCIANA OLIVEIRA CHAVES</nome>
+<credencial>LUCIANA OLIVEIRA</credencial>
+<cpf>25319290888</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>74437295</fone>
+<email>LUCIANAOLIVEIRA@PLANINVESTI.COM.BR</email>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>ASSOCIAÇÕES; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA SANTOS</endereco>
+<nro>880</nro>
+<complemento>7º ANDAR</complemento>
+<cep>01418100</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14100</cod_identificacao>
+<cnpj>34164319000506</cnpj>
+<empresa>CASA DA MOEDA DO BRASIL</empresa>
+<nome_fantasia>CMB</nome_fantasia>
+<nome>PAULO SERGIO DE SOUZA LEITE DE ASSUMPCAO</nome>
+<credencial>PAULO ASSUMPCAO</credencial>
+<cpf>03548362770</cpf>
+<ddi>21</ddi>
+<ddd>021</ddd>
+<fone>24142622</fone>
+<email>PAULOSERGIO@CMB.GOV.BR</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>RIO DE JANEIRO</cidade>
+<uf>RJ</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INDÚSTRIA / FABRICAÇÃO; ÓRGÃOS GOVERNAMENTAIS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA RENE BITTENCOURT</endereco>
+<nro>371</nro>
+<complemento>DIATRITO INDUSTRIAL</complemento>
+<cep>23565200</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14101</cod_identificacao>
+<cnpj>04400995000139</cnpj>
+<empresa>GD BURTI SA</empresa>
+<nome_fantasia>GD BURTI</nome_fantasia>
+<nome>FERNANDA RODRIGUES ANDRADE SILVA</nome>
+<credencial>FERNANDA SILVA</credencial>
+<cpf>36707387898</cpf>
+<ddi>55</ddi>
+<ddd>011</ddd>
+<fone>81680311</fone>
+<email>FERNANDA.SILVA@GI-DE.COM</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>PRACA GENERAL GENTIL FALCAO</endereco>
+<nro>108</nro>
+<complemento>16.ANDAR</complemento>
+<cep>04571150</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14102</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>RICARDO G S ARANHA</nome>
+<credencial>RICARDO ARANHA</credencial>
+<cpf>01430927828</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>RARANHA@SGF.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ANITA COSTA</endereco>
+<nro>400</nro>
+<complemento></complemento>
+<cep>04320040</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Outros; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Mala direta; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 50.000 - R$ 100.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14103</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>MARCELO DEMICHELE</nome>
+<credencial>MARCELO DEMICHELE</credencial>
+<cpf>15346793836</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>DEMICHELE@UOL.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA DOUTOR MIRANDA DE AZEVEDO</endereco>
+<nro>1155</nro>
+<complemento>APTO 51</complemento>
+<cep>05027000</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Prestador de Serviço; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 50.000 - R$ 100.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14104</cod_identificacao>
+<cnpj>03592583000185</cnpj>
+<empresa>LIAN CARD IND COM E SERVICOS LTDA</empresa>
+<nome_fantasia>LIAN CARD</nome_fantasia>
+<nome>LOURIVAL ELYAS FILHO</nome>
+<credencial>LOURIVAL</credencial>
+<cpf>56848803497</cpf>
+<ddi>55</ddi>
+<ddd>47</ddd>
+<fone>32055555</fone>
+<email>LOURIVAL@LIAN.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>JOINVILLE</cidade>
+<uf>SC</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALMIRANTE TAMANDARE, 460</endereco>
+<nro>460</nro>
+<complemento>PREDIO</complemento>
+<cep>98204140</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14105</cod_identificacao>
+<cnpj>05648772000158</cnpj>
+<empresa>TERCEIRIZACAO COMERCIO E TECNOLOGIA EM SEMICONDUTORES LTDA.</empresa>
+<nome_fantasia>TCT BRASIL</nome_fantasia>
+<nome>THIAGO BARIONI</nome>
+<credencial>THIAGO BARIONI</credencial>
+<cpf>33347531825</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>55459400</fone>
+<email>THIAGO@TCTBRASIL.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA BARONESA DE BELA VISTA</endereco>
+<nro>127</nro>
+<complemento>9 ANDAR</complemento>
+<cep>04612002</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14112</cod_identificacao>
+<cnpj>08578334000159</cnpj>
+<empresa>VALIDATA MEIOS DE PAGAMENTOS LTDA.</empresa>
+<nome_fantasia>VALIDATA MEIOS DE PAGAMENTOS</nome_fantasia>
+<nome>MARCELO AUGUSTO ZAMBELLO</nome>
+<credencial>MARCELO ZAMBELLO</credencial>
+<cpf>16835904810</cpf>
+<ddi>000</ddi>
+<ddd>11</ddd>
+<fone>35683504</fone>
+<email>MARCELO.SQLTECH@VALIDATA.COM.BR</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SANTANA DE PARNAIBA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; INSTITUIÇÃO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA YOJIRO TAKAOKA</endereco>
+<nro>4384</nro>
+<complemento>CONJ. 105, 106 E 107</complemento>
+<cep>06541038</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Pesquisa; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Mala direta; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14114</cod_identificacao>
+<cnpj>05607657000216</cnpj>
+<empresa>CDC BRASIL S/A</empresa>
+<nome_fantasia>CDC BRASIL</nome_fantasia>
+<nome>PAMELLA SOARES BECKER</nome>
+<credencial>PAMELLA SOARES BECKER</credencial>
+<cpf>07731268640</cpf>
+<ddi>00</ddi>
+<ddd>11</ddd>
+<fone>21696591</fone>
+<email>PAMELLA.BECKER@CDCBRASIL.COM.BR</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA CECI</endereco>
+<nro>608</nro>
+<complemento>GALPAO B21</complemento>
+<cep>06460120</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14118</cod_identificacao>
+<cnpj>60701190000104</cnpj>
+<empresa>BANCO ITAU</empresa>
+<nome_fantasia>BANCO ITAU</nome_fantasia>
+<nome>CLAUDIA LIAN HADDAD</nome>
+<credencial>CLAUDIA HADDAD</credencial>
+<cpf>09835013861</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>68600884</fone>
+<email>SANDRA.REGINA@ITAU-UNIBANCO.COM.BR</email>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; INSTITUIÇÃO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA TEODORO SAMPAIO</endereco>
+<nro>1756</nro>
+<complemento>4O. ANDAR</complemento>
+<cep>05406150</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Compra; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14120</cod_identificacao>
+<cnpj>08578334000159</cnpj>
+<empresa>VALIDATA MEIOS DE PAGAMENTOS LTDA.</empresa>
+<nome_fantasia>VALIDATA MEIOS DE PAGAMENTOS</nome_fantasia>
+<nome>ADRIANO SILVA</nome>
+<credencial>ADRIANO SILVA</credencial>
+<cpf>22058269802</cpf>
+<ddi>000</ddi>
+<ddd>11</ddd>
+<fone>35683504</fone>
+<email>ADRIANO.SILVA@VALIDATA.COM.BR</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SANTANA DE PARNAIBA</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; INSTITUIÇÃO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA YOJIRO TAKAOKA</endereco>
+<nro>4384</nro>
+<complemento>CONJ. 105, 106 E 107</complemento>
+<cep>06541038</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14123</cod_identificacao>
+<cnpj>12639618000185</cnpj>
+<empresa>ITS SYSTEM TECNOLOGIA E PROCESSAMENTO DE DADOS HH LTDA</empresa>
+<nome_fantasia>ITS SYSTEM</nome_fantasia>
+<nome>ELTON FELIPE DE MEDEIROS</nome>
+<credencial>ELTON MEDEIROS</credencial>
+<cpf>36415782053</cpf>
+<ddi>55</ddi>
+<ddd>51</ddd>
+<fone>21230150</fone>
+<email>ELTON@ITSSYSTEM.COM.BR</email>
+<cargo>PRESIDENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ESTRATÉGIA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>PORTO ALEGRE</cidade>
+<uf>RS</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA DEZOITO DE NOVEMBRO</endereco>
+<nro>277</nro>
+<complemento>5º ANDAR</complemento>
+<cep>90240040</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14124</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>CLAUDIO CANNATA</nome>
+<credencial>CLAUDIO</credencial>
+<cpf>10539605816</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>CLAUDIO.CANNATA@ATRIUMDIGITAL.COM.BR</email>
+<cargo>EMPREENDEDOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AV. ADOLFO PINHEIRO</endereco>
+<nro>2464</nro>
+<complemento>CONJ 21</complemento>
+<cep>04734902</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Prestador de Serviço; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outdoor / Jornal /  TV; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14125</cod_identificacao>
+<cnpj>07986253000125</cnpj>
+<empresa>RMMSIF-LTDA</empresa>
+<nome_fantasia>SOCIO-ECONOMICO</nome_fantasia>
+<nome>RINALDO MARTINS MEIRA</nome>
+<credencial>MEIRA</credencial>
+<cpf>85646628768</cpf>
+<ddi>55</ddi>
+<ddd>024</ddd>
+<fone>78118514</fone>
+<email>RINALDMM@HOTMAIL.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>VOLTA  REDONDA</cidade>
+<uf>RJ</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA GETULIO VARGAS</endereco>
+<nro>779</nro>
+<complemento>CENTRO</complemento>
+<cep>27253410</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outdoor / Jornal /  TV; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+</credenciamento>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<cod_identificacao>14215</cod_identificacao>
+<cnpj>88020102000209</cnpj>
+<empresa>DIGICON S/A</empresa>
+<nome_fantasia>DIGICON</nome_fantasia>
+<nome>SERGIO EDUARDO BARBOSA DE QUEIROZ</nome>
+<credencial>SERGIO QUEIROZ</credencial>
+<cpf>03233720823</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>41334125</fone>
+<email>SQUEIROZ@DIGICON.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA SAO PAULO</endereco>
+<nro>82</nro>
+<complemento></complemento>
+<cep>06465130</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revista; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14218</cod_identificacao>
+<cnpj>43076082000160</cnpj>
+<empresa>ARROW BRASIL SA</empresa>
+<nome_fantasia>ARROW BRASIL</nome_fantasia>
+<nome>JOSE ALBERTO REZENDE CAOUS</nome>
+<credencial>JOSE ALBERTO CAOUS</credencial>
+<cpf>07591491865</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>36139300</fone>
+<email>JOSE.CAOUS@ARROWBRASIL.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA JOSE GOMES FALCAO</endereco>
+<nro>111</nro>
+<complemento></complemento>
+<cep>01139010</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14224</cod_identificacao>
+<cnpj>02838286000104</cnpj>
+<empresa>ALGEBA SOLUCOES TECNOLOGICAS LTDA</empresa>
+<nome_fantasia>ALGEBA</nome_fantasia>
+<nome>FRANCISCO DE ASSIS GARCIA</nome>
+<credencial>FRANCISCO A GARCIA</credencial>
+<cpf>06910010817</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>23242100</fone>
+<email>FRANCISCO.GARCIA@ALGEBA.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SANTO ANDRE</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ALVARES DE AZEVEDO</endereco>
+<nro>210</nro>
+<complemento>11O. ANDAR</complemento>
+<cep>09020140</cep>
+</cadastro>
+</credenciamento>

@@ -1,0 +1,638 @@
+/* CSS Document */
+img{
+	border: 0px;
+	}
+
+body {
+/*	background:url(/img/geral/fundo_principal.gif), top left, repeat-x, #d1d2d4; */
+	background-image:url(/img/geral/fundo_principal.gif);
+	background-position:top, left;
+	background-repeat:repeat-x;
+	background-color:#d1d2d4;
+	background-attachment:scroll;
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+}
+.atencao_13px {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#0b311d;
+	font-weight:bold;
+}
+.texto_11px {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#414042;
+}
+.duvida {
+	z-index:1;
+	overflow:auto;
+	width:170px;
+	top:170px;
+	left:510px;
+	position:absolute;
+}
+.formulario {
+	border: solid #929294 1px;
+	background-color:#FFF;
+	height:21px;
+}
+.b { font-weight: bold; }
+
+.cor_cinza1 	{ color:#58595b; }
+.cor_cinza2 	{ color:#414042; }
+.cor_branco 	{ color:#FFF; }
+.cor_preto  	{ color:#000; }
+.cor_vermelho	{ color:#F00; }
+.cor_verde		{ color:#090; }
+
+.fs_09px { font-size:09px; }
+.fs_10px { font-size:10px; }
+.fs_11px { font-size:11px; }
+.fs_12px { font-size:12px; }
+.fs_13px { font-size:13px; }
+.fs_15px { font-size:15px; }
+.fs_20px { font-size:20px; }
+
+.arial { font-family:Arial, Helvetica, sans-serif; }
+.tahoma { font-family:Tahoma, Arial, Helvetica, sans-serif; }
+.verdana { font-family:Verdana, Geneva, sans-serif; }
+
+/* ============================================================= */
+.continuar {
+    background: url(/img/botoes/continuar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.continuar:hover {
+    background-position: 0px -21px;
+}
+.continuar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.proceed {
+    background: url(/img/botoes/proceed.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.proceed:hover {
+    background-position: 0px -21px;
+}
+.proceed:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.voltar_box {
+    background: url(/img/botoes/voltar_box.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.voltar_box:hover {
+    background-position: 0px -21px;
+}
+.voltar_box:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.voltar_box_eng {
+    background: url(/img/botoes/voltar_box_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.voltar_box_eng:hover {
+    background-position: 0px -21px;
+}
+.voltar_box_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_solicitar {
+    background: url(/img/botoes/solicitar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_solicitar:hover {
+    background-position: 0px -21px;
+}
+.bt_solicitar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_solicitar_eng {
+    background: url(/img/botoes/solicitar_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_solicitar_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_solicitar_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_fechar_pedido {
+    background: url(/img/botoes/concluir_pedido.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_fechar_pedido:hover {
+    background-position: 0px -21px;
+}
+.bt_fechar_pedido:active  {
+    background-position: 0px -42px;
+}
+
+/* ============================================================= */
+.bt_recusar_termo {
+    background: url(/img/botoes/bt_recusar.png) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_recusar_termo:hover {
+    background-position: 0px -21px;
+}
+.bt_recusar_termo:active  {
+    background-position: 0px -42px;
+}
+
+/* ============================================================= */
+.bt_aceitar_termo {
+    background: url(/img/botoes/bt_aceitar.png) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_aceitar_termo:hover {
+    background-position: 0px -21px;
+}
+.bt_aceitar_termo:active  {
+    background-position: 0px -42px;
+}
+
+
+
+/* ============================================================= */
+.bt_meus_pedidos {
+    background: url(/img/botoes/meus_pedidos.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_meus_pedidos:hover {
+    background-position: 0px -21px;
+}
+.bt_meus_pedidos:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_novo_pedido {
+    background: url(/img/botoes/iniciar_pedido.gif) no-repeat;
+    line-height:1000px;
+    overflow: hidden;
+    display: block;
+    width: 172px;
+    height: 21px;
+    background-position: 0px 0px;
+    margin: 5px;
+    cursor:pointer;
+}
+.bt_novo_pedido:hover {
+    background-position: 0px -21px;
+}
+.bt_novo_pedido:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_fechar_pedido_eng {
+    background: url(/img/botoes/concluir_pedido_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_fechar_pedido_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_fechar_pedido_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.transparent {
+        filter:alpha(opacity=50);
+        -moz-opacity:0.5;
+        -khtml-opacity: 0.5;
+        opacity: 0.5;
+}
+.cursor {
+	cursor:pointer;	
+}
+.bg_feira {
+	background-image:url(/img/geral/fundo_feira.jpg);
+	background-color:#d0d2d3;
+	background-repeat:no-repeat;
+}
+.menu {
+/*	background-color:#e4e5e6; */
+	background-color:#ffffff; 
+}
+.menu:hover {
+	background-color:#d6d6d6;
+}
+.borda_tabela {
+	border-right:1px solid #333;
+	border-bottom:1px solid #333;	
+}
+
+/* ============================================================= */
+.bt_cancelar {
+    background: url(/img/botoes/cancelar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_cancelar:hover {
+    background-position: 0px -21px;
+}
+.bt_cancelar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_cancelar_eng {
+    background: url(/img/botoes/cancelar_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_cancelar_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_cancelar_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_atualizar {
+    background: url(/img/botoes/atualizar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_atualizar:hover {
+    background-position: 0px -21px;
+}
+.bt_atualizar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_atualizar_eng {
+    background: url(/img/botoes/atualizar_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_atualizar_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_atualizar_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_buscar {
+    background: url(/img/botoes/buscar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_buscar:hover {
+    background-position: 0px -21px;
+}
+.bt_buscar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_buscar_eng {
+    background: url(/img/botoes/buscar_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_buscar_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_buscar_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_vincular {
+    background: url(/img/botoes/vincular.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_vincular:hover {
+    background-position: 0px -21px;
+}
+.bt_vincular:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_vincular_eng {
+    background: url(/img/botoes/vincular_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_vincular_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_vincular_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_gravar {
+    background: url(/img/botoes/gravar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_gravar:hover {
+    background-position: 0px -21px;
+}
+.bt_gravar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_esqueci_senha {
+    background: url(/img/botoes/esqueci_senha.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_esqueci_senha:hover {
+    background-position: 0px -21px;
+}
+.bt_esqueci_senha:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_enviar {
+    background: url(/img/botoes/enviar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_enviar:hover {
+    background-position: 0px -21px;
+}
+.bt_enviar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_submit {
+    background: url(/img/botoes/submit.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_submit:hover {
+    background-position: 0px -21px;
+}
+.bt_submit:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_cadastrar {
+    background: url(/img/botoes/cadastrar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_cadastrar:hover {
+    background-position: 0px -21px;
+}
+.bt_cadastrar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_cadastrar_eng {
+    background: url(/img/botoes/cadastrar_eng.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_cadastrar_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_cadastrar_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_vincular_peq {
+    background: url(/img/botoes/vincular_peq.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 76px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_vincular_peq:hover {
+    background-position: 0px -21px;
+}
+.bt_vincular_peq:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+
+
+/* ============================================================= */
+.bt_alterar_compra {
+    background: url(/img/botoes/bt_alterar_compra.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 172px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_alterar_compra:hover {
+    background-position: 0px -21px;
+}
+.bt_alterar_compra:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_comprar_ticket {
+    background: url(/img/botoes/bt_comprar_ticket.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 172px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_comprar_ticket:hover {
+    background-position: 0px -21px;
+}
+.bt_comprar_ticket:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_comprar_ticket_eng {
+    background: url(/img/botoes/bt_comprar_ticket.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 172px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_comprar_ticket_eng:hover {
+    background-position: 0px -21px;
+}
+.bt_comprar_ticket_eng:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */

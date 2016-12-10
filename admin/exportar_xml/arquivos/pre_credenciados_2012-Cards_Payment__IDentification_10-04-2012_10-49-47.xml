@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<cod_identificacao>13994</cod_identificacao>
+<cnpj>45985371000108</cnpj>
+<empresa>3M DO BRASIL LTDA</empresa>
+<nome_fantasia>3M</nome_fantasia>
+<nome>SUSANA SHIMIZU</nome>
+<credencial>SUSANA</credencial>
+<cpf>26735543866</cpf>
+<ddi>55</ddi>
+<ddd>19</ddd>
+<fone>38386835</fone>
+<email>SSHIMZU2@MMM.COM</email>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PESQUISA E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SUMARE</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INDÚSTRIA / FABRICAÇÃO; OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ROD. ANHANGUERA, KM 110</endereco>
+<nro>SN</nro>
+<complemento>.PARADA 3M</complemento>
+<cep>13181900</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+</credenciamento>

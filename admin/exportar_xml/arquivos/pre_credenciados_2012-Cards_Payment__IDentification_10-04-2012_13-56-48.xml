@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+	<cadastro>
+	<cod_identificacao>14095</cod_identificacao>
+	<cnpj></cnpj>
+	<empresa></empresa>
+	<nome_fantasia></nome_fantasia>
+	<nome>SALOMAO DE OLIVEIRA</nome>
+	<credencial>SALOMAO</credencial>
+	<cpf>11682399826</cpf>
+	<ddi></ddi>
+	<ddd></ddd>
+	<fone></fone>
+	<email>SALOMAO@SALOMAO.ADM.BR</email>
+	<cargo>CONSULTOR(A)</cargo>
+	<cargo_outros></cargo_outros>
+	<subcargo></subcargo>
+	<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+	<departamento_outros></departamento_outros>
+	<cidade>SAO PAULO</cidade>
+	<uf>SP</uf>
+	<pais>BRASIL</pais>
+	<ramo_atividade></ramo_atividade>
+	<ramo_atividade_outros></ramo_atividade_outros>
+	<endereco>ESTRADA SANTO DE AMARO</endereco>
+	<nro>365</nro>
+	<complemento>CASA 124</complemento>
+	<cep>05544000</cep>
+	<cidade></cidade>
+	<uf></uf>
+	<pais></pais>
+	<pesquisa>
+		<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Prestador de Serviço; '/>
+		<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+		<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+		<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+		<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+		<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+		<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+	</pesquisa>
+	</cadastro>
+</credenciamento>

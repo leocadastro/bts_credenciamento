@@ -1,0 +1,2777 @@
+<table cellpadding='2' cellspacing='1' border='1' style='font-family:Verdana, Geneva, sans-serif; font-size:12px;'>
+<tr>
+<td>Evento</td>
+<td>Tipo</td>
+<td>Ano</td>
+<td>Nome</td>
+<td>Curso</td>
+<td>Email</td>
+<td>Ativo</td>
+<td>ID_Empresa</td>
+<td>Razão Social</td>
+<td>Nome Fantasia</td>
+<td>Reitor</td>
+<td>Nome Completo</td>
+<td>Cargo</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ADDYSON SALES DE ALMEIDA</td>
+<td>AGROINDUSTRIA</td>
+<td>ADDSYSON.UZL@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ADRIANA SALVIANO DE ANDRADE</td>
+<td>AGROINDUSTRIA</td>
+<td>ADRIANAROQUEIRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALEF BARROS BERNARDINO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ALEFBARROS@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALENE PEREIRA DE OLIVEIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ALLENALINE777@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALENE PEREIRA DE OLIVEIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ALLENALINE777@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALESSANDRA MARIA DE ARAUJO SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALEX FELIPE DE OLIVEIRA SILVA</td>
+<td>AGROINDRUSTRIA</td>
+<td>ALEXPEGACAO@OUTLOOK.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALINE MARIA TENORIO ELIAS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ALINETENORIIO@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALIPIO DE PAIVA BARBOSA NETO</td>
+<td>AGROINDUSTRIA</td>
+<td>ALIPIO_EAJUFRN@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ANA ALICE DA SILVA XAVIER COSTA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ANAALICESILER@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ANA ALICE DA SILVA XAVIER COSTA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ANAALICESILER@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA PAULA ROCHA DE ARAUJO</td>
+<td>PADEIRO E CONFEITEIRO - PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA RENALLY VIDAL</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ANNARENALLY@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA RENALLY VIDAL</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ANNARENALLY@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ANAMELIA SALES DE ASSIS</td>
+<td>MEDICINA VETERINARIA</td>
+<td>ANAMELIAVET@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDERSON FELIPE VIANA DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANDERSON_FVS@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDREA CANDIDO DA SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ANDREA GALINDO CARNEIRO ROSAL</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>DEAGALINDO@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANGELICA CONSTANTINO DOS SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ANGELICACONSTANTINO@LIVE.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANGELICA CONSTANTINO DOS SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ANGELICACONSTANTINO@LIVE.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>AURENICE PONTES LOIO VAZ</td>
+<td>PADEIRO E CONFEITEIRO - PRONATEC</td>
+<td>PROF.AURENICEVAZ@YAHOO.COM.BR</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BIANCA DANTAS DE FRANCA</td>
+<td>AGROINDUSTRIA</td>
+<td>BIANLIND@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRENO FERREIRA ALMEIDA PROTASIO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BRENO_FAP@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA AYANE DINIZ LOPES</td>
+<td>AGROINDUSTRIA</td>
+<td>BRUNA-AYANNE@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA FRANCIELE DE SANTANA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA MIRELLE VICENTE ALVES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BRUNA_CEEG@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNO FEITOSA BARROS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BRUNO-FEITOSA@LIVE.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAIO HENRIQUE ANDRADE LYRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CAIO_LYRA12@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CARLA MICHELLY COSTA FERNANDES</td>
+<td>AGROINDUSTRIA</td>
+<td>MICHELLY.EAJ@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>CAROLINA LIMA CAVALCANTI DE ALBUQUERQUE</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>CAROLLCA@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>CAROLINA LIMA CAVALCANTI DE ALBUQUERQUE</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>CAROLLCA@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CHRISTOPHER ANDRE CAVALCANTI DA COSTA</td>
+<td>AGROINDUSTRIA</td>
+<td>LOVECHRISCANTI@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CILENE MARIA DA SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>CILENEMARIAM@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CLAUDIA EDUARDO DE SOUSA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>CLAUDIADESOUSA@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CLAUDIA VALERIA DE ARAUJO SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>VALERIA.ARAUJO3@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CLEIDE MARIA DA SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>CLEIDE481@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DAYANNE MARIA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>DAYANNIALBUQUERQUE@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EFIGENIA BERIA DE SOUZA SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>BERIA5@MSN.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EFIGENIA BERIA DE SOUZA SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>BERIA5@MSN.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>PADEIRO E CONFEITEIRO - PRONATEC</td>
+<td>ELISFSOARES@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELIZA MIZZIARA MESQUITA DUARTE</td>
+<td>AGROINDUSTRIA</td>
+<td>ELIZAMIZZIARA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELLYDA THAMIRYS DE LIMA PEREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAMIRYSELLYDA@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELYSON JOSE NEVES DOS SANTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ELYSON_NEVES@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EMYLLE THALYNE DE LIMA PEREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>EMYLLETHALYNE@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ERICA DE ANDRADE</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ERICAANDRADEV@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ERICA DE ANDRADE</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ERICAANDRADEV@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ERICA MARIA DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ERICAMARIAPROFISSIONAL@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ERIK SOUTO DE MORAES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ERIKMORAES_DM@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ERIKA VALENTE DE MEDEIROS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>EVMBIO@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>BEL. AGROINDUSTRIA</td>
+<td>EWERTON.MENEZES@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>BEL. AGROINDUSTRIA</td>
+<td>EWERTON.MENEZES@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FRANCISCO ELIELTON SILVA MORAIS</td>
+<td>AGROINDUSTRIA</td>
+<td>ELIELTONMORAIS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FRANCISCO WALFRAN SANTOS ADELINO</td>
+<td>AGROINDUSTRIA</td>
+<td>WALFRAN.SANTOS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FRANKLYN JOAN DE OLIVEIRA TEIXEIRA</td>
+<td>AGROINDUSTRIA</td>
+<td>FRANKLYNJOANOLIVEIRA@YAHOO.COM.BR</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FUVIO FIDELIS NUNES</td>
+<td>AGROINDUSTRIA</td>
+<td>FUVIO_FN@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GEORGE GERSON ARAUJO DA SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>GEORGE.GERSON@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GEORGE GERSON ARAUJO DA SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>GEORGE.GERSON@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GEOVANNA MARIA BEZERRA DE MEDEIROS SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>GEO_BEZERRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GERLANE MEDEIROS TORQUATO</td>
+<td>AGROINDUSTRIA</td>
+<td>GERLANETORQUATO@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GISLIANE KYVIA MONTEIRO LIMA</td>
+<td>AGROINDUSTRIA</td>
+<td>GISLIANEKYVIA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>GLECE MILENE SANTANA GOMES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GLECEMILENESG@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>GRACIELE DA SILVA CAMPELO BORGES</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>GRACIELEBORGES@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>GRACIELE DA SILVA CAMPELO BORGES</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>GRACIELEBORGES@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>HALYNE JOYCE NASCIMENTO DANTAS</td>
+<td>AGROINDUSTRIA</td>
+<td>HALYNEJOYCE@GMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>HEITOR DE VASCONCELOS BARROS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>HEITORVBARROS@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>HOSANA LOURENCO DA SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>HOSANALSILVA@LIVE.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>IRIS BARBOSA SOUZA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>IRISBARBOSADESOUZA@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISABEL CRISTINA LIMA AVELINO</td>
+<td>AGROINDUSTRIA</td>
+<td>BELSONA_CRISTINA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISABEL CRISTINA VIANA SANTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ISABELVIANA_26@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISABELLA TAVARES DE ARAUJO</td>
+<td>AGROINDUSTRIA</td>
+<td>ISA_BELLA.T@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISABELLE CRISTINE PROHMANN TSCHOEKE</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BELLYPROHMANN@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ISMAEL.ROCKENBACH@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ISMAEL.ROCKENBACH@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISMY RAFAELLA SOARES GOMES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ISMY_RAFAELA@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JERONIMO DE SOUZA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JERONIMO-CATE-FN-12@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JERONIMO DE SOUZA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JERONIMO-CATE-FN-12@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JERSICA ALEXANDRE</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JERSICA_MORENA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JERSICA ALEXANDRE</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JERSICA_MORENA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JERSON FERNANDES DA SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>JERSONFERNANDE@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSICA MYRELLI DE MELO QUEIROZ SOARES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JESSICAMYRELLI@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOAO CARLOS TAVEIRA</td>
+<td>AGROINDUSTRIA</td>
+<td>APENAS_XX@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOAO MARIA MARTINS</td>
+<td>AGROINDUSTRIA</td>
+<td>JOAOMARTINS21@OUTLOOK.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>JOAO PAULO DE SOUSA PRADO</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JP_PRADO@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>JOAO PAULO DE SOUSA PRADO</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JP_PRADO@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOAO PEDRO FERREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JOAOFERREIRA@ALIMENTOS.ENG.BR</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE CARLOS JUNIOR</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JCARLOSJR1@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE CARLOS JUNIOR</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JCARLOSJR1@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE EVERTON GONCALVES E SOUZA</td>
+<td>AGROINDUSTRIA</td>
+<td>EVERTONFLAMENGISTA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE FABIANO S. SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>FFALLAPO@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE FABIANO S. SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>FFALLAPO@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE JAILSON SOARES DE OLIVEIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JAILSON_113@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE JAILSON SOARES DE OLIVEIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JAILSON_113@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE RIBAMAR DANTAS DE LIRA BARROS</td>
+<td>AGROINDUSTRIA</td>
+<td>JUNINHODANTAS97@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOZICLEIDE BARBOSA DOS SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JOZY_FADINHA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOZICLEIDE BARBOSA DOS SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JOZY_FADINHA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JUSSARA S. DE SANTANA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JUSSARA_9@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JUSSARA S. DE SANTANA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>JUSSARA_9@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KADISON RANIEL CONSTANCIO DA SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>RIKADISON@GMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KATHLEEN SANDY DE OLIVEIRA PLENTZ</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KATHLEEN_SANDY_12@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KEVYNN CAMBUI GOMES COELHO</td>
+<td>SISTEMA DA INFORMACAO</td>
+<td>KEVYNN_VP@HOTMAIL.COM</td>
+<td>False</td>
+<td>91945</td>
+<td>ESTAGIO</td>
+<td>ESTAGIO</td>
+<td>ESTAGIO</td>
+<td>KEVYNN CAMBUI GOMES COELHO</td>
+<td>Design Gráfico</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KILMA FELICYA P. DA SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>KILMA_DEUS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KILMA FELICYA P. DA SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>KILMA_DEUS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LEILA VIVIANE L. DE AQUINO</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>LEILAVIVIANE18@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LEONARDO DE OLIVEIRA LACERDA DOS SANTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LEOOLIVEIRASANTOS31@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LEONARDO DEMERIS DA SILVA SOUZA</td>
+<td>AGROINDUSTRIA</td>
+<td>LEO.ZINHOUZL@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA RAFAELA DOS SANTOS CARVALHO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LETICIA_NEGAH@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LIANA SANTOS DO NASCIMENTO</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>LIANA.S.N@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LIANA SANTOS DO NASCIMENTO</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>LIANA.S.N@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MAGNA REJANE CAVALCANTE SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>MAGNA.R.C.SANTOS@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MAGNA REJANE CAVALCANTE SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>MAGNA.R.C.SANTOS@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MALANNA KAUANNE GOMES DO NASCIMENTO</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>MALANNA.KAUANNE@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MALANNA KAUANNE GOMES DO NASCIMENTO</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>MALANNA.KAUANNE@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELO ARAUJO</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ARAUJODOSSANTOSMARCELO@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELO CAVALCANTE DE FRANCA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCIA CLAUDIA DE OLIVEIRA</td>
+<td>AGROINDUSTRIA</td>
+<td>MC.SO.LOVE@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCOS LUIS ANDRE DA SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>MARQUINHOSANDRE@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA CRISTINA BARBOSA RODRIGUES</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA DA CONCEICAO DA SILVA DIAS</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA DAS DORES DOS SANTOS ARAUJO</td>
+<td>TECNICO EM AGROINDUSTRIA</td>
+<td>DASDORESSANTOS_AS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>MARIA DO CARMO DE ALBUQUERQUE BRAGA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARIABRAGA77@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA EUGENIA MELIANO DE MEDEIROS SOUTO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>EUGENIAMELIANO@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA FLAVIA DA SILVA DE ALBUQUERQUE</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>MARIAFLAVIA1977@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA HELOISA MOREIRA VASCONCELOS</td>
+<td>AGROINDUSTRIA</td>
+<td>HELOISAVASCONC@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIA LUCIA DA SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARJORYE ISIDIO DE OLIVEIRA</td>
+<td>TECNICO EM AGROINDUSTRIA</td>
+<td>DETEISIDIO@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARTA PEREIRA DA SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>MARTASLV749@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATEUS ALEXANDRE DA SILVA QUEIROS</td>
+<td>AGROINDUSTRIA</td>
+<td>MATEUS-BOY65@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATHEUS HENRIQUE GOUVEIA GOMES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MATHEUS_HGG@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MICARLA VANESSA FELIX DA COSTA</td>
+<td>AGROINDUSTRIA</td>
+<td>MICARLA200831@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONICA ELENICE SERAFIM BARBOSA DE OLIVEIRA</td>
+<td>PADEIRO E CONFEITEIRO - PRONATEC</td>
+<td>MONICAESBOLIVEIRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONIQUE JUNA LOPES LEITE</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MONIQUEJLLEITE@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONNYKHE LORENA DE OLIVEIRA MELO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MONNYKHELORENA@OUTLOOK.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NAIARA ASSUNCAO</td>
+<td>AGROINDUSTRIA</td>
+<td>NAIARA_ASSUNCAO@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA LAUREANO</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATANNY CAROELE GOMES LIMA</td>
+<td>ENENHARIA DE ALIMENTOS</td>
+<td>NATANNYCAROELE@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATHALIA THAIS BARBOSA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC	</td>
+<td>NATHALIA.THAIS@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>NELY DE ALMEIDA PEDROSA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>NELYPEDROSA@IG.COM.BR</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>NELY DE ALMEIDA PEDROSA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>NELYPEDROSA@IG.COM.BR</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NIZARELLE MARIA DE MELO</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>NIZARELLE@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PATRICIA DA SILVA LOPES</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PRISCILA MAYARA DE L. OLIVEIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>PRILA.MAY@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PRISCILA MAYARA DE L. OLIVEIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>PRILA.MAY@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAYSSA ACHYLA DUARTE DE PONTES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RAYSSA.ACHYLA@GMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>REINALDO SILVA DA ROCHA</td>
+<td>AGROINDUSTRIA</td>
+<td>REINALDO.ROCHA9843@FACEBOOK.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RENATA BATISTA DA SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>RENATA_HROTA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RENATA BATISTA DA SILVA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>RENATA_HROTA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RENATO JUSTINO TAVARES FELIPE</td>
+<td>AGROINDUSTRIA</td>
+<td>RENATOJUSTINO2010@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROBERTO JERVESON DO NASCIMENTO SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>ROBERTOJEVERSON@YAHOO.COM.BR</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>RODRIGO ACIOLI</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>RODRIGOACIOLI2008@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RODRIGO HENRIQUE FIDELIX DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>DIGUINHO_ONDA@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RODRIGO LIRA DE OLIVEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RODRIGOLIRA1@OUTLOOK.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROSALIA MARIA COSTA SOARES</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ROSALIACERTA@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROSALIA MARIA COSTA SOARES</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>ROSALIACERTA@GMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SEOMARIA</td>
+<td>AGROINDUSTRIA</td>
+<td>SEOMARIA_NUNES@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SERGIO FERREIRA DE LIMA JUNIOR</td>
+<td>PADEIRO E CONFEITEIRO - PRONATEC</td>
+<td>SERGIOFLIMAJR@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>SILVANA NAZARETH DE OLIVEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>SILVANA_NAZARETH@YAHOO.COM.BR</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SILVIO JOSE DOS SANTOS</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>ELISFSOARES@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SOPHIA LOREN DOS S. GOMES</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>SOPHIA29LOREN@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SOPHIA LOREN DOS S. GOMES</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>SOPHIA29LOREN@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SULAMITA SILVA DOS SANTOS</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>SULAMITA2010@HOTMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TAMARA ROBERTA ALVES LIMA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TAMROBERTA@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TARCIANA MONTEIRO DE ANDRADE</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>TARCIANAMONTEIRO8@GMAIL.COM</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>TATIANA SOUZA PORTO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PORTOTS@YAHOO.COM.BR</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TAYSSA MAYARA DE CASTRO LIMA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>TAYMCL@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TAYSSA MAYARA DE CASTRO LIMA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>TAYMCL@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TESTE</td>
+<td>MKT</td>
+<td>CARDEALL23@YAHOO.COM.BR</td>
+<td>False</td>
+<td>105921</td>
+<td>TESTE</td>
+<td>TESTE</td>
+<td>TESTE</td>
+<td>JOAO CARDEAL</td>
+<td>Advogado</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TESTE</td>
+<td>MKT</td>
+<td>CARDEALL23@YAHOO.COM.BR</td>
+<td>False</td>
+<td>106110</td>
+<td>TESTE</td>
+<td>TESTE</td>
+<td>CARDEALL23@YAHOO.COM.BR</td>
+<td>TESTE</td>
+<td>Administrador Legal</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TESTE CARDEAL</td>
+<td>MKT</td>
+<td>JOAO.CARDEAL@BTSMEDIA.BIZ</td>
+<td>False</td>
+<td>106493</td>
+<td>TESTE CARDEAL</td>
+<td>TESTE CARDEAL</td>
+<td>TESTE CARDEAL</td>
+<td>TESTE CARDEAL</td>
+<td>Comprador</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIRIS KAROLINE SILVA LAURINTINO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAIRISKAROLINE@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAYNA HABECK LUCIO SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAY_HABECK_APX@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THIAGO CRUZ</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>THIAGOCRUZ994@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THIAGO CRUZ</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>THIAGOCRUZ994@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THIAGO DOS SANTOS SILVA</td>
+<td>AGROINDUSTRIA</td>
+<td>THIAGOSANTOSEAJ@GMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THUANY NAIARA SILVA LAURINTINO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THUANYNAIARA@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TIAGO JOSE DA SILVA COELHO</td>
+<td>AGROINDUSTRIA</td>
+<td>TJ-COELHO@BOL.COM.BR</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VALDEMIR DA SILVA NUNES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>NUNESVSN@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Professor</td>
+<td>2013</td>
+<td>VALMIR CRISTIANO MARQUES ARRUDA</td>
+<td>ENGENHARIA DE ALIMENTOS/AMBIENTAL</td>
+<td>SANITARISTA@HOTMAIL.COM</td>
+<td>False</td>
+<td>82586</td>
+<td>UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</td>
+<td>UAG/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>GERLA CASTELLO BRANCO CHINELATE</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERONICA MRIA DA SILVA</td>
+<td>PADEIRO E CONFEITEIRO-PRONATEC</td>
+<td>VERINHAVVV@HOTMAIL.COM	</td>
+<td>False</td>
+<td>105072</td>
+<td>COLEGIO AGRICOLA DOM AGOSTINHO - IKAS-CODAI/UFRPE</td>
+<td>PRONATEC/CODAI/UFRPE</td>
+<td>MARIA JOSE DE SENA</td>
+<td>ELISANGELA FRANCA SOARES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WAGNER CORTE DE ALMEIDA SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>WAGNERWCAS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WAGNER CORTE DE ALMEIDA SANTOS</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>WAGNERWCAS@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WESLLEY FERREIRA M. SUCUPIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>WESLLEY.SUCUPIRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>EWERTON CHAGAS MENEZES</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WESLLEY FERREIRA M. SUCUPIRA</td>
+<td>TECNOLOGIA DE ALIMENTOS</td>
+<td>WESLLEY.SUCUPIRA@HOTMAIL.COM</td>
+<td>False</td>
+<td>80149</td>
+<td>UFPB</td>
+<td>UFPB</td>
+<td>MARGARETH</td>
+<td>ISMAEL IVAN ROCKENBACH</td>
+<td>Funcionário(a) de Setor Público</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>WILLYENE LIMA DA SILVA</td>
+<td>TECNICO EM AGROINDUSTRIA</td>
+<td>WILLYENE@OUTLOOK.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>Fispal Tecnologia Nordeste</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>YVES MATHEUS ALBUQUERQUE DE FARIAS</td>
+<td>AGROINDUSTRIA</td>
+<td>MRYVESTERROR@HOTMAIL.COM</td>
+<td>False</td>
+<td>80090</td>
+<td>UNIV FED DO RIO GRANDE DO NORTE-ESCOLA AGRICOLA JUNDIAI</td>
+<td>UFRN-EAJ</td>
+<td>ANGELA MARIA PAIVA CRUZ</td>
+<td>ROBSON ROGERIO PESSOA COELHO</td>
+<td>Coordenador(a)</td>
+</tr>
+</table>

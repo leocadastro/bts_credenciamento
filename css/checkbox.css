@@ -1,0 +1,48 @@
+/*
+.wrapper {
+	width:			904px;
+	margin:			0 auto;
+	}
+
+.radioExample {
+	float:			left;
+	width:			300px;
+	height:			335px;
+	margin-top:		20px;
+	}
+	
+.checkboxExample {
+	float:			right;
+	width:			410px;
+	height:			335px;
+	margin-top:		20px;
+	}
+*/
+.styledRadio {
+	float:			left;
+	clear:			both;
+/*	margin-bottom:	10px;*/
+	}
+	
+.styledCheckbox {
+	float:			left;
+	clear:			both;
+/*	margin-bottom:	10px;*/
+}
+
+.noneCheckbox {
+	display:none;
+/*	margin-bottom:	10px;*/
+}
+/*
+label {
+	float:			left;
+	line-height:	85px; 
+	font-size:		40px;
+	padding-left:	5px;
+	color:			#0580a8;
+	font-weight:	bold;
+	text-shadow:	1px 2px 4px rgba(255,255,255, 1);
+	font-family:	Arial, Helvetica, sans-serif;
+}
+*/

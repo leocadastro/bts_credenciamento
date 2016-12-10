@@ -1,0 +1,210 @@
+.resolucao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.idioma {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #00403D;
+	text-decoration: none;
+}
+.menu_top {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	
+}.menu_bts {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #00573D;
+	text-decoration: none;
+}
+
+.menu_bts_padrao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #5A6268;
+	text-decoration: none;
+}
+
+.nucleo_tec_emb {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0060A9;
+	text-decoration: none;
+}
+
+.nucleo_alimentacao{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #DB5F26;
+	text-decoration: none;
+}
+
+.nucleo_leite_der{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #E39725;
+	text-decoration: none;
+}
+
+.nucleo_carne{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #B01D22;
+	text-decoration: none;
+}
+
+.nucleo_abf{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #078245;
+	text-decoration: none;
+}
+
+.admin_tela_login
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	font-weight: bold;	
+	
+}.admin_txtfield_login {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	border: solid 1px #999999;
+	border-radius: 4px;
+}
+.admin_msg_erro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF0000;
+}.admin_titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;	
+}
+.admin_msg_txt_field {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+}
+
+.migalha{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #58595B;
+}
+.conteudo_site{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #58595B;
+}
+
+.conteudo_destaque_home{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #58595B;
+	text-decoration: none;
+	font-weight: bold;	
+}
+
+.mapa_site{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #58595B;
+	text-decoration: none;
+}
+
+.conteudo_agenda{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #58595B;
+}
+
+.titulo_menu_site_bts {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #00573D;
+}
+
+.titulo_menu_site_tec {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #0060A9;
+}
+
+.titulo_menu_site_food {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #DB5F26;
+}
+
+.titulo_menu_site_leite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #E39725;
+}
+
+.titulo_menu_site_carne {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #B01D22;
+}
+
+.titulo_menu_site_abf {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #078245;
+}
+
+.titulo_agenda {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;	
+	color: #00403D;
+}
+
+.titulo_evento_noticias_home{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #5A6268;
+}
+
+.titulo_noticias_home{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;	
+	color: #5A6268;
+}
+
+.olho_noticias_home{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #5A6268;
+}
+.borda_text_field {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #666666;
+	background-color: #F3F3F3;
+}
+.borda_text_field_alerta {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	border:dashed #FF0000 1px;
+	background-color:#FFFFCC;
+}
+.bg_radio {
+	background-color:#FF0;	
+}

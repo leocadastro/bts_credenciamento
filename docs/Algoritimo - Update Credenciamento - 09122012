@@ -1,0 +1,177 @@
+ALGORITIMO - UPDATE CREDENCIAMENTO - 09/12/2012
+
+Descrição dos processos de UPDATE dos cadastros do Credenciamento 2012
+
+- Uma empresa pode estar cadastrada como Empresa, Entidade, Universidade e Imrprensa
+	Mas se ela estiver cadastrada em Universidade, não pode estar cadastradas nas outros
+- Se for possivel, teremos 4 cadastros da mesma empresa?
+- Quando um usuario alterar os dados da empresa como endereco e telefone, como saberemos qual e o mais recente?
+- Temos que colocar no update a gravacao do campo Data_Atualizacao
+
+
+--------------------------------------------------------------------------------
+Implementação futura
+
+Visitantes
+
+- Usuário e senha para acesso ao cadastro e para inscricao nas feiras
+	Com isso podemos realizar apenas o vinculo de um Usuario/Empresa na Feira
+	Evitamos que outras pessoas usem o cpf de terceiro para realizar o cadastro
+
+
+Informações usadas para UPDATE no Banco Credenciamento2012
+
+		CNPJ
+		CPF
+		ID_Formulario
+
+		Busca de Informacoes
+
+			ID dos Formularios
+
+			'	1 - Empresa
+			'	2 - Entidades
+			'	3 - Imprensa
+			'	4 - Pessoa Física
+			'	5 - Universidades
+			'	6 - Alunos
+
+Empresa = Usar CNPJ
+
+
+Passo 1 Início = Verificando se o cadastro ja existe
+
+		ID_Formulario:
+		Caso 
+			1,2,3 = Procurar na tabela Empresa
+		Caso
+			4 = Procurar na tabela Visitantes
+
+		1 - Pegar o valor do campo frmCNPJ
+				Buscar as seguintes informações na tabela Empresas
+
+				Tabela [Empresa]
+				• Razão Social
+				• Nome Fantasia
+				• Ramo de Atividade
+				• Atividade Econômica 
+				• No caso de Empresa - Principal Produto
+				• Site
+				• Número de funcionários 
+
+		1 - Pegar o valor do campo ID_Telefone
+				Buscar as seguintes informações na tabela [Relacionamento_Telefones]
+
+				Tabela [Relacionamento_Telefones]
+				• DDI
+				• DDD
+				• Telefone
+				• Tipo
+				• Ramal
+				• SMS
+
+		1 - Pegar o valor do campo ID_Endereço
+				Buscar as seguintes informações na tabela [Relacionamento_Enderecos]
+
+				Tabela [Relacionamento_Enderecos]
+				• Endereço
+				• Número
+				• Complemento
+				• Bairro
+				• Cidade
+				• UF
+				• País
+
+Passo 1 Fim
+
+Passo 2 Início = Verificando se o cadastro ja existe
+
+
+
+Passo 2 Fim
+
+Passo 3 Início - Comparando as informações de Telefone
+
+	' Seleciona o telefone
+	SQL_Telefone_Empresa =  "SELECT " &_
+                    "      ID_Tipo_Telefone " &_
+                    "      ,DDI " &_
+                    "      ,DDD " &_
+                    "      ,Numero " &_
+                    "      ,Ramal " &_
+                    "      ,SMS " &_
+                    "FROM " &_
+                    "	Relacionamento_Telefones " &_
+                    "WHERE  " &_
+                    "      Ativo = 1 " &_
+                    "      AND ID_Relacionamento_Telefone = " & id_relacioanmento_telefone & " " &_
+                    "      AND ID_Empresa = " & id_empresa & " "
+	' response.write("<hr>SQL_Telefone_Empresa<hr>" & SQL_Telefone_Empresa & "<hr>")
+	Set RS_Verificar_Empresa = Server.CreateObject("ADODB.Recordset")
+	RS_Telefone_Empresa.Open SQL_Telefone_Empresa, Conexao
+
+	Comparar campos vindos do formulário com os campos do RecordSET
+
+		POST				RecordSet
+		------------------	----------------------------------
+		frmTipoEmpresa		= RS_Telefone_Empresa("Tipo")
+		frmDDIEmpresa		= RS_Telefone_Empresa("DDI")
+		frmDDDEmpresa		= RS_Telefone_Empresa("DDD")
+		frmTelefoneEmpresa	= RS_Telefone_Empresa("Numero")
+		frmRamalEmpresa		= RS_Telefone_Empresa("Ramal")
+		frmSMSEmpresa		= RS_Telefone_Empresa("SMS")
+
+		Se alguma destas informações não baterem
+			Cadastrar um novo Telefone para este Credenciado			
+		Se não
+			Não fazer nada
+		Fim	
+
+		Como faremos com relação ao Ativo do Endereço Antigo ?	
+
+Passo 3 Fim
+
+Passo 4 Início - Comparando as informações de Endereço
+
+	' Seleciona Endereco
+	SQL_Endereco_Empresa =  "SELECT " &_
+                        "      CEP " &_
+                        "      ,Endereco " &_
+                        "      ,Numero " &_
+                        "      ,Complemento " &_
+                        "      ,Bairro " &_
+                        "      ,Cidade " &_
+                        "      ,ID_UF as UF" &_
+                        "      ,ID_Pais as Pais" &_
+                        "FROM " &_
+                        "     Relacionamento_Enderecos " &_
+                        "WHERE  " &_
+                        "      Ativo = 1 " &_
+                        "      AND ID_Relacionamento_Endereco = " & id_endereco_empresa & " " &_
+                        "      AND ID_Empresa = " & id_empresa & " "
+	' response.write("<hr>SQL_Endereco_Empresa<hr>" & SQL_Endereco_Empresa & "<hr>")
+	Set RS_Endereco_Empresa = Server.CreateObject("ADODB.Recordset")
+	RS_Endereco_Empresa.Open SQL_Endereco_Empresa, Conexao
+
+	Comparar campos vindos do formulário com os campos do RecordSET
+
+		POST				RecordSet
+		------------------	----------------------------------
+		frmCEP				= RS_Endereco("CEP")
+		frmEndereco			= RS_Endereco("Endereco")
+		frmNúmero			= RS_Endereco("Numero")
+		frmComplemento		= RS_Endereco("Complemento")
+		frmBairro			= RS_Endereco("Bairro")
+		frmCidade			= RS_Endereco("Cidade")
+		frmUF				= RS_Endereco("UF")
+		frmPaís				= RS_Endereco("País")
+
+		Se alguma destas informações não baterem
+			Cadastrar um novo Endereço para este Credenciado			
+		Se não
+			Não fazer nada
+		Fim	
+
+		Como faremos com relação ao Ativo do Endereço Antigo ?	
+
+Passo 4 Fim

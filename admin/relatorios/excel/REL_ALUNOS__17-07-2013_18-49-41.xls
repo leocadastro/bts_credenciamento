@@ -1,0 +1,3182 @@
+<table cellpadding='2' cellspacing='1' border='1' style='font-family:Verdana, Geneva, sans-serif; font-size:12px;'>
+<tr>
+<td>Evento</td>
+<td>Tipo</td>
+<td>Ano</td>
+<td>Nome</td>
+<td>Curso</td>
+<td>Email</td>
+<td>Ativo</td>
+<td>ID_Empresa</td>
+<td>Razão Social</td>
+<td>Nome Fantasia</td>
+<td>Reitor</td>
+<td>Nome Completo</td>
+<td>Cargo</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ADAILSON RICHER PEREIRA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>AISLENE DA SILVA LOPES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALANA CRISTINA DE OLIVEIRA CORDEIRO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ALANA.CORDEIRO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALESSANDRA AMORIM</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ALESSANDRA.AMORIM@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALINE DA SILVA MELO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALINE GUERRA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ALINE.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALIRIANA CAROLINE BENTO</td>
+<td>SUPERIOR EM TECNOLOGIA DE ALIMENTOS</td>
+<td>ALIMENTOSIF@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ALYSON RICHARD</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>ALYSON@MCH.IFSULDEMINAS.EDU.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>AMANDA CRISTINA CUSTODIO TAVARES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>BELAMANDA2000@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>AMANDA DE ALMEIDA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>AMANDA@MCH.IFSULDEMINAS.EDU.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA FLAVIA CARVALHO FERNANDES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>ANAFLAVIACARVALHO@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA FLAVIA DIAS</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>ANADIAS@MCH.IFSULDEMINAS.EDU.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA LUIZA CANTO ELIAS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA PAULA APARECIDA MENDES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANA PAULA MARTINS DO NASCIMENTO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>ANAPAULA@MCH.IFSULDEMINAS.EDU.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANANDA CRIS LAMAS OLIVEIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>ANDRE FELIPE COSTA PALANDI</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDRE GONCALVES DE MORAES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDRE LUIS VENEZIANO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ANDRE.VENEZIANO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANDRE PINTO RODRIGUES VIEIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANNA FLAVIA CORDEIRO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ANNAFLAVIA_CORDEIRO@YAHOO.COM.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ANNA FLAVIA DE AGUIAR MOREIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ALIMENTOSIF@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ARIANI SORREGOTTI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ARIANI.SORREGOTTI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BARBARA LELIS ROBIN</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BARBARA.ROBIN@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BEATRIZ MATOS ABDULKLECH</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BEATRIZ.ABDULKLECH@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BEATRIZ PIOVESAN GENARI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BEATRIZ.GENARI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BEATRIZ ZILLO SANTA BARBARA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BEATRIZ.BARBARA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BIANCA DE OLIVEIRA DIAS</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>BIANCADIAS@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BIANCA PEREIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BIANCA TANAHANI RIBEIRO DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BIANCA.TANAHANI.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA BRANDAO LEITE</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA DONINI</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>	 BRUNA.DONINI.750@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA GUEDES DE MELO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNA NICACIO MARIANO TEIXEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>BRUNA.NICACIO.TEIXEIRA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>BRUNO DE OLIVEIRA SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAIO NEY FELIZARDO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAMILA GARCIA JANGE</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CAMILA.JANGE@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAMILLA MARCHESE GALATTI</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CARINE D. ADOLFO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>CARINE.DANIELI.7@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAROLINA FRANCHI RUIZ</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CAROLINA.RUIZ@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAROLINA SANTONASTASO SOARES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CAROLINA.SOARES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CAROLINE DEVASTON DE PAULA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>CAAROLL.DEVASTON@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CASSIANO SIMOES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>CASSIANO.SIMOES1@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CATARINA TADAYESKY PIETROPAOLO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CATARINA.PIETROPAOLO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CATERINA GENTILI PEREZ</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CATERINA.PEREZ@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CINTIA LUSSARI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>CINTIA.LUSSARI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>CLAUDIA HELENA LOPES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DALINI FIGUEIREDO GONCALVES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>DALINI.FG@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DANIEL SANTOS LOPES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>DANIELSL@HOTMAL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DANIELA ABUD PUTINI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>DANIELA.PUTINI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DANIELA LOPES DE MIRANDA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>DAVID WILLIAN BERTAN</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>DAVID.BERTAN@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELLEN GONCALVES FERNANDES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ELOA FORNER</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ELOA.FORNER@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EMERSON FLAVIO GONCALVES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>EMERSONFLAVIO@MCH.IFSULDEMINAS.EDU.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EMERSON HENRIQUE DOS SANTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>EMERSON.HENRIQUE.SANTOS@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>EMILY CRISTINE DA CONCEICAO PEREIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FABIANA ANDREIA SCHAFER DE MARTINI SOARE</td>
+<td>FARMACIA TECNOLOGIA BIOQUIMICA FARMACEUT</td>
+<td>FABIMARTI@USP.BR</td>
+<td>False</td>
+<td>84827</td>
+<td>UNIVERSIDADE DE SAO PAULO</td>
+<td>UNIVERSIDADE DE SAO PAULO</td>
+<td>PROF. DR. JOAO GRANDINO RODAS</td>
+<td>FABIANA ANDREIA SCHAFER DE MARTINI SOARE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FABIO ESTRELLA FAGUNDES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FABIO.FAGUNDES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FABRICIO FERRAZ RODRIGUES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FELIPE CAMARGO SEGRETO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA ANZUINO CARRARA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FERNANDA.CARRARA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA DE CARVALHO GUIMARAES BRASIL</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FERNANDA.BRASIL@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA DINIZ REOLON</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FERNANDA.REOLON@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA HELENA RONDON BRONZATTO DO PRADO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA MARIA DE SOUSA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA NEVES PAES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>FERNANDINHANEVESPAES@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA PALUDETTO PELAQUIM</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FERNANDA.PELAQUIM@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FERNANDA SHIZUE IMAI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FERNANDA.IMAI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FLAVIA CAROLINA VARGAS</td>
+<td>ZOOTECNIA</td>
+<td>FLA_VARGAS@YAHOO.COM</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FLAVIA DOS SANTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FLAVIA2.SANTOS@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>FRANCIELLY STECHI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>FRANCIELLY.STECHI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIEL HENRIQUE DE MEDEIROS MOTTA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIEL KAORU DA ROCHA MITANI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GABRIEL.MITANI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA ARGENAU MARQUES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GABRIELA.MARQUES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA DO PRADO LAGE</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GABRIELA SABBADINI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GABRIELA.SABBADINI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GEORGES FELIPE BRUNO FLORENCIO DA SILVA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GIOVANA BALISTIERO FIGLIOLIA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GIOVANA.FIGLIOLIA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GIOVANNI ALEIXO BATISTA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GISLAINE GONCALVES VILELA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>GISLAINE.GONCALVES.589@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GRAZIELLE SOUZA RAMOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>GUILHERME NOGUEIRA RIVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>GUILHERME.RIVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>HELOISA HELENA VICENTE FACCIO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>HELOISA.FACCIO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>IRINEU GALVAO DE FRANCA NETO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ISABELA LOPES DE MIRANDA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JACQUELINE COSTA JORY</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JACQUELINE.JORY@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JANAINA CESAR VILELA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JANAINA_VILELA@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JANAINA MARA BELITARDO MARTINS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JAQUELINE MARIA ALVES MIGUEL</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JAQUELINEMIGUEL42@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JARIELLE APARECIDA DE OLIVEIRA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JENIFFER NIRVANA DOS SANTOS</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JESSICA SAITO HASHIMOTO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JESSICA.HASHIMOTO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JHON ANDERSON MARTINS SOUSA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE CARLOS DA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JOSE ROBERTO CARLOTA JUNIOR</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIA BAZANI ROSA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIA CORSINI CARVALHO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>JULIA_CORSINI@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA GASPAR MORENO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JULIANAMORENO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA SALERA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA SAYURI SHIMADA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JULIANA.SHIMADA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANA YURI SOLIANI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>JULIANA.SOLIANI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>JULIANO DOS SANTOS ABRAAO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>JULIANO.ABRAAO@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAMILLE KAMIKATA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KAMILLE.KAMIKATA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KAREN PEREIRA DA SILVA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>KARENPS@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KARINE ANANIAS CARVALHO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>KARINEANANIAS@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KARINE SCHARANCK</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KARINE.SCHARANCK@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>KEITHY RENATA DOMINGOS PINTO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>KEITHY@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAIS GABRIELA SIA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LAIS.SIA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAIS TIEMI ONO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LAIS.ONO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LARISSA MELLO SGARBI</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAURA PEREIRA VASCONCELOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LAYS FERNANDA PEREIRA GOMES</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LEONARDO SILVEIRA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LEONARDO TIODA HIROSE</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LEONARDO.HIROSE@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LETICIA DE CASTRO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LIGIA ABDALLA NUNES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LIGIA.ABDALLA.NUNES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LILIANE DA SILVA FERREIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ILIANESFLILI@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LIVIA CRISTINA OSTROSCHI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LIVIA.OSTROSCHI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LIVIA PRATESI DE PAULA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>LIVIA.PRATESI.98@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUAN DE OLIVEIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LUANOLIVEIRA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUANA CORTEZ DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LUANA.CORTEZ.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUCAS SALGADO DE OLIVEIRA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUCIANA PEREIRA DE SOUZA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUCIANE MONTEIRO DE FREITAS MEDEIROS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUIANE STELA MOREIRA ALVES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>LUIANE.NEVES.963@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUIS FERNANDO PAULATTI MAROSTEGAN</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LUIS.MAROSTEGAN@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>LUIZ FRANCISCO DA CONCEICAO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUIZ HENRIQUE DE TOLEDO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>LUIZ TADEU MARANHO BERTOLDI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>LUIZ.BERTOLDI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELA MARINHO MURARO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARCELA.MURARO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELA MOREIRA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARCELA.MOREIRA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCELO NEPOMUCENO DE ALCANTARA PINTO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARCIA GABRIELA CONSIGLIO KASEMODEL</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARCIA.KASEMODEL@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TRINDADEMA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIANA ALEJANDRA ECHALAR BARRIENTOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARIECHALAR@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIANA CAROLINA CUQUI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MARIANA.CUQUI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MARIANA MACIEL</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MARY.REZENDE.14@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATHEUS ANDRADE CHAVES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MATHEUS.CHAVES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATHEUS HENRIQUE SIMOES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MATHEUS SIQUEIRA TAVARES MEIRA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MATHEUS.SIQUEIRA.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MAYARA SOUZA DE FIGUEIREDO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MAYFIGUEIREDO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MICHELE ALVES MARIANO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MICKAËL RAYMOND GILBERT BOILLON</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MICKAEL.BOILLON@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MIRELA GARCIA FERNANDES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>MIRELA.FERNANDES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONICA APARECIDA BARBOSA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>MONICA.BARBOSA.94009@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>MONIQUE PECANHA DOS SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA BRESSAN NERES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>NATALIA.NERES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA DOS REIS REZENDE</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>NATALIA SANTOS CORREA DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>NATALIA.SANTOS.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>OLAVO TUPINAMBA SORENSEN</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>OSWALDO KAMEYAMA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>O.KAMEYAMA@GMAIL.COM</td>
+<td>False</td>
+<td>17216</td>
+<td>CENTRO UNIVERSITARIO PADRE ANCHIETA</td>
+<td>UNIANCHIETA</td>
+<td>PROF. MS. JOAO ANTONIO DE VASCONCELLOS</td>
+<td>OSWALDO KAMEYAMA</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>OTAVIA GONCALVES CARVALHO DA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PAMELA GONCALVES GENEROSO</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>PAMELA.GENEROSO.71@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PAMELLA TORRES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>PAMELLAT@MCH.IFSULDEMINAS.EDU.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PATRICIA APARECIDA DOS SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PATRICIA LUMI HIRANO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PATRICIA.HIRANO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PAULA WOLMER GRANCO</td>
+<td>ENGENHARIA DE ALIMENTOA</td>
+<td>PAULA.GRANCO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PEDRO AUGUSTO SOARES E SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PEDRO.AUGUSTO.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PEDRO HENRIQUE DA SILVA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>PRISCILLA ELENE SYLVESTRIN</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>PRISCILLA.SYLVESTRIN@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAFAEL AUGUSTO MORAES CODIGNOLE</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RAFAEL.CODIGNOLE@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAFAEL GRASSI DE ALCANTARA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RAFAEL.ALCANTARA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAFAEL MACHADO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAFAELLA CAMPOS ANGELINI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RAFAELLA.ANGELINI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAFAELLE DE SOUZA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>RAFAELLE.D.SOUZA@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAINAN HENRIQUE PEREIRA PIRES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAPHAEL CORREA DA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAPHAELLA PEREIRA DE LIMA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>RAPHAELLA.LIMA.75@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAQUEL DE GOUVEIA PORTES</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RGPORTES@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RAQUEL PEDRONI DA SILVA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RAQUEL.PEDRONI.SILVA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RENATA YATIM</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RENATAYATIM@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RENATO MALONE DE SOUZA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RENATOMALONE@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RICARDO DE CARVALHO PAES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>RICARDO.C.PAES.90@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RICARDO MATOS</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>RICARDO2.MATOS@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>RICHER SIMOES REIS</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>RICHERSIMOES@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROBERTA BEGALE BRIGAGAO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>ROBERTA.BRIGAGAO@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROBERTA CAMPOS MENDES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>ROBERTACMENDES@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>ROBERTA DANIELLE CORREA DE O LIBERAL</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>ROBERTA.LIBERAL@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SARAH CORIGLIANO MAGALHAES</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>SARAHCMAGALHAES@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SARAH TEODORO BARBOSA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SILMARA SUEMI NAKASATO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>SILMARA.NAKASATO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>SUZANNI PEREIRA CARVALHO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>SUZANNICARVALHO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TAINA ELISA DE MELLO LAZARINI</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TAINA.LAZARINI@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA CRISTIANE FARIA SILVA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA DOS REIS</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA FERREIRA DA SILVA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>TALITAFERREIRA08@HOTMAIL.COM.BR</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA PRIMINI FELTRAN</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TALITA.FELTRAN@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TALITA SANTOS DE MELO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TAMARA MACHADO DA SILVA</td>
+<td>TECNOLOGIA EM CAFEICULTURA</td>
+<td>TAMARA.MACHADO.146@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TATIANE CRISTINA PEREIRA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>TATIANE.PEREIRA.9674@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TATIANE MANARA</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TATIANE.MANARA@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TATIANE XISLEIDE GONCALVES</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>XIS_S2@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS CANELA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS GRAF</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAIS.GRAF@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS MANTOVANI CANAN</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THAIS.CANAN@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS RESENDE</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>THAIS.REZENDEFERREIRA@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAIS TAMY SIMAKAWA</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THALITA CAROLINE SILVA BRIGAGAO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>THALITABRIGAGAO@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THALITA DONNABELLA RIBEIRO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>THALITA.DONNABELLA.RIBEIRO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAYS MACHADO DE SOUZA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>FLAVI.REBELLO@GMAIL.COM</td>
+<td>False</td>
+<td>14023</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOCLOGIA SUL DE MINAS GERAIS CAMPUS INCONFIDENTES</td>
+<td>IFSULDEMINAS - CAMPUS INCONFIDENTES</td>
+<td>SERGIO PEDINI</td>
+<td>FLAVIA DE FLORIANI POZZA REBELLO</td>
+<td>Engenheiro(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THAYS NARDIN CORREIA</td>
+<td>TECNICO EM ALIMENTOS</td>
+<td>THAYS.NARDIN@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>THIAGO SAKOMOTO BELEM</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>TSAKOMOTO@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>TIELE JULIA TAPAI LEITE FARIA SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>VALMIR CARNEIRO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VANIA APARECIDA DA SILVA</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>VANIA.APARECIDADASILVA.10@FACEBOOK.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERONICA SANTOS RIBEIRO</td>
+<td>TECNOLOGIA EM ALIMENTOS</td>
+<td>VERONICA_SR_SANTOSRIBEIRO@HOTMAIL.COM</td>
+<td>False</td>
+<td>86569</td>
+<td>INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO SUL DE MINAS GERAIS - CAMPUS MACHADO</td>
+<td>IFSULDEMINAS</td>
+<td>SERGIO PEDINI</td>
+<td>VANDERLEY ALMEIDA SILVA</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VERONICA VITORIO SANTOS</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Aluno</td>
+<td>2013</td>
+<td>VITOR HEITI TAHIRA OKAMOTO</td>
+<td>ENGENHARIA DE ALIMENTOS</td>
+<td>HEITI8@USP.BR</td>
+<td>False</td>
+<td>26374</td>
+<td>FACULDADE DE ZOOTECNIA E ENGENHARIA DE ALIMENTOS / USP</td>
+<td>FZEA/USP</td>
+<td>JOAO GRANDINO RODAS</td>
+<td>MARCO ANTONIO TRINDADE</td>
+<td>Outros</td>
+</tr>
+<tr>
+<td>TecnoCarne</td>
+<td>Professor</td>
+<td>2013</td>
+<td>VIVIANE SOCCIO</td>
+<td>GASTRO</td>
+<td>CLAUDIA</td>
+<td>False</td>
+<td>84390</td>
+<td>FUNDACAO VALEPARAIBANA DE ENSINO</td>
+<td>FVE</td>
+<td>JAIR</td>
+<td>VIVIANE SOCCIO MONTEIRO HENRIQUE HENRIQUE</td>
+<td>Coordenador(a)</td>
+</tr>
+</table>

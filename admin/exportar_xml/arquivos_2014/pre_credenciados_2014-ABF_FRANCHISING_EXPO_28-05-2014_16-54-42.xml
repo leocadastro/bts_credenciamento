@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<id_cadastro>410985</id_cadastro>
+<id_visitante>65966</id_visitante>
+<id_empresa>88830</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>26/05/2014 16:56:14</data_cadastro>
+<cnpj>04644081000113</cnpj>
+<razao_social>GESTAO E REVITALIZACAO DE CENTROS COM.</razao_social>
+<nome_fantasia>GERCCOM</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>CONSULTORIA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='SHOPPING CENTER / PONTOS COMERCIAIS' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.GERCCOM.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>055</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>20925370</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>14551082864</cpf>
+<passaporte></passaporte>
+<nome>LUIZ FERNANDO RODRIGUES</nome>
+<credencial>LUIZ FERNANDO RODRIGUES</credencial>
+<data_nasc>23121969</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>FINANC@GERCCOM.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>82451642</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>20925370</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CORPORATIVO</departamento>
+<departamento_outros></departamento_outros>
+<cep>03334000</cep>
+<endereco>RUA BENTO GONCALVES</endereco>
+<nro>364</nro>
+<complemento></complemento>
+<bairro>VILA REGENTE FEIJO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site do expositor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Shopping Centers e Pontos Comerciais'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Outros'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra; Não tem envolvimento'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='Outros; Outros'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Não utilizo; Não utilizo'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Outros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>410989</id_cadastro>
+<id_visitante>299599</id_visitante>
+<id_empresa>111811</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>26/05/2014 16:57:01</data_cadastro>
+<cnpj>02743548000157</cnpj>
+<razao_social>ESTUDIO TREGIER DE INTERATIVIDADE LTDA</razao_social>
+<nome_fantasia>KAITS SISTEMA GESTAO ESCOLAS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>SISTEMA GERENCIAMENTO CURSOS LIVRES</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='SISTEMA GERENCIAMENTO PARA ESCOLAS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.KAITS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>23063288</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>11679714856</cpf>
+<passaporte></passaporte>
+<nome>SILVIA CONSORTI</nome>
+<credencial>SILVIA</credencial>
+<data_nasc>19011968</data_nasc>
+<sexo>FEMININO</sexo>
+<email>SILVIACONSORTI@KAITS.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>23063288</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>984357606</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>05617140</cep>
+<endereco>RUA GUIHEI VATANABE</endereco>
+<nro>283</nro>
+<complemento>SL 5</complemento>
+<bairro>MORUMBI</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Educação e Treinamento; Escola de Idiomas'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='Outros'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Facebook'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Prestador de Serviços'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>410991</id_cadastro>
+<id_visitante>299601</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>26/05/2014 16:58:11</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='SISTEMA GERENCIAMENTO PARA ESCOLAS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>89655117120</cpf>
+<passaporte></passaporte>
+<nome>THIAGO MEDINA DE SOUZA</nome>
+<credencial>THIAGO MEDINA</credencial>
+<data_nasc>05121980</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>THIAGO.MEDINA@HOTMAIL.COM</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>66</ddd_2>
+<fone_2>99030321</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>QUALIDADE</departamento>
+<departamento_outros></departamento_outros>
+<cep>78555068</cep>
+<endereco>AVENIDA DAS PALMEIRAS</endereco>
+<nro>3037</nro>
+<complemento></complemento>
+<bairro>JARDIM IMPERIAL</bairro>
+<cidade>SINOP</cidade>
+<uf>MT</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Educação e Treinamento; Escola de Idiomas'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='Outros'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Facebook'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Prestador de Serviços'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>410993</id_cadastro>
+<id_visitante>299603</id_visitante>
+<id_empresa>111812</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>26/05/2014 16:58:39</data_cadastro>
+<cnpj>01337269000120</cnpj>
+<razao_social>POLYTRADE INDUSTRIA E COMERCIO LTDA</razao_social>
+<nome_fantasia>POLYTRADE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>RESINAS NATURAIS; CARVAO ATIVADO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='IMPORTADOR / EXPORTADOR' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.POLYTRADE.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>41</ddd_1>
+<fone_1>30952144</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>02017855952</cpf>
+<passaporte></passaporte>
+<nome>MARCOS ALEXANDRE RIBAS</nome>
+<credencial>MARCOS RIBAS</credencial>
+<data_nasc>08021977</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>RIBAS@POLYTRADE.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>41</ddd_2>
+<fone_2>30952144</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>41</ddd_3>
+<fone_3>84239447</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>80220071</cep>
+<endereco>RUA NUNES MACHADO</endereco>
+<nro>3233</nro>
+<complemento></complemento>
+<bairro>PAROLIN</bairro>
+<cidade>CURITIBA</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Negócios, Serviços e Conveniência'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Avaliar e comprar franquias; Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='Outros'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Não utilizo'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Outros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>410996</id_cadastro>
+<id_visitante>168482</id_visitante>
+<id_empresa>60468</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>26/05/2014 17:00:19</data_cadastro>
+<cnpj>10977113000103</cnpj>
+<razao_social>CROSS OVER STANDS LTDA.</razao_social>
+<nome_fantasia>CROSS EVENTOS</nome_fantasia>
+<qtde_funcionarios>51 A 100</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETURA / DECORACAO / ENGENHARIA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='EVENTOS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.CROSSEVENTOS.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>CELULAR</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>993134624</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>90432894853</cpf>
+<passaporte></passaporte>
+<nome>JOAQUIM ANTONIO MINEIRO SOLANO</nome>
+<credencial>JOAQUIM SOLANO</credencial>
+<data_nasc>07071955</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>JOAQUIMSOLANO@YAHOO.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>993134624</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>REPRESENTANTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>02117001</cep>
+<endereco>RUA ANDARAI</endereco>
+<nro>830</nro>
+<complemento></complemento>
+<bairro>VILA MARIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing da organização do evento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMar; ForMóbile; HOSPITALMED; ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Entretenimento, Brinquedos e Lazer'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda; Recomenda'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='De R$ 31 a R$ 50 mil'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Facebook'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Prestador de Serviços'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>411003</id_cadastro>
+<id_visitante>299608</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>26/05/2014 17:03:43</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETURA / DECORACAO / ENGENHARIA' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='EVENTOS' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>05824965862</cpf>
+<passaporte></passaporte>
+<nome>MARCOS RIBAS MARTINS</nome>
+<credencial>MARCOS MARTINS</credencial>
+<data_nasc>21021966</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>RIBASMARTINS@UOL.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>13</ddd_2>
+<fone_2>997735721</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>RESIDENCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>13</ddd_3>
+<fone_3>32619029</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>11030180</cep>
+<endereco>RUA GOVERNADOR FERNANDO COSTA</endereco>
+<nro>558</nro>
+<complemento>APTO. 83</complemento>
+<bairro>PONTA DA PRAIA</bairro>
+<cidade>SANTOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing da organização do evento'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ForMar; ForMóbile; HOSPITALMED; ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse; Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Entretenimento, Brinquedos e Lazer'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda; Recomenda'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='De R$ 31 a R$ 50 mil'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Facebook'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Prestador de Serviços'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>411004</id_cadastro>
+<id_visitante>299609</id_visitante>
+<id_empresa>111808</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>26/05/2014 17:04:50</data_cadastro>
+<cnpj>15687399000106</cnpj>
+<razao_social>SHIAO HEI OFICINA DE COSTURA LTDA.</razao_social>
+<nome_fantasia>5AFIL JARDINS</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>SERVICOS DE COSTURA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COSTURA' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.5AFIL.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>25744456</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>31143069854</cpf>
+<passaporte></passaporte>
+<nome>CARLOS ESSEI SHIBATA</nome>
+<credencial>CARLOS SHIBATA</credencial>
+<data_nasc>28041984</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>CARLOSESSEI@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>979869946</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMUNICAÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cep>05410020</cep>
+<endereco>RUA ARRUDA ALVIM</endereco>
+<nro>213</nro>
+<complemento></complemento>
+<bairro>PINHEIROS</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes; Anúncio e matérias em jornais impressos; Anúncio e matérias em revistas; Anúncio em mídia digital (banner em sites, agenda de eventos, e outras publicidade da internet); Colegas de trabalho; Convite impresso enviado pela organização do evento ; E-mail marketing do expositor; Entidades de Classe / Associações; Site da feira; Site do expositor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; CARDS Payment &amp; Identification; ExpoVinis; SIAL Brazil'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Acessórios Pessoais e Calçados; Beleza, Saúde e Produtos Naturais; Comunicação, Informática e Eletrônicos; Fotografia, Gráficas e Sinalização; Livraria e Papelaria; Negócios, Serviços e Conveniência; Shopping Centers e Pontos Comerciais; Vestuário'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Fazer cursos rápidos para ampliar seu conhecimento sobre o setor; Ficar informado sobre novas franquias e novidades do setor; Prospectar franquias para aquisições futuras'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='De R$ 181 a R$ 300 mil'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Não utilizo'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Prestador de Serviços'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>411005</id_cadastro>
+<id_visitante>299610</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>26/05/2014 17:04:54</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='OUTROS' ramo_outros='COSTURA' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>88777782100</cpf>
+<passaporte></passaporte>
+<nome>JOICY MARINA DE CASTRO MEDINA</nome>
+<credencial>JOICY MEDINA</credencial>
+<data_nasc>28121981</data_nasc>
+<sexo>FEMININO</sexo>
+<email>JOICYCASTRO@HOTMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>66</ddd_2>
+<fone_2>99946952</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>FUNCIONÁRIO(A) DE SETOR PÚBLICO</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cep>78555068</cep>
+<endereco>AVENIDA DAS PALMEIRAS</endereco>
+<nro>3037</nro>
+<complemento></complemento>
+<bairro>JARDIM IMPERIAL</bairro>
+<cidade>SINOP</cidade>
+<uf>MT</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Amigos e parentes; Anúncio e matérias em jornais impressos; Anúncio e matérias em revistas; Anúncio em mídia digital (banner em sites, agenda de eventos, e outras publicidade da internet); Colegas de trabalho; Convite impresso enviado pela organização do evento ; E-mail marketing do expositor; Entidades de Classe / Associações; Site da feira; Site do expositor'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; ABF Franchising Expo Nordeste; CARDS Payment &amp; Identification; ExpoVinis; SIAL Brazil'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Acessórios Pessoais e Calçados; Beleza, Saúde e Produtos Naturais; Comunicação, Informática e Eletrônicos; Fotografia, Gráficas e Sinalização; Livraria e Papelaria; Negócios, Serviços e Conveniência; Shopping Centers e Pontos Comerciais; Vestuário'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Fazer cursos rápidos para ampliar seu conhecimento sobre o setor; Ficar informado sobre novas franquias e novidades do setor; Prospectar franquias para aquisições futuras'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='De R$ 181 a R$ 300 mil'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Não utilizo'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Prestador de Serviços'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>411008</id_cadastro>
+<id_visitante>299613</id_visitante>
+<id_empresa>111812</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>26/05/2014 17:06:00</data_cadastro>
+<cnpj>01337269000120</cnpj>
+<razao_social>POLYTRADE INDUSTRIA E COMERCIO LTDA</razao_social>
+<nome_fantasia>POLYTRADE</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>RESINAS NATURAIS; CARVAO ATIVADO</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='IMPORTADOR / EXPORTADOR' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site>WWW.POLYTRADE.COM.BR</site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>41</ddd_1>
+<fone_1>30952144</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>38449951968</cpf>
+<passaporte></passaporte>
+<nome>FERNANDO POMPEO DA SILVA</nome>
+<credencial>FERNANDO POMPEO DA SILVA</credencial>
+<data_nasc>05071960</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>ANA.RADUNZ@TERRA.COM.BR</email>
+<newsletter>FALSE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>41</ddd_2>
+<fone_2>30952144</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>80220071</cep>
+<endereco>RUA NUNES MACHADO</endereco>
+<nro>3233</nro>
+<complemento></complemento>
+<bairro>PAROLIN</bairro>
+<cidade>CURITIBA</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Hotelaria e Turismo; Negócios, Serviços e Conveniência'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='Outros'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Não utilizo'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Outros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>411009</id_cadastro>
+<id_visitante>299612</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>26/05/2014 17:06:00</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='IMPORTADOR / EXPORTADOR' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>26941921811</cpf>
+<passaporte></passaporte>
+<nome>BEATRIZ PONCIANO AMORIM</nome>
+<credencial>BEATRIZ AMORIM</credencial>
+<data_nasc>02091977</data_nasc>
+<sexo>FEMININO</sexo>
+<email>BEATRIZ.AMORIM@MANE.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>CELULAR</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>984479632</fone_2>
+<ramal_2></ramal_2>
+<sms_2>FALSE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>04062001</cep>
+<endereco>AV INDIANOPOLIS,</endereco>
+<nro>1460</nro>
+<complemento></complemento>
+<bairro>PLANALTO PAULISTA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revistas'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Qual o setor que procura na ABF Franchising Expo 2014?' resposta='Hotelaria e Turismo; Negócios, Serviços e Conveniência'/>
+<pergunta questao='Qual o seu interesse em visitar o evento? ' resposta='Ficar informado sobre novas franquias e novidades do setor'/>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra'/>
+<pergunta questao='Quanto em média pretende investir para abrir uma franquia?' resposta='Outros'/>
+<pergunta questao='Sua empresa usa algum tipo de rede social?' resposta='Não utilizo'/>
+<pergunta questao='Você visitará a exposição como:' resposta='Outros'/>
+</pesquisa>
+</cadastro>
+</credenciamento>

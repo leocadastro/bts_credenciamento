@@ -1,0 +1,800 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<cod_identificacao>14812</cod_identificacao>
+<cnpj>04817485000161</cnpj>
+<empresa>BPD SERVICOS DE PROCESSAMENTO DE DADOS LTDA</empresa>
+<nome_fantasia>BPD</nome_fantasia>
+<nome>SILVIO MADUREIRA LOBATO</nome>
+<credencial>SILVIO LOBATO</credencial>
+<cpf>03929814757</cpf>
+<ddi>55</ddi>
+<ddd>27</ddd>
+<fone>33232880</fone>
+<email>SILVIO.LOBATO@BPD.COM.BR</email>
+<cargo>ACIONISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>VITORIA</cidade>
+<uf>ES</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA DESEMBARGADOR JOSE BATALHA</endereco>
+<nro>90</nro>
+<complemento>SALA 204</complemento>
+<cep>29045530</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14850</cod_identificacao>
+<cnpj>04242413000133</cnpj>
+<empresa>RIBETK COMERCIO E ASSISTENCIA TECNICA ELETRONICA LTDA.</empresa>
+<nome_fantasia>RIBETK</nome_fantasia>
+<nome>HAMILTON KAZUAKI OCURA</nome>
+<credencial>HAMILTON</credencial>
+<cpf>01178588890</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>26817793</fone>
+<email>RIBETK@GLOBO.COM</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA SAO PEDRO DOS FERROS</endereco>
+<nro>76</nro>
+<complemento>APTO. 74</complemento>
+<cep>03670030</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14874</cod_identificacao>
+<cnpj>61595666000124</cnpj>
+<empresa>MULTI WORK INFORMATICA LTDA.</empresa>
+<nome_fantasia>MULTI WORK INFORMATICA</nome_fantasia>
+<nome>CARLOS ALBERTO MARINS FONSECA</nome>
+<credencial>CARLOS FONSECA</credencial>
+<cpf>06980773429</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>44076135</fone>
+<email>CARLOSMARINS@GMAIL.COM</email>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>JUNDIAI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ANTUNES, 343</endereco>
+<nro>343</nro>
+<complemento>CX POSTAL 341</complemento>
+<cep>13201970</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Rádio; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14898</cod_identificacao>
+<cnpj>61595666000124</cnpj>
+<empresa>MULTI WORK INFORMATICA LTDA.</empresa>
+<nome_fantasia>MULTI WORK INFORMATICA</nome_fantasia>
+<nome>JORGE PEIXE</nome>
+<credencial>JORGE PEIXE</credencial>
+<cpf>03648742876</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>44076135</fone>
+<email>JP@MULTIWORK.COM.BR</email>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>JUNDIAI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ANTUNES, 343</endereco>
+<nro>343</nro>
+<complemento>CX POSTAL 241</complemento>
+<cep>13201970</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Rádio; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14899</cod_identificacao>
+<cnpj>61595666000124</cnpj>
+<empresa>MULTI WORK INFORMATICA LTDA.</empresa>
+<nome_fantasia>MULTI WORK INFORMATICA</nome_fantasia>
+<nome>JORGE PEIXE</nome>
+<credencial>JORGE PEIXE</credencial>
+<cpf>03648742876</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>44076135</fone>
+<email>JP@MULTIWORK.COM.BR</email>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>JUNDIAI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ANTUNES, 343</endereco>
+<nro>343</nro>
+<complemento>CX POSTAL 241</complemento>
+<cep>13201970</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Rádio; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14914</cod_identificacao>
+<cnpj>10795875000180</cnpj>
+<empresa>IBIM</empresa>
+<nome_fantasia>SMN</nome_fantasia>
+<nome>SHISAKO MIZUNO NOMOTO</nome>
+<credencial>MIZUNO</credencial>
+<cpf>04260301845</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>97030262</fone>
+<email>SHISAKOMIZUNO@YAHOO.COM.BR</email>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>DESIGN</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA DONA CESARIA FAGUNDES</endereco>
+<nro>272</nro>
+<complemento></complemento>
+<cep>04054030</cep>
+</cadastro>
+<cadastro>
+<cod_identificacao>14933</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>RAPHAEL MELLO</nome>
+<credencial>RAPHAEL MELLO</credencial>
+<cpf>25760145851</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>RAPHAELMELLO@HOTMAIL.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA GUARARAPES</endereco>
+<nro>2073</nro>
+<complemento></complemento>
+<cep>04561004</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 25.000 - R$ 50.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14934</cod_identificacao>
+<cnpj>06289274000129</cnpj>
+<empresa>OUVI DIVULGACAO E MARKETING EM CELULARES</empresa>
+<nome_fantasia>OUVI</nome_fantasia>
+<nome>TORE HAUGLAND</nome>
+<credencial>TORE HAUGLAND</credencial>
+<cpf>73897108100</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>38450800</fone>
+<email>TORE@OUVI.COM.BR</email>
+<cargo>EMPREENDEDOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>NOVOS NEGÓCIOS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA GOMES DE CARVALHO</endereco>
+<nro>1266</nro>
+<complemento>95</complemento>
+<cep>04547005</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14948</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>ANGEL IBANEZ</nome>
+<credencial>IBANEZ</credencial>
+<cpf>63787474820</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>ANGEL.IBANEZ1948@HOTMAIL.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>NOVOS NEGÓCIOS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ARAPURU</endereco>
+<nro>109</nro>
+<complemento></complemento>
+<cep>04068070</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Outdoor / Jornal /  TV; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 500.000 - R$ 1.000.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14955</cod_identificacao>
+<cnpj>05755233000118</cnpj>
+<empresa>WINCOR NIXDORF SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA</empresa>
+<nome_fantasia>WINCOR-NIXDORF</nome_fantasia>
+<nome>ALBERT GARCIA DE LIMA</nome>
+<credencial>ALBERT G. LIMA</credencial>
+<cpf>16777961895</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>51881344</fone>
+<email>ALBERTGARCIA.LIMA@WINCOR-NIXDORF.COM</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA VERBO DIVINO</endereco>
+<nro>1661</nro>
+<complemento>12</complemento>
+<cep>04719002</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>14971</cod_identificacao>
+<cnpj>07157687000112</cnpj>
+<empresa>T BROIP TECNOLOGIA E PARTICIPACOES LTDA</empresa>
+<nome_fantasia>T BROIP</nome_fantasia>
+<nome>ANTONIO ROBERTO GARINI</nome>
+<credencial>ROBERTO GARINI</credencial>
+<cpf>39775313872</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>25370440</fone>
+<email>ROBERTO.GARINI@GMAIL.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA SABARA</endereco>
+<nro>318</nro>
+<complemento></complemento>
+<cep>01239010</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15016</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>GENILSON BRANDAO</nome>
+<credencial>GENILSON BRANDAO</credencial>
+<cpf>30534374816</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>GENILSON.BRANDAO@TALKVOX.COM.BR</email>
+<cargo>EMPRESÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>CORPORATIVO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA SAO REMO</endereco>
+<nro>88</nro>
+<complemento></complemento>
+<cep>05360150</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revista; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Mala direta; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta=' R$ 100.000 -  R$ 500.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15040</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>GILVANO P. SANTOS</nome>
+<credencial>GILVANO SANTOS</credencial>
+<cpf>29368919810</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>GILVANO@LONGJUMP.COM.BR</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA JUCARAL</endereco>
+<nro>489</nro>
+<complemento>CASA 15</complemento>
+<cep>08246106</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15085</cod_identificacao>
+<cnpj>07654550000173</cnpj>
+<empresa>MALLUMAR PRODUTOS PROMOCIONAIS</empresa>
+<nome_fantasia>MALLUMAR</nome_fantasia>
+<nome>MARCIO SERGIO LUCAS</nome>
+<credencial>MARCIO S. LUCAS</credencial>
+<cpf>64501612991</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>20664000</fone>
+<email>MARCIO@MALLUMAR.COM.BR</email>
+<cargo>DESIGN GRÁFICO</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>CRIAÇÃO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; INDÚSTRIA / FABRICAÇÃO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA CIPRIANO BARATA</endereco>
+<nro>3062</nro>
+<complemento></complemento>
+<cep>04205002</cep>
+</cadastro>
+<cadastro>
+<cod_identificacao>15090</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>ROBSON MOREIRA FURIGO</nome>
+<credencial>ROBSON FURIGO</credencial>
+<cpf>14260268899</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>ROBSONFURIGO@IG.COM.BR</email>
+<cargo>CONSULTOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA MERCURIO</endereco>
+<nro>34</nro>
+<complemento></complemento>
+<cep>06414050</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15093</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>HUGO AMBROSIO RODRIGUES FILHO</nome>
+<credencial>HUGO RODRIGUES</credencial>
+<cpf>00517914719</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>DIRETORIA@WELCOMECARD.COM.BR</email>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cidade>VILA VELHA</cidade>
+<uf>ES</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA ESTUDANTE JOSE JULIO DE SOUZA</endereco>
+<nro>1590</nro>
+<complemento>APTO 1104</complemento>
+<cep>29102010</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 50.000 - R$ 100.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15125</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>LUCIANO CESAR ALAKIJA PALMA</nome>
+<credencial>LUCIANO ALAKIJA</credencial>
+<cpf>78178908549</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>LALAKIJA@ETHERTRONICS.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA FORTUNATO FERRAZ</endereco>
+<nro>320</nro>
+<complemento>BLOCO SOL APT141</complemento>
+<cep>05093000</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15219</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>RICARDO DO NASCIMENTO</nome>
+<credencial>RICARDO</credencial>
+<cpf>00510079830</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>RICKNAS@CONNECTARE.COM.BR</email>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>NOVOS NEGÓCIOS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA CLODOMIRO AMAZONAS</endereco>
+<nro>1099</nro>
+<complemento>CJ. 28</complemento>
+<cep>04537002</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 50.000 - R$ 100.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15227</cod_identificacao>
+<cnpj>01027058000191</cnpj>
+<empresa>CIELO S.A.</empresa>
+<nome_fantasia>CIELO</nome_fantasia>
+<nome>BRUNO HENRIQUE NOGUEIRA</nome>
+<credencial>BRUNO NOGUEIRA</credencial>
+<cpf>23141942846</cpf>
+<ddi>55</ddi>
+<ddd>011</ddd>
+<fone>21841453</fone>
+<email>BRUNOH@PRESTADORCBMP.COM.BR</email>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA GRAJAU</endereco>
+<nro>219</nro>
+<complemento></complemento>
+<cep>06454050</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15245</cod_identificacao>
+<cnpj>04988631000111</cnpj>
+<empresa>BAM COMERCIO E SERVICOS LTDA</empresa>
+<nome_fantasia>SKYTEF</nome_fantasia>
+<nome>WELTON DIAS PEREIRA</nome>
+<credencial>WELTON DIAS</credencial>
+<cpf>32427348821</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>21759517</fone>
+<email>WELTONDIASPEREIRA@HOTMAIL.COM</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA SAO TOME</endereco>
+<nro>119</nro>
+<complemento>7º ANDAR</complemento>
+<cep>04551080</cep>
+</cadastro>
+<cadastro>
+<cod_identificacao>15260</cod_identificacao>
+<cnpj>00063960000109</cnpj>
+<empresa>WAL MART BRASIL LTDA</empresa>
+<nome_fantasia>WAL MART</nome_fantasia>
+<nome>ERIKA SANTOS SOBRINHO</nome>
+<credencial>ERIKA SOBRINHO</credencial>
+<cpf>00695464523</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>21035007</fone>
+<email>ERIKA.SOBRINHO@WAL-MART.COM</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA TUCUNARE</endereco>
+<nro>125</nro>
+<complemento>211</complemento>
+<cep>06463200</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15267</cod_identificacao>
+<cnpj>02997156000114</cnpj>
+<empresa>MORPHO CARDS DO BRASIL</empresa>
+<nome_fantasia>MORPHO CARDS DO BRASIL</nome_fantasia>
+<nome>ALBERTO GRACIANO DE OLIVEIRA</nome>
+<credencial>ALBERTO G. OLIVEIRA</credencial>
+<cpf>28255596879</cpf>
+<ddi>55</ddi>
+<ddd>12</ddd>
+<fone>21256500</fone>
+<email>ALBERTO.OLIVEIRA@MORPHO.COM</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>TAUBATE</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA INDEPENDENCIA</endereco>
+<nro>3451</nro>
+<complemento></complemento>
+<cep>12032000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Compra; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15278</cod_identificacao>
+<cnpj>03514896000115</cnpj>
+<empresa>THOMAS GREG E SONS</empresa>
+<nome_fantasia>THOMAS GREG</nome_fantasia>
+<nome>LEANDRO EMILIO DA SILVA</nome>
+<credencial>LEANDRO EMILIO DA SILVA</credencial>
+<cpf>22508353817</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>26668890</fone>
+<email>LEANDRO.EMILIO@YAHOO.COM.BR</email>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO BERNARDO DO CAMPO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>R. GEN. BERTOLDO KLINGER</endereco>
+<nro>69</nro>
+<complemento></complemento>
+<cep>09688000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Pesquisa; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Entidades da classe / Associações Comerciais; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>15294</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>FABIO LEVO GONCALVES</nome>
+<credencial>FABIO LEVI</credencial>
+<cpf>28561664827</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>FABIO_LEVI@YAHOO.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>NOVOS NEGÓCIOS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA LINO COUTINHO</endereco>
+<nro>1471</nro>
+<complemento>AP 24</complemento>
+<cep>04207001</cep>
+<pesquisa>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 50.000 - R$ 100.000; '/>
+</pesquisa>
+</cadastro>
+</credenciamento>

@@ -1,0 +1,37 @@
+<SCRIPT LANGUAGE=VBSCRIPT RUNAT=SERVER>
+Sub Application_OnStart
+
+	dba_Bugatti 				= "DRIVER=SQL Server;UID=usr_bts;PWD=uJS84&%1!2mSI;DATABASE=Credenciamento2012;SERVER=172.21.43.15, 63946;Persist Security Info=True"
+	'dba_Bugatti 				= "DRIVER=SQL Server;UID=cred2012;PWD=credenciamento#2012;DATABASE=Credenciamento2012;SERVER=SABR-DATABASE;Persist Security Info=True"
+	dba_Bugatti_CredOld			= "DRIVER=SQL Server;UID=usr_bts;PWD=uJS84&%1!2mSI;DATABASE=CredenciamentoBTS;SERVER=172.21.43.15, 63946;Persist Security Info=True;"
+	'dba_Bugatti_T				= "DRIVER=SQL Server;UID=usr_bts;PWD=uJS84&%1!2mSI;DATABASE=Credenciamento2012_TESTE;SERVER=HONDA;Persist Security Info=True"
+	
+	Application("cnn") 			= dba_Bugatti
+	Application("cnnCredOld")	= dba_Bugatti_CredOld
+	'Application("cnn_T")		= dba_Bugatti_T
+	
+	' Valor do Ticket GERAL
+	Application("Valor_Ticket") = 70.00
+
+End sub
+
+Sub Application_OnEnd
+  
+End sub
+
+Sub Session_OnStart  
+
+'	Session.Timeout = 30
+	Session("cliente_logado") = False
+	
+	Session("caminho_site") = Request.ServerVariables("APPL_PHYSICAL_PATH")
+	Session("site") = "http://" & Request.ServerVariables("HTTP_HOST")
+
+End sub
+
+Sub Session_OnEnd
+
+
+End sub
+
+</SCRIPT>

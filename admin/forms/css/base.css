@@ -1,0 +1,114 @@
+html
+{
+	margin: 0 auto;
+	padding: 0;
+}
+body
+{
+	margin: 0 auto;
+	padding: 0;	
+	background:  url(../img_base/bg.png) #d1d2d4 top left repeat-x;
+}
+
+/* container to form */
+#contForm
+{
+	width: 855px;
+	padding: 0;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+form 
+{
+	width:auto;
+	margin:10px;
+}
+fieldset 
+{
+	border:0;
+	float: left;
+}		
+form fieldset legend {
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:orange;
+	margin:0 0 10px;
+}		
+form fieldset label {
+	color:#797d81;
+	font:11px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	display:block;
+	width:240px;
+	padding: 5px;
+	float:left;
+}		
+form fieldset label.labmensagem {
+	width:470px;
+}	
+form fieldset label.labmensagem textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height:100px;
+	border:1px solid #bebebd;
+	padding:3px;
+	margin-top: 5px;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+form fieldset label textarea:focus, form fieldset label textarea:hover {
+	border:1px solid #bebebd;
+	
+	-moz-box-shadow:inset 2px 2px 2px #ddd;
+	-webkit-box-shadow:inset 2px 2px 2px #ddd;
+	box-shadow:inset 2px 2px 2px #ddd;
+	
+}
+form fieldset label input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid #bebebd;
+	padding:3px;
+	height: 24px;
+	margin-top: 5px;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+form fieldset label input:focus, form fieldset label input:hover {
+	border:1px solid #bebebd;
+	
+	-moz-box-shadow:inset 2px 2px 2px #ddd;
+	-webkit-box-shadow:inset 2px 2px 2px #ddd;
+	box-shadow:inset 2px 2px 2px #ddd;
+	
+}
+/* Option list FORM */
+form fieldset label ul
+{
+	list-style:none;
+	list-style-type:none;
+	width: 800px;
+	display:inline;
+	padding: 0;
+	margin: 10px 0;
+	float: left;
+}
+form fieldset label ul li 
+{	
+	width:385px;
+	line-height: 24px;
+	display: block;
+	margin:0px;
+	padding: 0 5px;
+	float: left;
+	font-weight: normal;
+}
+form fieldset label ul li input
+{	
+	float: left;
+	margin: 0;
+	border: 1px solid #000;
+}

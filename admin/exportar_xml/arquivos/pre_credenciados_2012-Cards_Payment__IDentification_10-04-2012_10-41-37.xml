@@ -1,0 +1,980 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<cod_identificacao>13949</cod_identificacao>
+<cnpj>06083435000123</cnpj>
+<empresa>DISCOVER CARD ADMINISTRADORA DE CARTOES LTDA.</empresa>
+<nome_fantasia>DISCOVER CARD</nome_fantasia>
+<nome>SANI GRUENWALDT</nome>
+<credencial>SANI</credencial>
+<cpf>25120054889</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>55369661</fone>
+<email>SANIG@UOL.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA VEREADOR JOSE DINIZ</endereco>
+<nro>3707</nro>
+<complemento>SALA 31</complemento>
+<cep>04603004</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Anúncio e matérias em revista; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13952</cod_identificacao>
+<cnpj>13773581000146</cnpj>
+<empresa>F.INCIATIVAS CONSULTORIA E ASSESSORIA EMPRESARIAL LTDA</empresa>
+<nome_fantasia>F-INICIATIVAS</nome_fantasia>
+<nome>CHRISTIAN JUDIKAEL GERARD RENOUARD</nome>
+<credencial>JUDICAEL RENOUARD</credencial>
+<cpf>22741989850</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>30313292</fone>
+<email>JUDICAEL.RENOUARD@F-INICIATIVAS.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA BRIGADEIRO FARIA LIMA</endereco>
+<nro>1571</nro>
+<complemento>6º ANDAR</complemento>
+<cep>01452001</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13953</cod_identificacao>
+<cnpj>06083435000123</cnpj>
+<empresa>DISCOVER CARD ADMINISTRAFDORA DE CARTOES LTDA</empresa>
+<nome_fantasia>DISCOVER CARD</nome_fantasia>
+<nome>ODAIR RICCI</nome>
+<credencial>ODAIR RICCI</credencial>
+<cpf>01136495843</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>55369661</fone>
+<email>ODAIR.RICCI@HOTMAIL.COM</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AV VEREADOR JOSE DINIZ</endereco>
+<nro>3707</nro>
+<complemento>CONJUNTO 31</complemento>
+<cep>04603004</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Pesquisa; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13954</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>ANELISE FREITAS MARTINS</nome>
+<credencial>ANELISE FREITAS</credencial>
+<cpf>36714635893</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>4025.ANELISEF@BRADESCO.COM.BR</email>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>BLOCO C- 1 ANDAR</complemento>
+<cep>06454000</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Outros; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13955</cod_identificacao>
+<cnpj>13773581000146</cnpj>
+<empresa>F.INCIATIVAS CONSULTORIA E ASSESSORIA EMPRESARIAL LTDA</empresa>
+<nome_fantasia>F-INICIATIVAS</nome_fantasia>
+<nome>CHRISTIAN JUDICAEL GERARD RENOUARD</nome>
+<credencial>JUDICAEL RENOUARD</credencial>
+<cpf>22741989850</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>30313292</fone>
+<email>JUDICAEL.RENOUARD@F-INICIATIVAS.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA BRIGADEIRO FARIA LIMA</endereco>
+<nro>1571</nro>
+<complemento>6º ANDAR</complemento>
+<cep>01452001</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13958</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>MARCIA FERREIRA</nome>
+<credencial>MARCIA FERREIRA</credencial>
+<cpf>14635864855</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>MARCIAFERREIRA.COMEX@HOTMAIL.COM</email>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ROSINA LOOS</endereco>
+<nro>45</nro>
+<complemento></complemento>
+<cep>02467130</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Prestador de Serviço; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13959</cod_identificacao>
+<cnpj>08832039000187</cnpj>
+<empresa>IDENTCOM COMERCIO DE PRODUTOS PARA IDENTIFICACAO LTDA</empresa>
+<nome_fantasia>IDENTCOM</nome_fantasia>
+<nome>VANDA ELOISA GARCIA JORGE</nome>
+<credencial>VANDA ELOISA</credencial>
+<cpf>06636126833</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>55114408</fone>
+<email>VANDA_ELOISA@HOTMAIL.COM</email>
+<cargo>ACIONISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA FRANCISCO DE FIGUEIREDO</endereco>
+<nro>79</nro>
+<complemento></complemento>
+<cep>05842060</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Pesquisa; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13961</cod_identificacao>
+<cnpj>47508411000156</cnpj>
+<empresa>COMPANHIA BRASILEIRA DE DISTRIBUICAO</empresa>
+<nome_fantasia>GRUPO PAO DE ACUCAR</nome_fantasia>
+<nome>SHEILA MOURA SILVERIO ANZAI</nome>
+<credencial>SHEILA MOURA</credencial>
+<cpf>16475086819</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>38863108</fone>
+<email>SHEILA.MOURA@GRUPOPAODEACUCAR.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>CORPORATIVO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA BRIGADEIRO LUIS ANTONIO</endereco>
+<nro>3172</nro>
+<complemento>4º ANDAR</complemento>
+<cep>01402001</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13962</cod_identificacao>
+<cnpj>59438325000101</cnpj>
+<empresa>BANCO BRADESCO CARTOES</empresa>
+<nome_fantasia>BRADESCO</nome_fantasia>
+<nome>LISANDRE NAKAMURA</nome>
+<credencial>LISANDRE</credencial>
+<cpf>14329849852</cpf>
+<ddi>055</ddi>
+<ddd>011</ddd>
+<fone>48318875</fone>
+<email>9803.LISANDREN@BRADESCO.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>OUTROS</departamento>
+<departamento_outros>SUPRIMENTOS</departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>1º ANDAR</complemento>
+<cep>06454000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Rádio; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13963</cod_identificacao>
+<cnpj>06980951000150</cnpj>
+<empresa>MARTEC SERVICOS DE MANUTENCAO EM INFORMATICA - LTDA</empresa>
+<nome_fantasia>MARTEC</nome_fantasia>
+<nome>JOAO WERNER MAYER</nome>
+<credencial>JOAO MAYER</credencial>
+<cpf>85293075853</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>42284899</fone>
+<email>JWMAYER@UOL.COM.BR</email>
+<cargo>PROPRIETÁRIO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>CORPORATIVO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO CAETANO DO SUL</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA AMAZONAS</endereco>
+<nro>363</nro>
+<complemento>CJTO 91</complemento>
+<cep>09520070</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Rádio; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13965</cod_identificacao>
+<cnpj>04207230000187</cnpj>
+<empresa>CROWN ROLL LEAF DO BRASIL LTDA</empresa>
+<nome_fantasia>CROWN DO BRASIL</nome_fantasia>
+<nome>ANTONIO UGO</nome>
+<credencial>ANTONIO UGO</credencial>
+<cpf>01166102807</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>24092173</fone>
+<email>UGO@CROWNDOBRASIL.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>GUARULHOS</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AVENIDA DOUTOR RENATO DE ANDRADE MAIA</endereco>
+<nro>670</nro>
+<complemento></complemento>
+<cep>07114000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13966</cod_identificacao>
+<cnpj>04962772000165</cnpj>
+<empresa>FD DO BRASIL PROCESSAMENTO DE DADOS LTDA</empresa>
+<nome_fantasia>FIRST DATA</nome_fantasia>
+<nome>LUIS DA ROSA PEREIRA FILHO</nome>
+<credencial>LUIS PEREIRA</credencial>
+<cpf>43910840078</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>21260200</fone>
+<email>LUIS.PEREIRA@FIRSTDATACORP.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA VERBO DIVINO</endereco>
+<nro>1661</nro>
+<complemento>ANDAR 4</complemento>
+<cep>04719002</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13967</cod_identificacao>
+<cnpj>14423759000191</cnpj>
+<empresa>SWEET HOME CARTOES, SERVICOS E PROCESSAMENTO LTDA</empresa>
+<nome_fantasia>SWEET HOME</nome_fantasia>
+<nome>ROGERIO COLANTONIO</nome>
+<credencial>ROGERIO</credencial>
+<cpf>04006343841</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>32269646</fone>
+<email>RCOLANTONIO@UOL.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AV. IPIRANGA</endereco>
+<nro>313</nro>
+<complemento>8º ANDAR</complemento>
+<cep>01046010</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13968</cod_identificacao>
+<cnpj>07583629000150</cnpj>
+<empresa>UNITFOUR MARKETING TECNOLOGIA DA INFORMACAO</empresa>
+<nome_fantasia>UNITFOUR MARKETING SOLUTIONS</nome_fantasia>
+<nome>DAVID LEONE TALMADGE</nome>
+<credencial>DAVID LEONE</credencial>
+<cpf>33008003826</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>36852665</fone>
+<email>DAVID.LEONE@UNITFOUR.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA CUNHA GAGO</endereco>
+<nro>700</nro>
+<complemento>12 ANDAR</complemento>
+<cep>05421001</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13969</cod_identificacao>
+<cnpj>92080035000104</cnpj>
+<empresa>PERTO S/A</empresa>
+<nome_fantasia>PERTO</nome_fantasia>
+<nome>MAURILIO OLIVEIRA JR</nome>
+<credencial>MAURILIO</credencial>
+<cpf>75885638004</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>41334100</fone>
+<email>MAURILIO@PERTO.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>GRAVATAI</cidade>
+<uf>RS</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>NISSIN CASTIEL</endereco>
+<nro>640</nro>
+<complemento></complemento>
+<cep>94045420</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13970</cod_identificacao>
+<cnpj>02535864000133</cnpj>
+<empresa>SMART.NET BRASIL SERV.PROCESSAMENTO LTDA</empresa>
+<nome_fantasia>SMART.NET</nome_fantasia>
+<nome>MARCELO BORTOLOTTO</nome>
+<credencial>MARCELO BORTOLOTTO</credencial>
+<cpf>14810129837</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>41344100</fone>
+<email>MBORTOLO@SMARTNET.COM.BR</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>BLOCO C - 13O ANDAR</complemento>
+<cep>06454000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Pesquisa; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13971</cod_identificacao>
+<cnpj>59438325000101</cnpj>
+<empresa>BANCO BRADESCO CARTOES</empresa>
+<nome_fantasia>BRADESCO</nome_fantasia>
+<nome>FRANCISCA ELIA DE SOUZA</nome>
+<credencial>ELIA</credencial>
+<cpf>14067240848</cpf>
+<ddi>055</ddi>
+<ddd>011</ddd>
+<fone>48318875</fone>
+<email>4025.FRANCISCA@BRADESCO.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>1º ANDAR</complemento>
+<cep>06454000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13972</cod_identificacao>
+<cnpj>60746948000112</cnpj>
+<empresa>BANCO BRADESCO S/A</empresa>
+<nome_fantasia>BRADESCO</nome_fantasia>
+<nome>SIDNEI SILVEIRA</nome>
+<credencial>SIDNEI</credencial>
+<cpf>11171349890</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>48316823</fone>
+<email>9803.SILVEIRA@BRADESCO.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>OPERACIONAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>ED. DEMINI, 1º ANDAR</complemento>
+<cep>06454000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13973</cod_identificacao>
+<cnpj>08594568000190</cnpj>
+<empresa>ANGV TECNOLOGIA LTDA</empresa>
+<nome_fantasia>ANGV BRASIL</nome_fantasia>
+<nome>ORLANDO SALLES</nome>
+<credencial>ORLANDO SALLES</credencial>
+<cpf>04247847878</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>99617733</fone>
+<email>ANGVBRASIL@YAHOO.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SALTO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>COMÉRCIO; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA SEPETIBA</endereco>
+<nro>137</nro>
+<complemento></complemento>
+<cep>13327115</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar produtos e serviços; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13974</cod_identificacao>
+<cnpj>60746948000112</cnpj>
+<empresa>BANCO BRADESCO S/A</empresa>
+<nome_fantasia>BRADESCO</nome_fantasia>
+<nome>ANELISE FREITAS MARTINS</nome>
+<credencial>ANELISE FREITAS</credencial>
+<cpf>36714635893</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>48316823</fone>
+<email>4025.ANELISEF@BRADESCO.COM.BR</email>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>ED. DEMINI, 1º ANDAR</complemento>
+<cep>06454000</cep>
+</cadastro>
+<cadastro>
+<cod_identificacao>13974</cod_identificacao>
+<cnpj>60746948000112</cnpj>
+<empresa>BANCO BRADESCO S/A</empresa>
+<nome_fantasia>BRADESCO</nome_fantasia>
+<nome>ANELISE FREITAS MARTINS</nome>
+<credencial>ANELISE FREITAS</credencial>
+<cpf>36714635893</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>48316823</fone>
+<email>4025.ANELISEF@BRADESCO.COM.BR</email>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>BLOCO C- 1 ANDAR</complemento>
+<cep>06454000</cep>
+</cadastro>
+<cadastro>
+<cod_identificacao>13976</cod_identificacao>
+<cnpj>06050287000140</cnpj>
+<empresa>SK INTELLIGENCE TECNOLOGIA EM INFORMATICA LTDA</empresa>
+<nome_fantasia>SK INTELLIGENCE</nome_fantasia>
+<nome>LUDMYLLA MATTEDI</nome>
+<credencial>MYLLA</credencial>
+<cpf>09021014718</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>36721088</fone>
+<email>LUDMYLLA@SKIM.COM.BR</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA ITAPICURU</endereco>
+<nro>489</nro>
+<complemento></complemento>
+<cep>05006000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Palestras Express; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13977</cod_identificacao>
+<cnpj>60746948000112</cnpj>
+<empresa>BANCO BRADESCO S/A</empresa>
+<nome_fantasia>BRADESCO</nome_fantasia>
+<nome>LILIANE VASCONCELOS ARAGAO</nome>
+<credencial>LILIANE</credencial>
+<cpf>37632622888</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>48316823</fone>
+<email>9803.VASCONCELOS@BRADESCO.COM.BR</email>
+<cargo>OUTROS</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>BARUERI</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>INSTITUIÇÃO; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA RIO NEGRO</endereco>
+<nro>585</nro>
+<complemento>ED. DEMINI, 1º ANDAR</complemento>
+<cep>06454000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Não tem envolvimento; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Mala direta; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13978</cod_identificacao>
+<cnpj>14377877000100</cnpj>
+<empresa>CENTUM DO BRASIL LTDA</empresa>
+<nome_fantasia>CENTUM</nome_fantasia>
+<nome>MARCIO CUADRADO FABOZI</nome>
+<credencial>MARCIO FABOZI</credencial>
+<cpf>29498008825</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>83715783</fone>
+<email>MARCIO.FABOZI@GMAIL.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>VENDAS</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA BARAO DO TRIUNFO</endereco>
+<nro>73</nro>
+<complemento>7 ANDAR, CONJ 74</complemento>
+<cep>04602000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13983</cod_identificacao>
+<cnpj>01586633000277</cnpj>
+<empresa>GEMALTO DO BRASIL</empresa>
+<nome_fantasia>GEMALTO</nome_fantasia>
+<nome>MONICA PATENTE DE ANDRADE</nome>
+<credencial>MONICA ANDRADE</credencial>
+<cpf>39569230819</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>51057600</fone>
+<email>MONICA.ANDRADE@GEMALTO.COM</email>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; OUTROS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>AV DAS NACOES UNIDAS</endereco>
+<nro>12495</nro>
+<complemento>8 ANDAR</complemento>
+<cep>04578000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Para seu aprimoramento profissional; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Convite do expositor; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Expositor; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13984</cod_identificacao>
+<cnpj>53676474000114</cnpj>
+<empresa>MICROBLAU INDUSTRIA ELETRONICA LTDA</empresa>
+<nome_fantasia>MICROBLAU</nome_fantasia>
+<nome>FLAVIO YUITI NAKASHIMA</nome>
+<credencial>FLAVIO</credencial>
+<cpf>17611656821</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>28842528</fone>
+<email>FLAVIO.MICROBLAU@GMAIL.COM</email>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>TECNOLOGIA/ TI / SISTEMAS / INFORMATICA</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO CAETANO DO SUL</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA MACEIO</endereco>
+<nro>358</nro>
+<complemento></complemento>
+<cep>09551030</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Aprova; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13987</cod_identificacao>
+<cnpj>28712123000255</cnpj>
+<empresa>MODULO SECURITY SA</empresa>
+<nome_fantasia>MODULO</nome_fantasia>
+<nome>ALEXANDRE RAMOS DA SILVA</nome>
+<credencial>ALEXANDRE RAMOS</credencial>
+<cpf>82328188915</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>55043600</fone>
+<email>ARSILVA@MODULO.COM.BR</email>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>PROJETOS E DESENVOLVIMENTO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>LUIZ CARLOS BERRINI</endereco>
+<nro>550</nro>
+<complemento>CJ 51</complemento>
+<cep>04571000</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='E-mail marketing; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Congressos; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13990</cod_identificacao>
+<cnpj>02959392000146</cnpj>
+<empresa>PLANINVESTI ADMINISTRACAO DE SERV LTDA</empresa>
+<nome_fantasia>PLANVALE</nome_fantasia>
+<nome>GISELE GONCALVES DE AMORIM</nome>
+<credencial>GISELE AMORIM</credencial>
+<cpf>35768033866</cpf>
+<ddi>55</ddi>
+<ddd>11</ddd>
+<fone>35496488</fone>
+<email>GISELEAMORIM@PLANINVESTI.COM.BR</email>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade>ASSOCIAÇÕES; SERVIÇOS; </ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>ALAMEDA SANTOS</endereco>
+<nro>880</nro>
+<complemento>7º ANDAR</complemento>
+<cep>01418100</cep>
+<pesquisa>
+<pergunta questao='Assinale a sua relação com a decisão da compra:' resposta='Recomenda; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Fazer negócios com possíveis clientes; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Entidades da classe / Associações Comerciais; '/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante; '/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<cod_identificacao>13991</cod_identificacao>
+<cnpj></cnpj>
+<empresa></empresa>
+<nome_fantasia></nome_fantasia>
+<nome>ROBERTO BEDRIKOW</nome>
+<credencial>ROBERTO BEDRIKOW</credencial>
+<cpf>08942718817</cpf>
+<ddi></ddi>
+<ddd></ddd>
+<fone></fone>
+<email>RBEDRIKO@WISEKEY.COM</email>
+<cargo>DIRETOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<departamento>CORPORATIVO</departamento>
+<departamento_outros></departamento_outros>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<ramo_atividade></ramo_atividade>
+<ramo_atividade_outros></ramo_atividade_outros>
+<endereco>RUA PADRE JOAO MANUEL PADRE JOAO MANOEL</endereco>
+<nro>1126</nro>
+<complemento>51</complemento>
+<cep>01411000</cep>
+<pesquisa>
+<pergunta questao='Você estará visitando a exposição na qualidade de:' resposta='Outros; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar novos fornecedores; '/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Pesquisar novas tendências e lançamentos do mercado; '/>
+<pergunta questao='Como você ficou sabendo da feira?' resposta='Site; '/>
+<pergunta questao='Qual o capital que você poderá investir?' resposta='R$ 10.000 - R$ 25.000; '/>
+</pesquisa>
+</cadastro>
+</credenciamento>

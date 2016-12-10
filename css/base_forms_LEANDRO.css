@@ -1,0 +1,419 @@
+body
+{
+	margin: 0 auto;
+	padding: 0;	
+	background:  url(/img/forms/bg.png) #d1d2d4 top left repeat-x;
+}
+
+/* container to form */
+#contForm
+{
+	width: 855px;
+	padding: 0;
+	margin: 0 auto;
+}
+form 
+{
+	width:auto;
+	margin:10px;
+}
+fieldset 
+{
+	margin: 0;
+	padding: 0;
+	float: left;
+	color:#666;
+	font:12px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	width: 800px;
+	border: 0px solid #000;
+}		
+form fieldset legend {
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:black;
+	margin:0 0 10px 10px;
+	padding-top:10px;
+}		
+form fieldset label {
+	color:#666;
+	font:12px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	padding: 5px;
+	float:left;
+}
+form fieldset br
+{
+	clear: left;	
+}
+form fieldset label.labmensagem {
+	width:470px;
+}	
+form fieldset label.labmensagem textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height:100px;
+	border:1px solid #bebebd;
+	padding:3px;
+	margin-top: 5px;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+form fieldset input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid #bebebd;
+	padding:3px;
+	height: 24px;
+	line-height: 24px;
+	margin-top: 5px;
+	padding-left: 5px;
+	float:left;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+	behavior: url(/css/border-radius.htc);
+}
+.bt_busca {
+	margin-left:10px;
+	float:left;	
+	border:1px solid #bebebd;
+	color: #fff;
+	padding:3px;
+	padding-top:7px;
+	height: 20px;
+	margin-top: 5px;
+	padding-left: 30px;
+	width:105px;
+	background: #1c3e92 url(/img/forms/lupa.png) no-repeat top left;
+
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+	cursor:pointer;
+}
+.bt_fechar {
+	float:left;	
+	border:1px solid #bebebd;
+	color: #fff;
+	padding:3px;
+	padding-top:7px;
+	height: 20px;
+	margin-top: 5px;
+	padding-left: 8px;
+	padding-right: 8px;
+	background-color: #1c3e92;
+
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+	cursor:pointer;
+}
+.bt_adicionar {
+	float:left;	
+	border:1px solid #bebebd;
+	color: #fff;
+	padding:3px;
+	padding-top:7px;
+	height: 20px;
+	margin-top: 5px;
+	padding-left: 10px;
+	width:20px;
+	background: #1c3e92 url(/img/forms/add.png) no-repeat 4px 4px;
+
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+	cursor:pointer;
+}
+.input_perguntas {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid #bebebd;
+	padding:3px;
+	height: 24px;
+	margin-top: 5px;
+	float:left;
+	width: 100%;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+.formulario_alerta
+{
+	border:1px solid #bebebd;
+	background-color: #fffea0;
+}
+.div_alerta
+{
+	border:1px solid #bebebd;
+	background-color: #fffea0;
+	padding: 0;
+	margin-left: 5px;
+	display: table;
+	height: 50px;
+
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+.div_parceria
+{
+	border:1px solid #bebebd;
+	background-color: #e5e5e5;
+	padding: 10px;
+	margin-left: 5px;
+	width: 766px;
+	box-shadow:inset 2px 2px 2px #b1b1b1;
+
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+form fieldset label select 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid #bebebd;
+	padding:3px;
+	height: 32px;
+	margin-top: 5px;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+form fieldset ul select 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid #bebebd;
+	padding:3px;
+	height: 32px;
+	
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+/* Option list FORM */
+form fieldset ul
+{
+	list-style:none;
+	width: 786px;
+	display:inline;
+	padding: 0;
+	margin: 10px 0;
+	float: left;
+}
+form fieldset ul li 
+{
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#666;
+	width:370px;
+	line-height: 24px;
+	margin:0 5px;
+	padding: 0 5px;
+	float: left;
+	font-weight: normal;
+}
+form fieldset ul li:hover
+{
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#666;
+	width:370px;
+	line-height: 24px;
+	margin:0 5px;
+	padding: 0 5px;
+	float: left;
+	font-weight: normal;
+
+	background-color: #f1f1f1;
+	background: rgb(241, 241, 241);
+	background: rgba(241, 241, 241, 0.5);
+	
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px; 
+	border-radius: 3px; 
+}
+form fieldset ul li input
+{	
+	float: left;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	outline:none;
+}
+#radio1
+{	
+	color:#666;
+	font:11px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0;
+	float:left;
+	width:150px; 
+	padding-top:30px;
+}
+#radio2
+{	
+	color:#666;
+	font:11px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0;
+	float:left;
+	width:150px; 
+	padding-top:30px;
+}
+#radio3
+{	
+	color:#666;
+	font:11px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0;
+	float:left;
+	width:150px; 
+	padding-top:30px;
+}
+.radiopos
+{	
+	height: 24px;
+	line-height: 19px;
+	margin: 0;
+	float:left;
+}
+#radio1 input,#radio2 input, #radio3 input
+{	
+	margin: 0;
+	border: 0;
+	padding:0;
+	display: block;
+	outline:none;
+}
+#acSubmit
+{
+	width:790px;
+	clear: both;
+	margin-bottom: 30px;
+	text-align:center;
+}
+#aviso_topo, #aviso
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	background-color:#fffea0;
+	width: 776px;
+	text-align:center;	
+	padding: 6px;
+	margin: 0 0 10px 7px;
+
+	-moz-border-radius:6px; 
+	-webkit-border-radius:6px; 
+	border-radius: 6px; 
+}
+.bg_checkbox_radio { 
+	background-color: #f1f1f1;
+	background: rgb(241, 241, 241);
+	background: rgba(241, 241, 241, 0.5);
+	
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px; 
+	border-radius: 3px; 
+}
+
+/* -------------------------------------------------------------- */
+/*	CONFIRMACAO																		*/
+/* -------------------------------------------------------------- */
+
+/* container to form */
+#contBody
+{
+	width: 855px;
+	padding: 0;
+	margin: 0 auto;
+	font:12px Arial, Helvetica, sans-serif;
+	color:black;
+}
+.titulo_confirmacao {
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:black;
+	margin:0 0 10px 10px;
+	padding-top:10px;
+}		
+/* ============================================================= */
+.bt_cancelar {
+    background: url(/img/botoes/cancelar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_cancelar:hover {
+    background-position: 0px -21px;
+}
+.bt_cancelar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+.bt_atualizar {
+    background: url(/img/botoes/atualizar.gif) no-repeat;
+	line-height:1000px;
+    overflow: hidden;
+    display: block;
+	width: 150px;
+    height: 21px;
+    background-position: 0px 0px;
+	margin: 5px;
+	cursor:pointer;
+}
+.bt_atualizar:hover {
+    background-position: 0px -21px;
+}
+.bt_atualizar:active  {
+    background-position: 0px -42px;
+}
+/* ============================================================= */
+
+.confirmacao
+{
+	margin: 0;
+	padding: 0;
+	float: left;
+	color:#666;
+	font:12px Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	border: 0;
+}
+.confirmacao td
+{
+	margin: 0;
+	padding: 3px;
+	border-bottom: 1px solid #c7c7c7;
+}
+.cursor
+{
+	display: block;
+}
+.link_confirmacao
+{
+	color: #1c3e92;
+	font-weight: bold;
+	text-decoration: none;
+}
+.link_confirmacao:hover
+{
+	color: #1c3e92;
+	font-weight: bold;
+	text-decoration: none;
+}

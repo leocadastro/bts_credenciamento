@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<credenciamento>
+<cadastro>
+<id_cadastro>378009</id_cadastro>
+<id_visitante>39225</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>14/02/2014 18:28:59</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>03064511904</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MAURICIO KOYANO</nome>
+<credencial>MAURICIO KOYANO</credencial>
+<data_nasc>12041977</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>MAURICIOKOYANO@YAHOO.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>041</ddd_2>
+<fone_2>30148787</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>041</ddd_3>
+<fone_3>30148787</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>COORDENADOR(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>MARKETING / BRAND</departamento>
+<departamento_outros></departamento_outros>
+<cep>80630250</cep>
+<endereco>RUA BAHIA</endereco>
+<nro>550</nro>
+<complemento>CASA 3</complemento>
+<bairro>GUAIRA</bairro>
+<cidade>CURITIBA</cidade>
+<uf>PR</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378010</id_cadastro>
+<id_visitante>850</id_visitante>
+<id_empresa>82137</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>14/02/2014 18:29:26</data_cadastro>
+<cnpj>01914765000108</cnpj>
+<razao_social>BTS INFORMA</razao_social>
+<nome_fantasia>BTS INFORMA</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>TESTE; FEIRA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETO / DESIGNER' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='FABRICA DE COLCHOES' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='FEIRAS E EVENTOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE2' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE3' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira>FERRAGENS</interesses_feira>
+<site>WWW.BTSINFORMA.COM.BR</site>
+<presidente>MARCO BASSO</presidente>
+<reitor>MARCO BASSO</reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>3597800</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>05302155940</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>VALERIA BRIZOLA</nome>
+<credencial>VALERIA BRIZOLA</credencial>
+<data_nasc>10061986</data_nasc>
+<sexo>FEMININO</sexo>
+<email>VALERIA@FEIRAFORMOBILE.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>41</ddd_2>
+<fone_2>30148787</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>55</ddi_3>
+<ddd_3>41</ddd_3>
+<fone_3>30148787</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>EXECUTIVO(A)</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMERCIAL</departamento>
+<departamento_outros></departamento_outros>
+<cep>01415000</cep>
+<endereco>RUA BELA CINTRA</endereco>
+<nro>967</nro>
+<complemento>11º ANDAR</complemento>
+<bairro>CONSOLACAO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda; Pesquisa'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378011</id_cadastro>
+<id_visitante>198853</id_visitante>
+<id_empresa>82137</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>14/02/2014 18:40:46</data_cadastro>
+<cnpj>01914765000108</cnpj>
+<razao_social>BTS INFORMA</razao_social>
+<nome_fantasia>BTS INFORMA</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>TESTE; FEIRA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETO / DESIGNER' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='FABRICA DE COLCHOES' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='FEIRAS E EVENTOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE2' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE3' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira>ACESSÓRIOS; COMPONENTES; FERRAGENS; FERRAMENTAS; MÁQUINAS E EQUIPAMENTOS; MATÉRIA PRIMA; PRODUTOS PARA COLCHÕES E ESTOFADOS; SERVIÇOS</interesses_feira>
+<site>WWW.BTSINFORMA.COM.BR</site>
+<presidente>MARCO BASSO</presidente>
+<reitor>MARCO BASSO</reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>3597800</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>27124072883</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MARIANA BRANCO</nome>
+<credencial>MARIANA BRANCO</credencial>
+<data_nasc>18081978</data_nasc>
+<sexo>FEMININO</sexo>
+<email>MARIBRANCO78@GMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>055</ddi_2>
+<ddd_2>041</ddd_2>
+<fone_2>30148787</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>CELULAR</tipo_tel_3>
+<ddi_3>055</ddi_3>
+<ddd_3>041</ddd_3>
+<fone_3>30148787</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>CONSULTOR</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>01415000</cep>
+<endereco>RUA BELA CINTRA</endereco>
+<nro>967</nro>
+<complemento>11º ANDAR</complemento>
+<bairro>CONSOLACAO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda; Aprova'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes; Entidades de Classe / Associações; Rádio; Outros; Anúncio e Matérias em Revistas; Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378012</id_cadastro>
+<id_visitante>203807</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>14/02/2014 19:05:32</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>01029769885</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ROSELI PASCHOAL</nome>
+<credencial>ROSELI PASCHOAL</credencial>
+<data_nasc>30031958</data_nasc>
+<sexo>FEMININO</sexo>
+<email>ROSELI.RAPACCI@YAHOO.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>11</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>26535497</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ASSISTENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>COMPRAS</departamento>
+<departamento_outros></departamento_outros>
+<cep>03516000</cep>
+<endereco>RUA EUGENIA DE CARVALHO</endereco>
+<nro>108</nro>
+<complemento></complemento>
+<bairro>VILA MATILDE</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Recomenda; Aprova'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes; Entidades de Classe / Associações; Rádio; Outros; Anúncio e Matérias em Revistas; Convite Impresso Enviado Pela Organização do Evento'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Comprar Produtos e Serviços; Networking; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378013</id_cadastro>
+<id_visitante>164550</id_visitante>
+<id_empresa>74897</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>15/02/2014 10:59:22</data_cadastro>
+<cnpj>03665246000170</cnpj>
+<razao_social>ESCOLA DE HOTELARIA E TURISMO DE SAO PAULO</razao_social>
+<nome_fantasia>CLUB COOK CENTER</nome_fantasia>
+<qtde_funcionarios>ACIMA DE 501</qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETO / DESIGNER' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='INSTITUICAO DE ENSINO' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira>COMPONENTES; FERRAMENTAS; MÁQUINAS E EQUIPAMENTOS; MATÉRIA PRIMA; PRODUTOS PARA COLCHÕES E ESTOFADOS</interesses_feira>
+<site>WWW.HOTEC.COM.BR</site>
+<presidente>EDNA ROBERTO</presidente>
+<reitor>EDNA ROBERTO</reitor>
+<tipo_tel_1>FAX</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>1132462888</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>00391128884</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>EDNA ROBERTO DE GENARO</nome>
+<credencial>EDNA ROBERTO DE GENARO</credencial>
+<data_nasc>11111946</data_nasc>
+<sexo>FEMININO</sexo>
+<email>EDNAROBERTO@YMAIL.COM</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>RESIDENCIAL</tipo_tel_2>
+<ddi_2>11</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>38560730</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3>COMERCIAL</tipo_tel_3>
+<ddi_3>11</ddi_3>
+<ddd_3>11</ddd_3>
+<fone_3>32462888</fone_3>
+<ramal_3></ramal_3>
+<sms_3>TRUE</sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>CONSULTORIA</departamento>
+<departamento_outros></departamento_outros>
+<cep>03065070</cep>
+<endereco>RUA ANDRE VIDAL</endereco>
+<nro>228</nro>
+<complemento>161</complemento>
+<bairro>TATUAPE</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Compra; Recomenda'/>
+<pergunta questao='Sua empresa tem interesse em participar desta feira na próxima edição como:' resposta='Visitante'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site da Feira; Site de Busca (Google, Bing, etc); TV'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Comprar Produtos e Serviços; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas; Buscar Novos Fornecedores / Parceiros'/>
+<pergunta questao='Quais das Feiras da BTS Informa sua empresa tem interesse? ' resposta='ABF Franchising Expo; Autocom; ExpoVinis; Fispal Café; Fispal Food Service; Fispal Sorvetes; ForMar; ForMóbile; Serigrafia SIGN FutureTEXTIL; SIAL Brazil; Vitafoods South America; Fenalaw; HOSPITALMED; TecnoCarne'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em assinar?' resposta='Não tenho interesse'/>
+<pergunta questao='Quais das Revistas da BTS Informa sua empresa tem interesse em anunciar?' resposta='Não tenho interesse'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378014</id_cadastro>
+<id_visitante>136230</id_visitante>
+<id_empresa>63105</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>15/02/2014 21:56:22</data_cadastro>
+<cnpj>15323229000134</cnpj>
+<razao_social>ARTMOBIL MOVEIS PLANEJADOS LTDA - ME</razao_social>
+<nome_fantasia>ARTMOBIL MOVEIS PLANEJADOS LTDA - ME</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MOVEIS DOMICILIARES E CORPORATIVOS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE PLANEJADOS (DORMITORIOS E COZINHAS)' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira>ACESSÓRIOS; FERRAGENS; FERRAMENTAS; MÁQUINAS E EQUIPAMENTOS; MATÉRIA PRIMA</interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>55602354</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>17483755806</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>ROGERIO RODRIGUES PINTO</nome>
+<credencial>ROGERIO PINTO</credencial>
+<data_nasc>31051977</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>RRP.WEB@BOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>55602354</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04474220</cep>
+<endereco>RUA JOSE FLAVIO PEREIRA</endereco>
+<nro>182</nro>
+<complemento></complemento>
+<bairro>PARQUE DOROTEIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova; Compra'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Site de Busca (Google, Bing, etc)'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378015</id_cadastro>
+<id_visitante>136327</id_visitante>
+<id_empresa>63105</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>15/02/2014 22:08:56</data_cadastro>
+<cnpj>15323229000134</cnpj>
+<razao_social>ARTMOBIL MOVEIS PLANEJADOS LTDA - ME</razao_social>
+<nome_fantasia>ARTMOBIL MOVEIS PLANEJADOS LTDA - ME</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>MOVEIS DOMICILIARES E CORPORATIVOS</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='FABRICA DE PLANEJADOS (DORMITORIOS E COZINHAS)' ramo_outros='' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira>ACESSÓRIOS; COMPONENTES; FERRAGENS; FERRAMENTAS; MATÉRIA PRIMA</interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>011</ddd_1>
+<fone_1>55602354</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>63454491800</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>DANIEL SALES PINTO</nome>
+<credencial>DANIEL SALES</credencial>
+<data_nasc>08081944</data_nasc>
+<sexo>MASCULINO</sexo>
+<email>DANIEL-SALES@BOL.COM.BR</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>55602354</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>GERENTE</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>ADMINISTRATIVO / FINANCEIRO</departamento>
+<departamento_outros></departamento_outros>
+<cep>04474220</cep>
+<endereco>RUA JOSE FLAVIO PEREIRA</endereco>
+<nro>182</nro>
+<complemento></complemento>
+<bairro>PARQUE DOROTEIA</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Aprova; Compra'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Outros'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros; Pesquisar Novas Tendências, Soluções e Lançamentos de Mercado; Qualificação Profissional; Trocar Experiências com Produtores e Especialistas'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378016</id_cadastro>
+<id_visitante>4793</id_visitante>
+<id_empresa>82137</id_empresa>
+<formulario>1</formulario>
+<data_cadastro>17/02/2014 09:59:28</data_cadastro>
+<cnpj>01914765000108</cnpj>
+<razao_social>BTS INFORMA</razao_social>
+<nome_fantasia>BTS INFORMA</nome_fantasia>
+<qtde_funcionarios>01 A 10</qtde_funcionarios>
+<principal_produto>TESTE; FEIRA</principal_produto>
+<ramos_atividades>
+<item ramo_atividade='ARQUITETO / DESIGNER' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='FABRICA DE COLCHOES' ramo_outros='' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='FEIRAS E EVENTOS' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE2' atividade_outros='' />
+<item ramo_atividade='OUTROS' ramo_outros='TESTE3' atividade_outros='' />
+</ramos_atividades>
+<interesses_feira>ACESSÓRIOS</interesses_feira>
+<site>WWW.BTSINFORMA.COM.BR</site>
+<presidente>MARCO BASSO</presidente>
+<reitor>MARCO BASSO</reitor>
+<tipo_tel_1>COMERCIAL</tipo_tel_1>
+<ddi_1>55</ddi_1>
+<ddd_1>11</ddd_1>
+<fone_1>3597800</fone_1>
+<ramal_1></ramal_1>
+<sms_1>TRUE</sms_1>
+<cpf>28758720871</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>MONICA MENDES</nome>
+<credencial>MONICA</credencial>
+<data_nasc>01031982</data_nasc>
+<sexo>FEMININO</sexo>
+<email>MONICA.MENDES@BTSMEDIA.BIZ</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>9687448</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>ANALISTA</cargo>
+<cargo_outros></cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>BI</departamento_outros>
+<cep>01415000</cep>
+<endereco>RUA BELA CINTRA</endereco>
+<nro>967</nro>
+<complemento>11º ANDAR</complemento>
+<bairro>CONSOLACAO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa; Compra; Aprova; Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378017</id_cadastro>
+<id_visitante>286300</id_visitante>
+<id_empresa>82137</id_empresa>
+<formulario>4</formulario>
+<data_cadastro>17/02/2014 10:29:38</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>12020426862</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>TESTE</nome>
+<credencial>TESTE</credencial>
+<data_nasc>01031982</data_nasc>
+<sexo>FEMININO</sexo>
+<email>MONICA.MENDES@BTSMEDIA.BIZ</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>35987800</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>TESTE</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>TESTE</departamento_outros>
+<cep></cep>
+<endereco></endereco>
+<nro></nro>
+<complemento></complemento>
+<bairro></bairro>
+<cidade></cidade>
+<uf></uf>
+<pais></pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa; Compra; Aprova; Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+</pesquisa>
+</cadastro>
+<cadastro>
+<id_cadastro>378018</id_cadastro>
+<id_visitante>286301</id_visitante>
+<id_empresa></id_empresa>
+<formulario>4</formulario>
+<data_cadastro>17/02/2014 10:31:04</data_cadastro>
+<cnpj></cnpj>
+<razao_social></razao_social>
+<nome_fantasia></nome_fantasia>
+<qtde_funcionarios></qtde_funcionarios>
+<principal_produto></principal_produto>
+<ramos_atividades>
+</ramos_atividades>
+<interesses_feira></interesses_feira>
+<site></site>
+<presidente></presidente>
+<reitor></reitor>
+<tipo_tel_1></tipo_tel_1>
+<ddi_1></ddi_1>
+<ddd_1></ddd_1>
+<fone_1></fone_1>
+<ramal_1></ramal_1>
+<sms_1></sms_1>
+<cpf>87313281137</cpf>
+<passaporte></passaporte>
+<convite></convite>
+<nome>TESTE</nome>
+<credencial>TESTE</credencial>
+<data_nasc>01031982</data_nasc>
+<sexo>FEMININO</sexo>
+<email>MONICA.MENDES@BTSMEDIA.BIZ</email>
+<newsletter>TRUE</newsletter>
+<tipo_tel_2>COMERCIAL</tipo_tel_2>
+<ddi_2>55</ddi_2>
+<ddd_2>11</ddd_2>
+<fone_2>35987854</fone_2>
+<ramal_2></ramal_2>
+<sms_2>TRUE</sms_2>
+<tipo_tel_3></tipo_tel_3>
+<ddi_3></ddi_3>
+<ddd_3></ddd_3>
+<fone_3></fone_3>
+<ramal_3></ramal_3>
+<sms_3></sms_3>
+<cargo>OUTROS</cargo>
+<cargo_outros>TESTE</cargo_outros>
+<subcargo></subcargo>
+<subcargo_outros></subcargo_outros>
+<departamento>OUTROS</departamento>
+<departamento_outros>TESTE</departamento_outros>
+<cep>01415000</cep>
+<endereco>RUA BELA CINTRA</endereco>
+<nro>967</nro>
+<complemento></complemento>
+<bairro>CONSOLACAO</bairro>
+<cidade>SAO PAULO</cidade>
+<uf>SP</uf>
+<pais>BRASIL</pais>
+<pesquisa>
+<pergunta questao='Qual sua relação com a decisão da compra?' resposta='Pesquisa; Compra; Aprova; Não tem envolvimento'/>
+<pergunta questao='Como ficou sabendo da feira?' resposta='Amigos e Parentes'/>
+<pergunta questao='Quais negócios pretende realizar na feira?' resposta='Buscar Novos Fornecedores / Parceiros'/>
+</pesquisa>
+</cadastro>
+</credenciamento>
