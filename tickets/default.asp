@@ -15,7 +15,7 @@
 <script language="javascript" src="/js/jquery-ui-1.8.7.core_eff-slide.js"></script>
 <script language="javascript" src="/js/jquery.alerts.js"></script>
 <script language="javascript" src="/js/jquery.screwdefaultbuttons.js"></script>
-<script language="javascript" src="/js/validar_forms.js"></script>	
+<script language="javascript" src="/js/validar_forms.js"></script>
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
 <script language="javascript" src="/js/tipos.js"></script>
 <!-- Script desta página -->
@@ -32,23 +32,24 @@ Set Conexao = Server.CreateObject("ADODB.Connection")
 Conexao.Open Application("cnn")
 '==================================================
 
-'// 
+'//
 If Request("msg") = "expresscheckerro" then
-%> 
+%>
 	<script>
 		alert("Sua sessão expirou, por favor, inicie o processo novamente!");
 	</script>
 <%
 End If
 If Request("DC") <> "" Then
-	Session("cliente_edicao") = 57
+	Session("cliente_edicao") = 60
 	Session("cliente_idioma") = 1
 	Session("cliente_tipo") = 1
 	Session("cliente_formulario") = 1
-	
+
 	session("teste_paypal") = false
-	
+
 	Id_Visitante = ConsultarWS(Request("DC"))
+	Id_Visitante = 368340
 End If
 
 '==================================================
@@ -99,7 +100,7 @@ TP_Formulario 			= Session("cliente_formulario")
 	'response.write(SQL_Textos)
 	Set RS_Textos = Server.CreateObject("ADODB.Recordset")
 	RS_Textos.Open SQL_Textos, Conexao
-	
+
 	If not RS_Textos.BOF or not RS_Textos.EOF Then
 		total_registros = 0
 		While not RS_Textos.EOF
@@ -121,7 +122,7 @@ TP_Formulario 			= Session("cliente_formulario")
 		RS_Textos.Close
 	End If
 
-	
+
 '	For i = Lbound(textos_array) to Ubound(textos_array)
 '		response.write("[ i: " & i & " ] [ ident: " & textos_array(i)(1) & " ]  [ txt: " & textos_array(i)(2) & " ]  [ img: " & textos_array(i)(3) & " ]<br>")
 '	Next
@@ -139,7 +140,7 @@ TP_Formulario 			= Session("cliente_formulario")
 <% If Request("teste") = "s" Then %>
 	<!--#include virtual="/includes/exibir_array.asp"-->
 <% End IF
-	
+
 	' Select IMG Faixa
 	SQL_Img_Faixa 	=	"Select " &_
 						"	Img_Faixa " &_
@@ -152,7 +153,7 @@ TP_Formulario 			= Session("cliente_formulario")
 	RS_Img_Faixa.Open SQL_Img_Faixa, Conexao
 		img_faixa = RS_Img_Faixa("img_faixa")
 	RS_Img_Faixa.Close
-	
+
 	' Faixa TOPO
 	SQL_Faixa	= 	"Select " &_
 					"	Cor, " &_
@@ -161,17 +162,17 @@ TP_Formulario 			= Session("cliente_formulario")
 					"From Edicoes_configuracao " &_
 					"Where  " &_
 					"	ID_Edicao = " & ID_Edicao
-	
+
 	Set RS_Faixa = Server.CreateObject("ADODB.Recordset")
 	RS_Faixa.CursorType = 0
 	RS_Faixa.LockType = 1
 	RS_Faixa.Open SQL_Faixa, Conexao
-		
+
 		faixa_cor	= RS_Faixa("cor")
 		faixa_logo	= RS_Faixa("logo_negativo")
 		faixa_fundo	= RS_Faixa("Faixa_Fundo")
 	RS_Faixa.Close
-	
+
 	' Select de Eventos
 	SQL_Evento	=	"SELECT " &_
 					"	Nome_" & SgIdioma & " AS Evento, " &_
@@ -181,17 +182,17 @@ TP_Formulario 			= Session("cliente_formulario")
 					"	Eventos_Edicoes as EE " &_
 					"ON EE.ID_Evento = E.ID_Evento " &_
 					"WHERE " &_
-					"	E.Ativo = 1 " &_ 
-					"	AND EE.ID_Edicao = " & ID_Edicao 
+					"	E.Ativo = 1 " &_
+					"	AND EE.ID_Edicao = " & ID_Edicao
 
 	Set RS_Evento = Server.CreateObject("ADODB.Recordset")
 	RS_Evento.CursorType = 0
 	RS_Evento.LockType = 1
 	RS_Evento.Open SQL_Evento, Conexao
-	
+
 	Evento = RS_Evento("Evento") & " " & RS_Evento("Ano")
 	Rs_Evento.Close
-	
+
 ' Validar CNPJ E SENHA
 '==================================================
 erro = ""
@@ -199,14 +200,14 @@ erro = ""
 If Id_Visitante <> ""  Then
 	'ID_Visitante	= Limpar_Texto(Request.Form("frmID_Visitante"))
 	'Senha			= Limpar_Texto(Request.Form("frmSenha"))
-	
+
 	ID_Visitante	= Replace(ID_Visitante,".","")
 	ID_Visitante	= Replace(ID_Visitante,"-","")
 
 	'response.write(ID_Visitante)
 	'response.write("<br>" & Senha)
 
-	' Se vier vazio	
+	' Se vier vazio
 	If Len(Trim(ID_Visitante)) = 0 Then'OR Len(Trim(Senha)) = 0 Then
 		erro = "1"
 	Else
@@ -236,20 +237,20 @@ If Id_Visitante <> ""  Then
 									'"	/* ID_Relacioanmento_Cadastro	*/ " &_
 									'"	AND V.Senha = '" & Senha & "' /* Senha	*/ " &_
 									'"Order by V.Data_Atualizacao DESC, V.Data_Cadastro DESC, RC.ID_Edicao DESC "
-	
+
 		'response.write(SQL_Cadastro_Visitantes)
 		'response.write("<br><br>" & Session("cliente_edicao"))
 		'response.End()
-	
+
 		Set RS_Cadastro_Visitantes = Server.CreateObject("ADODB.Recordset")
 		RS_Cadastro_Visitantes.Open SQL_Cadastro_Visitantes, Conexao
-		
+
 		If RS_Cadastro_Visitantes.BOF or RS_Cadastro_Visitantes.EOF Then
 			erro = "2"
 		Else
-		
+
 			Do While Not RS_Cadastro_Visitantes.Eof
-			
+
 				If Cint(RS_Cadastro_Visitantes("ID_Edicao")) = Cint(Session("cliente_edicao")) Then
 					'Session("IRC") 			= RS_Cadastro_Visitantes("IRC")
 					'Session("ID_Empresa") 		= RS_Cadastro_Visitantes("ID_Empresa")
@@ -266,8 +267,8 @@ If Id_Visitante <> ""  Then
 						<input type="hidden" name="frmNome" 			value="<%=RS_Cadastro_Visitantes("Nome_Completo")%>">
 						<input type="hidden" name="frmCPF" 				value="<%=RS_Cadastro_Visitantes("CPF")%>">
 					</form>
-					
-					
+
+
 					<script language="Javascript">
 						/*function Enviar(){
 							document.forms['visitantes'].submit();
@@ -276,7 +277,7 @@ If Id_Visitante <> ""  Then
 						/*
 						$(document).ready(function(){
 							$("#visitantes").submit();
-		
+
 						});
 						*/
 							document.forms['visitantes'].submit();
@@ -286,10 +287,10 @@ If Id_Visitante <> ""  Then
 				Else
 					erro = "3"
 				End If
-			
+
 			RS_Cadastro_Visitantes.MoveNext
-			Loop	
-		
+			Loop
+
 		RS_Cadastro_Visitantes.Close
 		End If
 	End If
@@ -317,8 +318,8 @@ If erro <> "" Then
 		}
 	});
 	</script>
-<% 
-End If 
+<%
+End If
 %>
 </head>
 
@@ -432,7 +433,7 @@ End If
                 	  <input type="text" name="frmLoginRecuperar" id="frmLoginRecuperar" style="width:110px" max="11" maxlength="11"/></label>
                     <label style="width:20px;">&nbsp;<img class="cursor" src="<%=textos_array(40)(3)%>" onclick="senha()" style="padding-top:4px;"/></label>
                 </div>
-            </fieldset>           
+            </fieldset>
             <!-- Alert error -->
             <div id="aviso" class="fs_12px arial cor_cinza2" style="display:inline-table; margin-top:15px;">
             	<img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
@@ -444,7 +445,7 @@ End If
 	</div>
     <!-- End Form Container -->
 <table width="870" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr> 
+  <tr>
     <td width="547" height="50" colspan="3">&nbsp;</td>
   </tr>
 </table>
