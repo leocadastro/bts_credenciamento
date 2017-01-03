@@ -20,20 +20,22 @@ paymentType = "Sale"
 ' The returnURL is the location where buyers return to when a
 ' payment has been succesfully authorized.
 '
-' This is set to the value entered on the Integration Assistant 
+' This is set to the value entered on the Integration Assistant
 '------------------------------------
-returnURL = "HTTP://credenciamento.btsinforma.com.br/tickets/retorno.asp"
+'returnURL = "HTTP://credenciamento.btsinforma.com.br/tickets/retorno.asp"
 'returnURL = "HTTP://ws.homologabts.com.br/tickets/retorno.asp"
+returnURL = "http://localhost:81/tickets/retorno.asp"
 
 '------------------------------------
 ' The cancelURL is the location buyers are sent to when they click the
 ' return to XXXX site where XXX is the merhcant store name
 ' during payment review on PayPal
 '
-' This is set to the value entered on the Integration Assistant 
+' This is set to the value entered on the Integration Assistant
 '------------------------------------
-cancelURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/cancelar.asp"
+'cancelURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/cancelar.asp"
 'cancelURL = "HTTP://ws.homologabts.com.br/tickets/cancelar.asp"
+cancelURL = "http://localhost:81/tickets/pagamento.asp"
 
 '------------------------------------
 ' Calls the SetExpressCheckout API call
@@ -55,7 +57,7 @@ If ack="SUCCESS" Then
 
 	Status_Pagamento= 1
 		a= Split(session("finaliza"), ",")
-	 
+
 		For i = 0 to Ubound(a)
 		'response.write a(i)
 		'response.end
@@ -97,7 +99,7 @@ Conexao.Close
 %>
 
 <script>
-	window.location = "http://credenciamento.btsinforma.com.br/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
-	//window.location = "http://ws.homologabts.com.br/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
-	
+	//window.location = "http://credenciamento.btsinforma.com.br/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
+	window.location = "http://localhost:81/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
+
 </script>

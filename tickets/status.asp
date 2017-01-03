@@ -23,7 +23,7 @@
 <script language="javascript">
 
 function troca_email(id_visitante){
-	
+
 	showPage("troca_email_envia_visitante.asp?id_visitante=" + id_visitante, "td_email_visitante", 0);
 
 }
@@ -39,28 +39,28 @@ if(document.getElementById("tr_email_visitante"+id_visitante).style.display == "
 }
 
 function Altera_Email(id_visitante){
-	
-	
+
+
 	if(document.getElementById("email_visitante"+ id_visitante).value==""){
-		
+
 		alert("Preencha com um e-mail");
 		document.getElementById("email_visitante"+ id_visitante).focus();
 		return;
-	
+
 	}else{
-	
+
 		showPage("altera_email_envia_visitante.asp?id_visitante=" + id_visitante + "&email=" + document.getElementById("email_visitante"+ id_visitante).value, "tr_email_visitante"+id_visitante, 1);
-		
+
 	}
 
 }
 
 function comprovante(pedido,visitante) {
 	var erros = 0;
-	
+
 	if (erros == 0) {
 		show_loading();
-		var timeout = setTimeout( 
+		var timeout = setTimeout(
 			function (){
 				alert('Tempo de resposta de 15 seg. excedido.\n\nFavor tentar novamente ou reiniciar seu processo.\n\nti@btsmedia.biz');
 			}
@@ -74,7 +74,7 @@ function comprovante(pedido,visitante) {
 			var msg = '';
 			var msg_duvida = '<b>Aten&ccedil;&atilde;o</b>:<br>';
 			var objeto = 'bt_adicionar';
-			
+
 			switch (data.retorno) {
 				case 'login nao cadastrado':
 					msg += 'Login não cadastrado.'
@@ -87,7 +87,7 @@ function comprovante(pedido,visitante) {
 			if (msg != '') {
 				jAlert(msg, 'Aviso');
 			}
-		});	
+		});
 	} else {
 		$('#aviso').hide().fadeIn().fadeOut().fadeIn();
 	}
@@ -152,7 +152,7 @@ CPF_Visitante           = Session("cliente_cpf")
     End Select
 
     Pagina_ID = 2
-    
+
     SQL_Textos  =   " Select " &_
                     "   ID_Texto, " &_
                     "   ID_Tipo, " &_
@@ -167,7 +167,7 @@ CPF_Visitante           = Session("cliente_cpf")
     'response.write(SQL_Textos)
     Set RS_Textos = Server.CreateObject("ADODB.Recordset")
     RS_Textos.Open SQL_Textos, Conexao
-    
+
     If not RS_Textos.BOF or not RS_Textos.EOF Then
         total_registros = 0
         While not RS_Textos.EOF
@@ -189,7 +189,7 @@ CPF_Visitante           = Session("cliente_cpf")
         RS_Textos.Close
     End If
 
-    
+
 '   For i = Lbound(textos_array) to Ubound(textos_array)
 '       response.write("[ i: " & i & " ] [ ident: " & textos_array(i)(1) & " ]  [ txt: " & textos_array(i)(2) & " ]  [ img: " & textos_array(i)(3) & " ]<br>")
 '   Next
@@ -198,7 +198,7 @@ CPF_Visitante           = Session("cliente_cpf")
 <% If Limpar_texto(Request("teste")) = "s" Then %>
     <!--#include virtual="/includes/exibir_array.asp"-->
 <% End IF
-    
+
     ' Select IMG Faixa
     SQL_Img_Faixa   =   "Select " &_
                         "   Img_Faixa " &_
@@ -211,7 +211,7 @@ CPF_Visitante           = Session("cliente_cpf")
     RS_Img_Faixa.Open SQL_Img_Faixa, Conexao
         img_faixa = RS_Img_Faixa("img_faixa")
     RS_Img_Faixa.Close
-    
+
     ' Faixa TOPO
     SQL_Faixa   =   "Select " &_
                     "   Cor, " &_
@@ -224,7 +224,7 @@ CPF_Visitante           = Session("cliente_cpf")
     RS_Faixa.CursorType = 0
     RS_Faixa.LockType = 1
     RS_Faixa.Open SQL_Faixa, Conexao
-        
+
         faixa_cor   = RS_Faixa("cor")
         faixa_logo  = RS_Faixa("logo_negativo")
         faixa_fundo = RS_Faixa("Faixa_Fundo")
@@ -233,14 +233,14 @@ CPF_Visitante           = Session("cliente_cpf")
     ' =================================================================================================
     '   ALTERAR DAQUI PRA BAIXO - Santiago - 28/01
     ' =================================================================================================
-    
+
     Pedido = False
     Ticket = False
 
 
     ' Verificar se o Visitante jpa esta cadastrado nesta Edição
     SQL_VerificaEdicaoVisitante =   "SELECT " &_
-                                    "   * " &_ 
+                                    "   * " &_
                                     "FROM " &_
                                     "    Relacionamento_Cadastro " &_
                                     "Where " &_
@@ -262,13 +262,13 @@ CPF_Visitante           = Session("cliente_cpf")
     If Pedido = true Then
         ' Verificar se o Usuário ja comprou o ticket
         SQL_VerificaEdicaoTicket = "SELECT " &_
-                                    "   * " &_ 
+                                    "   * " &_
                                     "FROM " &_
                                     "    Relacionamento_Cadastro " &_
                                     "Where " &_
                                     "   ID_Visitante = " & ID_Visitante & " " &_
                                     "   AND ID_Edicao = " & ID_Edicao & " "
-        
+
         'response.write("<hr><b>SQL_VerificaEdicaoTicket:</b><hr>" & SQL_VerificaEdicaoTicket & "<hr><br/>")
         Set RS_VerificaEdicaoTicket = Server.CreateObject("ADODB.Recordset")
         RS_VerificaEdicaoTicket.CursorType = 0
@@ -303,7 +303,7 @@ CPF_Visitante           = Session("cliente_cpf")
                         "   AND ID_Formulario = 1 "
         Set RS_Dados = Server.CreateObject("ADODB.Recordset")
         RS_Dados.Open SQL_Dados, Conexao, 3, 3
-    
+
         CNPJ    = ""
         Razao   = ""
         Sigla   = ""
@@ -371,8 +371,8 @@ Else
 End If
 
 'Response.Write("Tenho carrinho fechado? " & Tenho_Pedido_Fechado & "<hr>")
-	
-	
+
+
 '====Verifica se estou dentro de algum carrinho
 SQL_Verifica_Pedidos_Existentes = 	"Select " &_
 									"	* " &_
@@ -426,10 +426,10 @@ var cor_fundo 	 	= '<%=faixa_cor%>';
 var tp_formulario   = '';
 
 function Detalhes_Compra(ID){
-	
-	$('#tickets_' + ID).toggle(); 
+
+	$('#tickets_' + ID).toggle();
 	$('#historico_' + ID).toggle();
-	
+
 	}
 </script>
 </head>
@@ -514,32 +514,32 @@ function Detalhes_Compra(ID){
 										"	And ID_Visitante = '" & Session("cliente_visitante")  & "' " &_
 										"	And Status_Pedido = 1"
 				'Response.Write(SQL_Consulta_Pedidos)
-				
+
 				Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 				RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-				
+
 				If Not RS_Consulta_Pedidos.Eof Then
-				
+
 					Tickets 		= True
 					Numero_Pedido 	= RS_Consulta_Pedidos("Numero_Pedido")
 					ID_Pedido 		= RS_Consulta_Pedidos("ID_Pedido")
 					Idioma_Pedido	= RS_Consulta_Pedidos("ID_Idioma")
 					Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
-				
+
 				Else
-					
+
 					Tickets = False
-					
+
 				End If
 				%>
 
                 <!--#Include virtual="/tickets/menu_lateral.asp"-->
-                
+
 				<form>
                 <fieldset style="float: right; width: 580px;">
                 <legend>Meus pedidos</legend>
                 <div id="parcAssis" class="div_parceria" style="width:580px; float: right;">
-                <%				
+                <%
 				'SQL_Lista_Pedidos = "Select " &_
 				'					"	P.* " &_
 				'					"From Pedidos As P " &_
@@ -548,7 +548,7 @@ function Detalhes_Compra(ID){
 				'					"	And P.ID_Rel_Cadastro = '" & IRC & "'  " &_
 				'					"	And P.ID_Visitante = '" & ID_Visitante & "'  " &_
 				'					"	And P.Status_Pedido <> 1"
-				  
+
 
 
 				SQL_Lista_Pedidos = "Select " &_
@@ -564,32 +564,32 @@ function Detalhes_Compra(ID){
 									"	And (P.ID_Visitante = '" & ID_Visitante & "'  " &_
 									"	Or PC.ID_Visitante = '" & ID_Visitante & "' )" &_
 									"	And P.Status_Pedido <> 1"
-									
-				
+
+
 				'Response.Write(SQL_Lista_Pedidos)
-				
-				
+
+
 				Set RS_Lista_Pedidos = Server.CreateObject("ADODB.Recordset")
 				RS_Lista_Pedidos.Open SQL_Lista_Pedidos, Conexao, 3, 3
 
-				
+
 				If Not RS_Lista_Pedidos.Eof Then
 				%>
                 <div style="padding: 0px 0 10px; font-weight: 100">
                     Lista de compras:
-                </div>  
+                </div>
                 	<table cellpadding="0" cellspacing="0" width="100%">
 					<tr>
 					<td colspan="3" id="td_email_visitante">Nome: <%=RS_Lista_Pedidos("nome_completo")%><br>Email Comprovante: <%=RS_Lista_Pedidos("email_envia")%></td>
 					<td><img src="/img/geral/icones/ico_editar.gif" border="0" onclick="exibe_campo('<%=RS_Lista_Pedidos("ID_Visitante")%>')" title="Alterar E-mail para envio de Confirmação" alt="Alterar E-mail para envio de Confirmação" style="cursor: pointer;"/><input type="hidden" id="id_visitante" value="<%=RS_Lista_Pedidos("id_visitante")%>"></td>
-					
+
 					</tr>
-					
+
 					<tr id="tr_email_visitante<%=RS_Lista_Pedidos("ID_Visitante")%>" style="display:none;" >
 													<td colspan="2"><input type="text" id="email_visitante<%=RS_Lista_Pedidos("ID_Visitante")%>" name="email_visitante<%=RS_Lista_Pedidos("ID_Visitante")%>" size="50"></td>
 													<td  colspan=> <img src="/img/geral/icones/ok.gif" border="0" onclick="Altera_Email('<%=RS_Lista_Pedidos("ID_Visitante")%>')" title="Alterar E-mail para envio de Confirmação" alt="Alterar E-mail para envio de Confirmação" style="cursor: pointer;"/> </td>
-													
-													
+
+
 												</tr>
 												<tr><td><br></td></tr>
                         <tr bgcolor="414042">
@@ -599,20 +599,20 @@ function Detalhes_Compra(ID){
                             <td style="padding: 5px; width: 100px; text-align: center; color: #ffffff;">Ação</td>
                         </tr>
 						<%
-						
+
 						P = True
 						A = True
-						
+
 							While Not RS_Lista_Pedidos.Eof
-							
+
 							If A = True Then
 								Cor_Fundo = "e5e5e5"
 							Else
 								Cor_Fundo = "efefef"
 							End If
-							
+
 							A = Not A
-							
+
 							'Response.Write(ID_Visitante&"<br>"&RS_Lista_Pedidos("ID_Visitante"))
 
 							If CStr(ID_Visitante) <> CStr(RS_Lista_Pedidos("ID_Visitante")) Then
@@ -633,27 +633,28 @@ function Detalhes_Compra(ID){
 												"From  Pedidos_Carrinho  As C " &_
 												"Where " &_
 												"	C.ID_Pedido = '" & RS_Lista_Pedidos("ID_Pedido") & "' " &_
-												"	And C.Cancelado = 0"												
-							End if 
-							
+												"	And C.Cancelado = 0"
+							End if
+
 							'Response.Write(SQL_Tickets)
 							Set RS_Tickets = Server.CreateObject("ADODB.Recordset")
 							RS_Tickets.Open SQL_Tickets, Conexao, 3, 3
-							
+
 							If Not RS_Tickets.Eof Then
 								Tickets = RS_Tickets("Tickets")
 							End If
-							
+
 							RS_Tickets.Close
-							
+
 							If P = True Then
 								P = False
 							Else
 								Margin_Top = " margin-top: 15px;"
 							End If
-							
-							Valor_Pedido_Total = Cint(Tickets) * Application("Valor_Ticket")
-														
+
+							'alterar valor
+							Valor_Pedido_Total = Cint(Tickets) * 70
+
 						%>
                         <tr>
                         	<td colspan="4">
@@ -666,39 +667,39 @@ function Detalhes_Compra(ID){
                                             <%If Browser = True Then%>
                                             <a href="#detalhes" onclick="Detalhes_Compra(<%=RS_Lista_Pedidos("ID_Pedido")%>)"><img src="/img/geral/icones/lupa.png" width="30" title="Detalhes da Compra" alt="Detalhes da Compra"/></a> &nbsp;
                                             <%End If%>
-                                           	<a href="recuperar_confirmacao_pagamento.asp?pedido=<%=RS_Lista_Pedidos("Numero_Pedido")%>" target="_blank"><img src="/img/geral/icones/agt_print-48.png" width="30" title="Imprimir Confirmação de Pagamento" alt="Imprimir Confirmação de Pagamento" style="cursor: pointer;"/></a>                                           
+                                           	<a href="recuperar_confirmacao_pagamento.asp?pedido=<%=RS_Lista_Pedidos("Numero_Pedido")%>" target="_blank"><img src="/img/geral/icones/agt_print-48.png" width="30" title="Imprimir Confirmação de Pagamento" alt="Imprimir Confirmação de Pagamento" style="cursor: pointer;"/></a>
                                         </td>
-                                        
-                                        
-                                        
+
+
+
                                     </tr>
-                                    
+
                                     <tr>
-                                                                                               
+
                                                 <% 'Nome de quem o pedido foi relizado caso o Pedido não seja do visitante
 												If CStr(ID_Visitante) <> CStr(RS_Lista_Pedidos("ID_Visitante")) Then
-													SQL_Pedido_Nome = 	"Select " &_ 
+													SQL_Pedido_Nome = 	"Select " &_
 																		"	V.Nome_Completo, V.ID_Visitante " &_
 																		"From " &_
-																		"	Pedidos As P " &_ 
+																		"	Pedidos As P " &_
 																		"INNER JOIN Visitantes V " &_
 																		"	On V.ID_Visitante = P.ID_Visitante " &_
 																		"Where " &_
 																		"	ID_Pedido = '" & RS_Lista_Pedidos("ID_Pedido") & "'"
-													
+
 													Set RS_Pedido_Nome = Server.CreateObject("ADODB.Recordset")
                                                 	RS_Pedido_Nome.Open SQL_Pedido_Nome, Conexao, 3, 3
-												
-                                                
-                                                
+
+
+
                                                 	%>
                                                     <td colspan='4' style='padding: 5px 0 5px 5px; background:#ffd51f;'> Este Pedido foi realizado por <%=RS_Pedido_Nome("Nome_Completo")%><BR></td><br>
                                                     <%
-													
+
 												End if
                                                 %>
                                     </tr>
-									
+
                                     <tr id="tickets_<%=RS_Lista_Pedidos("ID_Pedido")%>" <%If Browser = True Then%>style="display: none"<%End If%>>
                                         <td colspan="4">
                                             <table cellpadding="0" cellspacing="0" width="100%" style="border-top: 1px dotted #999">
@@ -723,7 +724,7 @@ function Detalhes_Compra(ID){
 																	"From  Pedidos_Carrinho  As C " &_
 																	"Left Join Visitantes As V On V.ID_Visitante = C.ID_Visitante " &_
 																	"Where " &_
-																	"	C.ID_Pedido = '" & RS_Lista_Pedidos("ID_Pedido") & "'" &_ 
+																	"	C.ID_Pedido = '" & RS_Lista_Pedidos("ID_Pedido") & "'" &_
 																	"	And V.ID_Visitante = '" & ID_Visitante & "'"
 												Else
 													SQL_Tickets = 	"Select " &_
@@ -740,26 +741,26 @@ function Detalhes_Compra(ID){
 																	"	C.ID_Pedido = '" & RS_Lista_Pedidos("ID_Pedido") & "' " &_
 																	"	And C.Cancelado = 0"
 												End if
-																
+
 												'Response.Write(SQL_Tickets)
                                                 Set RS_Tickets = Server.CreateObject("ADODB.Recordset")
                                                 RS_Tickets.Open SQL_Tickets, Conexao, 3, 3
-                                                
+
                                                 If Not RS_Tickets.Eof Then
-                                                
+
                                                 Z = True
-            
+
                                                     While Not RS_Tickets.Eof
-                                                    
+
                                                     If Z = True Then
                                                         Cor_Fundo = "e5e5e5"
                                                     Else
                                                         Cor_Fundo = "efefef"
                                                     End If
-                                                    
+
                                                     Z = Not Z
                                                 %>
-            
+
                                                 <tr bgcolor="<%=Cor_Fundo%>">
                                                     <td style="padding: 5px; width: 400px; text-align: left" id="td_trocado<%=RS_Tickets("ID_Visitante")%>"><%=RS_Tickets("Nome_Completo")%></td>
                                                     <td style="padding: 5px; width: 175px; text-align: center">
@@ -772,19 +773,19 @@ function Detalhes_Compra(ID){
                                                     %>
                                                     </td>
                                                     <td style="padding: 5px; width: 100px; text-align: center;">
-													
+
                                                         <img src="/img/geral/icones/email.png" border="0" onclick="comprovante('<%=RS_Lista_Pedidos("Numero_Pedido")%>','<%=RS_Tickets("ID_Visitante")%>')" title="Enviar Confirmação de Pagamento" alt="Enviar Confirmação de Pagamento" style="cursor: pointer;"/>
 														                                                    </td>
                                                 </tr>
-												
-                                                
+
+
                                                 <%
-                                                
+
                                                     RS_Tickets.MoveNext
                                                     Wend
                                                 End If
                                                 RS_Tickets.Close
-												
+
                                                 %>
                                             </table>
                                         </td>
@@ -803,7 +804,7 @@ function Detalhes_Compra(ID){
                                                     <td style="padding: 5px; width: 180px; text-align: center">Data e Hora</td>
                                                 </tr>
                                                 <%
-                                                
+
                                                 SQL_Tickets_Pagamento =     "Select " &_
                                                                             "   PH.Numero_Pedido, " &_
                                                                             "   PH.Numero_Transacao, " &_
@@ -820,7 +821,7 @@ function Detalhes_Compra(ID){
                                                 'response.write(SQL_Tickets_Pagamento)
                                                 Set RS_Tickets_Pagamento = Server.CreateObject("ADODB.Recordset")
                                                 RS_Tickets_Pagamento.Open SQL_Tickets_Pagamento, Conexao, 3, 3
-                                                
+
                                                 If Not RS_Tickets_Pagamento.Eof Then
                                                     While Not RS_Tickets_Pagamento.EOF
                                                 %>
@@ -856,7 +857,7 @@ function Detalhes_Compra(ID){
                 </fieldset>
                 </form>
             <br/>
-            
+
             <!-- Alert error -->
             <div id="aviso" class="fs_12px arial cor_cinza2" style="display:inline-table; margin-top:15px;">
                 <img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
