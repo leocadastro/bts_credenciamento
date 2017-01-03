@@ -41,7 +41,7 @@ If Request("msg") = "expresscheckerro" then
 <%
 End If
 If Request("DC") <> "" Then
-	Session("cliente_edicao") = 57
+	Session("cliente_edicao") = 60
 	Session("cliente_idioma") = 1
 	Session("cliente_tipo") = 1
 	Session("cliente_formulario") = 1
@@ -49,6 +49,8 @@ If Request("DC") <> "" Then
 	session("teste_paypal") = false
 	
 	Id_Visitante = ConsultarWS(Request("DC"))
+	Id_Visitante = 368340
+	
 End If
 
 '==================================================

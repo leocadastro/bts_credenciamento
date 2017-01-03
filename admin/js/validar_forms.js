@@ -53,6 +53,53 @@ function exec_duvida_form(texto, posicao, tamanho) {
 		$('#duvida_invertida').show();
 	}
 }
+function valida_lote(){
+	console.log('valida form aqui');
+	
+	var valorForm = $('#val_lote').val().replace(',','.'),
+		iniLote = $('#data_ini_lote').val(),
+		termLote = $('#data_fim_lote').val(),
+		corCerta = "#fff",
+		corErrada= "#c0c",
+		message = "",
+		erro = 0;
+		
+	if(valorForm == ""){
+		erro++;
+		message += 'Digite o valor do lote \n';
+	}
+	
+	if(iniLote == ""){
+		erro++;
+		message += 'Preencha a data de início do lote \n';
+	}
+	
+	if(iniLote == ""){
+		erro++;
+		message += 'Preencha a data de término do lote \n';
+	} else if($('#data_ini_lote').val() >= $('#data_fim_lote').val()){
+		message += 'A data do fim do lote precisa ser maior que a de início \n';
+	}
+	
+	if(erro > 0){
+		alert(message)
+	} else {
+		document.getElementById('cad-lote').submit();
+	}	
+}
+
+incLote = function(){
+	$('#inc-lote').click(function(){
+		$('#new-lote').fadeIn();
+		$(this).fadeOut();
+	})
+}
+
+$(document).ready(function(){
+	incLote();
+})
+
+
 /* Criacao de Rules*/
 /* Vefifica c e numero				*/ function Rules_Numero(c) { return (((c >=-99999999*9999999) && (c <=99999999*9999999)) || (c.indexOf(",")>=0)) }
 /* Vefifica { } ( ) < > [ ] | \ /  	*/ function Rules_Esp1(c) { return ((c.indexOf("{")>=0) || (c.indexOf("}")>=0) || (c.indexOf("(")>=0) || (c.indexOf(")")>=0) || (c.indexOf("<")>=0) || (c.indexOf(">")>=0) || (c.indexOf("[")>=0) || (c.indexOf("]")>=0) || (c.indexOf("|")>=0) || (c.indexOf("/")>=0)) }
