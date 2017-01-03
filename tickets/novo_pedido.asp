@@ -326,6 +326,7 @@ $(document).ready(function(){
           Lote_Mudou = "O lote virou e o valor do ingresso mudou. Por favor confira o novo valor."
 
         End If
+		
         'FIM Valida se pedido está no lote correto
 
 				%>

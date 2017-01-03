@@ -96,6 +96,33 @@
 				  "&"& server.UrlEncode("PAYMENTREQUEST_0_CURRENCYCODE") & "=" & Server.URLEncode(currencyCodeType)
 
 
+  '==================================================
+  Set Conexao = Server.CreateObject("ADODB.Connection")
+  Conexao.Open Application("cnn")
+  '==================================================
+
+  SQL_Consulta_Pedidos = 	"Select " &_
+  						"	P.* " &_
+  						"From " &_
+  						"	Pedidos As P " &_
+  						"Where " &_
+  						"	P.ID_Edicao = '" & Session("cliente_edicao") & "' " &_
+  						"	And P.ID_Rel_Cadastro = '" & Session("cliente_cadastro") & "' " &_
+  						"	And P.ID_Visitante = '" & Session("cliente_visitante")  & "' " &_
+  						"	And P.Status_Pedido = 1"
+  'Response.Write(SQL_Consulta_Pedidos)
+
+  Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
+  RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
+
+  If Not RS_Consulta_Pedidos.Eof Then
+
+  	Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
+
+  End If
+
+	RS_Consulta_Pedidos.Close
+
 ' Session finaliza está trazendo o CPF e a Session cpf não está trazendo nada - Andre Alves
 a= Split(session("finaliza"), ",")
 Session("cpf") = session("finaliza")
@@ -111,9 +138,16 @@ For i = 0 to Ubound(a)
 		nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_DESC"&i) & "=" & Server.URLEncode("Convite para CPF:" & a(i))
 	end if
 	'Local de troca de valores de compra no PayPal
-	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_AMT"&i) & "=" & Server.URLEncode(70)
+	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_AMT"&i) & "=" & Server.URLEncode(Replace(Valor_Pedido,",","."))
+
+	'Response.Write(nvpstr)
+	'Response.End
+
 	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_QTY"&i) & "=" & Server.URLEncode(1)
 Next
+
+Conexao.Close
+
 if len(Session("cpf")) = 11  then
 'Response.Write "CPF"
 'Response.End
@@ -140,8 +174,11 @@ if len(Session("cpf")) = 11  then
 		Set resArray = hash_call("SetExpressCheckout",nvpstr)
 
 
-'Response.Write resArray("ACK")
-'		Response.End
+'Response.Write resArray("L_ERRORCODE0")
+'Response.Write resArray("L_SHORTMESSAGE0")
+'Response.Write("\n")
+'Response.Write resArray("L_LONGMESSAGE0")
+'Response.End
 		ack = UCase(resArray("ACK"))
 		If ack="SUCCESS" Then
 			' Save the token parameter in the Session

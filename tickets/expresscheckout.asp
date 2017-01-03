@@ -63,8 +63,8 @@ Set resArray = CallShortcutExpressCheckout (paymentAmount, currencyCodeType, pay
 'ack está retornando Failure - Andre Alves
 ack = UCase(resArray("ACK"))
 
-Response.Write ack
-Response.end
+'Response.Write ack
+'Response.end
 If ack="SUCCESS" Then
 	' Redirect to paypal.com
 	ReDirectURL( resArray("TOKEN") )
