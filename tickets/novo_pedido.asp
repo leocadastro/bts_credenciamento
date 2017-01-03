@@ -50,7 +50,7 @@ CPF_Visitante           = Session("cliente_cpf")
 	End Select
 
 	Pagina_ID 	= 2
-	
+
 	SQL_Textos	=	" Select " &_
 					"	ID_Texto, " &_
 					"	ID_Tipo, " &_
@@ -64,7 +64,7 @@ CPF_Visitante           = Session("cliente_cpf")
 					" Order By Ordem "
 	Set RS_Textos = Server.CreateObject("ADODB.Recordset")
 	RS_Textos.Open SQL_Textos, Conexao
-	
+
 	If not RS_Textos.BOF or not RS_Textos.EOF Then
 		total_registros = 0
 		While not RS_Textos.EOF
@@ -86,7 +86,7 @@ CPF_Visitante           = Session("cliente_cpf")
 		RS_Textos.Close
 	End If
 
-	
+
 '	For i = Lbound(textos_array) to Ubound(textos_array)
 '		response.write("[ i: " & i & " ] [ ident: " & textos_array(i)(1) & " ]  [ txt: " & textos_array(i)(2) & " ]  [ img: " & textos_array(i)(3) & " ]<br>")
 '	Next
@@ -95,7 +95,7 @@ CPF_Visitante           = Session("cliente_cpf")
 <% If Limpar_Texto(Request("teste")) = "s" Then %>
 	<!--#include virtual="/includes/exibir_array.asp"-->
 <% End IF
-	
+
 	' Select IMG Faixa
 	SQL_Img_Faixa 	=	"Select " &_
 						"	Img_Faixa " &_
@@ -108,7 +108,7 @@ CPF_Visitante           = Session("cliente_cpf")
 	RS_Img_Faixa.Open SQL_Img_Faixa, Conexao
 		img_faixa = RS_Img_Faixa("img_faixa")
 	RS_Img_Faixa.Close
-	
+
 	' Faixa TOPO
 	SQL_Faixa	= 	"Select " &_
 					"	Cor, " &_
@@ -121,12 +121,12 @@ CPF_Visitante           = Session("cliente_cpf")
 	RS_Faixa.CursorType = 0
 	RS_Faixa.LockType = 1
 	RS_Faixa.Open SQL_Faixa, Conexao
-		
+
 		faixa_cor	= RS_Faixa("cor")
 		faixa_logo	= RS_Faixa("logo_negativo")
 		faixa_fundo	= RS_Faixa("Faixa_Fundo")
 	RS_Faixa.Close
-	
+
 	' Select de Eventos
 	SQL_Evento	=	"SELECT " &_
 					"	Nome_" & SgIdioma & " AS Evento, " &_
@@ -136,17 +136,17 @@ CPF_Visitante           = Session("cliente_cpf")
 					"	Eventos_Edicoes as EE " &_
 					"ON EE.ID_Evento = E.ID_Evento " &_
 					"WHERE " &_
-					"	E.Ativo = 1 " &_ 
-					"	AND EE.ID_Edicao = " & ID_Edicao 
+					"	E.Ativo = 1 " &_
+					"	AND EE.ID_Edicao = " & ID_Edicao
 
 	Set RS_Evento = Server.CreateObject("ADODB.Recordset")
 	RS_Evento.CursorType = 0
 	RS_Evento.LockType = 1
 	RS_Evento.Open SQL_Evento, Conexao
-	
+
 	Evento = RS_Evento("Evento") & " " & RS_Evento("Ano")
 	Rs_Evento.Close
-	
+
 %>
 <link href="/css/base_forms.css" rel="stylesheet" type="text/css" />
 <link href="/css/estilos.css" rel="stylesheet" type="text/css">
@@ -156,7 +156,7 @@ CPF_Visitante           = Session("cliente_cpf")
 <script language="javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script language="javascript" src="/js/jquery-ui-1.8.7.core_eff-slide.js"></script>
 <script language="javascript" src="/js/jquery.alerts.js"></script>
-<script language="javascript" src="/js/validar_forms.js"></script>	
+<script language="javascript" src="/js/validar_forms.js"></script>
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
 
 <!-- Script desta página -->
@@ -259,59 +259,96 @@ $(document).ready(function(){
                 </tr>
             </table>
             <br/>
-            
+
             	<%
 				SQL_Consulta_Pedidos = 	"Select " &_
 										"	P.* " &_
 										"From " &_
 										"	Pedidos As P " &_
-										
+
 										"Where " &_
 										"	P.ID_Edicao = '" & Session("cliente_edicao") & "' " &_
 										"	And P.ID_Rel_Cadastro = '" & Session("cliente_cadastro") & "' " &_
 										"	And P.ID_Visitante = '" & Session("cliente_visitante")  & "' " &_
 										"	And P.Status_Pedido = 1"
 				'Response.Write(SQL_Consulta_Pedidos)
-				
+
 				Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 				RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-				
+
 				If Not RS_Consulta_Pedidos.Eof Then
-				
+
 					Tickets 		= True
 					Numero_Pedido 	= RS_Consulta_Pedidos("Numero_Pedido")
 					'Session("pedido") = RS_Lista_Pedidos("Numero_Pedido")
 					ID_Pedido 		= RS_Consulta_Pedidos("ID_Pedido")
 					Idioma_Pedido	= RS_Consulta_Pedidos("ID_Idioma")
 					Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
-					
-				
+
 				Else
-					
+
 					Tickets = False
-					
+
 				End If
+
+        'Valida se pedido está no lote correto
+        SQL_Valor_Ticket = "select top 1 * from Edicoes_lote where " &_
+        											"ID_Edicao = '" & Session("cliente_edicao") & "' " &_
+        											"and Ativo = 1 and GETDATE() between Data_Inicio and Data_Fim order by Data_fim asc"
+
+
+        Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
+        RS_Consulta_Pedidos.Open SQL_Valor_Ticket, Conexao, 3, 3
+
+        If Not RS_Consulta_Pedidos.Eof Then
+
+        	Valor_Ticket_Atualizado = FormatNumber(RS_Consulta_Pedidos("Valor"),2)
+
+        Else
+
+        	Response.Write("EDICAO NAO CADASTRADA")
+        	Response.End
+
+        End If
+
+        If Valor_Ticket_Atualizado <> Valor_Pedido Then
+
+          Valor_Pedido = Valor_Ticket_Atualizado
+
+          Valor_Ticket_Atualizado = Replace(Valor_Ticket_Atualizado, ",", ".")
+
+          SQL_Atualiza_Valor_Pedido = 	"Update Pedidos Set " &_
+                      "	Valor_Pedido = " & Valor_Ticket_Atualizado & " " &_
+                      "Where ID_Pedido = " & ID_Pedido
+
+          Set RS_Atualiza_Pedido = Conexao.Execute(SQL_Atualiza_Valor_Pedido)
+
+          Lote_Mudou = "O lote virou e o valor do ingresso mudou. Por favor confira o novo valor."
+
+        End If
+        'FIM Valida se pedido está no lote correto
+
 				%>
 
 				<!--#Include virtual="/tickets/menu_lateral.asp"-->
-                
+
                 <form id="form_pedidos" name="form_pedidos" onsubmit="return false" action="/tickets/pedido.asp" method="post">
                     <fieldset style="float: right; width: 580px;">
                     <input type="hidden" id="aceito" name="aceito" value="1">
-                        
-                        <%	
+
+                        <%
 							'SQL_Cancelado = "Select " &_
 							'				"	Cancelado " &_
 							'				"From Pedidos_Carrinho " &_
 							'				"Where" &_
 							'				"	P.ID_Visitante = '" & Session("cliente_visitante")  & "' " &_
 							'				"	And P.ID_Pedido = '" & ID_Pedido & "'"
-							
+
 							'Response.Write(SQL_Cancelado)
-							
+
 							'Set RS_Cancelado = Server.CreateObject("ADODB.Recordset")
 							'RS_Cancelado.Open SQL_Cancelado, Conexao, 3, 3
-							
+
 							'Cancelado 		= SQL_Cancelado("Cancelado")
 							If Tickets = False Then
 						%>
@@ -322,8 +359,8 @@ $(document).ready(function(){
                                 <a href="#comprar-tickets" onclick="link('termo.asp')"><div class="bt_comprar_ticket" style="margin-top: 10px">Comprar meu Ticket Agora</div></a>
                             </div>
 						<%Else
-						
-						
+
+
 							If Session("Novo_Pedido") = True Then
 								Session("Novo_Pedido") = False
 							%>
@@ -331,21 +368,21 @@ $(document).ready(function(){
 								<%
 								If Session("Possui_Pedido") = True Then
 									Session("Possui_Pedido") = False
-									
+
 									Texto_Pedido = "Nova Compra em aberto. <br><br> Texto para quando o visitante já possuir um pedido com outro Visitante. <br><br>Nesta tela, você poderá adicionar Tickets para outras pessoas.<br><br> Para ter mais detalhes sobre seu Compra, clique em <strong>Minhas Compras</strong> no menu lateral."
 								Else
 									Texto_Pedido = "Seu pedido foi gerado com <strong>Sucesso</strong>!<br><br>Nesta tela, você poderá adicionar Tickets para outras pessoas.<br><br> Para ter mais detalhes sobre sua Compra, clique em <strong>Minhas Compras</strong> no menu lateral."
 								End If
 								%>
-								
+
 								// Aviso comentado por solicitação da Stefanie 08-03-2013
 								//jAlert('<%=Texto_Pedido%>','Novo Pedido');
 							</script>
 							<%End If%>
-                            
+
 							<legend>Pedido nº: <font style="font-size: 16px"><%=Numero_Pedido%></font></legend>
 							<div id="parcAssis" class="div_parceria" style="width:580px; float: right; margin-top: 10px;">
-			
+
 
                                     <%
 									SQL_Carrinho_Cancelado = 	"Select " &_
@@ -362,12 +399,12 @@ $(document).ready(function(){
 																"Where " &_
 																"	C.Cancelado = 1 " &_
 																"	AND C.ID_Pedido = " & ID_Pedido
-													
-									
+
+
 									'Response.Write(SQL_Carrinho)
 									Set RS_Carrinho_Cancelado = Server.CreateObject("ADODB.Recordset")
 									RS_Carrinho_Cancelado.Open SQL_Carrinho_Cancelado, Conexao, 3, 3
-									
+
 									' Se existirem itens cancelados
 									If not RS_Carrinho_Cancelado.BOF or not RS_Carrinho_Cancelado.EOF Then
 									%>
@@ -404,16 +441,16 @@ $(document).ready(function(){
 													"Where " &_
 													"	C.Cancelado = 0 " &_
 													"	AND C.ID_Pedido = " & ID_Pedido
-													
-									
+
+
 									'Response.Write(SQL_Carrinho)
 									Set RS_Carrinho = Server.CreateObject("ADODB.Recordset")
 									RS_Carrinho.Open SQL_Carrinho, Conexao, 3, 3
-								'End if									
+								'End if
 								Primeiro = 0
-								
+
 								If Not RS_Carrinho.Eof Then
-								
+
 								%>
 								<div style="margin-top: 10px; width: 575px; float: left; border-top: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #ffd51f">
                                 	Pessoas em meu pedido:
@@ -431,18 +468,18 @@ $(document).ready(function(){
 											Quantidade = RS_Carrinho_Usuarios("Quantidade")
 										End If
 									RS_Carrinho_Usuarios.Close
-									
+
 									If Cint(Quantidade) > 1 Then
 										%><div style="float: right; width: 70px; display: block;">Remover</div><%
 									End If
 									%>
                                 </div>
 								<%
-								
+
 								Erro = False
-								
+
 									While Not RS_Carrinho.Eof
-									
+
 										If Cstr(RS_Carrinho("ID_Visitante")) = Cstr(Session("cliente_visitante")) Then
 											Primeiro = 1
 											Bt_Excluir = ""
@@ -458,9 +495,9 @@ $(document).ready(function(){
 										RS_Carrinho.MoveNext
 									Wend
 								Else
-								
+
 								Erro = True
-								
+
 								%>
 								<div style="margin-top: 10px; width: 575px; float: left; border-top: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #ffd51f">
                                 	Compre ingresso para outras pessoas
@@ -474,37 +511,48 @@ $(document).ready(function(){
 								End If
 								RS_Carrinho.Close
 								%>
-								
+
 								<div style="width: 575px; float: left; font-size: 14px; border-bottom: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #CCC">
 									<font style="font-weight: 100;">Valor Total: &nbsp;</font>
 									<strong><%If Cint(Idioma_Pedido) = 1 Then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=Valor_Pedido%></strong>
 								</div>
-								
+
+                <%
+                  If Lote_Mudou <> "" Then
+                %>
+                  <div style="width: 575px; float: left; font-size: 11px; border-bottom: 1px dotted #999; font-size: 11px; padding: 5px 0 5px 5px; color: red;">
+  									<font style="font-weight: 900;">Atenção: &nbsp;</font>
+  									<span><%=Lote_Mudou%></span>
+  								</div>
+                <%
+                  End If
+                %>
+
                                 <%If Erro = True Then%>
                                 </div>
                                 <%End If%>
-                                
+
 								<%If Erro = False Then%>
                                 <div style="float: left; width: 100%">
 									<a href="#finalizar_pedido" onclick="ConfirmarCompra()"><div class="bt_fechar_pedido" style="float: right">Concluir a compra</div></a>
 								</div>
                                 <%End If%>
-                                
+
 								<div style="float: left; width: 100%; margin-top: 10px; padding: 10px 0 0; font-weight: 100; border-top: 1px dotted #999">
 								Se quiser comprar ingressos para outras pessoas, utilize o quadro de busca abaixo. A busca deverá ser feita pelo número do <font style="font-weight: bold">CPF</font> ou <font style="font-weight: bold">E-mail</font>, em caso de estrangeiros.<br>
 								<font style="font-size: 10px"><em>Obs.: para que o <strong>CPF</strong> ou <strong>E-mail</strong> constem em nossa base de dados, é necessário que estas pessoas já tenham feito seu credenciamento.</em></font>
 								</div>
-										
+
 								<label style="width:400px; margin-left: -5px;">
 									<div style="width: 400px;">BUSCA:</div>
 									<input id="formBusca" type="text" maxlength="100" max="100" style="width:200px; padding: 1px; height: 18px;" name="frmID_Visitante">
 									<a href="#buscar" onclick="buscar_visitante()"><div class="bt_buscar" style="float: left;">Concluir a compra</div></a>
 								</label>
-								
+
 								<script>
 									function buscar_visitante(){
 										show_loading();
-										var timeout = setTimeout( 
+										var timeout = setTimeout(
 											function (){
 												alert('Tempo de resposta de 15 seg. excedido.\n\nFavor tentar novamente ou reiniciar seu processo.\n\nti@btsmedia.biz');
 											}
@@ -515,23 +563,23 @@ $(document).ready(function(){
 										$("#NascVisitante").val('');
 										$("#ResultadoBusca").html('');
 										$("#TelaResultado").hide();
-														
+
 										if ($("#formBusca").val()=='') {
 											$("#loading").fadeOut();
 											clearTimeout(timeout);
 											Erros_Busca(3);
 											$("#formBusca").val('');
 											$("#formBusca").focus();
-											
+
 										} else {
 											//jAlert("/tickets/busca.asp?busca=" + $("#formBusca").val() + "&pedido=" + <%=ID_Pedido%>,"URL");
 											$.ajax({
 												url: "/tickets/busca.asp?busca=" + $("#formBusca").val() + "&pedido=" + <%=ID_Pedido%>,
 												success: function(data){
-													
+
 													Resposta = data.split(';');
 													//alert(Resposta[0])
-													
+
 													if (Resposta[0]=='Erro') {
 														$("#loading").fadeOut();
 														clearTimeout(timeout);
@@ -553,7 +601,7 @@ $(document).ready(function(){
 											});
 										}
 									}
-									
+
 									function Erros_Busca(valor){
 										if(valor==0){
 											jAlert('Este <strong>CPF</strong> não está cadastrado em nosso banco de dados. Para efetuar a compra de ingressos, a pessoa dona deste <strong>CPF</strong> deverá efetuar seu credenciamento previamente.','CPF não encontrado!');
@@ -569,15 +617,15 @@ $(document).ready(function(){
 											jAlert('Este CPF ou e-mail já validou uma cortesia!','CPF/E-mail encontrado!');
 										}
 									}
-									
+
 									function ValidarData(){
 										jPrompt('Por motivo de segurança, digite a <strong>DATA DE NASCIMENTO (dd/mm/aaaa)</strong> da pessoa que você quer adicionar ao seu <strong>Pedido</strong>','','Confirmação de Dados!', function(data){
 											MontaData = data.split("/");
 											//alert(data);
-											
+
 											NascimentoA = MontaData[0] + MontaData[1] +  MontaData[2];
 											//alert(NascimentoA);
-											
+
 											NascimentoB = $("#NascVisitante").val();
 											//alert(NascimentoB);
 											if (NascimentoA == NascimentoB ) {
@@ -587,7 +635,7 @@ $(document).ready(function(){
 											}
 										});
 										}
-										
+
 										function ConfirmarCompra(){
 											jConfirm('Você deseja finalizar o seu Pedido e realizar o Pagamento?','Finalizar Pedido?', function(data){
 												if(data==true){
@@ -604,7 +652,7 @@ $(document).ready(function(){
 											});
 										}
 								</script>
-								
+
 								<div id="TelaResultado" style="display: none; float: left; width: 580px;">
 									<div id="ResultadoBusca" style="margin-top: 5px; width: 575px; float: left; border-top: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #dadada"></div>
 									<div id="DadosVisitante"></div>
@@ -618,7 +666,7 @@ $(document).ready(function(){
                         </div>
                     </fieldset>
                 </form>
-                
+
                 <form action="/tickets/pagamento.asp" method="post" name="FinalizarPedido" id="FinalizarPedido">
                 	<input type="hidden" value="<%=ID_Pedido%>" id="IDPedido" name="IDPedido">
                 </form>
@@ -629,7 +677,7 @@ $(document).ready(function(){
 	</div>
     <!-- End Form Container -->
 <table width="870" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr> 
+  <tr>
     <td width="547" height="50" colspan="3">&nbsp;</td>
   </tr>
 </table>

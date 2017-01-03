@@ -8,9 +8,9 @@
 On Error Resume Next
 
 '------------------------------------
-' The paymentAmount is the total value of 
-' the shopping cart, that was set 
-' earlier in a session variable 
+' The paymentAmount is the total value of
+' the shopping cart, that was set
+' earlier in a session variable
 ' by the shopping cart page
 '------------------------------------
 paymentAmount = REQUEST.form("ValorDocumento")
@@ -22,8 +22,8 @@ session("finalPaymentAmount") = paymentAmount
 'Response.End
 
 '------------------------------------
-' The currencyCodeType and paymentType 
-' are set to the selections made on the Integration Assistant 
+' The currencyCodeType and paymentType
+' are set to the selections made on the Integration Assistant
 '------------------------------------
 currencyCodeType = "BRL"
 paymentType = "Sale"
@@ -32,20 +32,20 @@ paymentType = "Sale"
 ' The returnURL is the location where buyers return to when a
 ' payment has been succesfully authorized.
 '
-' This is set to the value entered on the Integration Assistant 
+' This is set to the value entered on the Integration Assistant
 '------------------------------------
-returnURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/retorno.asp"
-'returnURL = "HTTP://ws.homologabts.com.br/tickets/retorno.asp"
+'returnURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/retorno.asp"
+returnURL = "http://localhost:81/tickets/retorno.asp"
 
 '------------------------------------
 ' The cancelURL is the location buyers are sent to when they click the
 ' return to XXXX site where XXX is the merhcant store name
 ' during payment review on PayPal
 '
-' This is set to the value entered on the Integration Assistant 
+' This is set to the value entered on the Integration Assistant
 '------------------------------------
-cancelURL = "http://credenciamento.btsinforma.com.br/tickets/pagamento.asp"
-'cancelURL = "http://ws.homologabts.com.br/tickets/pagamento.asp"
+'cancelURL = "http://credenciamento.btsinforma.com.br/tickets/pagamento.asp"
+cancelURL = "http://localhost:81/tickets/pagamento.asp"
 
 '------------------------------------
 ' Calls the SetExpressCheckout API call
@@ -63,12 +63,12 @@ Set resArray = CallShortcutExpressCheckout (paymentAmount, currencyCodeType, pay
 'ack está retornando Failure - Andre Alves
 ack = UCase(resArray("ACK"))
 
-'Response.Write ack
-'Response.end
+Response.Write ack
+Response.end
 If ack="SUCCESS" Then
 	' Redirect to paypal.com
 	ReDirectURL( resArray("TOKEN") )
-Else  
+Else
 	'Display a user friendly Error on the page using any of the following error information returned by PayPal
 	ErrorCode = URLDecode( resArray("L_ERRORCODE0"))
 	ErrorShortMsg = URLDecode( resArray("L_SHORTMESSAGE0"))

@@ -17,7 +17,7 @@
 <script language="javascript" src="/js/jquery.alerts.js"></script>
 <script language="javascript" src="/js/jquery.screwdefaultbuttons.js"></script>
 <script language="javascript" src="/js/jquery.colorbox.js"></script>
-<script language="javascript" src="/js/validar_forms.js"></script>	
+<script language="javascript" src="/js/validar_forms.js"></script>
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
 <script language="javascript" src="/js/tipos.js"></script>
 <!-- Script desta página -->
@@ -29,8 +29,8 @@ Set Conexao = Server.CreateObject("ADODB.Connection")
 Conexao.Open Application("cnn")
 '==================================================
 
-	'response.write session("teste_paypal'")			
-				  
+	'response.write session("teste_paypal'")
+
 				  'response.write nvpstr
 If Session("cliente_edicao") = "" OR Session("cliente_idioma") = ""  or Session("cliente_visitante") = "" Then
   response.Redirect("http://www.mbxeventos.net/aol3abf2016/")
@@ -59,7 +59,7 @@ CPF_Visitante           = Session("cliente_cpf")
 	End Select
 
 	Pagina_ID 	= 2
-	
+
 	SQL_Textos	=	" Select " &_
 					"	ID_Texto, " &_
 					"	ID_Tipo, " &_
@@ -73,7 +73,7 @@ CPF_Visitante           = Session("cliente_cpf")
 					" Order By Ordem "
 	Set RS_Textos = Server.CreateObject("ADODB.Recordset")
 	RS_Textos.Open SQL_Textos, Conexao
-	
+
 	If not RS_Textos.BOF or not RS_Textos.EOF Then
 		total_registros = 0
 		While not RS_Textos.EOF
@@ -95,7 +95,7 @@ CPF_Visitante           = Session("cliente_cpf")
 		RS_Textos.Close
 	End If
 
-	
+
 '	For i = Lbound(textos_array) to Ubound(textos_array)
 '		response.write("[ i: " & i & " ] [ ident: " & textos_array(i)(1) & " ]  [ txt: " & textos_array(i)(2) & " ]  [ img: " & textos_array(i)(3) & " ]<br>")
 '	Next
@@ -104,7 +104,7 @@ CPF_Visitante           = Session("cliente_cpf")
 <% If Limpar_texto(Request("teste")) = "s" Then %>
 	<!--#include virtual="/includes/exibir_array.asp"-->
 <% End IF
-	
+
 	' Select IMG Faixa
 	SQL_Img_Faixa 	=	"Select " &_
 						"	Img_Faixa " &_
@@ -117,7 +117,7 @@ CPF_Visitante           = Session("cliente_cpf")
 	RS_Img_Faixa.Open SQL_Img_Faixa, Conexao
 		img_faixa = RS_Img_Faixa("img_faixa")
 	RS_Img_Faixa.Close
-	
+
 	' Faixa TOPO
 	SQL_Faixa	= 	"Select " &_
 					"	Cor, " &_
@@ -130,12 +130,12 @@ CPF_Visitante           = Session("cliente_cpf")
 	RS_Faixa.CursorType = 0
 	RS_Faixa.LockType = 1
 	RS_Faixa.Open SQL_Faixa, Conexao
-		
+
 		faixa_cor	= RS_Faixa("cor")
 		faixa_logo	= RS_Faixa("logo_negativo")
 		faixa_fundo	= RS_Faixa("Faixa_Fundo")
 	RS_Faixa.Close
-	
+
 	' Select de Eventos
 	SQL_Evento	=	"SELECT " &_
 					"	Nome_" & SgIdioma & " AS Evento, " &_
@@ -145,24 +145,24 @@ CPF_Visitante           = Session("cliente_cpf")
 					"	Eventos_Edicoes as EE " &_
 					"ON EE.ID_Evento = E.ID_Evento " &_
 					"WHERE " &_
-					"	E.Ativo = 1 " &_ 
-					"	AND EE.ID_Edicao = " & ID_Edicao 
+					"	E.Ativo = 1 " &_
+					"	AND EE.ID_Edicao = " & ID_Edicao
 
 	Set RS_Evento = Server.CreateObject("ADODB.Recordset")
 	RS_Evento.CursorType = 0
 	RS_Evento.LockType = 1
 	RS_Evento.Open SQL_Evento, Conexao
-	
+
 	Evento = RS_Evento("Evento") & " " & RS_Evento("Ano")
 	Rs_Evento.Close
-	
-	
-	
-	
-	
+
+
+
+
+
 	'Após o comprovante, caso seja realizado, enviar o email de comprovante
 	Session("cliente_enviar_email") = 0
-	
+
 %>
 <script language="javascript">
 var idioma_atual 	= '<%=Session("cliente_idioma")%>';
@@ -248,14 +248,14 @@ $(document).ready(function(){
     <!-- Form Container -->
     <div id="contForm">
     <!-- Form -->
-    
+
             <!-- Alert error -->
             <div id="aviso_topo" class="fs_12px arial cor_cinza2">
             	<img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
                 &nbsp;<span id="txt_topo"><!--Por favor preencher corretamente os itens em destaque !--><%=textos_array(39)(2)%></span>
 			</div><br/>
             <!-- End Alert error -->
-            
+
             <table width="850" border="0" cellpadding="0" cellspacing="0">
                 <tr>
                     <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b>Olá</b> <%=Nome_Visitante%></td>
@@ -270,38 +270,38 @@ $(document).ready(function(){
 										"	P.* " &_
 										"From " &_
 										"	Pedidos As P " &_
-										
+
 										"Where " &_
 										"	P.ID_Edicao = '" & Session("cliente_edicao") & "' " &_
 										"	And P.ID_Rel_Cadastro = '" & Session("cliente_cadastro") & "' " &_
 										"	And P.ID_Visitante = '" & Session("cliente_visitante")  & "' " &_
 										"	And P.Status_Pedido = 1"
 				'Response.Write(SQL_Consulta_Pedidos)
-				
+
 				Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 				RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-				
+
 				If Not RS_Consulta_Pedidos.Eof Then
-				
+
 					Tickets 		= True
 					Numero_Pedido 	= RS_Consulta_Pedidos("Numero_Pedido")
 					'Session("pedido") = RS_Lista_Pedidos("Numero_Pedido")
 					ID_Pedido 		= RS_Consulta_Pedidos("ID_Pedido")
 					Idioma_Pedido	= RS_Consulta_Pedidos("ID_Idioma")
 					Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
-					
-				
+
+
 				Else
-					
+
 					Tickets = False
-					
+
 				End If
 				%>
 
 				<!--#Include virtual="/tickets/menu_lateral.asp"-->
-                
+
 	<form action="expresscheckout.asp" method="post" id="Pagamento" name="Pagamento" >
-	
+
             <fieldset style="float: right; width: 580px; ">
 				<%
 					SQL_Consulta_Pedidos =	"Select " &_
@@ -316,13 +316,14 @@ $(document).ready(function(){
 											"	And P.ID_Rel_Cadastro = '" & Session("cliente_cadastro") & "'  " &_
 											"	And P.ID_Visitante = '" & Session("cliente_visitante")  & "'  " &_
 											"	And P.Status_Pedido = 1 "
-                    
-                    
+
+										'Response.Write(SQL_Consulta_Pedidos)
+
                     Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
                     RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
                     session("Numero_Pedido") =""
                     If Not RS_Consulta_Pedidos.Eof Then
-                    
+
                         Tickets 		= True
                         Numero_Pedido 	= RS_Consulta_Pedidos("Numero_Pedido")
 						session("Numero_Pedido") = Numero_Pedido
@@ -333,9 +334,9 @@ $(document).ready(function(){
 						Nome_Completo	= RS_Consulta_Pedidos("Nome_Completo")
 						CPF				= RS_Consulta_Pedidos("CPF")
 						Passaporte		= RS_Consulta_Pedidos("Email")
-						
+
 						Cliente = "<strong>" & Nome_Completo & "</strong><br>"
-						If Len(Trim(CPF)) = 11 Then 
+						If Len(Trim(CPF)) = 11 Then
 						Cliente = Cliente & "<strong>CPF</strong>: " & CPF
 						Else
 						Cliente = Cliente & "<strong>E-mail</strong>: " & Passaporte
@@ -344,7 +345,7 @@ $(document).ready(function(){
                     End If
 					Valor_PedidoEnviado = replace(Valor_Pedido,".00","")
 					Valor_PedidoEnviado = replace(Valor_Pedido,",00","")
-					
+
                 %>
             	<legend>Detalhes do Pedido</legend>
 				<div id="parcAssis" class="div_parceria" style="width: 580px; padding-bottom:15px;">
@@ -354,14 +355,14 @@ $(document).ready(function(){
                     <input type="hidden" name="PreAutorizacao" id="PreAutorizacao" value="2"/>
                     <input type="hidden" name="QuantidadeParcelas" id="QuantidadeParcelas" value="1"/>
                     <input type="hidden" name="ParametrosCliente" id="ParametrosCliente" value="<%=Cliente%>"/>
-                    
-                        
+
+
                         <div style="width: 575px; padding: 5px 0 5px 5px">Pedido nº: &nbsp;<font style="font-size: 16px;"><%=Numero_Pedido%></font></div>
-                        
+
                         <table cellpadding="0" cellspacing="0" width="100%">
                         	<tr>
                             	<td style="width: 575px;" colspan="3">
-                                
+
                                 	<table cellpadding="0" cellspacing="3" width="100%" style="padding: 10px 0 10px;">
                                     	<tr>
                                         	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100">ID Usuário:</td>
@@ -376,7 +377,7 @@ $(document).ready(function(){
                                             <td bgcolor="f1f0f0" style="padding: 5px;"><%If Len(Trim(CPF)) =11 Then Response.Write(CPF) Else Response.Write(Passaporte)%></td>
                                         </tr>
                                     </table>
-                                
+
                                 </td>
                             </tr>
                         	<tr>
@@ -406,20 +407,20 @@ $(document).ready(function(){
                                         "	AND C.ID_Pedido = " & ID_Pedido
                         Set RS_Carrinho = Server.CreateObject("ADODB.Recordset")
                         RS_Carrinho.Open SQL_Carrinho, Conexao, 3, 3
-                        
+
                         Primeiro = 0
 						Z = True
                         session("finaliza")=""
                         If Not RS_Carrinho.Eof Then
-						
+
                             While Not RS_Carrinho.Eof
-							
+
 							If Z = True Then
 								Cor_Fundo = "e5e5e5"
 							Else
 								Cor_Fundo = "efefef"
 							End If
-							
+
 							Z = Not Z
                         %>
 
@@ -432,7 +433,7 @@ $(document).ready(function(){
                         <%
 						valor = RS_Carrinho("CPF")
 						If Len(Trim(RS_Carrinho("CPF"))) <> 11 then valor = RS_Carrinho("email")
-						if session("finaliza") = "" then 
+						if session("finaliza") = "" then
 								session("finaliza") = valor
 						else
 						session("finaliza") = session("finaliza") & "," & valor
@@ -442,11 +443,11 @@ $(document).ready(function(){
                         End If
                         %>
                         </table>
-                        
+
                         <div style="width: 575px;  border-bottom: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #CCC">
                             <font style="font-weight: 100;">Valor Total: &nbsp;</font>
                             <strong><%If Cint(Idioma_Pedido) = 1 Then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=Valor_Pedido%></strong>
-                        </div>                        
+                        </div>
                         <div style="width: 575px; height: 30px; margin-top: 15px;">
 							<a class='ajax' href="saiba-mais_04.jpg"><div>Por que comprar com PayPal?</div></a>
                             <a href="/tickets/novo_pedido.asp"><div class="bt_alterar_compra" style="float: left">Alterar Compra</div></a>
@@ -455,7 +456,7 @@ $(document).ready(function(){
                 	</div>
             </fieldset>
             <br/>
-            
+
             <!-- Alert error -->
             <div id="aviso" class="fs_12px arial cor_cinza2" style="display:inline-table; margin-top:15px;">
             	<img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
@@ -467,7 +468,7 @@ $(document).ready(function(){
 	</div>
     <!-- End Form Container -->
 <table width="870" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr> 
+  <tr>
     <td width="547" height="50" colspan="3">&nbsp;</td>
   </tr>
 </table>
@@ -484,10 +485,10 @@ $(document).ready(function(){
 <script type="text/javascript">
 
 function finaliza_paypal(){
-	
-	
+
+
 			jQuery('<div class="sa_payPal_overlay" style="visibility:visible;position:fixed; width:100%; height:100%; filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr=\'#88ffffff\', EndColorStr=\'#88ffffff\'); background: rgba(255,255,255,0.8); top:0; left:0; z-index: 999999;"><div style=" background: #FFF; background-image: linear-gradient(top, #FFFFFF 45%, #E9ECEF 80%);background-image: -o-linear-gradient(top, #FFFFFF 45%, #E9ECEF 80%);background-image: -moz-linear-gradient(top, #FFFFFF 45%, #E9ECEF 80%);background-image: -webkit-linear-gradient(top, #FFFFFF 45%, #E9ECEF 80%);background-image: -ms-linear-gradient(top, #FFFFFF 45%, #E9ECEF 80%);background-image: -webkit-gradient(linear, left top,left bottom,color-stop(0.45, #FFFFFF),color-stop(0.8, #E9ECEF));display: block;margin: auto;position: fixed; margin-left:-220px; left:47%;top: 33%;text-align: center;color: #2F6395;font-family: Arial;padding: 15px;font-size: 15px;font-weight: bold;width: 530px;-webkit-box-shadow: 3px 2px 13px rgba(50, 50, 49, 0.25);box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 5px;border: 1px solid #CFCFCF;border-radius: 6px;"><img style="display:block;margin:0 auto 10px" src="https://www.paypalobjects.com/en_US/i/icon/icon_animated_prog_dkgy_42wx42h.gif"><h2 style="color:inherit !important;background:none !important;border:none !important;font-size:23px !important;text-decoration:none !important;text-transform:none !important;font-family: Arial !important;">Aguarde alguns segundos.</h2> <p style="font-size:13px; margin-top:13px; color: #003171; font-weight:400">Você está sendo redirecionado para um ambiente seguro para finalizar sua compra.</p><div style="margin:20px auto 0;"><img src="https://www.paypal-brasil.com.br/logocenter/util/img/logo_paypal.png"/></div></div></div>').appendTo('body');
-			
+
 			$('#Pagamento').submit();
 }
 

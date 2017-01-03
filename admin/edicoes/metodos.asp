@@ -123,6 +123,127 @@ Select Case Acao
 		response.Redirect("default.asp?msg=atv_ok")
 	'==================================================	
 	
+	Case "updateLote"
+	
+	id_lote 	= Limpar_Texto(Request("id-lote"))
+	data_ini 	= Limpar_Texto(Request("data_ini_lote"))
+	data_fim 	= Limpar_Texto(Request("data_fim_lote"))
+	valor_lote 	= Limpar_Texto(Replace(Request("val_lote"),",","."))
+	
+	
+	dia = Left(data_ini, 2)
+	mes = Mid(data_ini, 4, 2)
+	ano = Right(data_ini, 4)
+	inicio 	= "'" & ano & "-" & mes & "-" & dia & "'"
+
+	diaf = Left(data_fim, 2)
+	mesf = Mid(data_fim, 4, 2)
+	anof = Right(data_fim, 4)
+	fim 	= "'" & anof & "-" & mesf & "-" & diaf & "'"
+	
+
+	SQL_Update = 	"Update Edicoes_Lote " &_
+					"Set " &_
+					"	Valor = " & valor_lote & ", " &_
+					"	Data_Inicio = " & inicio & ", " &_
+					"	Data_Fim = " & fim & ", " &_
+					"	Ativo = 1 " &_
+					"Where ID_Lote_Edicao = " & id_lote
+	
+	response.write("<hr>Lote alterado com sucesso<hr>")
+	
+	Set RS_Update = Server.CreateObject("ADODB.Recordset")
+	RS_Update.Open SQL_Update, Conexao
+	
+	%>
+	
+	<script type="text/javascript">
+		
+		setTimeout(function(){
+			window.location.href = '/admin/edicoes/editar.asp?id=<%=Id%>';
+		},1000)  
+		
+	</script>
+	<%
+'==================================================	
+	
+	
+		
+	'==================================================	
+	
+	Case "removeLote"
+	
+	id_lote 	= Limpar_Texto(Request("id-lote"))
+	
+	SQL_Update = 	"Update Edicoes_Lote " &_
+					"Set " &_
+					"	Ativo = 0 " &_
+					"Where ID_Lote_Edicao = " & id_lote
+	
+	response.write("<hr>Lote removido com sucesso<hr>")
+	
+	Set RS_Update = Server.CreateObject("ADODB.Recordset")
+	RS_Update.Open SQL_Update, Conexao
+	
+	%>
+	
+	<script type="text/javascript">
+		
+		setTimeout(function(){
+			window.location.href = '/admin/edicoes/editar.asp?id=<%=Id%>';
+		},1000)  
+		
+	</script>
+	<%
+		
+	'==================================================	
+	
+	Case "insertLote"
+	
+	
+	data_ini 	= Limpar_Texto(Request("data_ini_lote"))
+	data_fim 	= Limpar_Texto(Request("data_fim_lote"))
+	valor_lote 	= Limpar_Texto(Replace(Request("val_lote"),",","."))
+		
+	
+	
+	
+	dia = Left(data_ini, 2)
+	mes = Mid(data_ini, 4, 2)
+	ano = Right(data_ini, 4)
+	inicio 	= "'" & ano & "-" & mes & "-" & dia & "'"
+    
+	diaf = Left(data_fim, 2)
+	mesf = Mid(data_fim, 4, 2)
+	anof = Right(data_fim, 4)
+	fim 	= "'" & anof & "-" & mesf & "-" & diaf & "'"
+	
+	SQL_Inserir = 	"Insert Into Edicoes_Lote " &_
+					"(ID_Edicao, Data_Inicio, Data_Fim, Ativo, Valor, Data_Cadastro) " &_
+					"Values " &_
+					"(" & Id & "," & inicio & "," & fim & ", 1," & valor_lote & ", GETDATE())"
+    
+	response.write("<hr>Lote adicionado com sucesso<hr>")
+	
+	Set RS_Inserir = Server.CreateObject("ADODB.Recordset")
+	RS_Inserir.Open SQL_Inserir, Conexao
+	
+	
+	%>
+	
+	<script type="text/javascript">
+		
+		setTimeout(function(){
+			window.location.href = '/admin/edicoes/editar.asp?id=<%=Id%>';
+		},1000)  
+		
+	</script>
+	<%
+		
+	'==================================================	
+	
+	
+	
 End Select
 
 Conexao.Close

@@ -2,8 +2,8 @@
 <%
 	' ===================================================
 	' PayPal API Include file
-	' 
-	' Defines all the global variables and the wrapper functions 
+	'
+	' Defines all the global variables and the wrapper functions
 	'-----------------------------------------------------------
 
 	Dim gv_APIEndpoint
@@ -13,17 +13,17 @@
 	Dim gv_Version
 	Dim gv_BNCode
 
-	Dim gv_ProxyServer	
-	Dim gv_ProxyServerPort 
-	Dim gv_Proxy		
+	Dim gv_ProxyServer
+	Dim gv_ProxyServerPort
+	Dim gv_Proxy
 '	Dim resArray
-	
+
 	'----------------------------------------------------------------------------------
 	' Authentication Credentials for making the call to the server
 	'----------------------------------------------------------------------------------
-	SandboxFlag = false 
+	SandboxFlag = false
 	if session("teste_paypal") = true then SandboxFlag = true
-	
+
 	'------------------------------------
 	' PayPal API Credentials
 	' Replace <API_USERNAME> with your API Username
@@ -38,7 +38,7 @@
 		gv_APIUserName	= "cobrancabts_api1.informa.com"
 		gv_APIPassword	= "RBLXS8L328MEZF3B"
 		gv_APISignature = "AiPC9BjkCyDFQXbSkoZcgqH3hpacAIJZ5qxA3J62bQrpqmBfPmqmT5ES"
-	
+
 	end if
 
 	'-----------------------------------------------------
@@ -47,7 +47,7 @@
 	gv_BNCode = "PP-ECWizard"
 
 	'----------------------------------------------------------------------
-	' Define the PayPal URLs.  
+	' Define the PayPal URLs.
 	' 	This is the URL that the buyer is first sent to do authorize payment with their paypal account
 	' 	change the URL depending if you are testing on the sandbox
 	' 	or going to the live PayPal site
@@ -61,42 +61,41 @@
 	Else
 		gv_APIEndpoint = "https://api-3t.paypal.com/nvp"
 		PAYPAL_URL = "https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token="
-	End If 
+	End If
 
 	gv_Version	= "93"
-		
+
 	'WinObjHttp Request proxy settings.
 	gv_ProxyServer	= "127.0.0.1"
 	gv_ProxyServerPort = "808"
 	gv_Proxy		= 2	'setting for proxy activation
 	gv_UseProxy		= False
-	
+
 	'-------------------------------------------------------------------------------------------------------------------------------------------
 	' Purpose: 	Prepares the parameters for the SetExpressCheckout API Call.
-	' Inputs:  
+	' Inputs:
 	'		paymentAmount:  	Total value of the shopping cart
 	'		currencyCodeType: 	Currency code value the PayPal API
 	'		paymentType: 		paymentType has to be one of the following values: Sale or Order or Authorization
 	'		returnURL:			the page where buyers return to after they are done with the payment review on PayPal
 	'		cancelURL:			the page where buyers return to when they cancel the payment	 review on PayPal
-	' Returns: 
+	' Returns:
 	'		The NVP Collection object of the SetExpressCheckout call Response.
-	'--------------------------------------------------------------------------------------------------------------------------------------------	
-	Function CallShortcutExpressCheckout( paymentAmount, currencyCodeType, paymentType, returnURL, cancelURL) 
+	'--------------------------------------------------------------------------------------------------------------------------------------------
+	Function CallShortcutExpressCheckout( paymentAmount, currencyCodeType, paymentType, returnURL, cancelURL)
 
 	'paymentAmount = 60
 		'------------------------------------------------------------------------------------------------------------------------------------
 		' Construct the parameter string that describes the SetExpressCheckout API call in the shortcut implementation
 		'------------------------------------------------------------------------------------------------------------------------------------
-		
+
 		nvpstr	= "&" & Server.URLEncode("PAYMENTREQUEST_0_AMT") & "=" & Server.URLEncode(paymentAmount) & _
 				  "&" & Server.URLEncode("PAYMENTREQUEST_0_PAYMENTACTION")&"=" & Server.URLEncode(paymentType) & _
 				  "&"& Server.URLEncode("RETURNURL") & "=" & Server.URLEncode(returnURL) & _
-				  "&" & Server.URLEncode("CANCELURL") & "=" & Server.URLEncode(cancelURL) & _ 
-				  "&"& server.UrlEncode("PAYMENTREQUEST_0_CURRENCYCODE") & "=" & Server.URLEncode(currencyCodeType) 
-				  
-				  
-				 
+				  "&" & Server.URLEncode("CANCELURL") & "=" & Server.URLEncode(cancelURL) & _
+				  "&"& server.UrlEncode("PAYMENTREQUEST_0_CURRENCYCODE") & "=" & Server.URLEncode(currencyCodeType)
+
+
 ' Session finaliza está trazendo o CPF e a Session cpf não está trazendo nada - Andre Alves
 a= Split(session("finaliza"), ",")
 Session("cpf") = session("finaliza")
@@ -105,15 +104,15 @@ Session("cpf") = session("finaliza")
 For i = 0 to Ubound(a)
 'Response.Write "Entrou"
 'Response.End
-	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_NAME"&i) & "=" & Server.URLEncode("Convite ABF") 
+	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_NAME"&i) & "=" & Server.URLEncode("Convite ABF")
 	if instr(a(i),"@") > 0 then
-		nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_DESC"&i) & "=" & Server.URLEncode("Convite para E-mail: " & a(i)) 
+		nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_DESC"&i) & "=" & Server.URLEncode("Convite para E-mail: " & a(i))
 	else
-		nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_DESC"&i) & "=" & Server.URLEncode("Convite para CPF:" & a(i)) 
+		nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_DESC"&i) & "=" & Server.URLEncode("Convite para CPF:" & a(i))
 	end if
 	'Local de troca de valores de compra no PayPal
 	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_AMT"&i) & "=" & Server.URLEncode(70)
-	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_QTY"&i) & "=" & Server.URLEncode(1) 
+	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_QTY"&i) & "=" & Server.URLEncode(1)
 Next
 if len(Session("cpf")) = 11  then
 'Response.Write "CPF"
@@ -126,36 +125,36 @@ if len(Session("cpf")) = 11  then
 				  nvpstr = nvpstr &  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTONAME") & "=" & Server.URLEncode(session("nome"))
 				  nvpstr = nvpstr &  "&" & Server.URLEncode("EMAIL") & "=" & Server.URLEncode(session("email"))
 				  end if
-				  
 
-				  
-		SESSION("currencyCodeType")	= currencyCodeType	  
+
+
+		SESSION("currencyCodeType")	= currencyCodeType
 		SESSION("PaymentType")	= paymentType
-	'Response.Write nvpstr
-		'Response.End
-		'--------------------------------------------------------------------------------------------------------------- 
+
+		'---------------------------------------------------------------------------------------------------------------
 		' Make the API call to PayPal
-		' If the API call succeded, then redirect the buyer to PayPal to begin to authorize payment.  
+		' If the API call succeded, then redirect the buyer to PayPal to begin to authorize payment.
 		' If an error occured, show the resulting errors
 		'---------------------------------------------------------------------------------------------------------------
-		
+
 		Set resArray = hash_call("SetExpressCheckout",nvpstr)
-		
-'Response.Write resArray("ACK") 
+
+
+'Response.Write resArray("ACK")
 '		Response.End
 		ack = UCase(resArray("ACK"))
 		If ack="SUCCESS" Then
-			' Save the token parameter in the Session 
+			' Save the token parameter in the Session
 			SESSION("token") = resArray("TOKEN")
 		End If
 
-		set CallShortcutExpressCheckout	= resArray	
-		
+		set CallShortcutExpressCheckout	= resArray
+
 	End Function
 
 	'-------------------------------------------------------------------------------------------------------------------------------------------
 	' Purpose: 	Prepares the parameters for the SetExpressCheckout API Call.
-	' Inputs:  
+	' Inputs:
 	'		paymentAmount:  	Total value of the shopping cart
 	'		currencyCodeType: 	Currency code value the PayPal API
 	'		paymentType: 		paymentType has to be one of the following values: Sale or Order or Authorization
@@ -169,10 +168,10 @@ if len(Session("cpf")) = 11  then
 	'		shipToZip:			the Ship to ZipCode entered on the merchant's site
 	'		shipToStreet2:		the Ship to Street2 entered on the merchant's site
 	'		phoneNum:			the phoneNum  entered on the merchant's site
-	' Returns: 
+	' Returns:
 	'		The NVP Collection object of the SetExpressCheckout call Response.
-	'--------------------------------------------------------------------------------------------------------------------------------------------	
-	Function CallMarkExpressCheckout(paymentAmount, currencyCodeType, paymentType, returnURL, cancelURL, shipToName, shipToStreet, shipToCity, shipToState, shipToCountryCode, shipToZip, shipToStreet2, phoneNum) 
+	'--------------------------------------------------------------------------------------------------------------------------------------------
+	Function CallMarkExpressCheckout(paymentAmount, currencyCodeType, paymentType, returnURL, cancelURL, shipToName, shipToStreet, shipToCity, shipToState, shipToCountryCode, shipToZip, shipToStreet2, phoneNum)
 		'------------------------------------------------------------------------------------------------------------------------------------
 		' Construct the parameter string that describes the SetExpressCheckout API call in the shortcut implementation
 		'------------------------------------------------------------------------------------------------------------------------------------
@@ -180,46 +179,46 @@ if len(Session("cpf")) = 11  then
 		nvpstr	= "&" & Server.URLEncode("PAYMENTREQUEST_0_AMT") & "=" & Server.URLEncode(paymentAmount) & _
 				  "&" & Server.URLEncode("PAYMENTREQUEST_0_PAYMENTACTION")&"=" & Server.URLEncode(paymentType) & _
 				  "&" & Server.URLEncode("RETURNURL") & "=" & Server.URLEncode(returnURL) & _
-				  "&" & Server.URLEncode("CANCELURL") & "=" & Server.URLEncode(cancelURL) & _ 
-				  "&" & Server.URLEncode("ADDROVERRIDE") & "=1" & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTONAME") & "=" & Server.URLEncode(shipToName) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOSTREET") & "=" & Server.URLEncode(shipToStreet) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOSTREET2") & "=" & Server.URLEncode(shipToStreet2) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOCITY") & "=" & Server.URLEncode(shipToCity) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOSTATE") & "=" & Server.URLEncode(shipToState) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE") & "=" & Server.URLEncode(shipToCountryCode) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOZIP") & "=" & Server.URLEncode(shipToZip) & _ 
-				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOPHONENUM") & "=" & Server.URLEncode(phoneNum) & _ 
+				  "&" & Server.URLEncode("CANCELURL") & "=" & Server.URLEncode(cancelURL) & _
+				  "&" & Server.URLEncode("ADDROVERRIDE") & "=1" & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTONAME") & "=" & Server.URLEncode(shipToName) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOSTREET") & "=" & Server.URLEncode(shipToStreet) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOSTREET2") & "=" & Server.URLEncode(shipToStreet2) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOCITY") & "=" & Server.URLEncode(shipToCity) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOSTATE") & "=" & Server.URLEncode(shipToState) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE") & "=" & Server.URLEncode(shipToCountryCode) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOZIP") & "=" & Server.URLEncode(shipToZip) & _
+				  "&" & Server.URLEncode("PAYMENTREQUEST_0_SHIPTOPHONENUM") & "=" & Server.URLEncode(phoneNum) & _
 				  "&"& server.UrlEncode("PAYMENTREQUEST_0_CURRENCYCODE") & "=" & Server.URLEncode(currencyCodeType)
 
-  	    SESSION("currencyCodeType")	= currencyCodeType	  
+  	    SESSION("currencyCodeType")	= currencyCodeType
 		SESSION("PaymentType")	= paymentType
 
-		'--------------------------------------------------------------------------- 
+		'---------------------------------------------------------------------------
 		' Make the API call to PayPal to set the Express Checkout token
-		' 	If the API call succeded, then redirect the buyer to PayPal to begin to authorize payment.  
+		' 	If the API call succeded, then redirect the buyer to PayPal to begin to authorize payment.
 		' 	If an error occured, show the resulting errors
 		'---------------------------------------------------------------------------
 		Set resArray = hash_call("SetExpressCheckout",nvpstr)
-		
+
 		ack = UCase(resArray("ACK"))
 		If ack="SUCCESS" Then
-			' Save the token parameter in the Session 
+			' Save the token parameter in the Session
 			SESSION("token") = resArray("TOKEN")
 		End If
 
-		set CallMarkExpressCheckout	= resArray	
+		set CallMarkExpressCheckout	= resArray
 
 	End Function
-	
+
 	'-------------------------------------------------------------------------------------------------------------------------------------------
 	' Purpose: 	Prepares the parameters for the GetExpressCheckoutDetails API and makes the API call.
 	'
-	' Inputs:  
+	' Inputs:
 	'		token: 	The token value returned by the SetExpressCheckout call
-	' Returns: 
+	' Returns:
 	'		The NVP Collection object of the GetExpressCheckoutDetails Call Response.
-	'--------------------------------------------------------------------------------------------------------------------------------------------	
+	'--------------------------------------------------------------------------------------------------------------------------------------------
 	Function GetShippingDetails( token )
 		'---------------------------------------------------------------------------
 		' At this point, the buyer has completed authorizing the payment
@@ -229,51 +228,51 @@ if len(Session("cpf")) = 11  then
 		' at this state - the buyer still needs an additional step to finalize
 		' the transaction
 		'---------------------------------------------------------------------------
-		
+
 	    '---------------------------------------------------------------------------
 		' Build a second API request to PayPal, using the token as the
 		'  ID to get the details on the payment authorization
 		'---------------------------------------------------------------------------
 		nvpstr="&TOKEN=" & token
-				
+
 		'---------------------------------------------------------------------------
-		' Make the API call and store the results in an array.  
+		' Make the API call and store the results in an array.
 		'	If the call was a success, show the authorization details, and provide
-		' 	an action to complete the payment.  
+		' 	an action to complete the payment.
 		'	If failed, show the error
 		'---------------------------------------------------------------------------
 		set resArray = hash_call("GetExpressCheckoutDetails",nvpstr)
 		ack = UCase(resArray("ACK"))
 		If ack="SUCCESS" Then
-			' Save the token parameter in the Session 
+			' Save the token parameter in the Session
 			SESSION("PAYERID") = resArray("PAYERID")
 			'response.write resArray("PAYERID")
-		End If		
+		End If
 		set GetShippingDetails = resArray
 	End Function
-	
+
 	'-------------------------------------------------------------------------------------------------------------------------------------------
 	' Purpose: 	Prepares the parameters for the GetExpressCheckoutDetails API and makes the call.
 	'
-	' Inputs:  
+	' Inputs:
 	'		finalPaymentAmount:  	The final total of the shopping cart including Shipping, Handling and other fees
-	' Returns: 
+	' Returns:
 	'		The NVP Collection object of the DoExpressCheckoutPayment Call Response.
-	'--------------------------------------------------------------------------------------------------------------------------------------------	
+	'--------------------------------------------------------------------------------------------------------------------------------------------
 	Function ConfirmPayment( finalPaymentAmount )
-	
+
 		'------------------------------------------------------------------------------------------------------------------------------------
-		'----	Use the values stored in the session from the previous SetEC call	
+		'----	Use the values stored in the session from the previous SetEC call
 		'------------------------------------------------------------------------------------------------------------------------------------
 		token			= SESSION("token")
 		currCodeType	= SESSION("currencyCodeType")
 		paymentType		= SESSION("PaymentType")
 		payerID			= SESSION("PayerID")
-		
+
 		nvpstr			=	"&" & Server.URLEncode("TOKEN") & "=" & Server.URLEncode(token) & "&" &_
 							Server.URLEncode("PAYERID")&"=" &Server.URLEncode(payerID) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_PAYMENTACTION")&"=" & Server.URLEncode(paymentType) & "&" &_
-							Server.URLEncode("PAYMENTREQUEST_0_AMT") &"=" & Server.URLEncode(finalPaymentAmount) & "&" &_ 
+							Server.URLEncode("PAYMENTREQUEST_0_AMT") &"=" & Server.URLEncode(finalPaymentAmount) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_CURRENCYCODE")& "=" &Server.URLEncode(currCodeType)
 		'-------------------------------------------------------------------------------------------
 		' Make the call to PayPal to finalize payment
@@ -285,10 +284,10 @@ if len(Session("cpf")) = 11  then
 	'-------------------------------------------------------------------------------------------------------------------------------------------
 	' Purpose: 	Prepares the parameters for the DoDirectPayment API and makes the call.
 	'
-	' Inputs:  
+	' Inputs:
 	'		paymentType: 		paymentType has to be one of the following values: Sale or Order or Authorization
 	'		paymentAmount:  		Total value of the shopping cart
-	'		creditCardType		Credit card type has to one of the following values: Visa or MasterCard or Discover or Amex or Switch or Solo 
+	'		creditCardType		Credit card type has to one of the following values: Visa or MasterCard or Discover or Amex or Switch or Solo
 	'		creditCardNumber	Credit card number
 	'		expDate			Credit expiration date
 	'		cvv2				CVV2
@@ -296,18 +295,18 @@ if len(Session("cpf")) = 11  then
 	'		lastName			Customer's Last Name
 	'		street			Customer's Street Address
 	'		city				Customer's City
-	'		state				Customer's State				
-	'		zip				Customer's Zip					
+	'		state				Customer's State
+	'		zip				Customer's Zip
 	'		countryCode		Customer's Country represented as a PayPal CountryCode
 	'		currencyCode		Customer's Currency represented as a PayPal CurrencyCode
-	'		
-	' Returns: 
+	'
+	' Returns:
 	'		The NVP Collection object of the DoDirectPayment Call Response.
-	'--------------------------------------------------------------------------------------------------------------------------------------------	
+	'--------------------------------------------------------------------------------------------------------------------------------------------
 	Function DirectPayment( paymentType, paymentAmount, creditCardType, creditCardNumber, expDate, cvv2, firstName, lastName, street, city, state, zip, countryCode, currencyCode )
-	
+
 		' Construct the parameter string that describes the SetExpressCheckout API call in the shortcut implementation
-		
+
 		nvpstr	=	"&PAYMENTACTION=" & paymentType & _
 					"&AMT=" & paymentAmount &_
 					"&CREDITCARDTYPE=" & creditCardType &_
@@ -322,9 +321,9 @@ if len(Session("cpf")) = 11  then
 					"&ZIP=" & zip &_
 					"&COUNTRYCODE=" & countryCode &_
 					"&CURRENCYCODE=" & currencyCode
-					
-		nvpstr	=	URLEncode(nvpstr)		
-		
+
+		nvpstr	=	URLEncode(nvpstr)
+
 		'-------------------------------------------------------------------------------------------
 		' Make the call to PayPal to finalize payment
 		' If an error occured, show the resulting errors
@@ -334,57 +333,57 @@ if len(Session("cpf")) = 11  then
 
 	'----------------------------------------------------------------------------------
 	' Purpose: 	Make the API call to PayPal, using API signature.
-	' Inputs:  
+	' Inputs:
 	'		Method name to be called & NVP string to be sent with the post method
-	' Returns: 
+	' Returns:
 	'		NVP Collection object of Call Response.
-	'----------------------------------------------------------------------------------	
+	'----------------------------------------------------------------------------------
 	Function hash_call ( methodName,nvpStr )
 		Set objHttp = Server.CreateObject("WinHTTP.WinHTTPRequest.5.1")
 
 		nvpStrComplete	= "METHOD=" & Server.URLEncode(methodName) & "&VERSION=" & Server.URLEncode(gv_Version) & "&USER=" & Server.URLEncode(gv_APIUserName) & "&PWD=" & Server.URLEncode(gv_APIPassword) & "&SIGNATURE=" & Server.URLEncode(gv_APISignature) & nvpStr
 		nvpStrComplete	= nvpStrComplete & "&BUTTONSOURCE=" & Server.URLEncode( gv_BNCode )
-		
+
 		Set SESSION("nvpReqArray")= deformatNVP( nvpStrComplete )
 		'objHttp.open "POST", gv_APIEndpoint, False
 		'WinHttpRequestOption_SslErrorIgnoreFlags=4
 		'objHttp.Option(WinHttpRequestOption_SslErrorIgnoreFlags) = &H3300
-		
+
 		Set xmlhttp = Server.CreateObject("MSXML2.XMLHTTP")
 		xmlhttp.open "POST", gv_APIEndpoint, false
 		xmlhttp.setRequestHeader "Content-Type", "text/xml; charset=""utf-8"""
 		xmlhttp.Send nvpStrComplete
 		xmlString = xmlhttp.responseText
-		
+
 		'R''esponse.Write xmlString
 		'Response.End
 		'Não está entrando no if abaixo - Andre Alves
-		
+
 		'response.write nvpStrComplete
 		'response.end
 		'objHttp.Send nvpStrComplete
 		'response.write 1
 		'response.end
 		Set nvpResponseCollection =deformatNVP(xmlString)
-		
-		
+
+
 		Set hash_call = nvpResponseCollection
-		Set objHttp = Nothing 
-		
-		If Err.Number <> 0 Then 
+		Set objHttp = Nothing
+
+		If Err.Number <> 0 Then
 			SESSION("Message")	= ErrorFormatter(Err.Description,Err.Number,Err.Source,"hash_call")
 			SESSION("nvpReqArray") =  Null
 		Else
 			SESSION("Message")	= Null
 		End If
-		
+
 	End Function
 
 	'----------------------------------------------------------------------------------
 	' Purpose: 	Formats the error Messages.
-	' Inputs:  
-	'		
-	' Returns: 
+	' Inputs:
+	'
+	' Returns:
 	'		Formatted Error string
 	'----------------------------------------------------------------------------------
 	Function ErrorFormatter ( errDesc, errNumber, errSource, errlocation )
@@ -397,18 +396,18 @@ if len(Session("cpf")) = 11  then
 								"<TR>" &"<TD>Error Location :</TD>" &"<TD>"&errlocation& "</TD>"& "</TR>" &_
 								"</TABLE>" &_
 								"</font>"
-	End Function 
+	End Function
 
 	'----------------------------------------------------------------------------------
 	' Purpose: 	Convert nvp string to Collection object.
-	' Inputs:  	
+	' Inputs:
 	'		NVP string.
-	' Returns: 
+	' Returns:
 	'		NVP Collection object created from deserializing the NVP string.
 	'----------------------------------------------------------------------------------
 	Function deformatNVP ( nvpstr )
 		On Error Resume Next
-		
+
 		Dim AndSplitedArray,EqualtoSplitedArray,Index1,Index2,NextIndex
 
 		Set NvpCollection = Server.CreateObject("Scripting.Dictionary")
@@ -425,11 +424,11 @@ if len(Session("cpf")) = 11  then
 				Index2=Index2+1
 			Next
 		Next
-		
+
 		'RESPONSE.WRITE NvpCollection("ACK")
 		'RESPONSE.END
 		Set deformatNVP = NvpCollection
-		If Err.Number <> 0 Then 
+		If Err.Number <> 0 Then
 			SESSION("Message")	= ErrorFormatter(Err.Description,Err.Number,Err.Source,"deformatNVP")
 		else
 			SESSION("Message")	= Null
@@ -438,12 +437,12 @@ if len(Session("cpf")) = 11  then
 
 	'----------------------------------------------------------------------------------
 	' Purpose: URL Encodes a string
-	' Inputs:  
+	' Inputs:
 	'		String to be url encoded.
-	' Returns: 
+	' Returns:
 	'		Url Encoded string.
 	'----------------------------------------------------------------------------------
-	Function URLEncode(str) 
+	Function URLEncode(str)
 		On Error Resume Next
 
 	    Dim AndSplitedArray,EqualtoSplitedArray,Index1,Index2,UrlEncodeString,NvpUrlEncodeString
@@ -457,53 +456,53 @@ if len(Session("cpf")) = 11  then
 			For Index2 = 0 To UBound(EqualtoSplitedArray)
 			If Index2 = 0 then
 				UrlEncodeString=UrlEncodeString & Server.URLEncode(EqualtoSplitedArray(Index2))
-			Else			
+			Else
 				UrlEncodeString=UrlEncodeString &"="& Server.URLEncode(EqualtoSplitedArray(Index2))
 			End if
 			Next
 			If Index1 = 0 then
 				NvpUrlEncodeString= NvpUrlEncodeString & UrlEncodeString
-			Else			
+			Else
 				NvpUrlEncodeString= NvpUrlEncodeString &"&"&UrlEncodeString
 			End if
 			UrlEncodeString=""
 		Next
 		URLEncode = NvpUrlEncodeString
-		
-		If Err.Number <> 0 Then 
+
+		If Err.Number <> 0 Then
 			SESSION("Message")	= ErrorFormatter(Err.Description,Err.Number,Err.Source,"URLEncode")
 		else
 			SESSION("Message")	= Null
 		End If
-		
-	 End Function 
+
+	 End Function
 
 	'----------------------------------------------------------------------------------
 	' Purpose: Decodes a URL Encoded string
-	' Inputs:  
+	' Inputs:
 	'		A URL encoded string
-	' Returns: 
+	' Returns:
 	'		Decoded string.
 	'----------------------------------------------------------------------------------
-	Function URLDecode(str) 
+	Function URLDecode(str)
 		On Error Resume Next
-		
-		str = Replace(str, "+", " ") 
-		For i = 1 To Len(str) 
-			sT = Mid(str, i, 1) 
-			If sT = "%" Then 
-				If i+2 < Len(str) Then 
-					sR = sR & _ 
-						Chr(CLng("&H" & Mid(str, i+1, 2))) 
-					i = i+2 
-				End If 
-			Else 
-				sR = sR & sT 
-			End If 
-		Next 
-	       
-		URLDecode = sR 
-		If Err.Number <> 0 Then 
+
+		str = Replace(str, "+", " ")
+		For i = 1 To Len(str)
+			sT = Mid(str, i, 1)
+			If sT = "%" Then
+				If i+2 < Len(str) Then
+					sR = sR & _
+						Chr(CLng("&H" & Mid(str, i+1, 2)))
+					i = i+2
+				End If
+			Else
+				sR = sR & sT
+			End If
+		Next
+
+		URLDecode = sR
+		If Err.Number <> 0 Then
 			SESSION("Message")	= ErrorFormatter(Err.Description,Err.Number,Err.Source,"URLDecode")
 		else
 			SESSION("Message")	= Null
@@ -514,7 +513,7 @@ if len(Session("cpf")) = 11  then
 	'----------------------------------------------------------------------------------
 	' Purpose: 	It's Workaround Method for Response.Redirect
 	'          	It will redirect the page to the specified url without urlencoding
-	' Inputs: 
+	' Inputs:
 	'		Url to redirect the page
 	'----------------------------------------------------------------------------------
 	Function ReDirectURL( token )
@@ -524,11 +523,11 @@ if len(Session("cpf")) = 11  then
 		response.clear
 		response.status="302 Object moved"
 		response.AddHeader "location", payPalURL
-		If Err.Number <> 0 Then 
+		If Err.Number <> 0 Then
 			SESSION("Message")	= ErrorFormatter(Err.Description,Err.Number,Err.Source,"ReDirectURL")
 		else
 			SESSION("Message")	= Null
 		End If
-	End Function	
-	
+	End Function
+
 %>
