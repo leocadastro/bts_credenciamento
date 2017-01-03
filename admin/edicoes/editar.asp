@@ -144,10 +144,18 @@ function voltar() {
 function changeLote(formNow,action){
 	$('#acao' + formNow).val(action);
 	//alert('cad-lote' + formNow);
-	setTimeout(function(){
+	
+	var message = "Tem certeza que deseja remover o lote?";
+	
+	if(action == "updateLote"){
+		message = "Tem certeza que deseja alterar o lote?"
+	}
+	
+	confirmacao = confirm(message)
+	if (confirmacao) {
 		document.getElementById('cad-lote' + formNow).submit();
-	},100)
-
+	}
+	
 }
 
 </script>
