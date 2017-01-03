@@ -88,8 +88,7 @@
 		'------------------------------------------------------------------------------------------------------------------------------------
 		' Construct the parameter string that describes the SetExpressCheckout API call in the shortcut implementation
 		'------------------------------------------------------------------------------------------------------------------------------------
-
-		nvpstr	= "&" & Server.URLEncode("PAYMENTREQUEST_0_AMT") & "=" & Server.URLEncode(paymentAmount) & _
+		nvpstr	= "&" & Server.URLEncode("PAYMENTREQUEST_0_AMT") & "=" & Server.URLEncode(Replace(paymentAmount,",",".")) & _
 				  "&" & Server.URLEncode("PAYMENTREQUEST_0_PAYMENTACTION")&"=" & Server.URLEncode(paymentType) & _
 				  "&"& Server.URLEncode("RETURNURL") & "=" & Server.URLEncode(returnURL) & _
 				  "&" & Server.URLEncode("CANCELURL") & "=" & Server.URLEncode(cancelURL) & _
@@ -118,6 +117,7 @@
   If Not RS_Consulta_Pedidos.Eof Then
 
   	Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
+	Valor_Pedido	= Replace(Valor_Pedido,",",".")
 
   End If
 
@@ -138,10 +138,7 @@ For i = 0 to Ubound(a)
 		nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_DESC"&i) & "=" & Server.URLEncode("Convite para CPF:" & a(i))
 	end if
 	'Local de troca de valores de compra no PayPal
-	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_AMT"&i) & "=" & Server.URLEncode(Replace(Valor_Pedido,",","."))
-
-	'Response.Write(nvpstr)
-	'Response.End
+	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_AMT"&i) & "=" & Server.URLEncode(Valor_Pedido)
 
 	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_QTY"&i) & "=" & Server.URLEncode(1)
 Next
@@ -311,6 +308,7 @@ if len(Session("cpf")) = 11  then
 							Server.URLEncode("PAYMENTREQUEST_0_PAYMENTACTION")&"=" & Server.URLEncode(paymentType) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_AMT") &"=" & Server.URLEncode(finalPaymentAmount) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_CURRENCYCODE")& "=" &Server.URLEncode(currCodeType)
+
 		'-------------------------------------------------------------------------------------------
 		' Make the call to PayPal to finalize payment
 		' If an error occured, show the resulting errors
