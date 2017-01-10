@@ -56,17 +56,14 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	strSQL = strSQL + "left join Pedidos_Historico ph on pe.Numero_Pedido = ph.Numero_Pedido  and (ph.codigo_autorizacao = 'SUCCESS' or ph.codigo_autorizacao = 'SUCCESSWITHWARNING') "
 	strSQL = strSQL + "inner join Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
 	strSQL = strSQL + "inner join Visitantes Vc on Vc.ID_Visitante = pc.id_visitante " 
-	strSQL = strSQL + "inner join Pedidos_Status ps on pe.Status_Pedido = " & status & " " 
+	strSQL = strSQL + "inner join Pedidos_Status ps on pe.Status_Pedido = ps.ID_Pedido_Status "
 	strSQL = strSQL + "where pe.ID_Edicao = 60 "
 	strSQL = strSQL + "	and pe.Numero_Pedido <> '' "
-	strSQL = strSQL + "	and pe.Valor_Pedido > 0 And Pe.Status_Pedido in (1,2,3,4) "
+	strSQL = strSQL + "	and pe.Valor_Pedido > 0 And Pe.Status_Pedido " & status & " " 
 	strSQL = strSQL + "GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
 	strSQL = strSQL + "	ph.data_pagamento, ps.Status_PTB, ph.Numero_Transacao "
 	strSQL = strSQL + "order by ph.data_pagamento "
-	
-	
-	Response.Write strSQL
-	
+		
 	'Response.Write strSQL
 	'Response.End
 	
