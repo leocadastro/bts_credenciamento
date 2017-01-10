@@ -311,7 +311,7 @@ $(document).ready(function(){
 
         End If
 
-        If Valor_Ticket_Atualizado <> Valor_Pedido Then
+        If Valor_Ticket_Atualizado <> Valor_Pedido And Valor_Pedido <> "" Then
 
           Valor_Pedido = Valor_Ticket_Atualizado
 
@@ -326,7 +326,7 @@ $(document).ready(function(){
           Lote_Mudou = "O lote virou e o valor do ingresso mudou. Por favor confira o novo valor."
 
         End If
-		
+
         'FIM Valida se pedido está no lote correto
 
 				%>

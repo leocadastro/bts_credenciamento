@@ -115,6 +115,13 @@ If Limpar_Texto(Len(Trim(Request.Form("frmID_Cadastro")))) > 0 Then
     Session("cliente_nome")         = Limpar_texto(Request.Form("frmNome"))
     Session("cliente_cpf")          = Limpar_texto(Request.Form("frmCPF"))
 
+
+	'Response.Write(Session("cliente_cadastro") + " - ")
+	'Response.Write(Session("cliente_empresa") + " - ")
+	'Response.Write(Session("cliente_visitante") + " - ")
+	'Response.Write(Session("cliente_nome") + " - ")
+	'Response.Write(Session("cliente_cpf") + " - ")
+
 End If
 
 

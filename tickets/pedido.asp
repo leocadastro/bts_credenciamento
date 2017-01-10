@@ -110,15 +110,19 @@ Else
 
 		If Not RS_Quant_Carrinho.Eof Then
 
-			Valor_Atual = Cint(RS_Quant_Carrinho("Quantidade")) * Valor_Ticket
+		Valor_Atual = Cint(RS_Quant_Carrinho("Quantidade")) * Valor_Ticket
+		Valor_Atual = Replace(Valor_Atual, ",", ".")
+		'Response.Write(Valor_Atual)
 
 		End If
 
-		'Response.Write(ValorAtual)
+		'Response.Write("dsadas: " + ValorAtual)
 
 		SQL_Atualiza_Pedido = 	"Update Pedidos Set " &_
 								"	Valor_Pedido = '" & Valor_Atual & "' " &_
 								"Where ID_Pedido = " & Pedido
+
+		'Response.Write(SQL_Atualiza_Pedido)
 		Set RS_Atualiza_Pedido = Conexao.Execute(SQL_Atualiza_Pedido)
 
 	End Function
