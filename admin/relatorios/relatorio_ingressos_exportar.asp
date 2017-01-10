@@ -50,17 +50,22 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	End if
 	
 	'// Monta a string SQL
-	strSQL = "SELECT pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Numero_Transacao"
-	strSQL = strSQL & " from  Pedidos_Historico ph "
-	strSQL = strSQL & " inner join pedidos pe on pe.Numero_Pedido = ph.Numero_Pedido "
-	strSQL = strSQL & " inner join  Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
-	strSQL = strSQL & " inner join Visitantes Vc on Vc.ID_Visitante = pc.id_visitante "
-	strSQL = strSQL & " inner join Pedidos_Status ps on pe.Status_Pedido = ps.ID_Pedido_Status "
-	strSQL = strSQL & " 	where  pe.ID_Edicao = 57 and YEAR(ph.Data_Pagamento) = " & Ano_Pedido & " "
-	strSQL = strSQL & " and (ph.codigo_autorizacao = 'SUCCESS' or ph.codigo_autorizacao = 'SUCCESSWITHWARNING') "
-	strSQL = strSQL & " and ph.Numero_Pedido <> '' and pe.Valor_Pedido > 1 And Pe.Status_Pedido " & status & " " 
-	strSQL = strSQL & " GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, data_pagamento, ps.Status_PTB, ph.Numero_Transacao order by data_pagamento"
+	strSQL = "SELECT pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
+	strSQL = strSQL + "ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Numero_Transacao "
+	strSQL = strSQL + "from pedidos pe "
+	strSQL = strSQL + "left join Pedidos_Historico ph on pe.Numero_Pedido = ph.Numero_Pedido  and (ph.codigo_autorizacao = 'SUCCESS' or ph.codigo_autorizacao = 'SUCCESSWITHWARNING') "
+	strSQL = strSQL + "inner join Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
+	strSQL = strSQL + "inner join Visitantes Vc on Vc.ID_Visitante = pc.id_visitante " 
+	strSQL = strSQL + "inner join Pedidos_Status ps on pe.Status_Pedido = " & status & " " 
+	strSQL = strSQL + "where pe.ID_Edicao = 60 "
+	strSQL = strSQL + "	and pe.Numero_Pedido <> '' "
+	strSQL = strSQL + "	and pe.Valor_Pedido > 0 And Pe.Status_Pedido in (1,2,3,4) "
+	strSQL = strSQL + "GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
+	strSQL = strSQL + "	ph.data_pagamento, ps.Status_PTB, ph.Numero_Transacao "
+	strSQL = strSQL + "order by ph.data_pagamento "
 	
+	
+	Response.Write strSQL
 	
 	'Response.Write strSQL
 	'Response.End
@@ -114,7 +119,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 		n_ped = ""
 		tot_ped = 0
 		i = 0
-		While Not objRetorno.EOF And i < 300
+		While Not objRetorno.EOF
 			
 			if n_ped = objRetorno("Numero_Pedido") then
 				tot_ped = tot_ped + 1
