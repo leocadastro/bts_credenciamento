@@ -1,5 +1,19 @@
 <!--#include virtual="/admin/inc/limpar_texto.asp"-->
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>Form Iframe Demo</title>
+	
+  </head>
+  <body id="iframe-body">
+
+	
 <%
+	
 	If Not Session("admin_logado") Then
 		Response.Redirect("/admin/")
 	End If
@@ -20,7 +34,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	Dim Campo_Valor
 	Dim strSQL
 	Dim ID_Evento
-	
+		
 	'// Define os valores das variaveis
 	ID_Pedido_Status = Limpar_Texto(Request("id_status"))
 	Ano_Pedido = Limpar_Texto(Request("ano_pedido"))
@@ -28,6 +42,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	Campo_Valor = Limpar_Texto(Request("pedido"))
 	ID_Evento = Limpar_Texto(Request("ID_Evento"))
 	
+		
 	if ID_Pedido_Status = "" then
 		status = "in (1,2,3,4)"
 	else
@@ -35,23 +50,24 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	End if
 	
 	'// Monta a string SQL
-	strSQL = "SELECT pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, 'Pedido Concluido' as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos"
-	strSQL = strSQL & " from  Pedidos_Historico  "
-	strSQL = strSQL & " inner join pedidos pe on pe.Numero_Pedido = Pedidos_Historico.Numero_Pedido "
-		strSQL = strSQL & " inner join  Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
-		strSQL = strSQL & " inner join Visitantes Vc on Vc.ID_Visitante = pc.id_visitante "
-	strSQL = strSQL & " 	where  pe.ID_Edicao = 57 and  Pedidos_Historico.Data_Pagamento like '%2016%' "
-	strSQL = strSQL & " and (Pedidos_Historico.codigo_autorizacao like 'SUCCESS' or Pedidos_Historico.codigo_autorizacao like 'SUCCESSWITHWARNING') "
-	strSQL = strSQL & " and Pedidos_Historico.Numero_Pedido <> '' and pe.Valor_Pedido > 1 and Vc.email not like '%paypal%' And Pe.Status_Pedido " & status & " " 
-	strSQL = strSQL & " GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, data_pagamento order by data_pagamento"
+	strSQL = "SELECT pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Numero_Transacao"
+	strSQL = strSQL & " from  Pedidos_Historico ph "
+	strSQL = strSQL & " inner join pedidos pe on pe.Numero_Pedido = ph.Numero_Pedido "
+	strSQL = strSQL & " inner join  Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
+	strSQL = strSQL & " inner join Visitantes Vc on Vc.ID_Visitante = pc.id_visitante "
+	strSQL = strSQL & " inner join Pedidos_Status ps on pe.Status_Pedido = ps.ID_Pedido_Status "
+	strSQL = strSQL & " 	where  pe.ID_Edicao = 57 and YEAR(ph.Data_Pagamento) = " & Ano_Pedido & " "
+	strSQL = strSQL & " and (ph.codigo_autorizacao = 'SUCCESS' or ph.codigo_autorizacao = 'SUCCESSWITHWARNING') "
+	strSQL = strSQL & " and ph.Numero_Pedido <> '' and pe.Valor_Pedido > 1 And Pe.Status_Pedido " & status & " " 
+	strSQL = strSQL & " GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, data_pagamento, ps.Status_PTB, ph.Numero_Transacao order by data_pagamento"
 	
 	
 	'Response.Write strSQL
 	'Response.End
 	
 	'// Abre a conexão com o banco e executa a string SQL
-	Set objConexao = Server.CreateObject("ADODB.Connection")
-	objConexao.Open Application("cnn")
+	'Set objConexao = Server.CreateObject("ADODB.Connection")
+	'objConexao.Open Application("cnn")
 	
 	
 	Set Conexao_cred = Server.CreateObject("ADODB.Connection")
@@ -61,6 +77,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	'response.end
 	Set objRetorno = Server.CreateObject("ADODB.Recordset")
 				objRetorno.Open strSQL, Conexao_cred.ConnectionString, 3, 3
+				
 				
 	'Set objRetorno = Server.CreateObject("ADODB.Recordset")
 	'objRetorno.CursorLocation = 3
@@ -88,19 +105,24 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 		Response.Write("<th>Valor</th>")
 		Response.Write("<th>Data</th>")
 		Response.Write("<th>Status</th>")
+		Response.Write("<th>Código Paypal</th>")
+		Response.Write("<th>Série Ingresso</th>")
+		Response.Write("<th>Código do Evento</th>")
 		Response.Write("</tr>")
 		
 		'// Retorna as linhas do documento
 		n_ped = ""
 		tot_ped = 0
-		While Not objRetorno.EOF
-		
-		if n_ped = objRetorno("Numero_Pedido") then
-			tot_ped = tot_ped + 1
-		else
-		n_ped = objRetorno("Numero_Pedido")
-		tot_ped = 1
-		end if
+		i = 0
+		While Not objRetorno.EOF And i < 300
+			
+			if n_ped = objRetorno("Numero_Pedido") then
+				tot_ped = tot_ped + 1
+			else
+				n_ped = objRetorno("Numero_Pedido")
+				tot_ped = 1
+			end if
+			
 			Response.Write("<tr>")
 			Response.Write("<td>" & objRetorno("Numero_Pedido") & "</td>")
 			Response.Write("<td>" & objRetorno("ID_Visitante") & "</td>")
@@ -111,17 +133,23 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 			Response.Write("<td style=""mso-number-format:'0\.00'"">" & objRetorno("Valor_Pedido") & "</td>")
 			Response.Write("<td>" & objRetorno("Data_Pedido") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Status_PTB") & "</td>")
+			Response.Write("<td nowrap>" & objRetorno("Numero_Transacao") & "</td>")
+			Response.Write("<td>-</td>")
+			Response.Write("<td></td>")
 			Response.Write("</tr>")
 			
 			objRetorno.MoveNext()
+				
+			i = i + 1
 		Wend
 		
 		Response.Write("</table>")
 	End If
 	
 	'// Finaliza os objetos
-	objConexao.Close
-	Set objConexao = Nothing
+		
+	'objConexao.Close
+	'Set objConexao = Nothing
 	Set objRetorno = Nothing
 	
 	'// Função para gerar o nome o arquivo com a hora atual
@@ -139,8 +167,13 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 		textoHorario = ano & mes & dia & "_" & hora & minuto & segundo
 		
 		NomeArquivo = "Ingressos_ABF_" & textoHorario & ".xls"
+		'NomeArquivo = "Ingressos_ABF_novo.xls"
 		
 	End Function
 	
 	Response.Flush()
+	
 %>
+
+  </body>
+</html>

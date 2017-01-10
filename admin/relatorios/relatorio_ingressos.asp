@@ -17,6 +17,16 @@ pedido	 		= Limpar_Texto(Request("pedido"))
 campo_busca		= Limpar_Texto(Request("campo_busca"))
 ID_Evento 		= Limpar_Texto(Request("ID_Evento"))
 
+%>
+
+<script type="text/javascript">
+
+	console.log(<%=ID_Evento%>);
+
+</script>
+
+<%
+
 ano_pedido = Limpar_Texto(Request("ano_pedido"))
 campo_ordem = Limpar_Texto(Request("campo_ordem"))
 tipo_ordem = Limpar_Texto(Request("tipo_ordem"))
@@ -298,17 +308,32 @@ function Page_Load()
 	if ("<%=campo_busca%>" != "")
 		document.buscar.campo_busca.value = "<%=campo_busca%>";
 }
+
+var frameN;
+
 function Exportar_Excel()
 {
 	var acaoAnterior = document.buscar.action;
+	
+	//$('#loader').show();
+	
 	document.buscar.action = "relatorio_ingressos_exportar.asp";
 	document.buscar.submit();
 	
+	frameN = document.getElementById("callback");
+	
 	document.buscar.action = acaoAnterior;
+
 }
+
+
 </script>
 
 <body onload="Page_Load()">
+
+	<div id="loader" style="display:none; position:absolute; left:0px; top:0px; width:100%; height:100%; background:#fff center center url('../images/pre-loader.gif') no-repeat; opacity:0.4;"></div>
+	
+
 <!--#include virtual="/admin/inc/menu_top.asp"-->
 <table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
@@ -412,7 +437,7 @@ function Exportar_Excel()
           <td>
           
           <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
-            <form id="buscar" name="buscar" method="get" action="relatorio_ingressos.asp">
+            <form id="buscar" name="buscar" method="get" action="relatorio_ingressos.asp" target="callback">
               <tr>
                 <td height="22" colspan="2" align="center"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;">Filtro</span></td>
               </tr>
@@ -719,5 +744,8 @@ function Exportar_Excel()
     <td>&nbsp;</td>
   </tr>
 </table>
+
+<iframe name="callback" id="callback" width="600" height="0" border="0" frameborder="0" src=""></iframe>
+
 </body>
 </html>
