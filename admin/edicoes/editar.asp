@@ -17,21 +17,21 @@ Conexao.Open Application("cnn")
 
 	Set RS_Listar = Server.CreateObject("ADODB.Recordset")
 	RS_Listar.Open SQL_Listar, Conexao
-	
+
 	If RS_Listar.BOF or RS_Listar.EOF Then
 		response.Redirect("default.asp?msg=erro_nao_encontrado")
 	Else
-	
+
 		SQL_Eventos = 	"Select " &_
 						"	ID_Evento, " &_
 						"	Nome_PTB " &_
 						"From Eventos " &_
 						"Where ativo = 1 " &_
 						"Order by Nome_PTB"
-						
+
 		Set RS_Eventos = Server.CreateObject("ADODB.Recordset")
 		RS_Eventos.Open SQL_Eventos, Conexao
-	
+
 		id_evento 	= RS_Listar("id_evento")
 		ano 		= RS_Listar("ano")
 		inicio 		= RS_Listar("Data_Inicio_Feira")
@@ -64,14 +64,14 @@ Conexao.Open Application("cnn")
 			'==================================================
 		End If
 		ativo 		= RS_Listar("ativo")
-		
-		
-		
+
+
+
 		SQL_Lotes = 	"Select * From Edicoes_Lote Where ID_Edicao = " & id & " AND Ativo = 1 Order by Data_Fim ASC"
-						
+
 		Set RS_Lotes = Server.CreateObject("ADODB.Recordset")
 		RS_Lotes.Open SQL_Lotes, Conexao
-		
+
 		RS_Listar.Close
 	End If
 %>
@@ -95,7 +95,7 @@ $(document).ready(function(){
 	$('#hora_ini').mask("99:99",{placeholder:"_"});
 	$('#hora_fim').mask("99:99",{placeholder:"_"});
 	$('#aviso').hide();
-	<% 
+	<%
 	If msg = "" AND Session("admin_msg") <> "" Then msg = Session("admin_msg")
 	Select Case msg
 		Case "pag_proibida"
@@ -106,7 +106,7 @@ $(document).ready(function(){
 		<%
 	End Select
 	%>
-		
+
 });
 
 function Enviar() {
@@ -128,7 +128,7 @@ function Enviar() {
 		}
 	});
 	if (erros == 0) {
-		document.cad.submit();	
+		document.cad.submit();
 	} else {
 		$('#aviso_conteudo').html('Favor preencher corretamente os campos em destaque.');
 		$('#aviso').fadeIn('slow').animate({opacity: '+=0'}, 3000);
@@ -137,25 +137,25 @@ function Enviar() {
 function voltar() {
 	confirmacao = confirm("Os dados não foram salvos, deseja sair ?")
 	if (confirmacao) {
-		document.location = 'default.asp';	
+		document.location = 'default.asp';
 	}
 }
 
 function changeLote(formNow,action){
 	$('#acao' + formNow).val(action);
 	//alert('cad-lote' + formNow);
-	
+
 	var message = "Tem certeza que deseja remover o lote?";
-	
+
 	if(action == "updateLote"){
 		message = "Tem certeza que deseja alterar o lote?"
 	}
-	
+
 	confirmacao = confirm(message)
 	if (confirmacao) {
 		document.getElementById('cad-lote' + formNow).submit();
 	}
-	
+
 }
 
 </script>
@@ -255,7 +255,7 @@ function changeLote(formNow,action){
                   </select>
                 </td>
               </tr>
-			  
+
               <tr>
                 <td width="260" height="30" class="titulo_menu_site_tec">&nbsp;</td>
                 <td class="titulo_noticias_home">
@@ -265,54 +265,60 @@ function changeLote(formNow,action){
                   </td>
                 </tr>
             </form>
-			
+
 			 <tr>
-				<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>                
+				<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>
 			 </tr>
-			
+
 			 <tr>
-				<td width="510" height="30" colspan="2" class="titulo_menu_site_bts">Lotes</td>                
+				<td width="510" height="30" colspan="2" class="titulo_menu_site_bts">Lotes</td>
 			 </tr>
-			 
+
 			 <tr>
-				<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>                
+				<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>
 			 </tr>
-			 
+
 			<%
-			
+
 			iNow = 1
-			
+
 			If not RS_Lotes.BOF or not RS_Lotes.EOF Then
 				While not RS_Lotes.EOF
-				
+
 				raw_hora_ini = RS_Lotes("Data_Inicio")
 				raw_hora_fim = RS_Lotes("Data_Fim")
-				
-				
+
+
 				hora_ini_n 	= Replace(Left(raw_hora_ini,10),"/",".")
 				hora_fim_n 	= Replace(Left(raw_hora_fim,10),"/",".")
 
 				%>
-				
+
 				<form name="cad-lote<%=iNow%>" id="cad-lote<%=iNow%>" method="post" action="metodos.asp">
 					<input type="hidden" class="id" name="id" value="<%=id%>">
 					<input type="hidden" class="id-lote" name="id-lote" value="<%=RS_Lotes("ID_Lote_Edicao")%>">
 					<input type="hidden" id="acao<%=iNow%>" class="acao" name="acao" value="">
-				
+
 				<tr>
-					<td width="510" height="30" colspan="2" class="titulo_menu_site_bts">Lote: <%=iNow%></td>                
+					<td width="510" height="30" colspan="2" class="titulo_menu_site_bts">Lote: <%=iNow%></td>
 				</tr>
-				
+
 				<tr>
 					<td colspan="2" width="510">
 						<table width="510">
+							<tr>
+								<td height="30" class="titulo_menu_site_bts">Série</td>
+								<td class="t_arial fs11px bold c_vermelho">
+								  <input name="serie_lote" id="serie_lote<%=iNow%>" type="text" size="12" class="admin_txtfield_login" value="<%=RS_Lotes("Nome")%>">
+								</td>
+							 </tr>
 							<tr>
 								<td height="30" class="titulo_menu_site_bts">Valor do Lote</td>
 								<td class="t_arial fs11px bold c_vermelho">
 								  R$ <input name="val_lote" id="val_lote<%=iNow%>" type="text" size="6" class="admin_txtfield_login" value="<%=RS_Lotes("Valor")%>">
 								</td>
 							 </tr>
-							 
+
 							 <tr>
 								<td height="30" class="titulo_menu_site_bts">Início do Lote</td>
 								<td class="t_arial fs11px bold c_vermelho">
@@ -320,7 +326,7 @@ function changeLote(formNow,action){
 								  <img src="/admin/images/img_calendario.gif" id="cal-ini-lote<%=iNow%>" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('data_ini_lote<%=iNow%>'),'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
 								</td>
 							 </tr>
-							 
+
 							 <tr>
 								<td height="30" class="titulo_menu_site_bts">Término do Lote</td>
 								<td class="t_arial fs11px bold c_vermelho">
@@ -328,28 +334,28 @@ function changeLote(formNow,action){
 								  <img src="/admin/images/img_calendario.gif" id="cal-fim-lote" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('data_fim_lote<%=iNow%>'),'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
 								</td>
 							 </tr>
-							 
+
 							 <tr>
 								<td height="30" class="titulo_menu_site_bts">
-									
-								</td>                
+
+								</td>
 								<td>
 									<div class="box-bt">
-										<div class="bt-a bt-alterar-lote" onclick="changeLote('<%=iNow%>','updateLote')">Alterar</div>	
-										<div class="bt-b bt-remover-lote" onclick="changeLote('<%=iNow%>','removeLote')">Remover</div>	
+										<div class="bt-a bt-alterar-lote" onclick="changeLote('<%=iNow%>','updateLote')">Alterar</div>
+										<div class="bt-b bt-remover-lote" onclick="changeLote('<%=iNow%>','removeLote')">Remover</div>
 									</div>
 								</td>
 							 </tr>
-							 
+
 							 <tr>
-								<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>                
+								<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>
 							 </tr>
 						</table>
 					</td>
 				</tr>
-				
+
 				</form>
-				 
+
 				<%
 				RS_Lotes.MoveNext
 				iNow = iNow + 1
@@ -357,37 +363,44 @@ function changeLote(formNow,action){
 				RS_Lotes.Close
 			End If
 			%>
-			
-			
-			 
+
+
+
 			 <tr>
 				<td height="30" class="titulo_menu_site_bts">
-					
-				</td>                
+
+				</td>
 				<td>
-					<div id="inc-lote" class="bt-a">Incluir Lote</div>	
+					<div id="inc-lote" class="bt-a">Incluir Lote</div>
 				</td>
 			 </tr>
-			 
+
 			<form id="cad-lote" name="cad-lote" method="post" action="metodos.asp">
 				<input type="hidden" class="id" name="id" value="<%=id%>">
 				<input type="hidden" class="acao" name="acao" value="insertLote">
-			
+
 			<tr>
 				<td colspan="2" width="510">
 					<table id="new-lote" width="510">
-					
+
 						<tr>
-							<td width="510" height="30" colspan="2" class="titulo_menu_site_bts">Novo Lote</td>                
+							<td width="510" height="30" colspan="2" class="titulo_menu_site_bts">Novo Lote</td>
 						</tr>
-						
+
+						<tr>
+							<td height="30" class="titulo_menu_site_bts">Série</td>
+							<td class="t_arial fs11px bold c_vermelho">
+							  <input name="serie_lote" id="serie_lote" type="text" size="12" class="admin_txtfield_login" value="">
+							</td>
+						 </tr>
+
 						<tr>
 							<td height="30" class="titulo_menu_site_bts">Valor do Lote</td>
 							<td class="t_arial fs11px bold c_vermelho">
 							  R$ <input name="val_lote" id="val_lote" type="text" size="6" class="admin_txtfield_login" value="">
 							</td>
 						 </tr>
-						 
+
 						 <tr>
 							<td height="30" class="titulo_menu_site_bts">Início do Lote</td>
 							<td class="t_arial fs11px bold c_vermelho">
@@ -395,7 +408,7 @@ function changeLote(formNow,action){
 							  <img src="/admin/images/img_calendario.gif" id="cal-ini-lote" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('cad-lote').data_ini_lote,'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
 							</td>
 						 </tr>
-						 
+
 						 <tr>
 							<td height="30" class="titulo_menu_site_bts">Término do Lote</td>
 							<td class="t_arial fs11px bold c_vermelho">
@@ -403,27 +416,27 @@ function changeLote(formNow,action){
 							  <img src="/admin/images/img_calendario.gif" id="cal-fim-lote" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('cad-lote').data_fim_lote,'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
 							</td>
 						 </tr>
-						 
+
 						 <tr>
 							<td height="30" class="titulo_menu_site_bts">
-								
-							</td>                
+
+							</td>
 							<td>
-								<div class="bt-a" onclick="valida_lote()">Salvar</div>	
+								<div class="bt-a" onclick="valida_lote()">Salvar</div>
 							</td>
 						 </tr>
-						 
+
 						 <tr>
-							<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>                
+							<td height="30" colspan="2" class="titulo_menu_site_bts"> <hr /> </td>
 						 </tr>
 					</table>
 				</td>
 			</tr>
-			 
-			
-			</form>	
-			
-			
+
+
+			</form>
+
+
           </table></td>
           <td background="/admin/images/caixa/dir.gif"><img src="/admin/images/caixa/spacer.gif" width="14" height="12" /></td>
         </tr>

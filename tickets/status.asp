@@ -669,7 +669,7 @@ function Detalhes_Compra(ID){
                                     <tr bgcolor="FFFFFF">
                                         <td width="130" style="padding: 5px; width: 130px; text-align: left"><%=RS_Lista_Pedidos("Numero_Pedido")%></td>
                                         <td width="270" style="padding: 5px; text-align: center;"><%=Tickets%></td>
-                                        <td width="80" style="padding: 5px; width: 80px; text-align: center"><%If Cint(RS_Lista_Pedidos("ID_Idioma")) = 1 Then Response.Write("R$ ")%><%=FormatNumber(Valor_Pedido_Total,2)%></td>
+                                        <td width="80" style="padding: 5px; width: 80px; text-align: center"><%If Cint(RS_Lista_Pedidos("ID_Idioma")) = 1 Then Response.Write("R$ ")%><%=FormatNumber(RS_Lista_Pedidos("Valor_Pedido"),2)%></td>
                                         <td width="100" style="padding: 5px; width: 100px; text-align: center">
                                             <%If Browser = True Then%>
                                             <a href="#detalhes" onclick="Detalhes_Compra(<%=RS_Lista_Pedidos("ID_Pedido")%>)"><img src="/img/geral/icones/lupa.png" width="30" title="Detalhes da Compra" alt="Detalhes da Compra"/></a> &nbsp;
