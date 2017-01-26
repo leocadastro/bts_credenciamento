@@ -51,7 +51,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 
 	'// Monta a string SQL
 	strSQL = "SELECT pe.Numero_Pedido, vc.ID_Visitante, v2.CPF AS 'CPF_Comprador', vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
-	strSQL = strSQL + "ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Numero_Transacao "
+	strSQL = strSQL + "ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Codigo_Paypal "
 	strSQL = strSQL + "from pedidos pe "
 	strSQL = strSQL + "left join Pedidos_Historico ph on pe.Numero_Pedido = ph.Numero_Pedido  and (ph.codigo_autorizacao = 'SUCCESS' or ph.codigo_autorizacao = 'SUCCESSWITHWARNING') "
 	strSQL = strSQL + "inner join Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
@@ -62,7 +62,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	strSQL = strSQL + "	and pe.Numero_Pedido <> '' "
 	strSQL = strSQL + "	and pe.Valor_Pedido > 0 And Pe.Status_Pedido " & status & " "
 	strSQL = strSQL + "GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
-	strSQL = strSQL + "	ph.data_pagamento, ps.Status_PTB, ph.Numero_Transacao, v2.CPF "
+	strSQL = strSQL + "	ph.data_pagamento, ps.Status_PTB, ph.Codigo_Paypal, v2.CPF "
 	strSQL = strSQL + "order by ph.data_pagamento "
 
 	'Response.Write strSQL
@@ -137,7 +137,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 			Response.Write("<td style=""mso-number-format:'0\.00'"">" & objRetorno("Valor_Pedido") & "</td>")
 			Response.Write("<td>" & objRetorno("Data_Pedido") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Status_PTB") & "</td>")
-			Response.Write("<td nowrap>" & objRetorno("Numero_Transacao") & "</td>")
+			Response.Write("<td nowrap>" & objRetorno("Codigo_Paypal") & "</td>")
 			Response.Write("<td>-</td>")
 			Response.Write("</tr>")
 
