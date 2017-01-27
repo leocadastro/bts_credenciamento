@@ -22,9 +22,9 @@ paymentType = "Sale"
 '
 ' This is set to the value entered on the Integration Assistant
 '------------------------------------
-'returnURL = "HTTP://credenciamento.btsinforma.com.br/tickets/retorno.asp"
+returnURL = "HTTP://credenciamento.btsinforma.com.br/tickets/retorno.asp"
 'returnURL = "HTTP://ws.homologabts.com.br/tickets/retorno.asp"
-returnURL = "http://localhost:81/tickets/retorno.asp"
+'returnURL = "http://localhost:81/tickets/retorno.asp"
 
 '------------------------------------
 ' The cancelURL is the location buyers are sent to when they click the
@@ -33,9 +33,9 @@ returnURL = "http://localhost:81/tickets/retorno.asp"
 '
 ' This is set to the value entered on the Integration Assistant
 '------------------------------------
-'cancelURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/cancelar.asp"
+cancelURL = "HTTP://credenciamento.btsinforma.com.br/tickets/cancelar.asp"
 'cancelURL = "HTTP://ws.homologabts.com.br/tickets/cancelar.asp"
-cancelURL = "http://localhost:81/tickets/pagamento.asp"
+'cancelURL = "http://localhost:81/tickets/pagamento.asp"
 
 '------------------------------------
 ' Calls the SetExpressCheckout API call
@@ -78,17 +78,21 @@ Set Conexao = Server.CreateObject("ADODB.Connection")
 Conexao.Open Application("cnn")
 '==================================================
 
+numero_Ped 		= "ABF-" & session("Numero_Pedido")
+
 SQL_Historico_Pedido = 	"INSERT INTO Pedidos_Historico " &_
 						"   (Numero_Pedido " &_
 						"   ,Status_Pagamento " &_
 						"   ,Numero_Transacao " &_
 						"   ,Codigo_Autorizacao " &_
+						"   ,Codigo_Paypal " &_
 						"   ,Retorno) " &_
 						"VALUES " &_
 						"   ('" & Limpar_Texto(session("Numero_Pedido")) & "' " &_
 						"   ,'" & Limpar_Texto(Status_Pagamento) & "' " &_
 						"   ,'" & Limpar_Texto(SESSION("token")) & " - " & Limpar_Texto(SESSION("PAYERID")) & "' " &_
 						"   ,'" & Limpar_Texto(ack2) & "' " &_
+						"   ,'" & Limpar_Texto(numero_Ped) & "' " &_
 						"   ,'" & ack2 & "')"
 'Response.Write("Retorno: " & SQL_Historico_Pedido & "<br>")
 

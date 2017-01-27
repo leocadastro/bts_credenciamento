@@ -34,8 +34,8 @@ paymentType = "Sale"
 '
 ' This is set to the value entered on the Integration Assistant
 '------------------------------------
-'returnURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/retorno.asp"
-returnURL = "http://localhost:81/tickets/retorno.asp"
+returnURL = "HTTP://CREdenciamento.btsinforma.com.br/tickets/retorno.asp"
+'returnURL = "http://localhost:81/tickets/retorno.asp"
 
 '------------------------------------
 ' The cancelURL is the location buyers are sent to when they click the
@@ -44,8 +44,8 @@ returnURL = "http://localhost:81/tickets/retorno.asp"
 '
 ' This is set to the value entered on the Integration Assistant
 '------------------------------------
-'cancelURL = "http://credenciamento.btsinforma.com.br/tickets/pagamento.asp"
-cancelURL = "http://localhost:81/tickets/pagamento.asp"
+cancelURL = "http://credenciamento.btsinforma.com.br/tickets/pagamento.asp"
+'cancelURL = "http://localhost:81/tickets/pagamento.asp"
 
 '------------------------------------
 ' Calls the SetExpressCheckout API call

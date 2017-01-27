@@ -302,11 +302,13 @@ if len(Session("cpf")) = 11  then
 		currCodeType	= SESSION("currencyCodeType")
 		paymentType		= SESSION("PaymentType")
 		payerID			= SESSION("PayerID")
+		numero_Ped 		= "ABF-" & session("Numero_Pedido")
 
 		nvpstr			=	"&" & Server.URLEncode("TOKEN") & "=" & Server.URLEncode(token) & "&" &_
 							Server.URLEncode("PAYERID")&"=" &Server.URLEncode(payerID) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_PAYMENTACTION")&"=" & Server.URLEncode(paymentType) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_AMT") &"=" & Server.URLEncode(finalPaymentAmount) & "&" &_
+							Server.URLEncode("PAYMENTREQUEST_0_CUSTOM") &"=" & Server.URLEncode(numero_Ped) & "&" &_
 							Server.URLEncode("PAYMENTREQUEST_0_CURRENCYCODE")& "=" &Server.URLEncode(currCodeType)
 
 		'-------------------------------------------------------------------------------------------
