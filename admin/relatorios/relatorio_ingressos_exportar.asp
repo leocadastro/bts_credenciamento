@@ -21,11 +21,11 @@
 	Response.Expires = -1
 	Response.Buffer = True
 
-	'// Define o tipo do arquivo que serï¿½ exportado
+	'// Define o tipo do arquivo que ser? exportado
 Response.ContentType = "application/vnd.ms-excel"
 Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo()
 
-	'// Declara as variï¿½veis
+	'// Declara as vari?veis
 	Dim objConexao, objRetorno
 	Dim ID_Pedido_Status
 	Dim Ano_Pedido
@@ -51,24 +51,25 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 
 	'// Monta a string SQL
 	strSQL = "SELECT pe.Numero_Pedido, vc.ID_Visitante, v2.CPF AS 'CPF_Comprador', vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
-	strSQL = strSQL + "ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Codigo_Paypal "
+	strSQL = strSQL + "ps.Status_PTB as Status_PTB, COUNT(pc.ID_Carrinho) AS Ingressos, ph.Codigo_Paypal, EL.Nome as NomeLote "
 	strSQL = strSQL + "from pedidos pe "
 	strSQL = strSQL + "left join Pedidos_Historico ph on pe.Numero_Pedido = ph.Numero_Pedido  and (ph.codigo_autorizacao = 'SUCCESS' or ph.codigo_autorizacao = 'SUCCESSWITHWARNING') "
 	strSQL = strSQL + "inner join Pedidos_Carrinho pc on pc.ID_Pedido = pe.ID_Pedido "
 	strSQL = strSQL + "inner join Visitantes Vc on Vc.ID_Visitante = pc.id_visitante "
 	strSQL = strSQL + "inner join Pedidos_Status ps on pe.Status_Pedido = ps.ID_Pedido_Status "
 	strSQL = strSQL + "inner join Visitantes v2 on v2.ID_Visitante = pe.ID_Visitante "
+	strSQL = strSQL + "inner join Edicoes_Lote EL on EL.ID_Edicao = pe.ID_Edicao And pe.Data_Pedido between EL.Data_Inicio And EL.Data_Fim "
 	strSQL = strSQL + "where pe.ID_Edicao = 60 "
-	strSQL = strSQL + "	and pe.Numero_Pedido <> '' "
+	strSQL = strSQL + "	and pe.Numero_Pedido <> '' And EL.Ativo = 1 "
 	strSQL = strSQL + "	and pe.Valor_Pedido > 0 And Pe.Status_Pedido " & status & " "
 	strSQL = strSQL + "GROUP BY pe.Numero_Pedido, vc.ID_Visitante, vc.Nome_Completo, vc.Nome_Credencial, vc.CPF, vc.Email, pe.Valor_Pedido, pe.Data_Pedido, "
-	strSQL = strSQL + "	ph.data_pagamento, ps.Status_PTB, ph.Codigo_Paypal, v2.CPF "
+	strSQL = strSQL + "	ph.data_pagamento, ps.Status_PTB, ph.Codigo_Paypal, v2.CPF, EL.Nome "
 	strSQL = strSQL + "order by ph.data_pagamento "
 
 	'Response.Write strSQL
 	'Response.End
 
-	'// Abre a conexï¿½o com o banco e executa a string SQL
+	'// Abre a conex?o com o banco e executa a string SQL
 	'Set objConexao = Server.CreateObject("ADODB.Connection")
 	'objConexao.Open Application("cnn")
 
@@ -96,10 +97,10 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	'response.end
 
 	If Not objRetorno.EOF Then
-		'// Monta as colunas de header do documentoï¿½
+		'// Monta as colunas de header do documento?
 		Response.Write("<table border=1>")
 		Response.Write("<tr>")
-		Response.Write("<th>N&uacute;mero do Pedido</th>")
+		Response.Write("<th>Número do Pedido</th>")
 		Response.Write("<th>ID Visitante</th>")
 		Response.Write("<th>CPF Comprador</th>")
 		Response.Write("<th>Nome</th>")
@@ -138,7 +139,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 			Response.Write("<td>" & objRetorno("Data_Pedido") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Status_PTB") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Codigo_Paypal") & "</td>")
-			Response.Write("<td>-</td>")
+			Response.Write("<td>" & objRetorno("NomeLote") & "</td>")
 			Response.Write("</tr>")
 
 			objRetorno.MoveNext()
@@ -155,7 +156,7 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	'Set objConexao = Nothing
 	Set objRetorno = Nothing
 
-	'// Funï¿½ï¿½o para gerar o nome o arquivo com a hora atual
+	'// Fun??o para gerar o nome o arquivo com a hora atual
 	Function NomeArquivo()
 		Dim dia, mes, ano, hora, minuto, segundo
 		Dim textoHorario
