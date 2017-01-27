@@ -48,8 +48,8 @@ If Request("DC") <> "" Then
 
 	session("teste_paypal") = false
 
-	'Id_Visitante = ConsultarWS(Request("DC"))
-	Id_Visitante = 368340
+	Id_Visitante = ConsultarWS(Request("DC"))
+	'Id_Visitante = 368340
 End If
 
 '==================================================
