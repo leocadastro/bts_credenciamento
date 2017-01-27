@@ -67,6 +67,8 @@
 					nascimento = Left(Node.childNodes(6).Text, 10)
 				end if
 
+				NomeCompleto = Node.childNodes(3).Text + " " + Node.childNodes(4).Text
+
 				'Response.Write nascimento
 				'Response.End
 
