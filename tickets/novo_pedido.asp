@@ -521,10 +521,12 @@ $(document).ready(function(){
                 <%
                   If Lote_Mudou <> "" Then
                 %>
-                  <div style="width: 575px; float: left; font-size: 11px; border-bottom: 1px dotted #999; font-size: 11px; padding: 5px 0 5px 5px; color: red;">
+								<!--
+								<div style="width: 575px; float: left; font-size: 11px; border-bottom: 1px dotted #999; font-size: 11px; padding: 5px 0 5px 5px; color: red;">
   									<font style="font-weight: 900;">Atenção: &nbsp;</font>
   									<span><%=Lote_Mudou%></span>
   								</div>
+								-->
                 <%
                   End If
                 %>
@@ -534,6 +536,67 @@ $(document).ready(function(){
                                 <%End If%>
 
 								<%If Erro = False Then%>
+								
+								<table width="575" cellpadding="5" style="text-align:left; margin-top:20px; float:left; background: #f5f5f5;">
+									
+									<tr>
+										<td width="250"><span style="font-size:16px; font-weight:900;">Lotes:</span></td>
+										<td></td>
+										<td></td>
+									</tr>
+									
+									<tr style="font-size:15px;">
+										<td><strong>Lote</strong></td>
+										<td><strong>Valor</strong></td>
+										<td><strong>Data de encerramento do lote</strong></td>
+									</tr>
+									
+									
+									<%
+									
+									iNow = 0
+									
+									SQL_Lotes = 	"Select * From Edicoes_Lote Where ID_Edicao = " & ID_Edicao & " AND Ativo = 1 Order by Data_Fim ASC"
+
+									Set RS_Lotes = Server.CreateObject("ADODB.Recordset")
+									RS_Lotes.Open SQL_Lotes, Conexao
+									
+									
+									If not RS_Lotes.BOF or not RS_Lotes.EOF Then
+										While not RS_Lotes.EOF
+
+										raw_hora_ini = RS_Lotes("Data_Inicio")
+										raw_hora_fim = RS_Lotes("Data_Fim")
+
+										hora_ini_n 	= Replace(Left(raw_hora_ini,10),"/",".")
+										hora_fim_n 	= Replace(Left(raw_hora_fim,10),"/",".")
+										
+										hora_ini_t = Left(Right(raw_hora_ini,8),5)
+										hora_fim_t = Left(Right(raw_hora_fim,8),5)
+										
+										prec_lote = FormatNumber(RS_Lotes("Valor"),2)
+
+									%>
+									
+									<tr <%If iNow mod 2 = 0 Then %> style="background:#fff;" <%End If%>>
+										<td><strong><%=RS_Lotes("Nome")%></strong></td>
+										<td><strong>R$ <%=prec_lote%></strong></td>
+										<td><strong><%=hora_fim_n%> às <%=hora_fim_t%> </strong></td>
+									</tr>
+									
+									<%
+										RS_Lotes.MoveNext
+										iNow = iNow + 1
+										Wend
+										RS_Lotes.Close
+									End If
+									%>
+									
+									
+									
+								</table>
+								
+								
                                 <div style="float: left; width: 100%">
 									<a href="#finalizar_pedido" onclick="ConfirmarCompra()"><div class="bt_fechar_pedido" style="float: right">Concluir a compra</div></a>
 								</div>
