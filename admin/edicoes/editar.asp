@@ -78,7 +78,7 @@ Conexao.Open Application("cnn")
 <html>
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
-<title>Administração Cred. 2012</title>
+<title>Administração Cred. 2017</title>
 <link href="/admin/css/bts.css" rel="stylesheet" type="text/css" />
 <link href="/admin/css/admin.css" rel="stylesheet" type="text/css" />
 <link href="/css/calendar.css" rel="stylesheet" type="text/css" media="screen">
@@ -94,6 +94,9 @@ Conexao.Open Application("cnn")
 $(document).ready(function(){
 	$('#hora_ini').mask("99:99",{placeholder:"_"});
 	$('#hora_fim').mask("99:99",{placeholder:"_"});
+	$('.hora-ini').mask("99:99",{placeholder:"_"});
+	$('.hora-fim').mask("99:99",{placeholder:"_"});
+	
 	$('#aviso').hide();
 	<%
 	If msg = "" AND Session("admin_msg") <> "" Then msg = Session("admin_msg")
@@ -231,7 +234,7 @@ function changeLote(formNow,action){
                 </td>
               </tr>
               <tr>
-                <td height="30" class="titulo_menu_site_bts">In&iacute;cio da Feira</td>
+                <td height="30" class="titulo_menu_site_bts">Início da Feira</td>
                 <td class="t_arial fs11px bold c_vermelho">
                   <input name="data_ini" id="data_ini" type="text" size="12" class="admin_txtfield_login" readonly value="<%=data_ini%>">
                   <img src="/admin/images/img_calendario.gif" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.forms[0].data_ini,'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
@@ -288,9 +291,11 @@ function changeLote(formNow,action){
 				raw_hora_ini = RS_Lotes("Data_Inicio")
 				raw_hora_fim = RS_Lotes("Data_Fim")
 
-
 				hora_ini_n 	= Replace(Left(raw_hora_ini,10),"/",".")
 				hora_fim_n 	= Replace(Left(raw_hora_fim,10),"/",".")
+				
+				hora_ini_t = Left(Right(raw_hora_ini,8),5)
+				hora_fim_t = Left(Right(raw_hora_fim,8),5)
 
 				%>
 
@@ -324,6 +329,7 @@ function changeLote(formNow,action){
 								<td class="t_arial fs11px bold c_vermelho">
 								  <input name="data_ini_lote" id="data_ini_lote<%=iNow%>" type="text" size="12" class="admin_txtfield_login" readonly value="<%=hora_ini_n%>">
 								  <img src="/admin/images/img_calendario.gif" id="cal-ini-lote<%=iNow%>" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('data_ini_lote<%=iNow%>'),'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
+								  às <input name="hora_ini" type="text" size="6" class="admin_txtfield_login hora-ini" value="<%=hora_ini_t%>">
 								</td>
 							 </tr>
 
@@ -332,6 +338,7 @@ function changeLote(formNow,action){
 								<td class="t_arial fs11px bold c_vermelho">
 								  <input name="data_fim_lote" id="data_fim_lote<%=iNow%>" type="text" size="12" class="admin_txtfield_login" readonly value="<%=hora_fim_n%>">
 								  <img src="/admin/images/img_calendario.gif" id="cal-fim-lote" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('data_fim_lote<%=iNow%>'),'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
+								  às <input name="hora_fim" type="text" size="6" class="admin_txtfield_login hora-fim" value="<%=hora_fim_t%>">
 								</td>
 							 </tr>
 
@@ -406,6 +413,7 @@ function changeLote(formNow,action){
 							<td class="t_arial fs11px bold c_vermelho">
 							  <input name="data_ini_lote" id="data_ini_lote" type="text" size="12" class="admin_txtfield_login" readonly value="">
 							  <img src="/admin/images/img_calendario.gif" id="cal-ini-lote" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('cad-lote').data_ini_lote,'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
+							  às <input name="hora_ini" type="text" size="6" class="admin_txtfield_login hora-ini" value="">
 							</td>
 						 </tr>
 
@@ -414,6 +422,7 @@ function changeLote(formNow,action){
 							<td class="t_arial fs11px bold c_vermelho">
 							  <input name="data_fim_lote" id="data_fim_lote" type="text" size="12" class="admin_txtfield_login" readonly value="">
 							  <img src="/admin/images/img_calendario.gif" id="cal-fim-lote" width="28" height="24" border="0" align="absmiddle" onClick="displayCalendar(document.getElementById('cad-lote').data_fim_lote,'dd.mm.yyyy',this);" class="bt_aba" id="img_calendario1" />
+							  às <input name="hora_fim" type="text" size="6" class="admin_txtfield_login hora-fim" value="">
 							</td>
 						 </tr>
 

@@ -130,17 +130,18 @@ Select Case Acao
 	data_fim 	= Limpar_Texto(Request("data_fim_lote"))
 	valor_lote 	= Limpar_Texto(Replace(Request("val_lote"),",","."))
 	serie_lote 	= Limpar_Texto(Request("serie_lote"))
+	hora_ini 	= Limpar_Texto(Request("hora_ini"))
+	hora_fim 	= Limpar_Texto(Request("hora_fim"))
 
 	dia = Left(data_ini, 2)
 	mes = Mid(data_ini, 4, 2)
 	ano = Right(data_ini, 4)
-	inicio 	= "'" & ano & "-" & mes & "-" & dia & "'"
+	inicio 	= "'" & ano & "-" & mes & "-" & dia & " " & hora_ini & "'"
 
 	diaf = Left(data_fim, 2)
 	mesf = Mid(data_fim, 4, 2)
 	anof = Right(data_fim, 4)
-	fim 	= "'" & anof & "-" & mesf & "-" & diaf & "'"
-
+	fim 	= "'" & anof & "-" & mesf & "-" & diaf & " " & hora_fim & "'"	
 
 	SQL_Update = 	"Update Edicoes_Lote " &_
 					"Set " &_
@@ -206,16 +207,18 @@ Select Case Acao
 	data_fim 	= Limpar_Texto(Request("data_fim_lote"))
 	valor_lote 	= Limpar_Texto(Replace(Request("val_lote"),",","."))
 	serie_lote 	= Limpar_Texto(Request("serie_lote"))
+	hora_ini 	= Limpar_Texto(Request("hora_ini"))
+	hora_fim 	= Limpar_Texto(Request("hora_fim"))
 
 	dia = Left(data_ini, 2)
 	mes = Mid(data_ini, 4, 2)
 	ano = Right(data_ini, 4)
-	inicio 	= "'" & ano & "-" & mes & "-" & dia & "'"
+	inicio 	= "'" & ano & "-" & mes & "-" & dia & " " & hora_ini & "'"
 
 	diaf = Left(data_fim, 2)
 	mesf = Mid(data_fim, 4, 2)
 	anof = Right(data_fim, 4)
-	fim 	= "'" & anof & "-" & mesf & "-" & diaf & "'"
+	fim 	= "'" & anof & "-" & mesf & "-" & diaf & " " & hora_fim & "'"
 
 	SQL_Inserir = 	"Insert Into Edicoes_Lote " &_
 					"(ID_Edicao, Data_Inicio, Data_Fim, Ativo, Valor, Nome,  Data_Cadastro) " &_
