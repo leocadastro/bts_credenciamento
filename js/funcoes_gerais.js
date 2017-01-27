@@ -16,12 +16,12 @@ $(document).ready(function(){
 		// alert ( $('select[name="frmRamo"] option:selected').text() );
 		RamoComplemento();
 	});
-	
+
 	// verifica se o item outros estava clicado qdo re-carregou a página
 	/*$('select[name=frmRamo]').each(function() {
 		// se for OUTROS
 		texto = $("select[name=frmRamo] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoRamoOn(true);
 		} else {
@@ -37,10 +37,10 @@ $(document).ready(function(){
 		// se for OUTROS
 		//alert ($("select[name=frmCargo] option:selected").text());
 		texto = $("select[name=frmCargo] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoCargoOn(true);
-			
+
 		} else {
 			TipoCargoOn(false);
 			var valor = $("select[name=frmCargo] option:selected").val();
@@ -53,7 +53,7 @@ $(document).ready(function(){
 	$('select[name=frmCargo]').each(function() {
 		// se for OUTROS
 		texto = $("select[name=frmCargo] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoCargoOn(true);
 		} else {
@@ -69,7 +69,7 @@ $(document).ready(function(){
 	$('#frmSubCargo').change(function() {
 		// se for OUTROS
 		texto = $("select[name=frmSubCargo] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoSubCargoOn(true);
 		} else {
@@ -80,7 +80,7 @@ $(document).ready(function(){
 	$('select[name=frmSubCargo]').each(function() {
 		// se for OUTROS
 		texto = $("select[name=frmSubCargo] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoSubCargoOn(true);
 		} else {
@@ -93,7 +93,7 @@ $(document).ready(function(){
 		// se for OUTROS
 		//alert ($("select[name=frmCargo] option:selected").text());
 		texto = $("select[name=frmDepto] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoDeptoOn(true);
 		} else {
@@ -104,7 +104,7 @@ $(document).ready(function(){
 	$('select[name=frmDepto]').each(function() {
 		// se for OUTROS
 		texto = $("select[name=frmDepto] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 		if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 			TipoDeptoOn(true);
 		} else {
@@ -118,14 +118,14 @@ if (idioma_atual != "1") {
 	$('#frmPais').change(function() {
 		// se for Brasil
 		texto = $("select[name=frmPais] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 
 		if (nome == 'Brasil' || nome == 'Brazil') {
 
-			$.getJSON("/scripts/metodo_busca_estados.asp", function(data,textStatus){   
+			$.getJSON("/scripts/metodo_busca_estados.asp", function(data,textStatus){
 				if (data.Resultado == '1') {
 					var listItems = '<option value="-">-- ' + select + ' --</option>';
-				
+
 					for (var i = 0; i < data.Estados.length; i++) {
 						listItems += "<option sigla='" + data.Estados[i].sigla + "' value='" + data.Estados[i].id + "'>" + data.Estados[i].nome + "</option>";
 					}
@@ -133,16 +133,16 @@ if (idioma_atual != "1") {
 					$("#frmEstado").hide();
 					$("#frmEstado").fadeIn();
 					$("#frmEstado").html(listItems);
-				} 
-			}); 
+				}
+			});
 		} else {
 			// Quando nao for Brasil Voltar para Exterior
 			var listItems = '<option value="28" selected>' + msg_estado + '</option>';
 
 			$("#frmEstado").hide();
 			$("#frmEstado").fadeIn();
-			$("#frmEstado").html(listItems);			
-		}		
+			$("#frmEstado").html(listItems);
+		}
 	});
 }
 
@@ -151,7 +151,7 @@ if (idioma_atual == "1") {
 	$('#frmPais').change(function() {
 		// se for Brasil
 		texto = $("select[name=frmPais] option:selected").text();
-		nome = jQuery.trim(texto);	
+		nome = jQuery.trim(texto);
 
 		if (nome != 'Brasil') {
 
@@ -163,10 +163,10 @@ if (idioma_atual == "1") {
 
 		} else {
 
-			$.getJSON("/scripts/metodo_busca_estados.asp", function(data,textStatus){   
+			$.getJSON("/scripts/metodo_busca_estados.asp", function(data,textStatus){
 				if (data.Resultado == '1') {
 					var listItems = '<option value="-">-- ' + select + ' --</option>';
-				
+
 					for (var i = 0; i < data.Estados.length; i++) {
 						listItems += "<option sigla='" + data.Estados[i].sigla + "' value='" + data.Estados[i].id + "'>" + data.Estados[i].nome + "</option>";
 					}
@@ -174,8 +174,8 @@ if (idioma_atual == "1") {
 					$("#frmEstado").hide();
 					$("#frmEstado").fadeIn();
 					$("#frmEstado").html(listItems);
-				} 
-			}); 
+				}
+			});
 
 		}
 	});
@@ -187,13 +187,13 @@ if (idioma_atual == "1") {
 // Checar Ramo se Possui Complemento
 function RamoComplemento () {
 	texto = $("select[name=frmRamo] option:selected").text();
-	nome = jQuery.trim(texto);	
+	nome = jQuery.trim(texto);
 	if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 		TipoRamoOn(true);
 	} else {
 		var complemento = $('select[name="frmRamo"] option:selected').attr('complemento').toLowerCase();
 		if (complemento == 'true') { TipoRamoOn(true) } else { TipoRamoOn(false) }
-	}	
+	}
 }
 
 // Verificando campos para aceitarem somente numeros
@@ -258,8 +258,8 @@ function TipoTelefoneEmpresa(Tipo) {
 }
 
 // Buscar CNPJ
-function getCadastroCNPJ() {  
-	// Se o campo CNPJ não estiver vazio  
+function getCadastroCNPJ() {
+	// Se o campo CNPJ não estiver vazio
 	var valor_cnpj = $("#frmCNPJ").val();
 	$('#loading').fadeIn();
 
@@ -282,13 +282,13 @@ function getCadastroCNPJ() {
 		var valor_cnpj_consultado = valor_cnpj;
 
 		//$('#bt_busca_cnpj').fadeOut();
-		$.getJSON("/scripts/metodo_busca_cnpj.asp?cnpj=" + $("#frmCNPJ").val(), function(data,textStatus){  
-			//Se o resultado for igual a 1  
+		$.getJSON("/scripts/metodo_busca_cnpj.asp?cnpj=" + $("#frmCNPJ").val(), function(data,textStatus){
+			//Se o resultado for igual a 1
 
 			if (data.Resultado == '0') {
 				$("#id_empresa").val('');
 				$("#origem_cnpj").val('');
-				$("#frmRazao").val('');		
+				$("#frmRazao").val('');
 				$("#frmFantasia").val('');
 				$("#frmSigla").val('');
 				$("#frmResp").val('');
@@ -311,7 +311,7 @@ function getCadastroCNPJ() {
 				//alert(unescape(data.ResultadoTXT));
 				//alert(aviso_doc_pf);
 				jAlert(aviso_doc_pf,aviso_titulo);
-				
+
 				/* ***********************************************************************************/
 				// Apagar todos LI se Existirem Primeiro
 				$('#BoxListaRamos').html('');
@@ -328,7 +328,7 @@ function getCadastroCNPJ() {
 				// Dados de ORIGEM do Registro
 				$("#id_empresa").val(unescape(data.ID_Empresa));
 				$("#origem_cnpj").val(unescape(data.Banco));
-				
+
 				// Banco novo mas não se cadastrou como universidade
 				if (data.Banco == 'New' && data.Empresa_em_universidade == 'false') {
 					jAlert(aviso_msg,aviso_titulo);
@@ -343,17 +343,17 @@ function getCadastroCNPJ() {
 					jAlert("CNPJ cadastrado em <b>Universidades nesta Edição</b>! <br><br>Você será redirecionado à página para cadastro de alunos", aviso_titulo, retorno);
 					//window.top.document.location = '/alunos/';
 				}
-				
-				// troca o valor dos elementos  		
-				$("#frmRazao").val(unescape(data.Razao));		
+
+				// troca o valor dos elementos
+				$("#frmRazao").val(unescape(data.Razao));
 				$("#frmFantasia").val(unescape(data.Fantasia));
 				$('#nome_empresa').html($("#frmFantasia").val());
-				
+
 				$("#frmSigla").val(unescape(data.Fantasia));
 				if (data.Sigla != undefined) { $("#frmResp").val(unescape(data.Sigla)); }
 
 				$('#nome_empresa').html($("#frmSigla").val());
-				
+
 				$("#frmCEP").val(unescape(data.CEP));
 				$("#frmEndereco").val(unescape(data.Endereco));
 				$("#frmNumero").val(unescape(data.Numero));
@@ -363,13 +363,13 @@ function getCadastroCNPJ() {
 				$("select[name=frmEstado] option[sigla="+data.UF+"]").attr("selected","selected");
 				if (data.Pais != ''){ $("select[name=frmPais] option[sigla="+data.Pais+"]").attr("selected","selected"); }
 				$("#frmSite").val(unescape(data.Site));
-							
+
 				if (data.DDI1 != undefined) { $("#frmDDIEmpresa").val(unescape(data.DDI1)); }
 				if (data.DDD1 != undefined) { $("#frmDDDEmpresa").val(unescape(data.DDD1)); }
 				if (data.Fone1 != undefined) { $("#frmTelefoneEmpresa").val(unescape(data.Fone1)); }
-				if (data.Email != undefined) { $("#frmEmail").val(unescape(data.Email)); }	
+				if (data.Email != undefined) { $("#frmEmail").val(unescape(data.Email)); }
 				//alert(unescape(data.ResultadoTXT));
-				
+
 				// =======================================================================================================
 				//if (data.Produto != undefined) { $("#frmPriProdut").val(unescape(data.Produto)); }
 
@@ -386,16 +386,16 @@ function getCadastroCNPJ() {
 							produtos_cadastrados[produtos_cadastrados.length ++] = data.Produtos[y].Produto;
 						}
 						//if (data.Produto != undefined) { produtos_cadastrados[produtos_cadastrados.length ++] = data.Produto; }
-						
+
 						// Exibe produtos cadastrados previamente
 						if (produtos_cadastrados.length >= 0) {
-							
+
 							// Apagar todos LI se Existirem Primeiro
 							$('#ListaProdutosCadastrados').remove();
 							// Inserir nova UL
 							$('#TitulosListaProdutosCadastrados').append('<ul id="ListaProdutosCadastrados"></ul>');
 							$('#TitulosListaProdutosCadastrados').show();
-							
+
 							// Adicionar os novos
 							for (var x = 0; x < produtos_cadastrados.length ; x ++) {
 								$("#ListaProdutosCadastrados").append("<li>" + produtos_cadastrados[x] + "</li>");
@@ -405,10 +405,10 @@ function getCadastroCNPJ() {
 					} else {
 						$('#TitulosListaProdutosCadastrados').hide();
 					}
-					
+
 				}
 				// =======================================================================================================
-				
+
 				if (tp_formulario == 1 || tp_formulario == 2) {
 					if (data.Ramos != undefined) {
 						// Zerar Array antes de começar
@@ -428,12 +428,12 @@ function getCadastroCNPJ() {
 						// =========================================
 						// Exibe produtos cadastrados previamente
 						if (ramos_cadastrados.length >= 0) {
-							
+
 							// Apagar todos LI se Existirem Primeiro
 							$('#BoxListaRamos').html('');
 							// Inserir nova UL
 							$('#BoxListaRamos').append('<ul id="ListaRamosCadastrados"></ul>');
-							
+
 							// Adicionar os novos
 							for (var x = 0; x < ramos_cadastrados.length ; x ++) {
 								$("#ListaRamosCadastrados").append("<li>" + ramos_cadastrados[x] + "</li>");
@@ -447,8 +447,8 @@ function getCadastroCNPJ() {
 					}
 				}
 				// =======================================================================================================
-				
-			} 
+
+			}
 
 			$('#frmRazao').focus().select();
 			exibir('GrupoEmpresa');
@@ -457,7 +457,7 @@ function getCadastroCNPJ() {
 		$('#produtos_alterar').val('');
 	}
 	$('#loading').fadeOut();
-} 
+}
 
 function exibir(grupo) {
 	if (idioma_atual == 1){
@@ -480,7 +480,7 @@ function exibir(grupo) {
 				var empresa = 6;
 				break;
 		}
-		
+
 		if (grupo == 'Grupo1e2') {
 			for (i = 1; i <= total; i ++) {
 				$('#grupo' + i).show();
@@ -497,7 +497,7 @@ function exibir(grupo) {
 	}
 }
 function fechar(grupo) {
-	
+
 	if (idioma_atual == 1){
 		// Muda a quantidade por tipo de formulário
 		switch (tp_formulario) {
@@ -536,41 +536,41 @@ function fechar(grupo) {
 }
 
 // Buscar CPF
-function getCadastroCPF() {  
-	// Se o campo CPF não estiver vazio  
+function getCadastroCPF() {
+	// Se o campo CPF não estiver vazio
 	var cpf = $.trim($("#frmCPF").val());
 	var cpf = cpf.replace('_','');
-	
+
 	if (idioma_atual == 1) {
 		var cpf_validado = validarCPF(cpf);
 	} else {
-		var cpf_validado = true;	
+		var cpf_validado = true;
 	}
-	
+
 	if (cpf_validado) {
 		//alert("/scripts/metodo_busca_cpf.asp?cpf="+$("#frmCPF").val());
 		$('#bt_busca_cpf').fadeOut();
-		$.getJSON("/scripts/metodo_busca_cpf.asp?cpf=" + cpf, function(data,textStatus){  
-			// Se o resultado for igual a 1  
+		$.getJSON("/scripts/metodo_busca_cpf.asp?cpf=" + cpf, function(data,textStatus){
+			// Se o resultado for igual a 1
 			if (data.Resultado == '1') {
 				// Dados de ORIGEM do Registro
 				$("#id_visitante").val(unescape(data.ID_Visitante));
 				$("#origem_cpf").val(unescape(data.Banco));
-				
+
 				if (data.Banco == 'New') {
 					jAlert(aviso_msg,aviso_titulo);
 				}
-				
-				// troca o valor dos elementos  
+
+				// troca o valor dos elementos
 				$("#frmNome").val(unescape(data.NomeF));
 				$("#frmNmCracha").val(unescape(data.NomeCredencialF));
 				$("#frmDtNasc").val(unescape(data.DTNasc));
-				
+
 				$("select[name=frmCargo] option[sigla="+data.Cargo+"]").attr("selected","selected");
 				$("select[name=frmDepto] option[sigla="+data.Departamento+"]").attr("selected","selected");
-				
+
 				if (data.DepartamentoOutros) {
-					$("#frmDeptoOutros").val(unescape(data.DepartamentoOutros));	
+					$("#frmDeptoOutros").val(unescape(data.DepartamentoOutros));
 				}
 				if (data.CargoOutros) {
 					$("#frmCargoOutros").val(unescape(data.CargoOutros));
@@ -580,7 +580,7 @@ function getCadastroCPF() {
 				$('select[name=frmCargo]').each(function() {
 					// se for OUTROS
 					texto = $("select[name=frmCargo] option:selected").text();
-					nome = jQuery.trim(texto);	
+					nome = jQuery.trim(texto);
 					if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 						TipoCargoOn(true);
 					} else {
@@ -596,7 +596,7 @@ function getCadastroCPF() {
 				$('select[name=frmDepto]').each(function() {
 					// se for OUTROS
 					texto = $("select[name=frmDepto] option:selected").text();
-					nome = jQuery.trim(texto);	
+					nome = jQuery.trim(texto);
 					if (nome == 'Outros' || nome == 'Others' || nome == 'Otros' || nome == 'Otras Posiciones' || nome == 'OUTROS' || nome == 'OTHERS' || nome == 'Other Positions' || nome == 'OTROS') {
 						TipoDeptoOn(true);
 					} else {
@@ -625,14 +625,14 @@ function getCadastroCPF() {
 				//TipoTelefone2(data.ID_Tipo_Telefone2);
 				if (data.Ramal2) {
 					$("#frmRamal2").val(unescape(data.Ramal2));
-				}	
+				}
 				$("#frmEmail").val(unescape(data.Email));
 				$("#frmEmailConf").val('');
 				$("select[name=frmSexo] option[sigla="+data.Sexo+"]").attr("selected","selected");
 				//alert(unescape(data.ResultadoTXT));
-				
+
 				$('#texto_final').fadeIn();
-				
+
 				exibir('GrupoVisitante');
 			} else if (data.Resultado == '2') {
 				$("#frmCPF").val('');
@@ -653,7 +653,7 @@ function getCadastroCPF() {
 				//alert(aviso_doc_pf);
 				jAlert(aviso_doc_existe,aviso_titulo_existe);
 				//exibir('GrupoVisitante');
-			} else {  
+			} else {
 				$("#frmNome").val('');
 				$("#frmNmCracha").val('');
 				$("#frmDtNasc").val('');
@@ -673,42 +673,42 @@ function getCadastroCPF() {
 				exibir('GrupoVisitante');
 			}
 			$('#bt_busca_cpf').fadeIn();
-			
-		});  
+
+		});
 	}  else {
 		jAlert(aviso_msg_cpf_err,'Atenção');
 	}
-} 
+}
 
 // Buscar CEP
-function getEndereco() {  
-	// Se o campo CEP não estiver vazio  
-	if($.trim($("#frmCEP").val()) != ""){ 
-		
-		$.getScript("http://cep.republicavirtual.com.br/web_cep.php?formato=javascript&cep="+$("#frmCEP").val(), function(){  
-			// o getScript dá um eval no script, então é só ler!  
-			//Se o resultado for igual a 1  
-			if(resultadoCEP["resultado"] == 1){  
-				// troca o valor dos elementos  
-				$("#frmEndereco").val(unescape(resultadoCEP["tipo_logradouro"])+" "+unescape(resultadoCEP["logradouro"]));  
+function getEndereco() {
+	// Se o campo CEP não estiver vazio
+	if($.trim($("#frmCEP").val()) != ""){
+
+		$.getScript("http://cep.republicavirtual.com.br/web_cep.php?formato=javascript&cep="+$("#frmCEP").val(), function(){
+			// o getScript dá um eval no script, então é só ler!
+			//Se o resultado for igual a 1
+			if(resultadoCEP["resultado"] == 1){
+				// troca o valor dos elementos
+				$("#frmEndereco").val(unescape(resultadoCEP["tipo_logradouro"])+" "+unescape(resultadoCEP["logradouro"]));
 				$("#frmNumero").val('');
 				$("#frmComplemento").val('');
-				$("#frmBairro").val(unescape(resultadoCEP["bairro"]));  
-				$("#frmCidade").val(unescape(resultadoCEP["cidade"]));  
+				$("#frmBairro").val(unescape(resultadoCEP["bairro"]));
+				$("#frmCidade").val(unescape(resultadoCEP["cidade"]));
 				$("select[name=frmEstado] option[sigla="+resultadoCEP["uf"]+"]").attr("selected","selected");
 				//alert(unescape(resultadoCEP["resultado_txt"]))
-			}else{  
-				$("#frmEndereco").val('');  
+			}else{
+				$("#frmEndereco").val('');
 				$("#frmNumero").val('');
 				$("#frmComplemento").val('');
-				$("#frmBairro").val('');  
-				$("#frmCidade").val('');  
+				$("#frmBairro").val('');
+				$("#frmCidade").val('');
 				$("select[name=frmEstado] option[sigla='-']").attr("selected","selected");
-				jAlert("Endereço não encontrado","Atenção");  
-			}  
-		});  
-	}  
-} 
+				jAlert("Endereço não encontrado","Atenção");
+			}
+		});
+	}
+}
 
 
 function TipoRamoOn(selecionado) {
@@ -731,12 +731,12 @@ function TipoRamoOff() {
 	$('#frmOptRamoComplemento').hide();
 	$('#frmOptRamoComplemento').val('');
 	$("select[name=frmRamo] option[sigla='-']").attr("selected","selected");
-} 
+}
 
 // Buscar Atividade
 var atividade_existe = 'nao';
-function getAtividade(ID_Ramo) {  
-	$.getJSON("/scripts/metodo_busca_atividade.asp?ID_Ramo=" + ID_Ramo, function(data,textStatus){  
+function getAtividade(ID_Ramo) {
+	$.getJSON("/scripts/metodo_busca_atividade.asp?ID_Ramo=" + ID_Ramo, function(data,textStatus){
 		if (data.Resultado == '1') {
 			var listItems = '<option value="-" sigla="-">-- ' + select + ' --</option>';
 			for (var i = 0; i < data.Atividades.length; i++){
@@ -748,14 +748,14 @@ function getAtividade(ID_Ramo) {
 			$("#frmAtividadeOutros").val('');
 			$("#frmOptRamoOutros").val('');
 			atividade_existe = 'sim';
-		}else{  
+		}else{
 			$("#Atividade").hide();
 			$("#frmAtividade").html('');
 			$("#frmAtividadeOutros").val('');
 			$("#frmOptRamoOutros").val('');
 			atividade_existe = 'nao';
-		} 
-	});  
+		}
+	});
 }
 
 function TipoAtividadeOn(selecionado) {
@@ -768,7 +768,7 @@ function TipoAtividadeOn(selecionado) {
 	} else {
 		$('#FecharAtividadeOutros').hide();
 		$('#frmAtividadeOutros').hide();
-		$('#frmAtividade').show();	
+		$('#frmAtividade').show();
 		$("#frmAtividadeOutros").val('');
 		$("#frmOptRamoOutros").val('');
 	}
@@ -778,12 +778,12 @@ function TipoAtividadeOff() {
 	$('#frmAtividadeOutros').hide();
 	$('#frmAtividade').show();
 	$("select[name=frmAtividade] option[sigla='-']").attr("selected","selected");
-} 
+}
 
 // Buscar SubCargo
 var subcargo_existe = 'nao';
-function getSubCargo(ID_Cargo) {  
-	$.getJSON("/scripts/metodo_busca_subcargo.asp?ID_Cargo=" + ID_Cargo, function(data,textStatus){  
+function getSubCargo(ID_Cargo) {
+	$.getJSON("/scripts/metodo_busca_subcargo.asp?ID_Cargo=" + ID_Cargo, function(data,textStatus){
 		if (data.Resultado == '1') {
 			var listItems = '<option value="-" sigla="-">-- ' + select + ' --</option>';
 			for (var i = 0; i < data.SubCargos.length; i++){
@@ -795,13 +795,13 @@ function getSubCargo(ID_Cargo) {
 			$("#frmCargoOutros").val('');
 			$("#frmSubCargoOutros").val('');
 			subcargo_existe = 'sim';
-		}else{  
+		}else{
 			$("#SubCargo").hide();
 			$("#frmSubCargo").html('');
 			subcargo_existe = 'nao';
-		} 
-	});  
-} 
+		}
+	});
+}
 
 function TipoCargoOn(selecionado) {
 	if (selecionado == true) {
@@ -816,7 +816,7 @@ function TipoCargoOn(selecionado) {
 	} else {
 		$('#FecharCargoOutros').hide();
 		$('#frmCargoOutros').hide();
-		$('#frmCargo').show();	
+		$('#frmCargo').show();
 		$("#frmCargoOutros").val('');
 		$("#frmSubCargoOutros").val('');
 	}
@@ -826,7 +826,7 @@ function TipoCargoOff() {
 	$('#frmCargoOutros').hide();
 	$('#frmCargo').show();
 	$("select[name=frmCargo] option[sigla='-']").attr("selected","selected");
-} 
+}
 
 function TipoSubCargoOn(selecionado) {
 	if (selecionado == true) {
@@ -839,7 +839,7 @@ function TipoSubCargoOn(selecionado) {
 		$('#FecharSubCargoOutros').hide();
 		$('#frmSubCargoOutros').val('');
 		$('#frmSubCargoOutros').hide();
-		$('#frmSubCargo').show();	
+		$('#frmSubCargo').show();
 	}
 }
 function TipoSubCargoOff() {
@@ -848,8 +848,8 @@ function TipoSubCargoOff() {
 	$('#frmSubCargoOutros').hide();
 	$('#frmSubCargo').show();
 	$("select[name=frmSubCargo] option[sigla='-']").attr("selected","selected");
-} 
-	
+}
+
 function TipoDeptoOn(selecionado) {
 	if (selecionado == true) {
 		$('#frmDepto').hide();
@@ -859,7 +859,7 @@ function TipoDeptoOn(selecionado) {
 	} else {
 		$('#FecharDeptoOutros').hide();
 		$('#frmDeptoOutros').hide();
-		$('#frmDepto').show();		
+		$('#frmDepto').show();
 	}
 }
 function TipoDeptoOff() {
@@ -867,7 +867,7 @@ function TipoDeptoOff() {
 	$('#frmDeptoOutros').hide();
 	$('#frmDepto').show();
 	$("select[name=frmDepto] option[sigla='-']").attr("selected","selected");
-} 
+}
 
 function exec_duvida(qual, posicao, texto, efeito, tipo, largura) {
 	var exibir = texto;
@@ -885,10 +885,10 @@ function exec_duvida(qual, posicao, texto, efeito, tipo, largura) {
 		$('#duvida').css('left', posicao.left + 20);
 		$('#duvida').css('z-index', 99);
 		$('#texto').html(exibir);
-		if (efeito == undefined) { 
+		if (efeito == undefined) {
 			$('#duvida').show();
 		} else {
-			$('#duvida').fadeIn(); 
+			$('#duvida').fadeIn();
 		}
 	} else {
 		$('#tabela_duvida_invertida').css('width', width);
@@ -897,10 +897,10 @@ function exec_duvida(qual, posicao, texto, efeito, tipo, largura) {
 		$('#duvida_invertida').css('left', posicao.left - width);
 		$('#duvida').css('z-index', 99);
 		$('#texto_invertido').html(exibir);
-		if (efeito == undefined) { 
-			$('#duvida_invertida').show(); 
+		if (efeito == undefined) {
+			$('#duvida_invertida').show();
 		} else {
-			$('#duvida_invertida').fadeIn(); 
+			$('#duvida_invertida').fadeIn();
 		}
 	}
 }
@@ -917,14 +917,14 @@ function menu (qual, acao) {
 			break;
 		case 'out':
 //			$(qual).css( {'background-color':'#e4e5e6' } );
-			$(qual).css( {'background-color':'#ffffff' } );			
+			$(qual).css( {'background-color':'#ffffff' } );
 			break;
 	}
 }
 function homelink() {
 	var confirmacao = confirm('Voce esta deixando a sessao atual !\n\nDeseja continuar ?');
 	if (confirmacao) {
-			document.location = 'http://www.mbxeventos.net/aol3abf2016';
+			document.location = 'http://www.mbxeventos.net/AOLABF2017';
 	}
 }
 function sair() {
@@ -933,7 +933,7 @@ function sair() {
 	if (typeof idioma_atual != "undefined") {
 		if (idioma_atual == '1') {
 			titulo = 'Sair';
-			msg = 'Deseja fechar sua sess&atilde;o?';		
+			msg = 'Deseja fechar sua sess&atilde;o?';
 		} else if (idioma_atual == '2') {
 			titulo = 'Sa&iacute;da';
 			msg = '&iquest;Desea cerrar la sesi&oacute;n?';
@@ -943,13 +943,13 @@ function sair() {
 		}
 	} else {
 		titulo = 'Sair';
-		msg = 'Deseja fechar sua sess&atilde;o?';	
+		msg = 'Deseja fechar sua sess&atilde;o?';
 	}
 	jConfirm(msg, titulo, function(r) {
 		switch (r) {
 			case true:
 				//show_loading();
-				document.location = 'http://www.mbxeventos.net/aol3abf2016';
+				document.location = 'http://www.mbxeventos.net/AOLABF2017';
 				break;
 			case false:
 				break;
@@ -965,7 +965,7 @@ function cor_muito_clara(hexcolor, objeto){
 	if (yiq >= 170) {
 		$("#" + objeto).addClass('cor_cinza2');
 	} else {
-		$("#" + objeto).removeClass('cor_cinza2');	
+		$("#" + objeto).removeClass('cor_cinza2');
 	}
 }
 
@@ -981,8 +981,8 @@ function fecharJanela2(){
   window.close();
 
 }
-function CloseWindow() 
-{	window.location='http://www.mbxeventos.net/aol3abf2016';
+function CloseWindow()
+{	window.location='http://www.mbxeventos.net/AOLABF2017';
 }
 function checar(id, nome, form) {
 	if (nome != undefined) {
@@ -998,7 +998,7 @@ function checar(id, nome, form) {
 				}
 			}
 		// Se nao foi o item "nao" CLICADO
-		} else { 
+		} else {
 			//alert(id + ', ' + nome + ', ' + form + ', ' + $('input[name="' + form + '"]').length);
 			for (x = 0; x < $('input[name="' + form + '"]').length; x ++) {
 				var titulo = $('#' + form + '_' + x).html();

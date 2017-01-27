@@ -1,11 +1,11 @@
-<%@LANGUAGE="VBSCRIPT" CODEPAGE="65001"%> 
+<%@LANGUAGE="VBSCRIPT" CODEPAGE="65001"%>
 <!--#include virtual="/admin/inc/gravar_limpar_texto.asp"-->
 <%
 Response.Expires = -1
 Response.AddHeader "Cache-Control", "no-cache"
-Response.AddHeader "Pragma", "no-cache" 
-response.Charset = "utf-8" 
-response.ContentType = "text/html" 
+Response.AddHeader "Pragma", "no-cache"
+response.Charset = "utf-8"
+response.ContentType = "text/html"
 
 '=======================================================================
 Set Conexao = Server.CreateObject("ADODB.Connection")
@@ -26,7 +26,7 @@ if Session("aux") <> "1" Then
 	If Session("pedido") <> "" Then
 	    Response.Redirect("recuperar_confirmacao_pagamento.asp")
 	Else
-		response.Redirect("http://www.mbxeventos.net/aol3abf2016/")
+		response.Redirect("http://www.mbxeventos.net/AOLABF2017/")
 	End If
 End If
 
@@ -65,15 +65,15 @@ End If
 	Set RS_Edicoes_Configuracao = Server.CreateObject("ADODB.Recordset")
 	RS_Edicoes_Configuracao.CursorType = 0
 	RS_Edicoes_Configuracao.LockType = 1
-	RS_Edicoes_Configuracao.Open SQL_Edicoes_Configuracao, Conexao	
-	
+	RS_Edicoes_Configuracao.Open SQL_Edicoes_Configuracao, Conexao
+
 	Logo_email	= RS_Edicoes_Configuracao("Logo_Email")
 	Logo_box	= RS_Edicoes_Configuracao("Logo_Box")
 	Feira		= RS_Edicoes_Configuracao("Feira")
 	Ano			= RS_Edicoes_Configuracao("Ano")
 	RS_Edicoes_Configuracao.Close
-	
-	
+
+
 	SQL_Consulta_Pedidos =	"Select " &_
 							"	P.*, " &_
 							"	PH.* " &_
@@ -88,9 +88,9 @@ End If
 	'Response.End
 	Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 	RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-	
+
 	If Not RS_Consulta_Pedidos.Eof Then
-	
+
 		Tickets 			= True
 		Numero_Pedido 		= RS_Consulta_Pedidos("Numero_Pedido")
 		Numero_Transacao 	= RS_Consulta_Pedidos("Numero_Transacao")
@@ -144,7 +144,7 @@ End If
 	'Response.Write(CStr(Session("cliente_visitante")) <> CStr(ID_Visitante))
 
 	If CStr(Session("cliente_visitante")) <> CStr(ID_Visitante) Then
-	
+
 		SQL_Carrinho = 	"Select " &_
 						"	C.ID_Carrinho,  " &_
 						"	C.ID_Visitante,  " &_
@@ -158,7 +158,7 @@ End If
 						"Inner Join Visitantes As V On V.ID_Visitante = C.ID_Visitante " &_
 						"Inner Join Pedidos As P On P.ID_Pedido = C.ID_Pedido " &_
 						"Where " &_
-						"	P.Numero_Pedido = '" & Session("pedido") & "' "&_ 
+						"	P.Numero_Pedido = '" & Session("pedido") & "' "&_
 						"	And (P.ID_Visitante = '" & Session("cliente_visitante") & "' " &_
 						"	Or C.ID_Visitante = '" & Session("cliente_visitante") & "') " &_
 						"	And C.Cancelado = 0"
@@ -178,9 +178,9 @@ End If
 						"Where " &_
 						"	P.Numero_Pedido = '" & Session("pedido") & "' " &_
 						"	And C.Cancelado = 0"
-	
+
 	End if
-								
+
 	'Response.Write(SQL_Carrinho)
 
 	Set RS_Carrinho = Server.CreateObject("ADODB.Recordset")
@@ -218,7 +218,7 @@ End If
 - O ingresso é pessoal e intransferível, sendo obrigatória a apresentação do CPF para sua retirada.<br>
 - Não será permitida a entrada de pessoas trajando bermudas, camiseta regata e/ou chinelos.<br>
 - Proibida a entrada de menores de 16 anos desacompanhados.<br>
- 
+
 <br/>
 </div>
 </body>

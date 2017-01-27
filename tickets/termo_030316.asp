@@ -15,7 +15,7 @@
 <script language="javascript" src="/js/jquery-ui-1.8.7.core_eff-slide.js"></script>
 <script language="javascript" src="/js/jquery.alerts.js"></script>
 <script language="javascript" src="/js/jquery.screwdefaultbuttons.js"></script>
-<script language="javascript" src="/js/validar_forms.js"></script>	
+<script language="javascript" src="/js/validar_forms.js"></script>
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
 <script language="javascript" src="/js/tipos.js"></script>
 <!-- Script desta página -->
@@ -30,7 +30,7 @@ Conexao.Open Application("cnn")
 '==================================================
 
 If Session("cliente_edicao") = "" OR Session("cliente_idioma") = "" OR Session("cliente_logado") = "" or Session("cliente_visitante") = "" Then
-    response.Redirect("http://www.mbxeventos.net/aol3abf2016/")
+    response.Redirect("http://www.mbxeventos.net/AOLABF2017/")
 End If
 
 ID_Edicao               = Session("cliente_edicao")
@@ -56,7 +56,7 @@ CPF_Visitante           = Session("cliente_cpf")
 	End Select
 
 	Pagina_ID 	= 2
-	
+
 	SQL_Textos	=	" Select " &_
 					"	ID_Texto, " &_
 					"	ID_Tipo, " &_
@@ -70,7 +70,7 @@ CPF_Visitante           = Session("cliente_cpf")
 					" Order By Ordem "
 	Set RS_Textos = Server.CreateObject("ADODB.Recordset")
 	RS_Textos.Open SQL_Textos, Conexao
-	
+
 	If not RS_Textos.BOF or not RS_Textos.EOF Then
 		total_registros = 0
 		While not RS_Textos.EOF
@@ -92,7 +92,7 @@ CPF_Visitante           = Session("cliente_cpf")
 		RS_Textos.Close
 	End If
 
-	
+
 '	For i = Lbound(textos_array) to Ubound(textos_array)
 '		response.write("[ i: " & i & " ] [ ident: " & textos_array(i)(1) & " ]  [ txt: " & textos_array(i)(2) & " ]  [ img: " & textos_array(i)(3) & " ]<br>")
 '	Next
@@ -101,7 +101,7 @@ CPF_Visitante           = Session("cliente_cpf")
 <% If Limpar_texto(Request("teste")) = "s" Then %>
 	<!--#include virtual="/includes/exibir_array.asp"-->
 <% End IF
-	
+
 	' Select IMG Faixa
 	SQL_Img_Faixa 	=	"Select " &_
 						"	Img_Faixa " &_
@@ -114,7 +114,7 @@ CPF_Visitante           = Session("cliente_cpf")
 	RS_Img_Faixa.Open SQL_Img_Faixa, Conexao
 		img_faixa = RS_Img_Faixa("img_faixa")
 	RS_Img_Faixa.Close
-	
+
 	' Faixa TOPO
 	SQL_Faixa	= 	"Select " &_
 					"	Cor, " &_
@@ -127,12 +127,12 @@ CPF_Visitante           = Session("cliente_cpf")
 	RS_Faixa.CursorType = 0
 	RS_Faixa.LockType = 1
 	RS_Faixa.Open SQL_Faixa, Conexao
-		
+
 		faixa_cor	= RS_Faixa("cor")
 		faixa_logo	= RS_Faixa("logo_negativo")
 		faixa_fundo	= RS_Faixa("Faixa_Fundo")
 	RS_Faixa.Close
-	
+
 	' Select de Eventos
 	SQL_Evento	=	"SELECT " &_
 					"	Nome_" & SgIdioma & " AS Evento, " &_
@@ -142,24 +142,24 @@ CPF_Visitante           = Session("cliente_cpf")
 					"	Eventos_Edicoes as EE " &_
 					"ON EE.ID_Evento = E.ID_Evento " &_
 					"WHERE " &_
-					"	E.Ativo = 1 " &_ 
-					"	AND EE.ID_Edicao = " & ID_Edicao 
+					"	E.Ativo = 1 " &_
+					"	AND EE.ID_Edicao = " & ID_Edicao
 
 	Set RS_Evento = Server.CreateObject("ADODB.Recordset")
 	RS_Evento.CursorType = 0
 	RS_Evento.LockType = 1
 	RS_Evento.Open SQL_Evento, Conexao
-	
+
 	Evento = RS_Evento("Evento") & " " & RS_Evento("Ano")
 	Rs_Evento.Close
-	
-	
-	
-	
-	
+
+
+
+
+
 	'Após o comprovante, caso seja realizado, enviar o email de comprovante
 	Session("cliente_enviar_email") = 0
-	
+
 %>
 <script language="javascript">
 var idioma_atual 	= '<%=Session("cliente_idioma")%>';
@@ -244,14 +244,14 @@ $(document).ready(function(){
     <!-- Form Container -->
     <div id="contForm">
     <!-- Form -->
-    
+
             <!-- Alert error -->
             <div id="aviso_topo" class="fs_12px arial cor_cinza2">
             	<img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
                 &nbsp;<span id="txt_topo"><!--Por favor preencher corretamente os itens em destaque !--><%=textos_array(39)(2)%></span>
 			</div>
             <!-- End Alert error -->
-            
+
             <table width="850" border="0" cellpadding="0" cellspacing="0">
                 <tr>
                     <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b>Olá</b> <%=Nome_Visitante%></td>
@@ -266,44 +266,44 @@ $(document).ready(function(){
 										"	P.* " &_
 										"From " &_
 										"	Pedidos As P " &_
-										
+
 										"Where " &_
 										"	P.ID_Edicao = '" & Session("cliente_edicao") & "' " &_
 										"	And P.ID_Rel_Cadastro = '" & Session("cliente_cadastro") & "' " &_
 										"	And P.ID_Visitante = '" & Session("cliente_visitante")  & "' " &_
 										"	And P.Status_Pedido = 1"
 				'Response.Write(SQL_Consulta_Pedidos)
-				
+
 				Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 				RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-				
+
 				If Not RS_Consulta_Pedidos.Eof Then
-				
+
 					Tickets 		= True
 					Numero_Pedido 	= RS_Consulta_Pedidos("Numero_Pedido")
 					'Session("pedido") = RS_Lista_Pedidos("Numero_Pedido")
 					ID_Pedido 		= RS_Consulta_Pedidos("ID_Pedido")
 					Idioma_Pedido	= RS_Consulta_Pedidos("ID_Idioma")
 					Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
-					
-				
+
+
 				Else
-					
+
 					Tickets = False
-					
+
 				End If
 				%>
 
 				<!--#Include virtual="/tickets/menu_lateral.asp"-->
-                
+
         <form action="/tickets/pedido.asp?acao=novo" method="post" id="termos_condicoes" name="termos_condicoes" >
             <fieldset style="float: right; width: 580px;">
-            
+
 	            <input type="hidden" value="0" name="aceito" id="aceito">
 
             	<legend>Termos & Condições</legend>
 				<div id="parcAssis" class="div_parceria" style="width: 580px;">
-                
+
                 	<div style="width: 100%; height: 250px; overflow: auto; line-height: 150%">
 <strong>TERMOS E CONDIÇÕES</strong><br><br>
 Antes de finalizar sua compra conheça as políticas e condições de venda de Ingresso para o evento ABF Franchising Expo 2015:
@@ -322,7 +322,7 @@ Antes de finalizar sua compra conheça as políticas e condições de venda de I
 * Endereço para envio do documento escrito, em caso de pedido de estorno: <br>
 BTS INFORMA FEIRAS EVENTOS E EDITORA LTDA<br>
 Rua Bela Cintra, 967, Conj. 112-A – Cerqueira Cesar – São Paulo - SP<br>
-CEP: 01415-003 
+CEP: 01415-003
 <br><br>
 3.3. Em caso de cancelamento do evento por parte da Organização, o valor do ingresso será devolvido.
 <br><br>
@@ -334,7 +334,7 @@ CEP: 01415-003
 4.5. Ocorrendo à impossibilidade de entrega dos ingressos, por ausência de pessoa habilitada para o recebimento, não ocorrerá qualquer devolução de valores, sendo que o comprador está ciente das Condições Gerais deste.<br><br>
 <strong>5 - DAS CONDIÇÕES GERAIS DE USO</strong><br>
 5.1. Terceira idade: Pessoas com mais de 60 anos podem adquirir seus ingressos com desconto de 50% de acordo com o Estatuto do Idoso (Lei nº10.741/2003, cap V, art 23). Um terceiro poderá adquirir os ingressos mediante a apresentação do documento (original ou cópia) do idoso.
-<br><br>5.2. A meia-entrada somente será vendida na bilheteria do evento mediante apresentação do documento comprobatório pelo próprio cliente. 
+<br><br>5.2. A meia-entrada somente será vendida na bilheteria do evento mediante apresentação do documento comprobatório pelo próprio cliente.
 <br><br>5.3 Cada ingresso adquirido no valor de: R$ 60,00 com a compra antecipada pelo site ou R$ 70,00 na bilheteria durante a realização do evento, é válido para os 04 dias de feira.
 <br><br>5.4 Visando a proteção dos direitos dos clientes e de terceiros, caso ocorra à tentativa ou a efetiva utilização indevida dos serviços de conveniência de compra on-line de ingressos, a proprietária do evento poderá indicar os dados do cliente às autoridades públicas, aos serviços de proteção ao crédito, dentre outros, para início dos procedimentos legais e administrativos cabíveis.<br>
 Excluindo-se os casos de ato ilícito, a proprietária do evento se compromete a não divulgar, ceder, vender ou transferir a terceiros os dados pessoais fornecidos pelo cliente.
@@ -344,17 +344,17 @@ Excluindo-se os casos de ato ilícito, a proprietária do evento se compromete a
 <br><br>5.6 – Fica eleito o foro da Comarca de São Paulo, Estado de São Paulo, para dirimir quaisquer dúvidas oriundas do presente contrato, excluindo-se qualquer outro foro, por mais privilegiado que seja.
 
                     </div>
-                    
+
 					<br><br>
 
-					<a href="#_" onclick="aprovacao(0);"><div id="loader_2" class="bt_recusar_termo" style="float: left; display: block">Recusar</div></a>                    
-					<a href="#_" onclick="aprovacao(1);"><div id="loader_2" class="bt_aceitar_termo" style="float: right; display: block">Aprovar</div></a>   
-                    
+					<a href="#_" onclick="aprovacao(0);"><div id="loader_2" class="bt_recusar_termo" style="float: left; display: block">Recusar</div></a>
+					<a href="#_" onclick="aprovacao(1);"><div id="loader_2" class="bt_aceitar_termo" style="float: right; display: block">Aprovar</div></a>
+
                     <br>
                 </div>
             </fieldset>
             <br/>
-            
+
             <!-- Alert error -->
             <div id="aviso" class="fs_12px arial cor_cinza2" style="display:inline-table; margin-top:15px;">
             	<img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
@@ -364,18 +364,18 @@ Excluindo-se os casos de ato ilícito, a proprietária do evento se compromete a
         </form>
         <!-- Form End -->
 	</div>
-    
+
     <script language="javascript">
     	function aprovacao(termo){
-			
+
 			document.getElementById("aceito").value = termo;
 			document.getElementById("termos_condicoes").submit();
-			
+
 			}
     </script>
     <!-- End Form Container -->
 <table width="870" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr> 
+  <tr>
     <td width="547" height="50" colspan="3">&nbsp;</td>
   </tr>
 </table>

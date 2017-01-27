@@ -131,7 +131,7 @@ End If
 
 
 If Session("cliente_edicao") = "" OR Session("cliente_idioma") = "" OR Session("cliente_logado") = "" or Session("cliente_visitante") = "" Then
-  response.Redirect("http://www.mbxeventos.net/aol3abf2016/")
+  response.Redirect("http://www.mbxeventos.net/AOLABF2017/")
 End If
 
 

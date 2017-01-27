@@ -73,7 +73,7 @@ If Not RS_Consulta_Pedido. Eof Then
 	ID_Rel_Cadastro = RS_Consulta_Pedido("ID_Rel_Cadastro")
 	Retorno_Pedido	= RS_Consulta_Pedido("Retorno")
 	Aprovacao = RS_Consulta_Pedido("Status_Pagamento")
-										
+
 
 	SQL_Cadastro_Visitantes =	"Select " &_
 								"	RC.ID_Relacionamento_Cadastro as IRC " &_
@@ -98,7 +98,7 @@ If Not RS_Consulta_Pedido. Eof Then
 	'response.end
 	Set RS_Cadastro_Visitantes = Server.CreateObject("ADODB.Recordset")
 	RS_Cadastro_Visitantes.Open SQL_Cadastro_Visitantes, Conexao, 3, 3
-	
+
 	ID_Edicao               = RS_Cadastro_Visitantes("ID_Edicao")
 	ID_TP_Credenciamento    = RS_Cadastro_Visitantes("ID_Tipo_Credenciamento")
 	TP_Formulario           = RS_Cadastro_Visitantes("ID_Formulario")
@@ -108,24 +108,24 @@ If Not RS_Consulta_Pedido. Eof Then
 	Nome_Visitante          = RS_Cadastro_Visitantes("Nome_Completo")
 	CPF_Visitante           = RS_Cadastro_Visitantes("CPF")
 	Email_Visitante           = RS_Cadastro_Visitantes("Email")
-	
+
 	Session("cliente_edicao")		= ID_Edicao
 	Session("cliente_idioma")		= Idioma
 	Session("cliente_tipo")			= ID_TP_Credenciamento
 	Session("cliente_formulario")	= TP_Formulario
 	Session("cliente_logado")		= 1
 	Session("cliente_visitante")	= ID_Visitante
-	
+
     Session("cliente_cadastro")     = IRC
     Session("cliente_empresa")      = ID_Empresa
     Session("cliente_nome")         = Nome_Visitante
     Session("cliente_cpf")			= CPF_Visitante
-	
+
 	If Session("cliente_edicao") = "" OR Session("cliente_idioma") = "" OR Session("cliente_logado") = "" or Session("cliente_visitante") = "" Then
-	  response.Redirect("http://www.mbxeventos.net/aol3abf2016/")
+	  response.Redirect("http://www.mbxeventos.net/AOLABF2017/")
 	End If
-	
-	
+
+
 	' Verifica Idioma a ser apresentado
 		Select Case (Idioma)
 			Case "1"
@@ -137,9 +137,9 @@ If Not RS_Consulta_Pedido. Eof Then
 			Case Else
 				SgIdioma = "PTB"
 		End Select
-	
+
 		Pagina_ID 	= 2
-		
+
 		SQL_Textos	=	" Select " &_
 						"	ID_Texto, " &_
 						"	ID_Tipo, " &_
@@ -153,7 +153,7 @@ If Not RS_Consulta_Pedido. Eof Then
 						" Order By Ordem "
 		Set RS_Textos = Server.CreateObject("ADODB.Recordset")
 		RS_Textos.Open SQL_Textos, Conexao
-		
+
 		If not RS_Textos.BOF or not RS_Textos.EOF Then
 			total_registros = 0
 			While not RS_Textos.EOF
@@ -175,7 +175,7 @@ If Not RS_Consulta_Pedido. Eof Then
 			RS_Textos.Close
 		End If
 
-		
+
 	'	For i = Lbound(textos_array) to Ubound(textos_array)
 	'		response.write("[ i: " & i & " ] [ ident: " & textos_array(i)(1) & " ]  [ txt: " & textos_array(i)(2) & " ]  [ img: " & textos_array(i)(3) & " ]<br>")
 	'	Next
@@ -184,7 +184,7 @@ If Not RS_Consulta_Pedido. Eof Then
 	<% If Request("teste") = "s" Then %>
 		<!--#include virtual="/includes/exibir_array.asp"-->
 	<% End IF
-		
+
 		' Select IMG Faixa
 		SQL_Img_Faixa 	=	"Select " &_
 							"	Img_Faixa " &_
@@ -196,7 +196,7 @@ If Not RS_Consulta_Pedido. Eof Then
 		RS_Img_Faixa.Open SQL_Img_Faixa, Conexao
 			img_faixa = RS_Img_Faixa("img_faixa")
 		RS_Img_Faixa.Close
-		
+
 		' Faixa TOPO
 		SQL_Faixa	= 	"Select " &_
 						"	Cor, " &_
@@ -209,12 +209,12 @@ If Not RS_Consulta_Pedido. Eof Then
 		RS_Faixa.CursorType = 0
 		RS_Faixa.LockType = 1
 		RS_Faixa.Open SQL_Faixa, Conexao
-			
+
 			faixa_cor	= RS_Faixa("cor")
 			faixa_logo	= RS_Faixa("logo_negativo")
 			faixa_fundo	= RS_Faixa("Faixa_Fundo")
 		RS_Faixa.Close
-		
+
 		' Select de Eventos
 		SQL_Evento	=	"SELECT " &_
 						"	Nome_" & SgIdioma & " AS Evento, " &_
@@ -224,23 +224,23 @@ If Not RS_Consulta_Pedido. Eof Then
 						"	Eventos_Edicoes as EE " &_
 						"ON EE.ID_Evento = E.ID_Evento " &_
 						"WHERE " &_
-						"	E.Ativo = 1 " &_ 
-						"	AND EE.ID_Edicao = " & ID_Edicao 
-	
+						"	E.Ativo = 1 " &_
+						"	AND EE.ID_Edicao = " & ID_Edicao
+
 		Set RS_Evento = Server.CreateObject("ADODB.Recordset")
 		RS_Evento.CursorType = 0
 		RS_Evento.LockType = 1
 		RS_Evento.Open SQL_Evento, Conexao
-		
+
 		Evento = RS_Evento("Evento") & " " & RS_Evento("Ano")
 		Rs_Evento.Close
-		
+
 		' Tratar variáveis de RETORNO
 		'====================================
-		
-	
-		
-		'===================================	
+
+
+
+		'===================================
 		SQL_Consulta_Pedidos = 	"Select " &_
 								"	P.* " &_
 								"From " &_
@@ -251,36 +251,36 @@ If Not RS_Consulta_Pedido. Eof Then
 								"	And P.ID_Visitante = '" & Session("cliente_visitante")  & "' "' &_
 '										"	And P.Status_Pedido = 1"
 		'Response.Write(SQL_Consulta_Pedidos)
-		
+
 		Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 		RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-		
+
 		If Not RS_Consulta_Pedidos.Eof Then
-		
+
 			Tickets 		= True
 			Numero_Pedido 	= RS_Consulta_Pedidos("Numero_Pedido")
 			'Session("pedido") = RS_Lista_Pedidos("Numero_Pedido")
 			ID_Pedido 		= RS_Consulta_Pedidos("ID_Pedido")
 			Idioma_Pedido	= RS_Consulta_Pedidos("ID_Idioma")
 			Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
-	
+
 		Else
-							
+
 			Tickets = False
-			
+
 		End If
-	
-		
+
+
 		If Aprovacao = "True" Then
 			'=============================================
-			' Atualizar Pedido como FINALIZADO 
+			' Atualizar Pedido como FINALIZADO
 			SQL_Atualizar_Pedido = 	"Update Pedidos " &_
 									"Set Status_Pedido = 3  " &_
 									"Where Numero_Pedido = '" & session("Numero_Pedido") & "'"
-		
-			
-		
-			Conexao.Execute(SQL_Atualizar_Pedido)				
+
+
+
+			Conexao.Execute(SQL_Atualizar_Pedido)
 			'=============================================
 			' Realizar LOOP nos Itens e marcar como Cancelado caso Exista em outro Carrinho não finalizado
 			SQL_Listar_Carrinho = 	"Select " &_
@@ -291,17 +291,17 @@ If Not RS_Consulta_Pedido. Eof Then
 									"	ID_Pedido = " & ID_Pedido
 		'response.write("<hr>" & SQL_Listar_Carrinho & "<hr>")
 		'Response.Write(SQL_Atualizar_Pedido)
-			
+
 			Set RS_Listar_Carrinho = Server.CreateObject("ADODB.Recordset")
 			RS_Listar_Carrinho.Open SQL_Listar_Carrinho, Conexao, 3, 3
-			
+
 			If not RS_Listar_Carrinho.BOF or not RS_Listar_Carrinho.EOF Then
 				' Loop dos visitantes que foram comprados
 				While not RS_Listar_Carrinho.EOF
 					' Dados
 					ID_Visitante = RS_Listar_Carrinho("ID_Visitante")
 					ID_Pedido = RS_Listar_Carrinho("ID_Pedido")
-					
+
 					'============================================
 					'Selecionar Visitante em outros Carrinhos
 					SQL_Visitantes_Outro_Carrinho =	"Select " &_
@@ -315,14 +315,14 @@ If Not RS_Consulta_Pedido. Eof Then
 													"	AND P.Status_Pedido = 1 /* Pedido não finalizado */ "
 					Set RS_Visitantes_Outro_Carrinho = Server.CreateObject("ADODB.Recordset")
 					RS_Visitantes_Outro_Carrinho.Open SQL_Visitantes_Outro_Carrinho, Conexao, 3, 3
-				
+
 					'============================================
-					' Se encontrar em outro carrinho 
+					' Se encontrar em outro carrinho
 					If not RS_Visitantes_Outro_Carrinho.BOF or not RS_Visitantes_Outro_Carrinho.EOF Then
-					
+
 						While not RS_Visitantes_Outro_Carrinho.EOF
 							ID_Pedido_Atualizar = RS_Visitantes_Outro_Carrinho("ID_Pedido")
-						
+
 							'============================================
 							' Marcar Visitante como cancelado se estiver em outro pedido NÃO FINALIZADO
 							SQL_Atualizar_para_Cancelado = 	"Update Pedidos_carrinho " &_
@@ -330,55 +330,55 @@ If Not RS_Consulta_Pedido. Eof Then
 															"Where	" &_
 															"		ID_Visitante = " & ID_Visitante & " " &_
 															"	AND	ID_Pedido = " & ID_Pedido_Atualizar
-		
+
 							Conexao.Execute(SQL_Atualizar_para_Cancelado)
-							
+
 							'============================================
 							' Diminuir o valor do pedido em 1 Item
 							Valor_Ticket = Application("Valor_Ticket")
-							
+
 							SQL_Atualizar_Pedido = 	"Update Pedidos " &_
 													"Set	Valor_Pedido = Valor_Pedido - " & Valor_Ticket & " " &_
 													"Where ID_Pedido = " & ID_Pedido_Atualizar
-							
+
 							Conexao.Execute(SQL_Atualizar_Pedido)
-							
+
 							RS_Visitantes_Outro_Carrinho.MoveNext
 						Wend
 						RS_Visitantes_Outro_Carrinho.Close
 					End If
-					
+
 					'============================================
-				
+
 					RS_Listar_Carrinho.MoveNext
 				Wend
 				RS_Listar_Carrinho.Close
 			End If
 		End If
-		
-		
-		
-			
+
+
+
+
 	%>
 	<link href="/css/base_forms.css" rel="stylesheet" type="text/css" />
 	<link href="/css/estilos.css" rel="stylesheet" type="text/css">
 	<link href="/css/jquery.alerts.css" rel="stylesheet" type="text/css">
-	
+
 	<script language="javascript" src="/js/jquery-1.3.2.min.js"></script>
-	<script language="javascript" src="/js/jquery-ui-1.8.7.core_eff-slide.js"></script>	
+	<script language="javascript" src="/js/jquery-ui-1.8.7.core_eff-slide.js"></script>
 	<script language="javascript" src="/js/jquery.alerts.js"></script>
-	<script language="javascript" src="/js/validar_forms.js"></script>	
+	<script language="javascript" src="/js/validar_forms.js"></script>
 	<script language="javascript" src="/js/funcoes_gerais.js"></script>
-	
+
 	<!-- Script desta página -->
 	<script language="javascript" src="default.js" charset="utf-8"></script>
-	
+
 	<script language="javascript">
 	var idioma_atual = '<%=Session("cliente_idioma")%>';
 	var select       = '<%=textos_array(36)(2)%>';
 	var cor_fundo 	 = '<%=faixa_cor%>';
 	var tp_formulario = '';
-	
+
 	$(document).ready(function(){
 		var erro = '<%=Request("erro")%>';
 		switch (erro) {
@@ -392,14 +392,14 @@ If Not RS_Consulta_Pedido. Eof Then
 				break;
 		}
 	});
-	
+
 	function link(qual, direcao){
-		if (direcao == 'voltar') { 
-			$('#conteudo').css( {"z-index": 10 }).hide("slide", { direction: "right" }, 1000);  
-		} else if (direcao == 'ir') { 
-			$('#conteudo').css( {"z-index": 10 }).show("slide", { direction: "right" }, 1000); 
-		} else { 
-			$('#conteudo').css( {"z-index": 10 }).hide("slide", { direction: "right" }, 1000); 
+		if (direcao == 'voltar') {
+			$('#conteudo').css( {"z-index": 10 }).hide("slide", { direction: "right" }, 1000);
+		} else if (direcao == 'ir') {
+			$('#conteudo').css( {"z-index": 10 }).show("slide", { direction: "right" }, 1000);
+		} else {
+			$('#conteudo').css( {"z-index": 10 }).hide("slide", { direction: "right" }, 1000);
 		}
 		setTimeout(function() {
 			var urls = '/tickets/' + qual;
@@ -408,7 +408,7 @@ If Not RS_Consulta_Pedido. Eof Then
 	}
 	</script>
 	</head>
-	
+
 	<body >
 	<div style="width: 100%; position: absolute; height:750px; float:left; z-index:100; background:#CCC; display:none" id="loading" class="transparent">
 	<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
@@ -475,7 +475,7 @@ If Not RS_Consulta_Pedido. Eof Then
 					&nbsp;<span id="txt_topo"><!--Por favor preencher corretamente os itens em destaque !--><%=textos_array(39)(2)%></span>
 				</div><br/>
 				<!-- End Alert error -->
-	
+
 				<table width="850" border="0" cellpadding="0" cellspacing="0">
 					<tr>
 						<td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b>Ol&aacute;</b> <%=Nome_Visitante%></td>
@@ -487,21 +487,21 @@ If Not RS_Consulta_Pedido. Eof Then
 				<!--#Include virtual="/tickets/menu_lateral.asp"-->
 					<form id="form_pedidos" name="form_pedidos" onsubmit="return false" action="/tickets/pedido.asp" method="post">
 						<fieldset style="float: right; width: 580px;">
-							
+
 							<legend>Detalhes do Pagamento:
 							</legend><div id="parcAssis" class="div_parceria" style="width:580px; float: right; margin-top: 10px;">
-	
-									
+
+
 									<div style="font-weight: 100; width: 575px; float: left; font-size: 14px; font-size: 14px; padding: 5px 0 5px 5px;">
 										<%
 										'Response.Write(Retorno_Pedido & "<br>------------------------------------------<br>")
 
 										If Aprovacao = "True"  Then
 										%>
-                                        
-										
+
+
                                             <div style="float:right; padding-right:5px;">
-                                              
+
                                             </div>
 											<br><br>
                                             <div style="padding: 5px 0; width: 180px; float: left">Pagamento:</div> 								<div style="padding: 5px 0; font-weight: 900">Aprovado</div>
@@ -509,7 +509,7 @@ If Not RS_Consulta_Pedido. Eof Then
                                             <div style="padding: 5px 0; width: 180px; float: left">Transa&ccedil;&atilde;o:</div> 					<div style="padding: 5px 0; font-weight: 900"><%="Aprovada"%></div>
                                             <div style="padding: 5px 0; width: 180px; float: left">Token Paypal:</div> 	<div style="padding: 5px 0; font-weight: 900"><%=session("token")%></div>
                                             <div style="padding: 5px 0; width: 180px; float: left">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900"><%If Cint(Idioma) = 1 then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=FormatNumber(session("finalPaymentAmount"),2)%></div>
-                                            
+
 										<%
 										'Session("cliente_enviar_email") = 0
 										'response.Write ID_Visitante
@@ -521,7 +521,7 @@ If Not RS_Consulta_Pedido. Eof Then
 											'Response.End
 											Session("cliente_enviar_email") = True
 										'End If
-										
+
 										' Se Nao Aprovado
 										Else
 										%>
@@ -531,35 +531,35 @@ If Not RS_Consulta_Pedido. Eof Then
                                             <div style="width: 100%; float: left"><em><strong>Verifique a forma de pagamento na sua conta paypal.</strong></em></div><br><br>
                                         <%End If%>
 									</div>
-                                    <% 
+                                    <%
 									' Se pedido APROVADO
-									If Aprovacao = "True" Then 
+									If Aprovacao = "True" Then
 										%>
 										<br /><div style="font-size:16px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;">Sua compra foi realizada com sucesso! Retire seu ingresso nos guichês de atendimento na entrada da ABF Franchising Expo 2016 - Expo Center Norte</div><br /><br />
-										
+
 										<div style="float: left; width: 560px; background-color:#fff; font-weight:normal; padding:10px; border-top: 1px dotted #ccc; border-bottom: 1px dotted #ccc; line-height:18px;">
-											Caso queira comprar ingresso para outra pessoa, basta clicar em <font style="font-weight: bold"><em>"Novo pedido"</em></font> no menu lateral e realizar uma busca por <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>passaporte</em></font>, 
+											Caso queira comprar ingresso para outra pessoa, basta clicar em <font style="font-weight: bold"><em>"Novo pedido"</em></font> no menu lateral e realizar uma busca por <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>passaporte</em></font>,
                                             em caso de estrangeiros.<br>Para que o <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>Passaporte</em></font> constem em nossa base de dados, &eacute; necess&aacute;rio que estas pessoas j&aacute; tenham feito seu credenciamento.
-										</div>	
-										<%	
-									End If 
+										</div>
+										<%
+									End If
 									%>
 									<br/><br/>
 									<div style="float: left; width: 100%">
-                                    <% 
+                                    <%
 									'Botão para voltar a compra
 									If Aprovacao = "True"  then
-		
+
 										%>
 											<!-- Não exibir botão continuar
                                             <a href="/tickets/status.asp"><div id="loader_2" class="bt_meus_pedidos" style="float: right;">Concluir Este Pedido</div></a>
                                             -->
 											<a href="#_" onclick="link('novo_pedido.asp','voltar');"><div class="voltar_box" style="float: left">Voltar</div></a>
 										<%
-										
+
 									Else
 										%>
-											
+
 											<a href="#_" onclick="link('status.asp');"><div class="continuar" style="float: right">Continuar</div></a>
 										<%
 									End If
@@ -568,25 +568,25 @@ If Not RS_Consulta_Pedido. Eof Then
 							</div>
 						</fieldset>
 					</form>
-					
+
 					<form action="/tickets/pagamento.asp" method="post" name="FinalizarPedido" id="FinalizarPedido">
 						<input type="hidden" value="<%=ID_Pedido%>" id="IDPedido" name="IDPedido">
 					</form>
 				<br/>
 				<%
-				
+
 				%>
 				<!-- Alert error -->
 				<div id="aviso" class="fs_12px arial cor_cinza2" style="display:inline-table; margin-top:15px;">
 					<img src="/img/forms/alert-icon.png" alt="Aviso" width="20" height="20" hspace="2" vspace="4" align="absmiddle" title="Aviso">
-					
+
 				</div>
 				<!-- End Alert error -->
 			<!-- Form End -->
 		</div>
 		<!-- End Form Container -->
 	<table width="870" border="0" align="center" cellpadding="0" cellspacing="0">
-	  <tr> 
+	  <tr>
 		<td width="547" height="50" colspan="3">&nbsp;</td>
 	  </tr>
 	</table>
@@ -601,7 +601,7 @@ If Not RS_Consulta_Pedido. Eof Then
 	</body>
 	</html>
 	<%
-		
+
 End If
 'Conexao.Close
 %>

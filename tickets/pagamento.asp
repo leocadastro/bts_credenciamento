@@ -33,7 +33,7 @@ Conexao.Open Application("cnn")
 
 				  'response.write nvpstr
 If Session("cliente_edicao") = "" OR Session("cliente_idioma") = ""  or Session("cliente_visitante") = "" Then
-  response.Redirect("http://www.mbxeventos.net/aol3abf2016/")
+  response.Redirect("http://www.mbxeventos.net/AOLABF2017/")
 End If
 
 ID_Edicao               = Session("cliente_edicao")
