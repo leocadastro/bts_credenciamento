@@ -105,6 +105,7 @@ Else
 								"Where ID_Pedido = " & Pedido & " "&_
 								"	And Cancelado = 0"
 		'Response.Write(SQL_Quant_Carrinho)
+		'Response.End
 		Set RS_Quant_Carrinho = Server.CreateObject("ADODB.Recordset")
 		RS_Quant_Carrinho.Open SQL_Quant_Carrinho, Conexao, 3, 3
 
@@ -112,14 +113,19 @@ Else
 
 		Valor_Atual = Cint(RS_Quant_Carrinho("Quantidade")) * Valor_Ticket
 		Valor_Atual = Replace(Valor_Atual, ",", ".")
+		Qtde = Cint(RS_Quant_Carrinho("Quantidade"))
 		'Response.Write(Valor_Atual)
+
+		'Response.Write(Valor_Atual)
+		'Response.End
 
 		End If
 
 		'Response.Write("dsadas: " + ValorAtual)
 
 		SQL_Atualiza_Pedido = 	"Update Pedidos Set " &_
-								"	Valor_Pedido = '" & Valor_Atual & "' " &_
+								"	Valor_Pedido = '" & Valor_Atual & "',  " &_
+								"	Quantidade = '" & qtde & "'  " &_
 								"Where ID_Pedido = " & Pedido
 
 		'Response.Write(SQL_Atualiza_Pedido)

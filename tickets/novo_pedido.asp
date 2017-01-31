@@ -284,10 +284,12 @@ $(document).ready(function(){
 					ID_Pedido 		= RS_Consulta_Pedidos("ID_Pedido")
 					Idioma_Pedido	= RS_Consulta_Pedidos("ID_Idioma")
 					Valor_Pedido	= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
+					QtdeFinal 		= RS_Consulta_Pedidos("Quantidade")
 
 				Else
 
 					Tickets = False
+					QtdeFinal = 1
 
 				End If
 
@@ -311,14 +313,21 @@ $(document).ready(function(){
 
         End If
 
+		'Response.Write QtdeFinal
+		'Response.End
+
+		valor_pedido_por_ingresso = FormatNumber(Valor_Pedido / CInt(QtdeFinal),2)
+
         If Valor_Ticket_Atualizado <> Valor_Pedido And Valor_Pedido <> "" Then
 
-          Valor_Pedido = Valor_Ticket_Atualizado
+          Valor_Pedido = FormatNumber(Valor_Ticket_Atualizado * CInt(QtdeFinal),2)
+
+		  Valor_Pedido = Replace(Valor_Pedido, ",", ".")
 
           Valor_Ticket_Atualizado = Replace(Valor_Ticket_Atualizado, ",", ".")
 
           SQL_Atualiza_Valor_Pedido = 	"Update Pedidos Set " &_
-                      "	Valor_Pedido = " & Valor_Ticket_Atualizado & " " &_
+                      "	Valor_Pedido = " & Valor_Pedido  & " " &_
                       "Where ID_Pedido = " & ID_Pedido
 
           Set RS_Atualiza_Pedido = Conexao.Execute(SQL_Atualiza_Valor_Pedido)

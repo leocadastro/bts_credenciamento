@@ -128,7 +128,8 @@ a= Split(session("finaliza"), ",")
 Session("cpf") = session("finaliza")
  'Response.Write Session("cpf")
  'Response.End
-For i = 0 to Ubound(a)
+'For i = 0 to Ubound(a)
+i=0
 'Response.Write "Entrou"
 'Response.End
 	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_NAME"&i) & "=" & Server.URLEncode("Convite ABF")
@@ -141,7 +142,7 @@ For i = 0 to Ubound(a)
 	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_AMT"&i) & "=" & Server.URLEncode(Valor_Pedido)
 
 	nvpstr	= nvpstr & "&" & Server.URLEncode("L_PAYMENTREQUEST_0_QTY"&i) & "=" & Server.URLEncode(1)
-Next
+'Next
 
 Conexao.Close
 
