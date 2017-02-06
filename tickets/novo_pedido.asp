@@ -546,19 +546,27 @@ $(document).ready(function(){
 
 								<%If Erro = False Then%>
 
-								<table width="575" cellpadding="5" style="text-align:left; margin-top:20px; float:left; background: #f5f5f5;">
+								<div class="" style="font-size: smaller">
+									<br>
+									<p>Atenção</p>
+									<span>Cada ingresso é válido para os 04 dias da feira, podendo ser adquiridos antecipadamente por meio do site do evento ao custo de R$ 60,00 até dia 20 de junho de 2017. </span>
+									<br>
+									<span>Caso deixe para comprar durante a realização do evento, de 21 a 24 de junho de 2017, na bilheteria local ou pelo site custará R$ 70,00</span>
+									</div>
+
+								<table width="575" cellpadding="5" style=" display:none; text-align:left; margin-top:20px; float:left; background: #f5f5f5;">
 
 									<tr>
-										<td width="250"><span style="font-size:16px; font-weight:900;">Lotes:</span></td>
+										<td width="250"><span style="font-size:16px; font-weight:900;">Atencao:</span></td>
 										<td></td>
 										<td></td>
 									</tr>
 
-									<tr style="font-size:15px;">
+									<!-- <tr style="font-size:15px;">
 										<td><strong>Lote</strong></td>
 										<td><strong>Valor</strong></td>
 										<td><strong>Data de encerramento do lote</strong></td>
-									</tr>
+									</tr> -->
 
 
 									<%
@@ -587,11 +595,11 @@ $(document).ready(function(){
 
 									%>
 
-									<tr <%If iNow mod 2 = 0 Then %> style="background:#fff;" <%End If%>>
+									<!-- <tr <%If iNow mod 2 = 0 Then %> style="background:#fff;" <%End If%>>
 										<td><strong><%=RS_Lotes("Nome")%></strong></td>
 										<td><strong>R$ <%=prec_lote%></strong></td>
 										<td><strong><%=hora_fim_n%> às <%=hora_fim_t%> </strong></td>
-									</tr>
+									</tr> -->
 
 									<%
 										RS_Lotes.MoveNext

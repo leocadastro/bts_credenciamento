@@ -73,7 +73,7 @@ Idioma 	= id_idioma
 	email_senha		= ""
 	html		 	= ""
 	assunto		 	= ""
-	
+
 	' Verifica Texto a ser apresentado ABF e ABF Nordeste
 	Select Case (ID_Edicao)
 		Case "22" ' ABF
@@ -86,7 +86,7 @@ Idioma 	= id_idioma
 			texto = textos_array(1)(2)
 			texto_rodape = textos_array(10)(2)
 	End Select
-	
+
 	' Buscar imagens da Feira
 	SQL_Edicoes_Configuracao = 	"SELECT " &_
 								"	EC.Logo_Email, " &_
@@ -114,7 +114,7 @@ Idioma 	= id_idioma
 	CNPJMask 		= Mid(CNPJ,1,2) & "." & Mid(CNPJ,4,3) & "." & Mid(CNPJ,7,3) & "/" & Mid(CNPJ,9,4) & "-" & Mid(CNPJ,13,2)
 
 	If Tipo = "Recuperar_Senha" Then
-	
+
 		email_senha = 		"<html><head><meta http-equiv='Content-Type' content='text/html; charset=UTF-8' /><title>Credenciamento OnLine BTS</title></head>" &_
 							"<body>" &_
 							"<table width='520' border='0' align='center' cellpadding='0' cellspacing='0'>" &_
@@ -144,12 +144,12 @@ Idioma 	= id_idioma
 							"</table>" &_
 							"</body>" &_
 							"</html>"
-	
+
 		html = email_senha
 		assunto = "Recuperar Acesso - " & RS_Edicoes_Configuracao("Feira") & " " & RS_Edicoes_Configuracao("Ano") & " - Credenciamento OnLine BTS Informa"
-		
+
 	ElseIf Tipo = "Enviar_Ticket" Then
-	
+
 		SQL_Consulta_Pedidos =	"Select " &_
 								"	P.*, " &_
 								"	PH.* " &_
@@ -163,28 +163,29 @@ Idioma 	= id_idioma
 		'Response.End
 		Set RS_Consulta_Pedidos = Server.CreateObject("ADODB.Recordset")
 		RS_Consulta_Pedidos.Open SQL_Consulta_Pedidos, Conexao, 3, 3
-		
-		If Not RS_Consulta_Pedidos.Eof Then
-		
 
-			
+		If Not RS_Consulta_Pedidos.Eof Then
+
+
+
 			Tickets 			= True
 			Numero_Pedido 		= RS_Consulta_Pedidos("Numero_Pedido")
 			Numero_Transacao 	= RS_Consulta_Pedidos("Numero_Transacao")
 			Cod_Autorizacao		= RS_Consulta_Pedidos("Codigo_Autorizacao")
 			Visitante_ID		= RS_Consulta_Pedidos("ID_Visitante")
 			ID_Pedido			= RS_Consulta_Pedidos("ID_Pedido")
-			
+			Vlr_Pedido 			= RS_Consulta_Pedidos("Valor_Pedido")
+
 			'Response.Write Visitante_ID
 			'response.End
 			If Cstr(Visitante_ID) <> Cstr(Var_Visitante) Then
-				Valor_Pedido		= FormatNumber(Application("Valor_Ticket"),2)
+				Valor_Pedido		= FormatNumber(Vlr_Pedido,2)
 			Else
-				Valor_Pedido		= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
-			End If			
-		
+				Valor_Pedido		= FormatNumber(Vlr_Pedido,2)
+			End If
+
 		End If
-		
+
 'response.Write RS_Edicoes_Configuracao("Logo_Box")
 'response.End
 		comprovante = 	"<html><head><meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1' /><title>Credenciamento OnLine BTS</title></head>" &_
@@ -251,8 +252,8 @@ Idioma 	= id_idioma
 							"Where " &_
 							"	C.ID_Pedido = " & ID_Pedido & " " &_
 							"	And C.ID_Visitante = " & Var_Visitante & ""
-		
-						
+
+
 		' Realizei este pedido
 		Else
 			SQL_Carrinho = 	"Select " &_
@@ -273,19 +274,19 @@ Idioma 	= id_idioma
 							"	And C.Cancelado = 0"
 
 		End If
-		
+
 		'Response.Write(SQL_Carrinho)
 		'REsponse.End()
-		
+
 		Set RS_Carrinho = Server.CreateObject("ADODB.Recordset")
 		RS_Carrinho.Open SQL_Carrinho, Conexao, 3, 3
-		
+
 		Primeiro = 0
 		Z = True
-		
+
 		If Not RS_Carrinho.Eof Then
 			While Not RS_Carrinho.Eof
-			
+
 			Email_Carrinho = RS_Carrinho("Email")
 
 			If Len(Trim(RS_Carrinho("CPF"))) > 0 Then
@@ -293,10 +294,10 @@ Idioma 	= id_idioma
             Else
             	Tipo_Documento = "Passaporte"
             End If
-			
-			If Len(Trim(RS_Carrinho("CPF"))) > 0 Then 
+
+			If Len(Trim(RS_Carrinho("CPF"))) > 0 Then
 				Numero_Documento = RS_Carrinho("CPF")
-			Else 
+			Else
 				Numero_Documento = RS_Carrinho("Passaporte")
 			End If
 
@@ -305,7 +306,7 @@ Idioma 	= id_idioma
 		comprovante = comprovante & "<td style='padding: 5px; width: 100px; border-bottom: 1px dotted #ccc'><font size='2' face='verdana'>" & Tipo_Documento & "</font></td>"
 		comprovante = comprovante & "<td style='padding: 5px; width: 100px; border-bottom: 1px dotted #ccc'><font size='2' face='verdana'>" & Numero_Documento & "</font></td>"
 		comprovante = comprovante & "</tr>"
-		
+
 			RS_Carrinho.MoveNext
 			Wend
 		End If
@@ -330,9 +331,9 @@ Idioma 	= id_idioma
 	End If
 
 	RS_Edicoes_Configuracao.Close
-	
+
 	Set Mail = Server.CreateObject("Persits.MailSender")
-	
+
 	Mail.CharSet = "ISO-8859-1"
 
 		Mail.CharSet = "ISO-8859-1"
@@ -342,22 +343,22 @@ Idioma 	= id_idioma
 		Mail.port = 2525
 
 	Mail.From = "brazilexhibitorsmanual@informa.com" ' Required
-	
-	Mail.FromName = "Brazil Exhibitors Manual" ' Optional 
-	
+
+	Mail.FromName = "Brazil Exhibitors Manual" ' Optional
+
 	Mail.AddAddress trim(Email)
 	'Mail.AddBCC Trim(RS_Verifica("email_copia"))
 	'Mail.AddBCC "guilherme.ribeiro@informa.com" 				' cópia TI
 	Mail.AddBCC "gabriel.petro@informa.com" 				' cópia ATENDIMENTO
 	Mail.AddBCC "andre.alves@informa.com" 				' cópia TI
-	
+
 	Mail.Subject = assunto
 	Mail.Body = html
-	Mail.IsHTML = True 
+	Mail.IsHTML = True
 
-	
+
 	Mail.Send
-	
+
 	'// Alexandre Fischer - 17/04/2014 - Utilizar CDO.SYS para envio de e-mails autenticados
 	'Dim objCDOSYSMail
 	'Dim objCDOSYSCon
@@ -370,10 +371,10 @@ Idioma 	= id_idioma
 	'objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendusing") = 2
 	'objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpauthenticate") = 1
 	'objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendusername") = "btsinforma"
-	'objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendpassword") = "Phebru28" 
+	'objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendpassword") = "Phebru28"
 	'objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpconnectiontimeout") = 60
     '
-	'objCDOSYSCon.Fields.Update 
+	'objCDOSYSCon.Fields.Update
 	'
 	'If Email = "" Then
 	'	Email = Email_Carrinho
@@ -391,6 +392,6 @@ Idioma 	= id_idioma
 	'response.end
 '							response.write id_edicao
 'response.end
-	
-End Function 
+
+End Function
 %>

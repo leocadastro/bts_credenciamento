@@ -94,6 +94,7 @@ End If
 		Tickets 			= True
 		Numero_Pedido 		= RS_Consulta_Pedidos("Numero_Pedido")
 		Numero_Transacao 	= RS_Consulta_Pedidos("Numero_Transacao")
+		Codigo_Paypal 		= RS_Consulta_Pedidos("Codigo_Paypal")
 		Cod_Autorizacao		= RS_Consulta_Pedidos("Codigo_Autorizacao")
 		Valor_Pedido		= FormatNumber(RS_Consulta_Pedidos("Valor_Pedido"),2)
 		ID_Visitante		= RS_Consulta_Pedidos("ID_Visitante")
@@ -125,6 +126,7 @@ End If
 </div>
 	<div style="padding: 5px 0; width: 180px; float: left">Pagamento:</div>									<div style="padding: 5px 0; font-weight: 900">Aprovado</div>
 	<div style="padding: 5px 0; width: 180px; float: left">Numero do Pedido:</div>							<div style="padding: 5px 0; font-weight: 900"><%=Numero_Pedido%></div>
+	<div style="padding: 5px 0; width: 180px; float: left">Codigo Paypal:</div>								<div style="padding: 5px 0; font-weight: 900"><%=Codigo_Paypal%></div>
 	<div style="padding: 5px 0; width: 180px; float: left">Transa&ccedil;&atilde;o:</div> 					<div style="padding: 5px 0; font-weight: 900"><%=Numero_Transacao%></div>
 	<div style="padding: 5px 0; width: 180px; float: left">C&oacute;d. da Autoriza&ccedil;&atilde;o:</div> 	<div style="padding: 5px 0; font-weight: 900"><%=Cod_Autorizacao%></div>
     <%If CStr(Session("cliente_visitante")) <> CStr(ID_Visitante) Then%>
@@ -149,6 +151,7 @@ End If
 						"	C.ID_Carrinho,  " &_
 						"	C.ID_Visitante,  " &_
 						"	C.ID_Pedido,  " &_
+						"	C.ID_Rel_Cadastro, " &_
 						"	C.ID_Rel_Cadastro, " &_
 						"	P.Status_Pedido, " &_
 						"	V.Nome_Completo, " &_
@@ -210,7 +213,7 @@ End If
 <br/>
 <div style="width:600px; text-align:center;">
 <!--img src='http://credenciamento.btsinforma.com.br/img/geral/logos/Feira_e-commerce.jpg' title="<%=Feira%>&nbsp;<%=Ano%>"/-->
-<img src='http://credenciamento.btsinforma.com.br/img/geral/logos/8769_568x73_port.jpg' title="<%=Feira%>&nbsp;<%=Ano%>"/>
+<img src='http://credenciamento.btsinforma.com.br/img/geral/logos/rodape_abf_2017.jpg' title="<%=Feira%>&nbsp;<%=Ano%>"/>
 </div>
 <br />
 <div id="footer">

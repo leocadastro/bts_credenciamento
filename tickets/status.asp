@@ -836,7 +836,7 @@ function Detalhes_Compra(ID){
                                                     <td style="padding: 5px; width: 100px; text-align: left;"><%=RS_Tickets_Pagamento("Numero_Pedido")%></td>
                                                     <td style="padding: 5px; width: 150px; text-align: center;"><%=RS_Tickets_Pagamento("Numero_Transacao")%></td>
                                                     <td style="padding: 5px; width: 150px; text-align: center;"><%=RS_Tickets_Pagamento("Codigo_Autorizacao")%></td>
-                                                    <td style="padding: 5px; width: 80x; text-align: center;">R$ <%=FormatNumber(Valor_Pedido_Total,2)%></td>
+                                                    <td style="padding: 5px; width: 80x; text-align: center;">R$ <%=FormatNumber(RS_Tickets_Pagamento("Valor_Pedido"),2)%></td>
                                                     <td style="padding: 5px; width: 180px; text-align: center;"><%=RS_Tickets_Pagamento("Data_Pagamento")%></td>
                                                 </tr>
                                                 <%
