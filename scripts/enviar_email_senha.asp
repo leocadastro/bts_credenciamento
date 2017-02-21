@@ -349,7 +349,7 @@ Idioma 	= id_idioma
 
 	Mail.From = "credenciamento@informaexhibitionsbrasil.com.br" ' Required
 
-	Mail.FromName = "Brazil Exhibitors Manual" ' Optional
+	Mail.FromName = "credenciamento@informaexhibitionsbrasil.com.br" ' Optional
 
 	Mail.AddAddress trim(Email)
 	'Mail.AddBCC Trim(RS_Verifica("email_copia"))
