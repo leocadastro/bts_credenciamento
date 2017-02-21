@@ -17,17 +17,33 @@
 		'	"<soap:Body><" & Metodo & " xmlns=""http://tempuri.org/""><user>abfne</user><pass>xAfr9ojG</pass><cpf>" & CPF & "</cpf></" & Metodo & "></soap:Body>" &_
 		'	"</soap:Envelope>"
 
-		strSend = "<soap:Envelope xmlns:soap=""http://www.w3.org/2003/05/soap-envelope"" xmlns:tem=""http://tempuri.org/""> " &_
-					   "<soap:Header/> " &_
-					   "<soap:Body> " &_
-					      "<tem:getVisitante> " &_
-					         "<tem:user>" & Usuario & "</tem:user> " &_
-					         "<tem:pass>" & Senha & "</tem:pass> " &_
-							 "<tem:Database>" & Database & "</tem:Database> " &_
-							 "<tem:CPF>" & CPF & "</tem:CPF> " &_
-					      "</tem:getVisitante> " &_
-					   "</soap:Body> " &_
-					"</soap:Envelope>"
+		If Instr(CPF, "@") = 0 Then
+
+			strSend = "<soap:Envelope xmlns:soap=""http://www.w3.org/2003/05/soap-envelope"" xmlns:tem=""http://tempuri.org/""> " &_
+						   "<soap:Header/> " &_
+						   "<soap:Body> " &_
+						      "<tem:getVisitante> " &_
+						         "<tem:user>" & Usuario & "</tem:user> " &_
+						         "<tem:pass>" & Senha & "</tem:pass> " &_
+								 "<tem:Database>" & Database & "</tem:Database> " &_
+								 "<tem:CPF>" & CPF & "</tem:CPF> " &_
+						      "</tem:getVisitante> " &_
+						   "</soap:Body> " &_
+						"</soap:Envelope>"
+
+		Else
+			strSend = "<soap:Envelope xmlns:soap=""http://www.w3.org/2003/05/soap-envelope"" xmlns:tem=""http://tempuri.org/""> " &_
+						   "<soap:Header/> " &_
+						   "<soap:Body> " &_
+							  "<tem:getVisitante> " &_
+								 "<tem:user>" & Usuario & "</tem:user> " &_
+								 "<tem:pass>" & Senha & "</tem:pass> " &_
+								 "<tem:Database>" & Database & "</tem:Database> " &_
+								 "<tem:Email>" & CPF & "</tem:Email> " &_
+							  "</tem:getVisitante> " &_
+						   "</soap:Body> " &_
+						"</soap:Envelope>"
+		End If
 
 		Set xmlhttp = Server.CreateObject("MSXML2.XMLHTTP")
 		xmlhttp.open "POST", Url, false
@@ -72,7 +88,7 @@
 				'Response.Write nascimento
 				'Response.End
 
-				If Node.childNodes(1).Text = CPF Then
+				If Node.childNodes(1).Text = CPF Or Node.childNodes(2).Text = CPF  Then
 					strSql = "SET DATEFORMAT YDM; EXEC dbo.SP_IN_VISITANTES_CADASTRO"
 					strSql = strSql & " @CPF = '" & Node.childNodes(1).Text & "'"
 					strSql = strSql & " , @Email = '" & Node.childNodes(2).Text & "'"
