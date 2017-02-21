@@ -104,6 +104,6 @@ Conexao.Close
 
 <script>
 	window.location = "http://credenciamento.btsinforma.com.br/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
-	//window.location = "http://localhost:81/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
+	// window.location = "http://localhost:81/tickets/retorno_exibir.asp?pedido=<%=Limpar_Texto(session("Numero_Pedido"))%>&transacao=<%=Limpar_Texto(SESSION("token"))& " - " & Limpar_Texto(SESSION("PAYERID"))%>"
 
 </script>

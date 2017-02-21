@@ -212,12 +212,12 @@ $(document).ready(function(){
           </tr>
           <tr>
             <td>
-                <table width="870" border="0" cellspacing="0" cellpadding="0">
+				<table width="870" border="0" cellspacing="0" cellpadding="0">
                   <tr>
-                    <td width="189" height="45" background="/img/geral/faixa_fundo_esqs.gif"><img id="img_faixa_esq" src="/img/geral/tipos/Faixa_Tickets.gif" width="189" height="45" /></td>
-                    <td id="img_fundo_selecionado" height="45" background="<%=faixa_fundo%>" class="atencao_13px cor_branco">
-                    	<div id="txt_1" style="padding-left:20px; float:left; line-height:40px;" align="left"><!--Preencha os campos abaixo--></div>
-                        <div style="float:right;" align="right"><img id="img_logo_selecionado" src="<%=faixa_logo%>" hspace="10"></div>
+                    <td width="189" height="45" background="/img/geral/faixa_fundo_sesq.gif"><img id="img_faixa_esq" src="/img/geral/tipos/Faixa_Tickets.gif" width="189" height="45"></td>
+                    <td id="img_fundo_selecionado" height="45" background="<%=faixa_fundo%>" style="background-repeat:repeat-x; position:relative;" class="atencao_13px cor_branco">
+                    	<div id="txt_1" style="padding-left:20px; float:left; line-height:40px;" align="left"></div>
+                        <div style="position:absolute; top:-45px; right:0px;" align="right"><img id="img_logo_selecionado" src="<%=faixa_logo%>" hspace="10"></div>
                     </td>
                   </tr>
                 </table>

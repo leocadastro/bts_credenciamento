@@ -213,7 +213,7 @@ End If
 <br/>
 <div style="width:600px; text-align:center;">
 <!--img src='http://credenciamento.btsinforma.com.br/img/geral/logos/Feira_e-commerce.jpg' title="<%=Feira%>&nbsp;<%=Ano%>"/-->
-<img src='http://credenciamento.btsinforma.com.br/img/geral/logos/rodape_abf_2017.jpg' title="<%=Feira%>&nbsp;<%=Ano%>"/>
+<img src='http://credenciamento.btsinforma.com.br/img/geral/logos/faixa_abf_2017.png' title="<%=Feira%>&nbsp;<%=Ano%>"/>
 </div>
 <br />
 <div id="footer">

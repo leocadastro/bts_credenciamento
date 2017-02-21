@@ -74,7 +74,6 @@ If Not RS_Consulta_Pedido. Eof Then
 	Retorno_Pedido	= RS_Consulta_Pedido("Retorno")
 	Aprovacao = RS_Consulta_Pedido("Status_Pagamento")
 
-
 	SQL_Cadastro_Visitantes =	"Select " &_
 								"	RC.ID_Relacionamento_Cadastro as IRC " &_
 								"	,RC.ID_Tipo_Credenciamento " &_
@@ -271,7 +270,7 @@ If Not RS_Consulta_Pedido. Eof Then
 		End If
 
 
-		If Aprovacao = "True" Then
+		If Aprovacao = True Then
 			'=============================================
 			' Atualizar Pedido como FINALIZADO
 			SQL_Atualizar_Pedido = 	"Update Pedidos " &_
@@ -435,14 +434,14 @@ If Not RS_Consulta_Pedido. Eof Then
 			  <tr>
 				<td>
 					<table width="870" border="0" cellspacing="0" cellpadding="0">
-					  <tr>
-						<td width="189" height="45" background="/img/geral/faixa_fundo_esqs.gif"><img id="img_faixa_esq" src="/img/geral/tipos/Faixa_Tickets.gif" width="189" height="45"></td>
-						<td id="img_fundo_selecionado" height="45" background="<%=faixa_fundo%>" class="atencao_13px cor_branco">
-							<div id="txt_1" style="padding-left:20px; float:left; line-height:40px;" align="left"></div>
-							<div style="float:right;" align="right"><img id="img_logo_selecionado" src="<%=faixa_logo%>" hspace="10"></div>
-						</td>
-					  </tr>
-					</table>
+                  <tr>
+                    <td width="189" height="45" background="/img/geral/faixa_fundo_sesq.gif"><img id="img_faixa_esq" src="/img/geral/tipos/Faixa_Tickets.gif" width="189" height="45"></td>
+                    <td id="img_fundo_selecionado" height="45" background="<%=faixa_fundo%>" style="background-repeat:repeat-x; position:relative;" class="atencao_13px cor_branco">
+                    	<div id="txt_1" style="padding-left:20px; float:left; line-height:40px;" align="left"></div>
+                        <div style="position:absolute; top:-45px; right:0px;" align="right"><img id="img_logo_selecionado" src="<%=faixa_logo%>" hspace="10"></div>
+                    </td>
+                  </tr>
+                </table>
 				</td>
 			  </tr>
 		  </table>
@@ -496,7 +495,7 @@ If Not RS_Consulta_Pedido. Eof Then
 										<%
 										'Response.Write(Retorno_Pedido & "<br>------------------------------------------<br>")
 
-										If Aprovacao = "True"  Then
+										If Aprovacao = True  Then
 										%>
 
 
@@ -516,7 +515,7 @@ If Not RS_Consulta_Pedido. Eof Then
 										'response.End
 										session("Numero_Pedido") = Request("pedido")
 										'If Session("cliente_enviar_email") = "" Or Session("cliente_enviar_email") = 0 Then
-											Enviar_Email_Senha Session("cliente_edicao"), Session("cliente_idioma"), "", "", Email_Visitante, "", "", "Enviar_Ticket", session("Numero_Pedido"), ID_Visitante
+											'Enviar_Email_Senha Session("cliente_edicao"), Session("cliente_idioma"), "", "", Email_Visitante, "", "", "Enviar_Ticket", session("Numero_Pedido"), ID_Visitante
 											'Response.Write Email_Visitante
 											'Response.End
 											Session("cliente_enviar_email") = True
@@ -533,13 +532,13 @@ If Not RS_Consulta_Pedido. Eof Then
 									</div>
                                     <%
 									' Se pedido APROVADO
-									If Aprovacao = "True" Then
+									If Aprovacao = True Then
 										%>
-										<br /><div style="font-size:16px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;">Sua compra foi realizada com sucesso! Retire seu ingresso nos guichês de atendimento na entrada da ABF Franchising Expo 2016 - Expo Center Norte</div><br /><br />
+										<br /><div style="font-size:16px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;">Sua compra foi realizada com sucesso! Retire seu ingresso nos guich�s de atendimento na entrada da ABF Franchising Expo 2017 - Expo Center Norte</div><br /><br />
 
 										<div style="float: left; width: 560px; background-color:#fff; font-weight:normal; padding:10px; border-top: 1px dotted #ccc; border-bottom: 1px dotted #ccc; line-height:18px;">
-											Caso queira comprar ingresso para outra pessoa, basta clicar em <font style="font-weight: bold"><em>"Novo pedido"</em></font> no menu lateral e realizar uma busca por <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>passaporte</em></font>,
-                                            em caso de estrangeiros.<br>Para que o <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>Passaporte</em></font> constem em nossa base de dados, &eacute; necess&aacute;rio que estas pessoas j&aacute; tenham feito seu credenciamento.
+											Caso queira comprar ingresso para outra pessoa, basta clicar em <font style="font-weight: bold"><em>"Novo pedido"</em></font> no menu lateral e realizar uma busca por <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>email</em></font>,
+                                            em caso de estrangeiros.<br>Para que o <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>Email</em></font> constem em nossa base de dados, &eacute; necess&aacute;rio que estas pessoas j&aacute; tenham feito seu credenciamento.
 										</div>
 										<%
 									End If
@@ -548,13 +547,13 @@ If Not RS_Consulta_Pedido. Eof Then
 									<div style="float: left; width: 100%">
                                     <%
 									'Botão para voltar a compra
-									If Aprovacao = "True"  then
+									If Aprovacao = True  then
 
 										%>
 											<!-- Não exibir botão continuar
                                             <a href="/tickets/status.asp"><div id="loader_2" class="bt_meus_pedidos" style="float: right;">Concluir Este Pedido</div></a>
                                             -->
-											<a href="#_" onclick="link('novo_pedido.asp','voltar');"><div class="voltar_box" style="float: left">Voltar</div></a>
+											<a href="#" onclick="link('novo_pedido.asp','voltar');"><div class="voltar_box" style="float: left">Voltar</div></a>
 										<%
 
 									Else

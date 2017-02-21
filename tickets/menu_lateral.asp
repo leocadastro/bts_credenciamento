@@ -33,7 +33,7 @@ End If
 ' Se estiver na Página de RETORNO da TRANSAÇÃO exibir NOVA COMPRA
 If Request.ServerVariables("URL") = "/tickets/retorno_exibir.asp" Then
 	' E meu pedido nao foi aprovado
-	If Aprovacao = "True"  Then 
+	If Aprovacao = "True"  Then
 		texto_menu 	= "Novo Pedido"
 		link_menu	= "termo.asp"
 	End If
@@ -66,7 +66,7 @@ End If
 				'Response.Write(SQL_Pedidos)
 				Set RS_Pedidos = Server.CreateObject("ADODB.Recordset")
 				RS_Pedidos.Open SQL_Pedidos, Conexao, 3, 3
-				
+
 				If Not RS_Pedidos.Eof Then
 				%>
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" onclick="link('status.asp');" style="background-color: rgb(255, 255, 255);">
@@ -75,7 +75,7 @@ End If
                 <tr>
                     <td height="4"><img src="/img/geral/spacer.gif" width="1" height="4"></td>
                 </tr>
-                <%End If%>                
+                <%End If%>
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" onclick="link('<%=link_menu%>');" style="background-color: rgb(255, 255, 255);">
                     <td height="30" style="padding-left:10px;">
                     <span class="arial fs_12px cor_cinza1">
@@ -110,7 +110,7 @@ End If
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" style="background-color: rgb(255, 255, 255);">
                     <td height="30" style="padding-left:10px;">
                     <span class="arial fs_12px cor_cinza1">
-                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10">Suporte: (11) 3598-7855 / 7875 <br/>ou <a href="mailto:visitante.abf@informa.com">visitante.abf@informa.com</a>
+                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10">Suporte: (11) 3598-7834 <br/>ou <a href="mailto:visitante.abf@informa.com">visitante.abf@informa.com</a>
                     </span></td>
                 </tr>
                 <%  End If %>

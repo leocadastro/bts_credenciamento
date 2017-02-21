@@ -175,6 +175,7 @@ Idioma 	= id_idioma
 			Visitante_ID		= RS_Consulta_Pedidos("ID_Visitante")
 			ID_Pedido			= RS_Consulta_Pedidos("ID_Pedido")
 			Vlr_Pedido 			= RS_Consulta_Pedidos("Valor_Pedido")
+			Codigo_Paypal 		= RS_Consulta_Pedidos("Codigo_Paypal")
 
 			'Response.Write Visitante_ID
 			'response.End
@@ -218,6 +219,10 @@ Idioma 	= id_idioma
 						"<tr> " &_
 						"<td width='220'><font size='2' face='verdana'><strong>C&oacute;d. da Autoriza&ccedil;&atilde;o:</strong></font></td> " &_
 						"<td ><font size='3' face='verdana'><strong>" & Cod_Autorizacao & "</div></strong></font></td> " &_
+						"</tr> " &_
+						"<tr> " &_
+						"<td width='220'><font size='2' face='verdana'><strong>C&oacute;d. Paypal:</strong></font></td> " &_
+						"<td ><font size='3' face='verdana'><strong>" & Codigo_Paypal & "</div></strong></font></td> " &_
 						"</tr> " &_
 						"<tr> " &_
 						"<td width='220'><font size='2' face='verdana'><strong>Valor Pago:</strong></font></td> " &_
@@ -314,7 +319,7 @@ Idioma 	= id_idioma
 		comprovante = comprovante & "</table>"
 		comprovante = comprovante & "<br/>"
 		comprovante = comprovante & "<table width='520' border='0' align='center' cellpadding='0' cellspacing='0'><tr><td><font size='1' face='verdana'>"
-		comprovante = comprovante & "<div align='center'><img src='http://credenciamento.btsinforma.com.br/images/8480_1288x241_port.jpg'/></div><br><br>"
+		comprovante = comprovante & "<div align='center'><img src='http://credenciamento.btsinforma.com.br/img/geral/logos/faixa_abf_2017.png'/></div><br><br>"
 		comprovante = comprovante & "- Para retirar seu ingresso e a credencial para acesso ao evento, tenha em mãos seu comprovante de compra e seu CPF.<br>"
 		comprovante = comprovante & "- O ingresso é pessoal e intransferível, sendo obrigatória a apresentação do CPF para sua retirada.<br>"
 		comprovante = comprovante & "- Não será permitida a entrada de pessoas trajando bermudas, camiseta regata e/ou chinelos.<br>"
@@ -342,15 +347,15 @@ Idioma 	= id_idioma
 		Mail.host = "smtpcorp.com"
 		Mail.port = 2525
 
-	Mail.From = "brazilexhibitorsmanual@informa.com" ' Required
+	Mail.From = "credenciamento@informaexhibitionsbrasil.com.br" ' Required
 
 	Mail.FromName = "Brazil Exhibitors Manual" ' Optional
 
 	Mail.AddAddress trim(Email)
 	'Mail.AddBCC Trim(RS_Verifica("email_copia"))
 	'Mail.AddBCC "guilherme.ribeiro@informa.com" 				' cópia TI
-	Mail.AddBCC "gabriel.petro@informa.com" 				' cópia ATENDIMENTO
-	Mail.AddBCC "andre.alves@informa.com" 				' cópia TI
+	'Mail.AddBCC "gabriel.petro@informa.com" 				' cópia ATENDIMENTO
+	Mail.AddBCC "leonardocadastro69@informa.com" 				' cópia TI
 
 	Mail.Subject = assunto
 	Mail.Body = html
