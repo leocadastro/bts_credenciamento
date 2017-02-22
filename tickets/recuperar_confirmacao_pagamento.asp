@@ -114,7 +114,7 @@ End If
 <body style="margin:10px;">
 <table width='640' border='0' cellpadding='0' cellspacing='0'>
     <tr>
-        <td><img src='http://credenciamento.btsinforma.com.br/images/logo_btsinforma_email.gif' alt='' width='95' height='52' hspace='15' /></td>
+        <td><img src='http://credenciamento.btsinforma.com.br/img/geral/informa_exhibition.png' alt=''  hspace='15' /></td>
 		<!--td><img src='http://ws.homologabts.com.br/images/informa_exhibition.png' alt='' width='95' height='52' hspace='15' /></td-->
         <td width='15'>&nbsp;</td>
         <td align='right'><img src='http://credenciamento.btsinforma.com.br<%=logo_box%>' alt="<%=Feira%>&nbsp;<%=Ano%>" title="<%=Feira%>&nbsp;<%=Ano%>"/></td>

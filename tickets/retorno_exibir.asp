@@ -553,13 +553,13 @@ If Not RS_Consulta_Pedido. Eof Then
 											<!-- Não exibir botão continuar
                                             <a href="/tickets/status.asp"><div id="loader_2" class="bt_meus_pedidos" style="float: right;">Concluir Este Pedido</div></a>
                                             -->
-											<a href="#" onclick="link('novo_pedido.asp','voltar');"><div class="voltar_box" style="float: left">Voltar</div></a>
+											<a href="#" onclick="link('status.asp','voltar');"><div class="voltar_box" style="float: left">Voltar</div></a>
 										<%
 
 									Else
 										%>
 
-											<a href="#_" onclick="link('status.asp');"><div class="continuar" style="float: right">Continuar</div></a>
+											<a href="#" onclick="link('status.asp');"><div class="continuar" style="float: right">Continuar</div></a>
 										<%
 									End If
 									%>

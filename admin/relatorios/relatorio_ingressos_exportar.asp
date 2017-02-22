@@ -96,6 +96,8 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 	'response.write strSql
 	'response.end
 
+	vlr_unit = objRetorno("Valor_Pedido") / objRetorno("Ingressos")
+
 	If Not objRetorno.EOF Then
 		'// Monta as colunas de header do documento?
 		Response.Write("<table border=1>")
@@ -107,7 +109,8 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 		Response.Write("<th>CPF</th>")
 		Response.Write("<th>E-mail</th>")
 		Response.Write("<th>Ingressos</th>")
-		Response.Write("<th>Valor</th>")
+		Response.Write("<th>Valor Unit</th>")
+		Response.Write("<th>Valor Total</th>")
 		Response.Write("<th>Data</th>")
 		Response.Write("<th>Status</th>")
 		Response.Write("<th>Código Paypal</th>")
@@ -135,7 +138,8 @@ Response.AddHeader "Content-Disposition", "attachment; filename=" & NomeArquivo(
 			Response.Write("<td style=""mso-number-format:\@"">" & objRetorno("CPF") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Email") & "</td>")
 			Response.Write("<td>" & objRetorno("Ingressos") & "</td>")
-			Response.Write("<td style=""mso-number-format:'0\.00'"">" & objRetorno("Valor_Pedido") & "</td>")
+			Response.Write("<td style=""mso-number-format:'0\.00'"">" & vlr_unit & "</td>")
+			Response.Write("<td style=""mso-number-format:'0\.00'"">" & vlr_unit & "</td>")
 			Response.Write("<td>" & objRetorno("Data_Pedido") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Status_PTB") & "</td>")
 			Response.Write("<td nowrap>" & objRetorno("Codigo_Paypal") & "</td>")

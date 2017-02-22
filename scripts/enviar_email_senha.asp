@@ -198,7 +198,7 @@ Idioma 	= id_idioma
 						"<td align='right'><img src='http://credenciamento.btsinforma.com.br" & RS_Edicoes_Configuracao("Logo_Box") & "'/></td>" &_
 						"</tr>" &_
 						"</table>" &_
-						"<br /><div style=""font-size:17px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;"">Sua compra foi realizada com sucesso! Retire seu ingresso nos guichês de atendimento na entrada da ABF Franchising Expo 2016 – Expo Center Norte</div><br /><br />" &_
+						"<br /><div style=""font-size:17px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;"">Sua compra foi realizada com sucesso! Retire seu ingresso nos guichÃªs de atendimento na entrada da ABF Franchising Expo 2017 Â– Expo Center Norte</div><br /><br />" &_
 						"<table width='520' border='0' align='center' cellpadding='0' cellspacing='0'> " &_
 						"<tr><td class='bemvindo'>&nbsp;</td></tr>" &_
 						"<tr>" &_
@@ -320,9 +320,9 @@ Idioma 	= id_idioma
 		comprovante = comprovante & "<br/>"
 		comprovante = comprovante & "<table width='520' border='0' align='center' cellpadding='0' cellspacing='0'><tr><td><font size='1' face='verdana'>"
 		comprovante = comprovante & "<div align='center'><img src='http://credenciamento.btsinforma.com.br/img/geral/logos/faixa_abf_2017.png'/></div><br><br>"
-		comprovante = comprovante & "- Para retirar seu ingresso e a credencial para acesso ao evento, tenha em mãos seu comprovante de compra e seu CPF.<br>"
-		comprovante = comprovante & "- O ingresso é pessoal e intransferível, sendo obrigatória a apresentação do CPF para sua retirada.<br>"
-		comprovante = comprovante & "- Não será permitida a entrada de pessoas trajando bermudas, camiseta regata e/ou chinelos.<br>"
+		comprovante = comprovante & "- Para retirar seu ingresso e a credencial para acesso ao evento, tenha em mÃ£os seu comprovante de compra e seu CPF.<br>"
+		comprovante = comprovante & "- O ingresso Ã© pessoal e intransferÃ­vel, sendo obrigatÃ³ria a apresentaÃ§Ã£o do CPF para sua retirada.<br>"
+		comprovante = comprovante & "- NÃ£o serÃ¡ permitida a entrada de pessoas trajando bermudas, camiseta regata e/ou chinelos.<br>"
 		comprovante = comprovante & "- Proibida a entrada de menores de 16 anos desacompanhados.<br>"
 		comprovante = comprovante & "</font></td></tr></table>"
 		comprovante = comprovante & "</body>"
