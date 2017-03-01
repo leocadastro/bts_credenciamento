@@ -339,7 +339,7 @@ Idioma 	= id_idioma
 
 	Set Mail = Server.CreateObject("Persits.MailSender")
 
-	Mail.CharSet = "ISO-8859-1"
+	'Mail.CharSet = "ISO-8859-1"
 
 		Mail.CharSet = "ISO-8859-1"
 		Mail.Username = "btsinforma"
@@ -355,7 +355,7 @@ Idioma 	= id_idioma
 	'Mail.AddBCC Trim(RS_Verifica("email_copia"))
 	'Mail.AddBCC "guilherme.ribeiro@informa.com" 				' cópia TI
 	'Mail.AddBCC "gabriel.petro@informa.com" 				' cópia ATENDIMENTO
-	Mail.AddBCC "leonardocadastro69@informa.com" 				' cópia TI
+	Mail.AddBCC "leonardocadastro69@gmail.com"				' cópia TI
 
 	Mail.Subject = assunto
 	Mail.Body = html
