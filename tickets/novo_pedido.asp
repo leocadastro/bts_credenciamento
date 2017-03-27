@@ -158,9 +158,150 @@ CPF_Visitante           = Session("cliente_cpf")
 <script language="javascript" src="/js/jquery.alerts.js"></script>
 <script language="javascript" src="/js/validar_forms.js"></script>
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
+<script language="javascript" src="/js/jquery.translate.js"></script>
 
 <!-- Script desta página -->
 <script language="javascript" src="default.js" charset="utf-8"></script>
+
+<script language="javascript">
+$(function() {
+
+  var t = {
+    text1: {
+	  pt: "Olá",
+      en: "Hello",
+	  es: "Hola"
+    },
+	text2: {
+	  pt: "Menu",
+      en: "Menu",
+	  es: "Menú"
+    },
+	text3: {
+	  pt: "Meus Pedidos",
+      en: "My purchase orders",
+	  es: "Mis pedidos"
+    },
+	text4: {
+	  pt: "Continuar pedido",
+      en: "Continue with the purchase order",
+	  es: "Continuar pedido"
+    },
+	text5: {
+	  pt: "Suporte: visitante.abf@informa.com",
+      en: "Support: visitante.abf@informa.com",
+	  es: "Asistencia: visitante.abf@informa.com"
+    },
+	text6: {
+	  pt: "Suporte:",
+      en: "Support:",
+	  es: "Asistencia:"
+    },
+	text7: {
+	  pt: "Pedido n°:",
+      en: "Purchase Order number:",
+	  es: "Pedido número:"
+    },
+	text8: {
+	  pt: "Pessoas em meu pedido:",
+      en: "People in my purchase order:",
+	  es: "Personas en mi pedido:"
+    },
+	text9: {
+	  pt: "Compre ingresso para outras pessoas",
+      en: "Buy tickets for other people",
+	  es: "Comprar entradas para los demás"
+    },
+	text10: {
+	  pt: "Ainda não há pessoas adicionadas ao seu Pedido!",
+      en: "There are no people added to your order!",
+	  es: "No hay personas agregado a su petición!"
+    },
+	text11: {
+	  pt: "Utilize a busca abaixo para poder adicionar pessoas ao seu Pedido.",
+      en: "Use the search below to add people to your Order.",
+	  es: "Utilice el buscador de abajo para poder agregar personas a su solicitud."
+    },
+	text12: {
+	  pt: "Valor Total:",
+      en: "Total Amount:",
+	  es: "Cantidad Total:"
+    },
+	text13: {
+	  pt: "Atenção",
+      en: "Attention",
+	  es: "Attention"
+    },
+	text14: {
+	  pt: "Cada ingresso é válido para os 04 dias da feira, podendo ser adquiridos antecipadamente por meio do site do evento ao custo de R$ 60,00 até dia 20 de junho de 2017.",
+      en: "Each ticket is valid for the 4 days of the fair, and can be purchased in advance on the event’s website at the cost of BRL$ 60.00 until June 20, 2017.",
+	  es: "Cada billete es válido para los 04 días de la feria, que se pueden adquirir con antelación por medio del sitio web del evento con un costo de R$ 60,00 hasta el día 20 de junio de 2017."
+    },
+	text15: {
+	  pt: "Caso deixe para comprar durante a realização do evento, de 21 a 24 de junho de 2017, na bilheteria local ou pelo site custará R$ 70,00.",
+      en: "If you prefer to buy the ticket during the event, from June 21 to 24, 2017, at the local ticket office or on the website, the ticket will cost BRL$ 70.00.",
+	  es: "Si realiza la compra durante la realización del evento, del 21 al 24 de junio de 2017, en la boletería del local o a través del sitio web costará R$ 70,00."
+    },
+	text16: {
+	  pt: "Atenção",
+      en: "Attention",
+	  es: "Attention"
+    },
+	text17: {
+	  pt: "Concluir a compra",
+      en: "Complete this purchase order",
+	  es: "Concluir este pedido"
+    },
+	text18: {
+	  pt: "Se quiser comprar ingressos para outras pessoas, utilize o quadro de busca abaixo. A busca deverá ser feita pelo número do <font style='font-weight: bold'>CPF</font> ou <font style='font-weight: bold'>E-mail</font>, em caso de estrangeiros.<br><font style='font-size: 10px'><em>Obs.: para que o <strong>CPF</strong> ou <strong>E-mail</strong> constem em nossa base de dados, é necessário que estas pessoas já tenham feito seu credenciamento.</em></font>",
+      en: "If you want to buy tickets for other people, use the search chart below.  The search shall be done by the <font style='font-weight: bold'>CPF number</font> or <font style='font-weight: bold'>E-mail</font>, in case of foreigners.<br><font style='font-size: 10px'><em>Note: For the <strong>CPF</strong> or <strong>E-mail</strong> to appear in our database, it is necessary for these people to have been already accredited.</em></font>",
+	  es: "Si desea comprar los billetes para otras personas, utilice el campo de búsqueda a continuación. La búsqueda se realizar con el número de identificación fiscal  <font style='font-weight: bold'>CPF</font> o <font style='font-weight: bold'>E-mail</font>, en el caso de extranjeros.<br><font style='font-size: 10px'><em>Obs.: para que el número de identificación fiscal <strong>CPF</strong> o <strong>E-mail</strong> consten en nuestra base de datos, es necesario que estas personas ya hayan realizado su acreditación.</em></font>"
+    },
+	text19: {
+	  pt: "BUSCA:",
+      en: "SEARCH:",
+	  es: "BÚSQUEDA"
+    },
+	text20: {
+	  pt: "Nova Compra",
+      en: "New purchase",
+	  es: "Nuevo pedido"
+    },
+	text21: {
+	  pt: "Você ainda não possui Pedido para este evento. Clique no botão abaixo para iniciar o seu primeiro Pedido.",
+      en: "You do not have Purchase Orders for this event yet.  Click On the button below to start your first Purchase Order.",
+	  es: "Todavía no tiene un Pedido para este evento. Haga clic en el botón a continuación para iniciar su primer Pedido."
+    },
+	text22: {
+	  pt: "Comprar meu Ticket Agora",
+      en: "Purchase a ticket now",
+	  es: "Comprar billete ahora"
+    },
+	text23: {
+	  pt: "Novo Pedido",
+      en: "New purchase order ",
+	  es: "Nuevo pedido"
+    }
+	
+  };
+  var cookieLang = readCookie("lang");
+  if(cookieLang == null)
+	var _t = $('body').translate({lang: "pt", t: t});
+   else
+   var _t = $('body').translate({lang: cookieLang, t: t});
+   
+  var str = _t.g("translate");
+
+  
+  $(".lang_selector").click(function(ev) {
+    var lang = $(this).attr("data-value");
+    _t.lang(lang);
+	createCookie("lang",lang,100);
+    ev.preventDefault();
+  });
+});
+
+</script>
 
 <script language="javascript">
 var idioma_atual 	= '<%=Session("cliente_idioma")%>';
@@ -253,7 +394,7 @@ $(document).ready(function(){
 
             <table width="850" border="0" cellpadding="0" cellspacing="0">
                 <tr>
-                    <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b>Olá</b> <%=Nome_Visitante%></td>
+                    <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b class="trn" data-trn-key="text1">Olá</b> <%=Nome_Visitante%></td>
                     <td width="500" height="30" bgcolor="#414042" align="right"><img src="/img/botoes/voltar.gif" width="47" height="15" hspace="5" class="cursor" onClick="link('status.asp');"></td>
                     <td width="50" height="30" bgcolor="#414042" style=" border-left:#ccc 1px solid;" align="right"><img src="/img/botoes/sair.gif" width="47" height="15" class="cursor" onClick="CloseWindow();"></td>
                 </tr>
@@ -362,11 +503,11 @@ $(document).ready(function(){
 							'Cancelado 		= SQL_Cancelado("Cancelado")
 							If Tickets = False Then
 						%>
-                        <legend>Nova Compra</legend>
+                        <legend  class="trn" data-trn-key="text20">Nova Compra</legend>
                         <div id="parcAssis" class="div_parceria" style="width:580px; float: right; margin-top: 10px;">
                             <div style="padding: 10px 0 0; font-weight: 100">
-                            	Você ainda não possui Pedido para este evento. Clique no botão abaixo para iniciar o seu primeiro Pedido.
-                                <a href="#comprar-tickets" onclick="link('termo.asp')"><div class="bt_comprar_ticket" style="margin-top: 10px">Comprar meu Ticket Agora</div></a>
+                            	<p class="trn" data-trn-key="text21">Você ainda não possui Pedido para este evento. Clique no botão abaixo para iniciar o seu primeiro Pedido.</p>
+                                <a href="#comprar-tickets" onclick="link('termo.asp')"><div class="bt_comprar_ticket trn" style="margin-top: 10px" data-trn-key="text22">Comprar meu Ticket Agora</div></a>
                             </div>
 						<%Else
 
@@ -390,7 +531,7 @@ $(document).ready(function(){
 							</script>
 							<%End If%>
 
-							<legend>Pedido nº: <font style="font-size: 16px"><%=Numero_Pedido%></font></legend>
+							<legend><b class="trn" data-trn-key="text7">Pedido nº:</b> <font style="font-size: 16px"><%=Numero_Pedido%></font></legend>
 							<div id="parcAssis" class="div_parceria" style="width:580px; float: right; margin-top: 10px;">
 
 
@@ -463,7 +604,7 @@ $(document).ready(function(){
 
 								%>
 								<div style="margin-top: 10px; width: 575px; float: left; border-top: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #ffd51f">
-                                	Pessoas em meu pedido:
+                                	<label class="trn" data-trn-key="text8">Pessoas em meu pedido:</label>
                                     <%
 									SQL_Carrinho_Usuarios = "Select " &_
 															"	Count(*) As Quantidade " &_
@@ -510,12 +651,12 @@ $(document).ready(function(){
 
 								%>
 								<div style="margin-top: 10px; width: 575px; float: left; border-top: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #ffd51f">
-                                	Compre ingresso para outras pessoas
+                                	<label class="trn" data-trn-key="text9">Compre ingresso para outras pessoas</label>
                                 </div>
 
                                 <div style="display: none;">
 									<div style="width: 570px; height: 150px; float: left; font-size: 12px; border-top: 1px dotted #999; padding: 10px 5px;">
-										Ainda não há pessoas adicionadas ao seu Pedido! <br>Utilize a busca abaixo para poder adicionar pessoas ao seu Pedido.
+										<label class="trn" data-trn-key="text10">Ainda não há pessoas adicionadas ao seu Pedido!</label> <br><label class="trn" data-trn-key="text11">Utilize a busca abaixo para poder adicionar pessoas ao seu Pedido.</label>
 									</div>
 								<%
 								End If
@@ -523,7 +664,7 @@ $(document).ready(function(){
 								%>
 
 								<div style="width: 575px; float: left; font-size: 14px; border-bottom: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #CCC">
-									<font style="font-weight: 100;">Valor Total: &nbsp;</font>
+									<font style="font-weight: 100;" class="trn" data-trn-key="text12">Valor Total: &nbsp;</font>
 									<strong><%If Cint(Idioma_Pedido) = 1 Then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=Valor_Pedido%></strong>
 								</div>
 
@@ -548,16 +689,16 @@ $(document).ready(function(){
 
 								<div class="" style="font-size: smaller">
 									<br>
-									<p>Atenção</p>
-									<span>Cada ingresso é válido para os 04 dias da feira, podendo ser adquiridos antecipadamente por meio do site do evento ao custo de R$ 60,00 até dia 20 de junho de 2017. </span>
+									<p class="trn" data-trn-key="text13">Atenção</p>
+									<span class="trn" data-trn-key="text14">Cada ingresso é válido para os 04 dias da feira, podendo ser adquiridos antecipadamente por meio do site do evento ao custo de R$ 60,00 até dia 20 de junho de 2017. </span>
 									<br>
-									<span>Caso deixe para comprar durante a realização do evento, de 21 a 24 de junho de 2017, na bilheteria local ou pelo site custará R$ 70,00</span>
+									<span class="trn" data-trn-key="text15">Caso deixe para comprar durante a realização do evento, de 21 a 24 de junho de 2017, na bilheteria local ou pelo site custará R$ 70,00</span>
 									</div>
 
 								<table width="575" cellpadding="5" style=" display:none; text-align:left; margin-top:20px; float:left; background: #f5f5f5;">
 
 									<tr>
-										<td width="250"><span style="font-size:16px; font-weight:900;">Atencao:</span></td>
+										<td width="250"><span style="font-size:16px; font-weight:900;" class="trn" data-trn-key="text16">Atencao:</span></td>
 										<td></td>
 										<td></td>
 									</tr>
@@ -615,17 +756,17 @@ $(document).ready(function(){
 
 
                                 <div style="float: left; width: 100%">
-									<a href="#finalizar_pedido" onclick="ConfirmarCompra()"><div class="bt_fechar_pedido" style="float: right">Concluir a compra</div></a>
+									<a href="#finalizar_pedido" onclick="ConfirmarCompra()"><div class="bt_fechar_pedido trn" style="float: right" data-trn-key="text17">Concluir a compra</div></a>
 								</div>
                                 <%End If%>
 
-								<div style="float: left; width: 100%; margin-top: 10px; padding: 10px 0 0; font-weight: 100; border-top: 1px dotted #999">
+								<div style="float: left; width: 100%; margin-top: 10px; padding: 10px 0 0; font-weight: 100; border-top: 1px dotted #999" class="trn" data-trn-key="text18">
 								Se quiser comprar ingressos para outras pessoas, utilize o quadro de busca abaixo. A busca deverá ser feita pelo número do <font style="font-weight: bold">CPF</font> ou <font style="font-weight: bold">E-mail</font>, em caso de estrangeiros.<br>
 								<font style="font-size: 10px"><em>Obs.: para que o <strong>CPF</strong> ou <strong>E-mail</strong> constem em nossa base de dados, é necessário que estas pessoas já tenham feito seu credenciamento.</em></font>
 								</div>
 
 								<label style="width:400px; margin-left: -5px;">
-									<div style="width: 400px;">BUSCA:</div>
+									<div style="width: 400px;" class="trn" data-trn-key="text19">BUSCA:</div>
 									<input id="formBusca" type="text" maxlength="100" max="100" style="width:200px; padding: 1px; height: 18px;" name="frmID_Visitante">
 									<a href="#buscar" onclick="buscar_visitante()"><div class="bt_buscar" style="float: left;">Concluir a compra</div></a>
 								</label>
@@ -684,12 +825,35 @@ $(document).ready(function(){
 									}
 
 									function Erros_Busca(valor){
+										var langMsg = readCookie("lang");
 										if(valor==0){
-											jAlert('Este <strong>CPF</strong> não está cadastrado em nosso banco de dados. Para efetuar a compra de ingressos, a pessoa dona deste <strong>CPF</strong> deverá efetuar seu credenciamento previamente.','CPF não encontrado!');
+												if(langMsg == null)
+													jAlert('Este <strong>CPF</strong> não está cadastrado em nosso banco de dados. Para efetuar a compra de ingressos, a pessoa dona deste <strong>CPF</strong> deverá efetuar seu credenciamento previamente.','CPF não encontrado!');
+												else if(langMsg == "es")
+													jAlert('Este <strong>Número de identificación fiscal (CPF)</strong> no está registrado en nuestro banco de datos. Para realizar compra de billetes, el titular de este <strong>Número de identificación fiscal (CPF)</strong> deberá realizar su acreditación previamente.','Número de identificación fiscal (CPF) no encontrado!');
+												else if(langMsg == "en")
+													jAlert('This <strong>CPF</strong> is not registered in our database. To make the ticket purchase, the person, who owns this  <strong>CPF</strong> , shall register himself/herself in advance.','CPF not found!');
+												else
+													jAlert('Este <strong>CPF</strong> não está cadastrado em nosso banco de dados. Para efetuar a compra de ingressos, a pessoa dona deste <strong>CPF</strong> deverá efetuar seu credenciamento previamente.','CPF não encontrado!');
+												
 										}else if(valor==1){
-											jAlert('Este <strong>CPF</strong> já comprou ingresso em outro Pedido!','CPF encontrado!');
+												if(langMsg == null)
+													jAlert('Este <strong>CPF</strong> já comprou ingresso em outro Pedido!','CPF encontrado!');
+												else if(langMsg == "es")
+													jAlert('¡Este <strong>número de identificación fiscal (CPF)</strong> ya ha comprado el billete en otro Pedido!','Número de identificación fiscal (CPF) encontrado!');
+												else if(langMsg == "en")
+														jAlert('This <strong>CPF</strong> has already purchased a ticket in another Purchase order!','CPF found!');
+												else	
+													jAlert('Este <strong>CPF</strong> já comprou ingresso em outro Pedido!','CPF encontrado!');
 										}else if(valor==2){
-											jAlert('Este <strong>CPF</strong> já está em seu Pedido!','CPF encontrado!');
+												if(langMsg == null)
+													jAlert('Este <strong>CPF</strong> já está em seu Pedido!','CPF encontrado!');
+												else if(langMsg == "es")
+													jAlert('¡Este <strong>número de identificación fiscal (CPF)</strong> ya está en su Pedido!','Número de identificación fiscal (CPF) encontrado!');
+												else if(langMsg == "en")
+													jAlert('This <strong>CPF</strong> is already in your Purchase order!','CPF found!');
+												else
+													jAlert('Este <strong>CPF</strong> já está em seu Pedido!','CPF encontrado!');
 										}else if(valor==3){
 											jAlert('Campo <strong>OBRIGATÓRIO</strong>.<br>Digite um CPF ou Passaporte para localizar um visitante!','Aviso!');
 										}else if(valor==4){
@@ -700,37 +864,101 @@ $(document).ready(function(){
 									}
 
 									function ValidarData(){
-										jPrompt('Por motivo de segurança, digite a <strong>DATA DE NASCIMENTO (dd/mm/aaaa)</strong> da pessoa que você quer adicionar ao seu <strong>Pedido</strong>','','Confirmação de Dados!', function(data){
-											MontaData = data.split("/");
-											//alert(data);
+										var langMsg = readCookie("lang");
+										if(langMsg == null)
+										{
+												jPrompt('Por motivo de segurança, digite a <strong>DATA DE NASCIMENTO (dd/mm/aaaa)</strong> da pessoa que você quer adicionar ao seu <strong>Pedido</strong>','','Confirmação de Dados!', function(data){
+												MontaData = data.split("/");
+												//alert(data);
 
-											NascimentoA = MontaData[0] + MontaData[1] +  MontaData[2];
-											//alert(NascimentoA);
+												NascimentoA = MontaData[0] + MontaData[1] +  MontaData[2];
+												//alert(NascimentoA);
 
-											NascimentoB = $("#NascVisitante").val();
-											//alert(NascimentoB);
-											if (NascimentoA == NascimentoB ) {
-												$("#form_pedidos").submit();
-											} else {
-												jAlert('Os dados não conferem.<br><br>Tente novamente.','Erro!');
-											}
-										});
+												NascimentoB = $("#NascVisitante").val();
+												//alert(NascimentoB);
+												if (NascimentoA == NascimentoB ) {
+													$("#form_pedidos").submit();
+												} else {
+													jAlert('Os dados não conferem.<br><br>Tente novamente.','Erro!');
+												}
+											});
+										}
+										else if(langMsg == "es"){
+												jPrompt('Por motivo de seguridad, ingrese al <strong>FECHA DE NACIMIENTO (dd/mm/aaaa)</strong> de la persona que desea agregar a su <strong>Pedido</strong>','','Confirmar los datos!', function(data){
+												MontaData = data.split("/");
+												//alert(data);
+
+												NascimentoA = MontaData[0] + MontaData[1] +  MontaData[2];
+												//alert(NascimentoA);
+
+												NascimentoB = $("#NascVisitante").val();
+												//alert(NascimentoB);
+												if (NascimentoA == NascimentoB ) {
+													$("#form_pedidos").submit();
+												} else {
+													jAlert('Los datos no coinciden.<br><br>Intente de nuevo.','Erro!');
+												}
+											});
+										}
+										else if(langMsg == "en"){
+												jPrompt('For security reasons, type the <strong>DATE OF BIRTH (day/month/year)</strong> of the person, who you want to add to your <strong>Purchase order</strong>','','Data confirmation!', function(data){
+												MontaData = data.split("/");
+												//alert(data);
+
+												NascimentoA = MontaData[0] + MontaData[1] +  MontaData[2];
+												//alert(NascimentoA);
+
+												NascimentoB = $("#NascVisitante").val();
+												//alert(NascimentoB);
+												if (NascimentoA == NascimentoB ) {
+													$("#form_pedidos").submit();
+												} else {
+													jAlert('Data does not match.<br><br>Try again.','Error!');
+												}
+											});
+										}
+										else
+										{
+											jPrompt('Por motivo de segurança, digite a <strong>DATA DE NASCIMENTO (dd/mm/aaaa)</strong> da pessoa que você quer adicionar ao seu <strong>Pedido</strong>','','Confirmação de Dados!', function(data){
+												MontaData = data.split("/");
+												//alert(data);
+
+												NascimentoA = MontaData[0] + MontaData[1] +  MontaData[2];
+												//alert(NascimentoA);
+
+												NascimentoB = $("#NascVisitante").val();
+												//alert(NascimentoB);
+												if (NascimentoA == NascimentoB ) {
+													$("#form_pedidos").submit();
+												} else {
+													jAlert('Os dados não conferem.<br><br>Tente novamente.','Erro!');
+												}
+											});
+										}
 										}
 
 										function ConfirmarCompra(){
-											jConfirm('Você deseja finalizar o seu Pedido e realizar o Pagamento?','Finalizar Pedido?', function(data){
-												if(data==true){
-													$("#FinalizarPedido").submit();
-												}
-											});
+												var langMsg = readCookie("lang");
+												if(langMsg == null)
+													jConfirm('Você deseja finalizar o seu Pedido e realizar o Pagamento?','Finalizar Pedido?', function(data){if(data==true){$("#FinalizarPedido").submit();}});
+												else if(langMsg == "es")
+													jConfirm('¿Usted quiere concluir su Pedido y realizar el Pago?','Concluir pedido?', function(data){if(data==true){$("#FinalizarPedido").submit();}});
+												else if(langMsg == "en")
+													jConfirm('Do you want to finalize your Purchase order and make the payment?','Finalize purchase order?', function(data){if(data==true){$("#FinalizarPedido").submit();}});
+												else
+													jConfirm('Você deseja finalizar o seu Pedido e realizar o Pagamento?','Finalizar Pedido?', function(data){if(data==true){$("#FinalizarPedido").submit();}});
 										}
 
 										function RemoverVisitante(ID,PEDIDO){
-											jConfirm('Você tem certeza que deseja remover esta pessoa?','Remover Visitante?', function(data){
-												if(data==true){
-													window.location = '/tickets/pedido.asp?acao=remover&aceito=1&id='+ID+'&pedido='+PEDIDO;
-												}
-											});
+											var langMsg = readCookie("lang");
+											if(langMsg == null)
+												jConfirm('Você tem certeza que deseja remover esta pessoa?','Remover Visitante?', function(data){if(data==true){window.location = '/tickets/pedido.asp?acao=remover&aceito=1&id='+ID+'&pedido='+PEDIDO;}});
+											else if(langMsg == "es")
+												jConfirm('¿Está seguro que desea eliminar esta persona?','¿Eliminar visitante?', function(data){if(data==true){$("#FinalizarPedido").submit();}});
+											else if(langMsg == "en")
+												jConfirm('Are you sure that you want to remove this person?','Remove visitor?', function(data){if(data==true){$("#FinalizarPedido").submit();}});
+											else
+												jConfirm('Você tem certeza que deseja remover esta pessoa?','Remover Visitante?', function(data){if(data==true){window.location = '/tickets/pedido.asp?acao=remover&aceito=1&id='+ID+'&pedido='+PEDIDO;}});
 										}
 								</script>
 

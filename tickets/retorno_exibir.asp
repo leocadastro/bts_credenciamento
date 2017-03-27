@@ -368,6 +368,131 @@ If Not RS_Consulta_Pedido. Eof Then
 	<script language="javascript" src="/js/jquery.alerts.js"></script>
 	<script language="javascript" src="/js/validar_forms.js"></script>
 	<script language="javascript" src="/js/funcoes_gerais.js"></script>
+	<script language="javascript" src="/js/jquery.translate.js"></script>
+	
+	<script language="javascript">
+$(function() {
+
+  var t = {
+    text1: {
+	  pt: "Olá",
+      en: "Hello",
+	  es: "Hola"
+    },
+	text2: {
+	  pt: "Menu",
+      en: "Menu",
+	  es: "Menú"
+    },
+	text3: {
+	  pt: "Meus Pedidos",
+      en: "My purchase orders",
+	  es: "Mis pedidos"
+    },
+	text4: {
+	  pt: "Continuar pedido",
+      en: "Continue with the purchase order",
+	  es: "Continuar pedido"
+    },
+	text5: {
+	  pt: "Suporte: visitante.abf@informa.com",
+      en: "Support: visitante.abf@informa.com",
+	  es: "Asistencia: visitante.abf@informa.com"
+    },
+	text6: {
+	  pt: "Suporte:",
+      en: "Support:",
+	  es: "Asistencia:"
+    },
+	text7: {
+	  pt: "Pedido n°:",
+      en: "Purchase Order number:",
+	  es: "Pedido número:"
+    },
+	text23: {
+	  pt: "Novo Pedido",
+      en: "New purchase order",
+	  es: "Nuevo pedido"
+    },
+	text8: {
+	  pt: "Detalhes do Pagamento:",
+      en: "Payment details:",
+	  es: "Detalles del pago:"
+    },
+	text9: {
+	  pt: "Pagamento:",
+      en: "Payment:",
+	  es: "Pago:"
+    },
+	text10: {
+	  pt: "Numero do Pedido:",
+      en: "Purchase order number:",
+	  es: "Número del pedido:"
+    },
+	text11: {
+	  pt: "Transa&ccedil;&atilde;o:",
+      en: "Transaction:",
+	  es: "Transacci&oacute;n:"
+    },
+	text12: {
+	  pt: "Token PayPal:",
+      en: "PayPal Token:",
+	  es: "Token PayPal:"
+    },
+	text13: {
+	  pt: "Valor Pago:",
+      en: "Amount paid:",
+	  es: "Valor pagado:"
+    },
+	text14: {
+	  pt: "Pagamento:",
+      en: "Payment:",
+	  es: "Pago:"
+    },
+	text15: {
+	  pt: "Recusado",
+      en: "Refused",
+	  es: "Disminuido"
+    },
+	text16: {
+	  pt: "Verifique a forma de pagamento na sua conta PayPal.",
+      en: "Check the form of payment in your PayPal account.",
+	  es: "Compruebe la forma de pago en su cuenta PayPal."
+    },
+	text17: {
+	  pt: "Sua compra foi realizada com sucesso! Retire seu ingresso nos guich&ecirc;s de atendimento na entrada da ABF Franchising Expo 2017 - Expo Center Norte",
+      en: "Your purchase has been successfully completed!  Take your ticket at the ticket office at the entrance of ABF Franchising Expo 2017 - Expo Center Norte",
+	  es: "¡Su compra ha sido realizada con &etilde;xito! Retire sus billetes en las ventanillas de atención en la entrada de ABF Franchising Expo 2017 - Expo Center Norte"
+    },
+	text18: {
+	  pt: "Caso queira comprar ingresso para outra pessoa, basta clicar em <font style='font-weight: bold'><em>'Novo pedido'</em></font> no menu lateral e realizar uma busca por <font style='font-weight: bold'><em>CPF</em></font> ou <font style='font-weight: bold'><em>email</em></font>, em caso de estrangeiros.<br>Para que o <font style='font-weight: bold'><em>CPF</em></font> ou <font style='font-weight: bold'><em>Email</em></font> constem em nossa base de dados, &eacute; necess&aacute;rio que estas pessoas j&aacute; tenham feito seu credenciamento.",
+      en: "If you want to buy a ticket for another person, just click on <font style='font-weight: bold'><em>'New purchase order'</em></font>  in the side menu and search by <font style='font-weight: bold'><em>CPF</em></font> or  <font style='font-weight: bold'><em>passport</em></font>, in case of foreigners.<br>For the  <font style='font-weight: bold'><em>CPF</em></font> or <font style='font-weight: bold'><em>Passport</em></font>  to appear in our database, it is necessary for these people to have been already accredited.",
+	  es: "Si desea comprar billete para otra persona, haga clic en <font style='font-weight: bold'><em>'Nuevo pedido'</em></font> en el menú lateral y realizar una búsqueda por <font style='font-weight: bold'><em>número de identificación fiscal (CPF)</em></font> o <font style='font-weight: bold'><em>pasaporte</em></font>, en el caso de extranjeros.<br>Para que el <font style='font-weight: bold'><em>Número de identificación fiscal (CPF)</em></font> o <font style='font-weight: bold'><em>Pasaporte</em></font> consten en nuestra base de datos, es necesario que estas personas ya hayan realizado su acreditación."
+    },
+	text19: {
+	  pt: "Aprovado",
+      en: "Approved",
+	  es: "Aprobado"
+    }
+};
+  var cookieLang = readCookie("lang");
+  if(cookieLang == null)
+	var _t = $('body').translate({lang: "pt", t: t});
+   else
+   var _t = $('body').translate({lang: cookieLang, t: t});
+   
+  var str = _t.g("translate");
+
+  
+  $(".lang_selector").click(function(ev) {
+    var lang = $(this).attr("data-value");
+    _t.lang(lang);
+	createCookie("lang",lang,100);
+    ev.preventDefault();
+  });
+});
+
+</script>
 
 	<!-- Script desta página -->
 	<script language="javascript" src="default.js" charset="utf-8"></script>
@@ -487,8 +612,8 @@ If Not RS_Consulta_Pedido. Eof Then
 					<form id="form_pedidos" name="form_pedidos" onsubmit="return false" action="/tickets/pedido.asp" method="post">
 						<fieldset style="float: right; width: 580px;">
 
-							<legend>Detalhes do Pagamento:
-							</legend><div id="parcAssis" class="div_parceria" style="width:580px; float: right; margin-top: 10px;">
+							<legend class="trn" data-trn-key="text8">Detalhes do Pagamento:</legend>
+							<div id="parcAssis" class="div_parceria" style="width:580px; float: right; margin-top: 10px;">
 
 
 									<div style="font-weight: 100; width: 575px; float: left; font-size: 14px; font-size: 14px; padding: 5px 0 5px 5px;">
@@ -503,11 +628,11 @@ If Not RS_Consulta_Pedido. Eof Then
 
                                             </div>
 											<br><br>
-                                            <div style="padding: 5px 0; width: 180px; float: left">Pagamento:</div> 								<div style="padding: 5px 0; font-weight: 900">Aprovado</div>
-                                            <div style="padding: 5px 0; width: 180px; float: left">Numero do Pedido:</div>							<div style="padding: 5px 0; font-weight: 900"><%=session("Numero_Pedido")%></div>
-                                            <div style="padding: 5px 0; width: 180px; float: left">Transa&ccedil;&atilde;o:</div> 					<div style="padding: 5px 0; font-weight: 900"><%="Aprovada"%></div>
-                                            <div style="padding: 5px 0; width: 180px; float: left">Token Paypal:</div> 	<div style="padding: 5px 0; font-weight: 900"><%=session("token")%></div>
-                                            <div style="padding: 5px 0; width: 180px; float: left">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900"><%If Cint(Idioma) = 1 then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=FormatNumber(session("finalPaymentAmount"),2)%></div>
+                                            <div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text9">Pagamento:</div> 								<div style="padding: 5px 0; font-weight: 900" class="trn" data-trn-key="text19">Aprovado</div>
+                                            <div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text10">Numero do Pedido:</div>							<div style="padding: 5px 0; font-weight: 900"><%=session("Numero_Pedido")%></div>
+                                            <div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text11">Transa&ccedil;&atilde;o:</div> 					<div style="padding: 5px 0; font-weight: 900"><%="Aprovada"%></div>
+                                            <div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text12">Token Paypal:</div> 	<div style="padding: 5px 0; font-weight: 900"><%=session("token")%></div>
+                                            <div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text13">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900"><%If Cint(Idioma) = 1 then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=FormatNumber(session("finalPaymentAmount"),2)%></div>
 
 										<%
 										'Session("cliente_enviar_email") = 0
@@ -525,18 +650,18 @@ If Not RS_Consulta_Pedido. Eof Then
 										Else
 										%>
                                         	<br /><br />
-											<div style="width: 100px; float: left">Pagamento:</div> <div style="font-weight: 900;">Recusado</div><br>
+											<div style="width: 100px; float: left" class="trn" data-trn-key="text14">Pagamento:</div> <div style="font-weight: 900;" class="trn" data-trn-key="text15">Recusado</div><br>
                                             <div style="width: 100%; float: left"></div><br>
-                                            <div style="width: 100%; float: left"><em><strong>Verifique a forma de pagamento na sua conta paypal.</strong></em></div><br><br>
+                                            <div style="width: 100%; float: left"><em><strong class="trn" data-trn-key="text16">Verifique a forma de pagamento na sua conta paypal.</strong></em></div><br><br>
                                         <%End If%>
 									</div>
                                     <%
 									' Se pedido APROVADO
 									If Aprovacao = True Then
 										%>
-										<br /><div style="font-size:16px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;">Sua compra foi realizada com sucesso! Retire seu ingresso nos guich�s de atendimento na entrada da ABF Franchising Expo 2017 - Expo Center Norte</div><br /><br />
+										<br /><div style="font-size:16px; color:#1F497D; font-weight:bold; font-family:'Calibri','sans-serif'; text-align:center;" class="trn" data-trn-key="text17">Sua compra foi realizada com sucesso! Retire seu ingresso nos guich&ecirc;s de atendimento na entrada da ABF Franchising Expo 2017 - Expo Center Norte</div><br /><br />
 
-										<div style="float: left; width: 560px; background-color:#fff; font-weight:normal; padding:10px; border-top: 1px dotted #ccc; border-bottom: 1px dotted #ccc; line-height:18px;">
+										<div style="float: left; width: 560px; background-color:#fff; font-weight:normal; padding:10px; border-top: 1px dotted #ccc; border-bottom: 1px dotted #ccc; line-height:18px;" class="trn" data-trn-key="text18">
 											Caso queira comprar ingresso para outra pessoa, basta clicar em <font style="font-weight: bold"><em>"Novo pedido"</em></font> no menu lateral e realizar uma busca por <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>email</em></font>,
                                             em caso de estrangeiros.<br>Para que o <font style="font-weight: bold"><em>CPF</em></font> ou <font style="font-weight: bold"><em>Email</em></font> constem em nossa base de dados, &eacute; necess&aacute;rio que estas pessoas j&aacute; tenham feito seu credenciamento.
 										</div>

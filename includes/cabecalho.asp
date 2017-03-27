@@ -14,6 +14,7 @@
 			titulo 		= "/img/geral/nome_cabecalho.gif"
 	End Select
 %>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="33%" align="center">&nbsp;</td>
@@ -35,9 +36,9 @@
                           <!--<a href="javascript:jAlert('1','2');"><img id="img_bt_ajuda" src="<%=bt_ajuda%>" title="" alt="" border="0">--></a>
                           </td>
                           <td align="right">
-                          <% If Session("cliente_idioma") = "" Then %>
+                          
                                <img src="/img/geral/idiomas.gif" hspace="20" border="0" usemap="#idiomas" />
-                          <% End If %>
+                          
                           </td>
                       </tr>
                     </table></td>
@@ -59,7 +60,7 @@
   </tr>
 </table>
 <map name="idiomas">
-  <area shape="rect" coords="0,0,45,28" 	href="javascript:idioma(1);" alt="Portugu&ecirc;s" title="Portugu&ecirc;s" />
-  <area shape="rect" coords="48,0,93,28" 	href="javascript:idioma(2);" alt="Espa&ntilde;hol" title="Espa&ntilde;hol" />
-  <area shape="rect" coords="95,0,138,28" 	href="javascript:idioma(3);" alt="English" title="English" />
+  <area shape="rect" coords="0,0,45,28" 	class="lang_selector" data-value="pt" href="javascript:idioma(1);" alt="Portugu&ecirc;s" title="Portugu&ecirc;s" />
+  <area shape="rect" coords="48,0,93,28" 	class="lang_selector" data-value="es" href="javascript:idioma(2);" alt="Espa&ntilde;hol" title="Espa&ntilde;hol" />
+  <area shape="rect" coords="95,0,138,28" 	class="lang_selector" data-value="en" href="javascript:idioma(3);" alt="English" title="English" />
 </map>

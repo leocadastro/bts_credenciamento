@@ -15,10 +15,156 @@
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
 <script language="javascript" src="/js/jquery.alerts.js"></script>
 <script language="javascript" src="/js/showpage.js"></script>
+<script language="javascript" src="/js/jquery.translate.js"></script>
 
 <!-- Script desta página -->
 <script language="javascript" src="cadastrar.js" charset="utf-8"></script>
 <!-- Script desta página FIM -->
+
+
+<script language="javascript">
+$(function() {
+
+   var t = {
+    text1: {
+	  pt: "Olá",
+      en: "Hello",
+	  es: "Hola"
+    },
+	text2: {
+	  pt: "Menu",
+      en: "Menu",
+	  es: "Menú"
+    },
+	text3: {
+	  pt: "Meus Pedidos",
+      en: "My purchase orders",
+	  es: "Mis pedidos"
+    },
+	text4: {
+	  pt: "Continuar pedido",
+      en: "Continue with the purchase order",
+	  es: "Continuar pedido"
+    },
+	text5: {
+	  pt: "Suporte: visitante.abf@informa.com",
+      en: "Support: visitante.abf@informa.com",
+	  es: "Asistencia: visitante.abf@informa.com"
+    },
+	text6: {
+	  pt: "Suporte:",
+      en: "Support:",
+	  es: "Asistencia:"
+    },
+	text7: {
+	  pt: "Meus pedidos:",
+      en: "My purchase orders:",
+	  es: "Mis pedidos:"
+    },
+	text8: {
+	  pt: "Lista de compras:",
+      en: "Purchase list:",
+	  es: "Lista de compras:"
+    },
+	text9: {
+	  pt: "Nome:",
+      en: "Name:",
+	  es: "Nombre:"
+    },
+	text10: {
+	  pt: "Email Comprovante:",
+      en: "Confirmation E-mail:",
+	  es: "E-mail comprobante:"
+    },
+	text11: {
+	  pt: "Nº Pedido:",
+      en: "Purchase order number:",
+	  es: "Número del Pedido:"
+    },
+	text12: {
+	  pt: "Total de Ingressos neste Pedido:",
+      en: "Total Tickets on this Order:",
+	  es: "Total de billetes en este orden:"
+    },
+	text13: {
+	  pt: "Nº Pedido:",
+      en: "Purchase order number:",
+	  es: "Número del Pedido:"
+    },
+	text14: {
+	  pt: "Ação",
+      en: "Action",
+	  es: "Acción"
+    },
+	text15: {
+	  pt: "Ingressos adquiridos",
+      en: "Purchased tickets",
+	  es: "Billetes adquiridos"
+    },
+	text16: {
+	  pt: "Nome Completo",
+      en: "Full name",
+	  es: "Nombre completo"
+    },
+	text17: {
+	  pt: "CPF / Passaporte",
+      en: "CPF / Passport",
+	  es: "Número de identificación fiscal (CPF)/Pasaporte"
+    },
+	text18: {
+	  pt: "Ação",
+      en: "Action",
+	  es: "Acción"
+    },
+	text19: {
+	  pt: "Histórico de Pagamento",
+      en: "Payment history",
+	  es: "Historial de pago"
+    },
+	text20: {
+	  pt: "Pedido:",
+      en: "Purchase order",
+	  es: "Pedido"
+    },
+	text21: {
+	  pt: "Transação",
+      en: "Transaction",
+	  es: "Transacción"
+    },
+	text22: {
+	  pt: "Cód. Autorização:",
+      en: "Authorization code",
+	  es: "Código de autorización"
+    },
+	text23: {
+	  pt: "Valor",
+      en: "Amount",
+	  es: "Cantidad"
+    },
+	text24: {
+	  pt: "Data e Hora",
+      en: "Date and Time",
+	  es: "Fecha y Hora"
+    }
+  };
+  var cookieLang = readCookie("lang");
+  if(cookieLang == null)
+	var _t = $('body').translate({lang: "pt", t: t});
+   else
+   var _t = $('body').translate({lang: cookieLang, t: t});
+   
+  var str = _t.g("translate");
+
+  
+  $(".lang_selector").click(function(ev) {
+    var lang = $(this).attr("data-value");
+    _t.lang(lang);
+	createCookie("lang",lang,100);
+    ev.preventDefault();
+  });
+});
+
+</script>
 
 <script language="javascript">
 
@@ -450,6 +596,7 @@ function Detalhes_Compra(ID){
 </table>
 </div>
 <!--#include virtual="/includes/cabecalho.asp"-->
+
 <div style="width: 100%; position: absolute; left:0px; float:left; z-index:10; height: 115px;" id="faixa_selecionada">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -504,7 +651,7 @@ function Detalhes_Compra(ID){
 
             <table width="850" border="0" cellpadding="0" cellspacing="0">
                 <tr>
-                    <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b>Olá</b> <%=Nome_Visitante%></td>
+                    <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b class="trn" data-trn-key="text1">Olá</b> <%=Nome_Visitante%></td>
                     <td width="500" height="30" bgcolor="#414042" align="right"></td>
                     <td width="50" height="30" bgcolor="#414042" style=" border-left:#ccc 1px solid;" align="right"><img src="/img/botoes/sair.gif" width="47" height="15" class="cursor" onClick="sair();"></td>
                 </tr>
@@ -544,7 +691,7 @@ function Detalhes_Compra(ID){
 
 				<form>
                 <fieldset style="float: right; width: 580px;">
-                <legend>Meus pedidos</legend>
+                <legend class="trn" data-trn-key="text7">Meus pedidos</legend>
                 <div id="parcAssis" class="div_parceria" style="width:580px; float: right;">
                 <%
 				'SQL_Lista_Pedidos = "Select " &_
@@ -582,12 +729,12 @@ function Detalhes_Compra(ID){
 
 				If Not RS_Lista_Pedidos.Eof Then
 				%>
-                <div style="padding: 0px 0 10px; font-weight: 100">
+                <div style="padding: 0px 0 10px; font-weight: 100" class="trn" data-trn-key="text8">
                     Lista de compras:
                 </div>
                 	<table cellpadding="0" cellspacing="0" width="100%">
 					<tr>
-					<td colspan="3" id="td_email_visitante">Nome: <%=RS_Lista_Pedidos("nome_completo")%><br>Email Comprovante: <%=RS_Lista_Pedidos("email_envia")%></td>
+					<td colspan="3" id="td_email_visitante"><b class="trn" data-trn-key="text9">Nome:</b> <%=RS_Lista_Pedidos("nome_completo")%><br><b class="trn" data-trn-key="text10">Email Comprovante:</b> <%=RS_Lista_Pedidos("email_envia")%></td>
 					<td><img src="/img/geral/icones/ico_editar.gif" border="0" onclick="exibe_campo('<%=RS_Lista_Pedidos("ID_Visitante")%>')" title="Alterar E-mail para envio de Confirmação" alt="Alterar E-mail para envio de Confirmação" style="cursor: pointer;"/><input type="hidden" id="id_visitante" value="<%=RS_Lista_Pedidos("id_visitante")%>"></td>
 
 					</tr>
@@ -600,10 +747,10 @@ function Detalhes_Compra(ID){
 												</tr>
 												<tr><td><br></td></tr>
                         <tr bgcolor="414042">
-                            <td style="padding: 5px; width: 130px; text-align: left; color: #ffffff;">Nº Pedido</td>
-                            <td style="padding: 5px; text-align: center; color: #ffffff;">Total de Ingressos neste Pedido</td>
-                            <td style="padding: 5px; width: 80px; text-align: center; color: #ffffff;">Valor</td>
-                            <td style="padding: 5px; width: 100px; text-align: center; color: #ffffff;">Ação</td>
+                            <td style="padding: 5px; width: 130px; text-align: left; color: #ffffff;" class="trn" data-trn-key="text11">Nº Pedido</td>
+                            <td style="padding: 5px; text-align: center; color: #ffffff;" class="trn" data-trn-key="text12">Total de Ingressos neste Pedido</td>
+                            <td style="padding: 5px; width: 80px; text-align: center; color: #ffffff;" class="trn" data-trn-key="text13">Valor</td>
+                            <td style="padding: 5px; width: 100px; text-align: center; color: #ffffff;" class="trn" data-trn-key="text14">Ação</td>
                         </tr>
 						<%
 
@@ -711,12 +858,12 @@ function Detalhes_Compra(ID){
                                         <td colspan="4">
                                             <table cellpadding="0" cellspacing="0" width="100%" style="border-top: 1px dotted #999">
                                                 <tr bgcolor="b6b6b6">
-                                                    <td colspan="3" style="padding: 5px; width: 175px; text-align: left; color: #414042">Ingressos adquiridos</td>
+                                                    <td colspan="3" style="padding: 5px; width: 175px; text-align: left; color: #414042" class="trn" data-trn-key="text15">Ingressos adquiridos</td>
                                                 </tr>
                                                 <tr bgcolor="CCCCCC">
-                                                    <td style="padding: 5px; width: 400px; text-align: left">Nome Completo</td>
-                                                    <td style="padding: 5px; width: 175px; text-align: center">CPF / Passaporte</td>
-                                                    <td style="padding: 5px; width: 100px; text-align: center">Ação</td>
+                                                    <td style="padding: 5px; width: 400px; text-align: left" class="trn" data-trn-key="text16">Nome Completo</td>
+                                                    <td style="padding: 5px; width: 175px; text-align: center" class="trn" data-trn-key="text17">CPF / Passaporte</td>
+                                                    <td style="padding: 5px; width: 100px; text-align: center" class="trn" data-trn-key="text18">Ação</td>
                                                 </tr>
                                                 <%
 												If CStr(ID_Visitante) <> CStr(RS_Lista_Pedidos("ID_Visitante")) Then
@@ -801,14 +948,14 @@ function Detalhes_Compra(ID){
                                         <td colspan="4">
                                             <table cellpadding="0" cellspacing="0" width="100%" style="border-top: 1px dotted #999">
                                                 <tr bgcolor="b6b6b6">
-                                                    <td colspan="5" style="padding: 3px; width: 175px; text-align: left; color: #414042">Histórico de Pagamento</td>
+                                                    <td colspan="5" style="padding: 3px; width: 175px; text-align: left; color: #414042" class="trn" data-trn-key="text19">Histórico de Pagamento</td>
                                                 </tr>
                                                 <tr bgcolor="CCCCCC">
-                                                    <td style="padding: 5px; width: 100px; text-align: left">Pedido</td>
-                                                    <td style="padding: 5px; width: 150px; text-align: center">Transação</td>
-                                                    <td style="padding: 5px; width: 150px; text-align: center">Cód. Autorização</td>
-                                                    <td style="padding: 5px; width: 80px; text-align: center">Valor</td>
-                                                    <td style="padding: 5px; width: 180px; text-align: center">Data e Hora</td>
+                                                    <td style="padding: 5px; width: 100px; text-align: left" class="trn" data-trn-key="text20">Pedido</td>
+                                                    <td style="padding: 5px; width: 150px; text-align: center" class="trn" data-trn-key="text21">Transação</td>
+                                                    <td style="padding: 5px; width: 150px; text-align: center" class="trn" data-trn-key="text22">Cód. Autorização</td>
+                                                    <td style="padding: 5px; width: 80px; text-align: center" class="trn" data-trn-key="text23">Valor</td>
+                                                    <td style="padding: 5px; width: 180px; text-align: center" class="trn" data-trn-key="text24">Data e Hora</td>
                                                 </tr>
                                                 <%
 

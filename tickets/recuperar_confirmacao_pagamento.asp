@@ -110,6 +110,91 @@ End If
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Credenciamento <%=Year(Now())%> - BTS Informa</title>
 	<link href="/css/confirmacao_pagamento.css" rel="stylesheet" type="text/css"/>
+	<script language="javascript" src="/js/jquery-1.3.2.min.js"></script>
+	<script language="javascript" src="/js/funcoes_gerais.js"></script>
+	<script language="javascript" src="/js/jquery.translate.js"></script>
+	<script language="javascript">
+		$(function() {
+
+		  var t = {
+			text1: {
+			  pt: "Confirmação de Compra do Ingresso",
+			  en: "Ticket purchase confirmation",
+			  es: "Confirmación de compra del billete"
+			},
+			text2: {
+			  pt: "Pagamento:",
+			  en: "Payment",
+			  es: "Pago"
+			},
+			text3: {
+			  pt: "Aprovado",
+			  en: "Approved",
+			  es: "Aprobado"
+			},
+			text4: {
+			  pt: "Numero do Pedido:",
+			  en: "Purchase order number:",
+			  es: "Numero del Pedido:"
+			},
+			text5: {
+			  pt: "Codigo PayPal:",
+			  en: "PayPal Code:",
+			  es: "Codigo PaypPal:"
+			},
+			text6: {
+			  pt: "Transa&ccedil;&atilde;o:",
+			  en: "Transaction:",
+			  es: "Transacci&oacute;n:"
+			},
+			text7: {
+			  pt: "C&oacute;d. da Autoriza&ccedil;&atilde;o:",
+			  en: "Authorization Code:",
+			  es: "C&oacute;d. de la Autorizaci&oacute;n:"
+			},
+			text8: {
+			  pt: "Valor Pago:",
+			  en: "Amount paid:",
+			  es: "Cantidad Pagada:"
+			},
+			text9: {
+			  pt: "NOME COMPLETO:",
+			  en: "FULL NAME:",
+			  es: "NOMBRE COMPLETO:"
+			},
+			text10: {
+			  pt: "TIPO",
+			  en: "TYPE",
+			  es: "TIPO"
+			},
+			text11: {
+			  pt: "DOCUMENTO",
+			  en: "DOCUMENT",
+			  es: "DOCUMENTO"
+			},
+			text12: {
+			  pt: "- Para retirar seu ingresso e a credencial para acesso ao evento, tenha em mãos seu comprovante de compra e seu CPF.<br>- O ingresso é pessoal e intransferível, sendo obrigatória a apresentação do CPF para sua retirada.<br>- Não será permitida a entrada de pessoas trajando bermudas, camiseta regata e/ou chinelos.<br>- Proibida a entrada de menores de 16 anos desacompanhados.<br><br/>",
+			  en: "- To take your ticket and credential to access the event, you must have your purchase receipt and your CPF.<br>- The ticket is personal and non-transferable, and presentation of the CPF for its withdraw is obligatory.<br>- People are not allowed to enter wearing shorts, tank tops and/or slippers.<br>- Unaccompanied minors under the age of 16 are prohibited to enter<br><br/>",
+			  es: "- Para retirar su billete y credencial de identificación para el evento, tenga a mano su comprobante de compra y su número de identificación fiscal (CPF).<br>- El billete es personal e intransferible, es obligatoria la presentación del número de identificación fiscal (CPF) para su retirada.<br>- No se permitirá el ingreso de personas que visten pantalones cortos, camiseta sin mangas y/o chancletas.<br>- Está prohibido la entrada de menores de 16 años sin acompañante<br><br/>"
+			}
+			};
+		  var cookieLang = readCookie("lang");
+		  if(cookieLang == null)
+			var _t = $('body').translate({lang: "pt", t: t});
+		   else
+		   var _t = $('body').translate({lang: cookieLang, t: t});
+		   
+		  var str = _t.g("translate");
+
+		  
+		  $(".lang_selector").click(function(ev) {
+			var lang = $(this).attr("data-value");
+			_t.lang(lang);
+			createCookie("lang",lang,100);
+			ev.preventDefault();
+		  });
+		});
+	</script>
 </head>
 <body style="margin:10px;">
 <table width='640' border='0' cellpadding='0' cellspacing='0'>
@@ -122,24 +207,24 @@ End If
     </tr>
 </table>
 <div style="width:600px; text-align:center;">
-	<h1>Confirmação de Compra do Ingresso <br /><%=Feira%>&nbsp;<%=Ano%></h1>
+	<h1><font class="trn" data-trn-key="text1">Confirmação de Compra do Ingresso</font> <br /><%=Feira%>&nbsp;<%=Ano%></h1>
 </div>
-	<div style="padding: 5px 0; width: 180px; float: left">Pagamento:</div>									<div style="padding: 5px 0; font-weight: 900">Aprovado</div>
-	<div style="padding: 5px 0; width: 180px; float: left">Numero do Pedido:</div>							<div style="padding: 5px 0; font-weight: 900"><%=Numero_Pedido%></div>
-	<div style="padding: 5px 0; width: 180px; float: left">Codigo Paypal:</div>								<div style="padding: 5px 0; font-weight: 900"><%=Codigo_Paypal%></div>
-	<div style="padding: 5px 0; width: 180px; float: left">Transa&ccedil;&atilde;o:</div> 					<div style="padding: 5px 0; font-weight: 900"><%=Numero_Transacao%></div>
-	<div style="padding: 5px 0; width: 180px; float: left">C&oacute;d. da Autoriza&ccedil;&atilde;o:</div> 	<div style="padding: 5px 0; font-weight: 900"><%=Cod_Autorizacao%></div>
+	<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text2">Pagamento:</div>									<div style="padding: 5px 0; font-weight: 900" class="trn" data-trn-key="text3">Aprovado</div>
+	<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text4">Numero do Pedido:</div>							<div style="padding: 5px 0; font-weight: 900"><%=Numero_Pedido%></div>
+	<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text5">Codigo Paypal:</div>								<div style="padding: 5px 0; font-weight: 900"><%=Codigo_Paypal%></div>
+	<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text6">Transa&ccedil;&atilde;o:</div> 					<div style="padding: 5px 0; font-weight: 900"><%=Numero_Transacao%></div>
+	<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text7">C&oacute;d. da Autoriza&ccedil;&atilde;o:</div> 	<div style="padding: 5px 0; font-weight: 900"><%=Cod_Autorizacao%></div>
     <%If CStr(Session("cliente_visitante")) <> CStr(ID_Visitante) Then%>
-		<div style="padding: 5px 0; width: 180px; float: left">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900">R$ <%=FormatNumber(Application("Valor_Ticket"),2)%></div>
+		<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text8">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900">R$ <%=FormatNumber(Application("Valor_Ticket"),2)%></div>
     <%Else%>
-    	<div style="padding: 5px 0; width: 180px; float: left">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900">R$ <%=Valor_Pedido%></div>
+    	<div style="padding: 5px 0; width: 180px; float: left" class="trn" data-trn-key="text8">Valor Pago:</div> 								<div style="padding: 5px 0; font-weight: 900">R$ <%=Valor_Pedido%></div>
     <%End If%>
 <br/><br/>
 <table>
 	<tr>
-    	<td style=" border-bottom: 1px dotted #ccc"><b>NOME COMPLETO</b></td>
-        <td style=" border-bottom: 1px dotted #ccc"><b>TIPO</b></td>
-        <td style=" border-bottom: 1px dotted #ccc"><b>DOCUMENTO</b></td>
+    	<td style=" border-bottom: 1px dotted #ccc"><b class="trn" data-trn-key="text9">NOME COMPLETO</b></td>
+        <td style=" border-bottom: 1px dotted #ccc"><b class="trn" data-trn-key="text10">TIPO</b></td>
+        <td style=" border-bottom: 1px dotted #ccc"><b class="trn" data-trn-key="text11">DOCUMENTO</b></td>
     </tr>
 <%
 
@@ -216,7 +301,7 @@ End If
 <img src='http://credenciamento.btsinforma.com.br/img/geral/logos/faixa_abf_2017.png' title="<%=Feira%>&nbsp;<%=Ano%>"/>
 </div>
 <br />
-<div id="footer">
+<div id="footer" class="trn" data-trn-key="text12">
 - Para retirar seu ingresso e a credencial para acesso ao evento, tenha em mãos seu comprovante de compra e seu CPF.<br>
 - O ingresso é pessoal e intransferível, sendo obrigatória a apresentação do CPF para sua retirada.<br>
 - Não será permitida a entrada de pessoas trajando bermudas, camiseta regata e/ou chinelos.<br>

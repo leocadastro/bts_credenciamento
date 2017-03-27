@@ -20,9 +20,125 @@
 <script language="javascript" src="/js/validar_forms.js"></script>
 <script language="javascript" src="/js/funcoes_gerais.js"></script>
 <script language="javascript" src="/js/tipos.js"></script>
+<script language="javascript" src="/js/jquery.translate.js"></script>
 <!-- Script desta página -->
 <script language="javascript" src="default.js" charset="utf-8"></script>
 <!-- Script desta página FIM -->
+
+<script language="javascript">
+$(function() {
+
+  var t = {
+    text1: {
+	  pt: "Olá",
+      en: "Hello",
+	  es: "Hola"
+    },
+	text2: {
+	  pt: "Menu",
+      en: "Menu",
+	  es: "Menú"
+    },
+	text3: {
+	  pt: "Meus Pedidos",
+      en: "My purchase orders",
+	  es: "Mis pedidos"
+    },
+	text4: {
+	  pt: "Continuar pedido",
+      en: "Continue with the purchase order",
+	  es: "Continuar pedido"
+    },
+	text5: {
+	  pt: "Suporte: visitante.abf@informa.com",
+      en: "Support: visitante.abf@informa.com",
+	  es: "Asistencia: visitante.abf@informa.com"
+    },
+	text6: {
+	  pt: "Suporte:",
+      en: "Support:",
+	  es: "Asistencia:"
+    },
+	text7: {
+	  pt: "Pedido n°:",
+      en: "Purchase Order number:",
+	  es: "Pedido número:"
+    },
+	text23: {
+	  pt: "Novo Pedido",
+      en: "New purchase order",
+	  es: "Nuevo pedido"
+    },
+	text8: {
+	  pt: "Detalhes do Pedido",
+      en: "Details of purchase order",
+	  es: "Detalles del pedido"
+    },
+	text9: {
+	  pt: "Pedido nº:",
+      en: "Purchase Order number:",
+	  es: "Pedido número:"
+    },
+	text10: {
+	  pt: "ID Usuário:",
+      en: "User ID:",
+	  es: "ID Usuario:"
+    },
+	text11: {
+	  pt: "Nome Completo:",
+      en: "Full name:",
+	  es: "Nombre completo:"
+    },
+	text12: {
+	  pt: "CPF",
+      en: "CPF",
+	  es: "Número de identificación fiscal (CPF)"
+    },
+	text13: {
+	  pt: "E-mail",
+      en: "E-mail",
+	  es: "Email"
+    },
+	text14: {
+	  pt: "Segue abaixo a lista completa de Visitantes em seu PEDIDO:",
+      en: "The full list of Visitors to your PURCHASE ORDER is shown below:",
+	  es: "A continuación, la lista completa de Visitantes en su PEDIDO:"
+    },
+	text15: {
+	  pt: "Por que comprar com PayPal?",
+      en: "Why to purchase with PayPal?",
+	  es: "¿Por qué comprar con PayPal?"
+    },
+	text16: {
+	  pt: "Alterar Compra",
+      en: "Change your purchase order",
+	  es: "Modificar su pedido"
+    },
+	text17: {
+	  pt: "Continuar",
+      en: "Continue",
+	  es: "Continuar"
+    }
+};
+  var cookieLang = readCookie("lang");
+  if(cookieLang == null)
+	var _t = $('body').translate({lang: "pt", t: t});
+   else
+   var _t = $('body').translate({lang: cookieLang, t: t});
+   
+  var str = _t.g("translate");
+
+  
+  $(".lang_selector").click(function(ev) {
+    var lang = $(this).attr("data-value");
+    _t.lang(lang);
+	createCookie("lang",lang,100);
+    ev.preventDefault();
+  });
+});
+
+</script>
+
 <%
 '==================================================
 Set Conexao = Server.CreateObject("ADODB.Connection")
@@ -258,7 +374,7 @@ $(document).ready(function(){
 
             <table width="850" border="0" cellpadding="0" cellspacing="0">
                 <tr>
-                    <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b>Olá</b> <%=Nome_Visitante%></td>
+                    <td width="800" height="30" bgcolor="#414042" class="arial fs_13px cor_branco" style="padding-left:15px;"><b class="trn" data-trn-key="text1">Olá</b> <%=Nome_Visitante%></td>
                     <td width="500" height="30" bgcolor="#414042" align="right"><img src="/img/botoes/voltar.gif" width="47" height="15" hspace="5" class="cursor" onClick="link('status.asp');"></td>
                     <td width="50" height="30" bgcolor="#414042" style=" border-left:#ccc 1px solid;" align="right"><img src="/img/botoes/sair.gif" width="47" height="15" class="cursor" onClick="sair();"></td>
                 </tr>
@@ -347,7 +463,7 @@ $(document).ready(function(){
 					Valor_PedidoEnviado = replace(Valor_Pedido,",00","")
 
                 %>
-            	<legend>Detalhes do Pedido</legend>
+            	<legend class="trn" data-trn-key="text8">Detalhes do Pedido</legend>
 				<div id="parcAssis" class="div_parceria" style="width: 580px; padding-bottom:15px;">
                 	<input type="hidden" name="ValorDocumento" id="ValorDocumento" value="<%=Valor_PedidoEnviado %>"/>
                     <input type="hidden" name="NumeroDocumento" id="NumeroDocumento" value="<%=Numero_Pedido%>"/>
@@ -357,7 +473,7 @@ $(document).ready(function(){
                     <input type="hidden" name="ParametrosCliente" id="ParametrosCliente" value="<%=Cliente%>"/>
 
 
-                        <div style="width: 575px; padding: 5px 0 5px 5px">Pedido nº: &nbsp;<font style="font-size: 16px;"><%=Numero_Pedido%></font></div>
+                        <div style="width: 575px; padding: 5px 0 5px 5px"><b class="trn" data-trn-key="text9">Pedido nº:</b> &nbsp;<font style="font-size: 16px;"><%=Numero_Pedido%></font></div>
 
                         <table cellpadding="0" cellspacing="0" width="100%">
                         	<tr>
@@ -365,15 +481,15 @@ $(document).ready(function(){
 
                                 	<table cellpadding="0" cellspacing="3" width="100%" style="padding: 10px 0 10px;">
                                     	<tr>
-                                        	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100">ID Usuário:</td>
+                                        	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100" class="trn" data-trn-key="text10">ID Usuário:</td>
                                             <td bgcolor="f1f0f0" style="padding: 5px;"><%=ID_Visitante%></td>
                                         </tr>
                                     	<tr>
-                                        	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100">Nome Completo:</td>
+                                        	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100" class="trn" data-trn-key="text11">Nome Completo:</td>
                                             <td bgcolor="f1f0f0" style="padding: 5px;"><%=Nome_Completo%></td>
                                         </tr>
                                     	<tr>
-                                        	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100"><%If Len(Trim(CPF)) =11   Then%>CPF<%Else%>E-mail<%End If%>:</td>
+                                        	<td bgcolor="CCCCCC" style="padding: 5px; width: 100px; font-weight: 100"><%If Len(Trim(CPF)) =11   Then%><b class="trn" data-trn-key="text12">CPF</b><%Else%><b class="trn" data-trn-key="text13">E-mail</b><%End If%>:</td>
                                             <td bgcolor="f1f0f0" style="padding: 5px;"><%If Len(Trim(CPF)) =11 Then Response.Write(CPF) Else Response.Write(Passaporte)%></td>
                                         </tr>
                                     </table>
@@ -381,13 +497,13 @@ $(document).ready(function(){
                                 </td>
                             </tr>
                         	<tr>
-                            	<td style="padding: 5px; width: 575px; font-weight: 100" colspan="3">Segue abaixo a lista completa de Visitantes em seu PEDIDO:</td>
+                            	<td style="padding: 5px; width: 575px; font-weight: 100" colspan="3" class="trn" data-trn-key="text14">Segue abaixo a lista completa de Visitantes em seu PEDIDO:</td>
                             </tr>
 
                         	<tr bgcolor="CCCCCC">
-                            	<td style="padding: 5px; width: 375px;">NOME COMPLETO</td>
-                                <td style="padding: 5px; width: 100px;">TIPO</td>
-                                <td style="padding: 5px; width: 100px;">DOCUMENTO</td>
+                            	<td style="padding: 5px; width: 375px;" class="trn" data-trn-key="text15">NOME COMPLETO</td>
+                                <td style="padding: 5px; width: 100px;" class="trn" data-trn-key="text16">TIPO</td>
+                                <td style="padding: 5px; width: 100px;" class="trn" data-trn-key="text17">DOCUMENTO</td>
                             </tr>
                         <%
                         SQL_Carrinho = 	"Select " &_
@@ -445,13 +561,13 @@ $(document).ready(function(){
                         </table>
 
                         <div style="width: 575px;  border-bottom: 1px dotted #999; font-size: 14px; padding: 5px 0 5px 5px; background: #CCC">
-                            <font style="font-weight: 100;">Valor Total: &nbsp;</font>
+                            <font style="font-weight: 100;" class="trn" data-trn-key="text14">Valor Total: &nbsp;</font>
                             <strong><%If Cint(Idioma_Pedido) = 1 Then Response.Write("R$") Else Response.Write("$")%>&nbsp;<%=Valor_Pedido%></strong>
                         </div>
                         <div style="width: 575px; height: 30px; margin-top: 15px;">
-							<a class='ajax' href="saiba-mais_04.jpg"><div>Por que comprar com PayPal?</div></a>
-                            <a href="/tickets/novo_pedido.asp"><div class="bt_alterar_compra" style="float: left">Alterar Compra</div></a>
-                            <a href="#finalizar_pedido" onclick="finaliza_paypal();"><div class="continuar" style="float: right">Continuar</div></a>
+							<a class='ajax' href="saiba-mais_04.jpg"><div class="trn" data-trn-key="text15">Por que comprar com PayPal?</div></a>
+                            <a href="/tickets/novo_pedido.asp"><div class="bt_alterar_compra trn" style="float: left" data-trn-key="text16">Alterar Compra</div></a>
+                            <a href="#finalizar_pedido" onclick="finaliza_paypal();"><div class="continuar trn" style="float: right" data-trn-key="text17">Continuar</div></a>
                         </div>
                 	</div>
             </fieldset>

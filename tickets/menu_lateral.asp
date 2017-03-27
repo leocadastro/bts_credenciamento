@@ -46,7 +46,7 @@ End If
     <table width="210" border="0" cellpadding="0" cellspacing="0">
         <tbody>
         <tr>
-            <td height="26" bgcolor="#414042" class="arial fs_13px cor_branco b" style="padding-left:10px;">Menu</td>
+            <td height="26" bgcolor="#414042" class="arial fs_13px cor_branco b trn" style="padding-left:10px;" data-trn-key="text2">Menu</td>
         </tr>
         <tr>
             <td align="center">
@@ -70,7 +70,7 @@ End If
 				If Not RS_Pedidos.Eof Then
 				%>
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" onclick="link('status.asp');" style="background-color: rgb(255, 255, 255);">
-                    <td height="30" style="padding-left:10px;"><span class="arial fs_12px cor_cinza1"><img src="/img/geral/icones/item_menu.gif" width="20" height="10">Meus Pedidos</span></td>
+                    <td height="30" style="padding-left:10px;"><span class="arial fs_12px cor_cinza1"><img src="/img/geral/icones/item_menu.gif" width="20" height="10"><label class="trn" data-trn-key="text3">Meus Pedidos</label></span></td>
                 </tr>
                 <tr>
                     <td height="4"><img src="/img/geral/spacer.gif" width="1" height="4"></td>
@@ -78,9 +78,14 @@ End If
                 <%End If%>
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" onclick="link('<%=link_menu%>');" style="background-color: rgb(255, 255, 255);">
                     <td height="30" style="padding-left:10px;">
-                    <span class="arial fs_12px cor_cinza1">
-                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10"><%=texto_menu%>
-                    </span></td>
+						<span class="arial fs_12px cor_cinza1">
+						<% If texto_menu = "Continuar Pedido" Then %>
+							<img src="/img/geral/icones/item_menu.gif" width="20" height="10"><label class="trn" data-trn-key="text4"><%=texto_menu%></label>
+							<% Else %>
+							<img src="/img/geral/icones/item_menu.gif" width="20" height="10"><label class="trn" data-trn-key="text23"><%=texto_menu%></label>
+							<%  End If %>
+						</span>
+					</td>
                 </tr>
                 <tr>
                     <td height="4"><img src="/img/geral/spacer.gif" width="1" height="4"></td>
@@ -91,7 +96,7 @@ End If
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" style="background-color: rgb(255, 255, 255);">
                     <td height="30" style="padding-left:10px;">
                     <span class="arial fs_12px cor_cinza1">
-                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10">Suporte: visitante.abf@informa.com
+                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10"><label class="trn" data-trn-key="text5">Suporte: visitante.abf@informa.com</label>
                     </span></td>
                 </tr>
                  <% Else %>
@@ -110,7 +115,7 @@ End If
                 <tr class="cursor menu" onmouseover="menu(this, 'over');" onmouseout="menu(this, 'out');" style="background-color: rgb(255, 255, 255);">
                     <td height="30" style="padding-left:10px;">
                     <span class="arial fs_12px cor_cinza1">
-                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10">Suporte: (11) 3598-7834 <br/>ou <a href="mailto:visitante.abf@informa.com">visitante.abf@informa.com</a>
+                    	<img src="/img/geral/icones/item_menu.gif" width="20" height="10"><label class="trn" data-trn-key="text6">Suporte:</label> (11) 3598-7834 <br/>ou <a href="mailto:visitante.abf@informa.com">visitante.abf@informa.com</a>
                     </span></td>
                 </tr>
                 <%  End If %>
